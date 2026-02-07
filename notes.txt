@@ -1,0 +1,1 @@
+https://arxiv.org/pdf/2510.26269, Scholze's paper on six functor formalism. Key definitions include Corr(C,E) to Cat_infty as a lax symmetric monoidal functor with right adjoints to projection formula, resulting in proper base change, straightening and unstraighting resulting in the definition of a symmetric monoidal infinity category.
