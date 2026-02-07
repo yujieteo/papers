@@ -49,3 +49,11 @@ https://arxiv.org/pdf/2511.22755, Connes' on zeta spectral triples. (1) spectral
 https://arxiv.org/pdf/2506.18174, Clausen's thesis cleaned up. (1) page 2 give simplest example of Lazard-Poincare duality. Take compact abelian p-adic Lie group G = (Z^d_p, +), agrees with discrete subgroup Z^d, agrees with (not group) cohomology of torus (R/Z)^d, Lazard-Poincare duality lookes like G = Z^d_p; (2) page 71 gives construction of specialisation of sheaves using deformation to the tangent bundle, the idea is take pullbacks to unit interval, there is nice left adjoint to pullback functor i.e. exceptional pushforward due to contractible and locally contractible, so there is canonical isomorphism. But now replace M real connected manifold to stack Q_p/Q_p^times. This is a very good example to work with six functor formalism.
 
 https://arxiv.org/pdf/2410.13038, Mann's six functor guide: (1) definition of the geometric set up on page 18 for the category of correspondences.
+
+https://arxiv.org/pdf/2206.02022, Mann's six functors as well as a summary of Peter Scholze's work, but for rigid analytic geometry: (1) page 10 gives a summary of perfectoid spaces as analytic adic space over Z_p with a basic example of a perfectoid space X = Spa... and then calculate its tilt and transfer mixed characteristic into equal characteristic.
+
+https://arxiv.org/pdf/1410.3870, matroids and simplicial complex: (1) page 4 gives the simplest example of a matroid, a uniform matroid or free matroid has ground set [n], independent sets are all subsets [n] of at caridnality at most [n], with definition of matroid (E, I) a simplicial complex, such that any subset of finite set E is pure; (2) set of edges with no cycles of undirected graphs as independent sets I, E is set of edges.
+
+https://arxiv.org/pdf/2005.07395, binary geometry of generalised permutohedra. This is a physics paper though: (1) page 9 gives associahedron and the calculations required to construct them.
+
+https://www.math.kyoto-u.ac.jp/~iritani/iritani_algsymp2021.pdf, tropical geometry and mirror symmetry. (1) on page 6, section 4, a computation of the asymptotics of a period is provided ussing tropical geometry.
