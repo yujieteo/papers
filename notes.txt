@@ -57,3 +57,13 @@ https://arxiv.org/pdf/1410.3870, matroids and simplicial complex: (1) page 4 giv
 https://arxiv.org/pdf/2005.07395, binary geometry of generalised permutohedra. This is a physics paper though: (1) page 9 gives associahedron and the calculations required to construct them.
 
 https://www.math.kyoto-u.ac.jp/~iritani/iritani_algsymp2021.pdf, tropical geometry and mirror symmetry. (1) on page 6, section 4, a computation of the asymptotics of a period is provided ussing tropical geometry.
+
+https://www.kwlan.org/articles/intro-sh-ex.pdf, Lan Kai Wen's introduction to Shimura varieties. (1) page 4 to page 5 gives the standard example of SL2(R); (2) page 9 gives the idea of a Shimura data.
+
+https://arxiv.org/pdf/2409.10557, stacky approach to p-adic hodge. (1) definition of formal stacks given on page 11; (2) explicit calculations of G_a in de Rham and Hodge filtration on page 13.
+
+https://www.jmilne.org/math/xnotes/svi.pdf, Milne's notes on Shimura varieties: (1) the basic example of a Siegel modular variety is studied on page 67.
+
+https://arxiv.org/pdf/math/0609184, convex polytopes, (1) dictionary between preposets and braid cones on page 11.
+
+https://people.math.ethz.ch/~oezlemi/pdf/papers/2018-DIT-KroneckerLF.pdf, Kronecker's first limit formula, consider pages 1 to 3 it worked out simple example for simple binary form. The idea is to get a limit formula analogous to the zeta function.
