@@ -98,10 +98,78 @@ https://arxiv.org/pdf/1904.00179, Deligne-Ihara, (1) page 12 gives a dictionary;
 
 https://peterjhaine.github.io/files/KFF.pdf, K theory of finite fields. (1) definition of first algebraic K group in terms of matrices on pages 2 to 3; (2) definition of Quillen's plus construction on pages 3; (3) BPQ theorem and relation between stable homotopy groups and K theory in page 4
 
-https://arxiv.org/pdf/2011.14234, Baez 10 fold way, (1) 10 types of matter
+https://arxiv.org/pdf/2011.14234, Baez 10 fold way, (1) 10 types of matter.
 
 https://arxiv.org/pdf/0912.2157, topological states of matter. (1) page 9 gives classification 
 
-https://arxiv.org/pdf/1208.5055, Freed on topological K theory on matter. (1) Main paper explaining this.
+https://arxiv.org/pdf/1208.5055, Freed on topological K theory on matter. (1) Main paper explaining this; (2) page 4 explains the dictionary for twistings in physics and in math; (3) Dyson's 10 fold way is explained in page 76 onwards.
 
 https://people.math.harvard.edu/~auroux/papers/slides-horipen.pdf, Lefschetz pencils slides: (1) slide 3 shows Dehn twist with monodromy; (2) slide 2 gives definition of symplectic 4 folds; (3) slide 5 gives definition of mapping class groups and monodromies; (4) slide 6 gives pictures of Hurwitz equivalences
+
+https://indico.math.cnrs.fr/event/7514/contributions/6245/attachments/3393/4540/ARGUZ-slides.pdf, slides on Gromov Witten theory. The slides and the corresponding papers are the most intuitive introduction to Gromov Witten theory. (1) slide 3 explains Gromov Witten theory for points and Kontsevich's recursive formula; (2) slide 6 explains that the virtual fundamental class can be constructed, although this is very difficult; (3) explains the two main papers and techniques used to compute Gromov Witten invariants, localisation (Graber-Pandharipande) and degenerations (Jun Li);
+
+https://arxiv.org/pdf/2109.13323, Gromov Witten theory by insertions; (1) page 14 give definitions needed for nodal GW theory;
+
+http://www.davidrenshawhansen.net/etcohtalkhandout.pdf, etale cohomology of rigid analytic spaces. (1) slide 6 explains the history behind the topic;
+
+https://cms.dm.uba.ar/Members/gcorti/workgroup.GNC/SLIDES%20Arun%20Soor.pdf, six functor formalism slides. (1) notes on tauutological inclusion on slide 12, basically global sectiosn of QCoh on QCoh has right and left adjoint, one is local cohomology right adjoint, the other is "inverse image"; (2) highlights exceptional edges in slide 3; slide 16 defines adjoint triple of monads;
+
+https://arxiv.org/pdf/2301.03821, Poincare duality in six functors; (1) definition given on page 1 for the Poincare dualities; (2) exposition of Verdier's diagonal trick on page 28.
+
+https://iwoat.github.io/2018/slides/Ravenel.pdf, long slides by Hill-Hopkins-Ravenel on stable homotopy theory. This set of slides seem to be complete and good though; (1) definition of spectrum on slide 11;
+
+https://richardwong.rice.edu/assets/slides/NishidaNilpotenceTalk.pdf, nilpotency of elements of stable homotopy groups of spheres; (1) describes stable homotopy groups of spheres with ring structure by smash product of spectra or composition, Eckman-Hilton argument gives equivalence on slide 1; (2) Nishida's theorem where k > -, every element of pi_k(S), S is a ring spectrum is nilpotent, this is very curious in slide 7, MU is complex cobordism spectrum MU;
+
+https://www.math.tau.ac.il/~sarabt/zoominar/slides/231117_Manolescu.pdf, grid homology. (1) slide 10 gives this as an example of a Lagrangian Floer homology; (2) Floer homotopy theory aim given in slide 2, construct spaces whose homology is Floer homology;
+
+https://kskedlaya.org/slides/columbia2021-handout.pdf, introduction ot Banach bundles; (1) gives special examples of qc sheaves and lffqc sheaves for finitely projective A-modules on slide 1 as vector bundles; (2) give survey of techniques to turn rings into spaces; (3) slide 12 defines analytification, this is Tannakian;
+
+https://server.mcm.ac.cn/~zheng/LI/Katz.pdf; exponential sums and finite groups; (1) slides 6 to 7 give a definition of an l-adic local system of rank n on C\S;
+
+https://msp.cis.strath.ac.uk/types2025/slides/TYPES2025-slides8.pdf, simplicial type theory. This is not very useful: (1) slide 3 gives definitions of interval type, Segal, Rezk; (2) slide 7 gives a definition of stable homotopy theory; (3) slide 10 gives summary of important formalisation arguments;
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/aber3.pdf, infinite dihedral group K-theory. This is not very useful.: (1) definition of algebraic K-theory, class group, torsion group in slide 1; (2) worked example on slide 7;
+
+https://drive.google.com/file/d/1WnsN2SiUYGvDhTRunpEMf-HNn0vSrzjw/view, mirror symmetry constructions. Good set of slides for the topic. (1) definition of basics to mirror symmetry up to slide 7; 
+
+https://www.math.ucla.edu/~pak/lectures/Slides/Moraga--Birational_maps_final--talk-slides--2024--short.pdf, blow ups and birational maps. This is a good set of slides; (1) combinatorial description of projective space on slide 3; (2) blow ups are explained on slide 10;
+
+http://maine-quebec.mat.ulaval.ca/20/slides/Adam_Logan.pdf, summary of K3 surfaces; (1) slide 6 gives definitions and examples of K3 surfaces;
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Clay.pdf, slides on classifying spaces. Best set of slides to introduce moduli spaces (1) slide 4 and slide 5 gives lots of examples of moduli spaces; (2) slide 7 gives motivation of cohomology as characteristic classes of families; (3) slide 10 gives a homological stability theorems which is clear to understand; (4) slide 12 gives a good example of symmetric groups with an easy to understand example;
+
+https://math.stanford.edu/~vakil/22-245moduli/modulislides03-11.pdf, Vakil's summary of algebraic geometry; (1) slide 7 gives useful fact that sheaf has open cover of representable functors, then it is a representable functors;
+
+https://math.stanford.edu/~vakil/22-245moduli/, Vakil's web page for moduli spaces in algebraic geometry;
+
+https://www.ub.edu/grega/JORGE/Slides/Martin.pdf, principal bundles with formal trivialisations: (1) page 17 gives definition of G-bundle; (2) slide 28 motivates Serre's theorem by linearising a moduli problem.
+
+https://www.cirm-math.fr/RepOrga/2216/Slides/Markovic_Slides.pdf, metrics, Teichmuller flow and complex manifolds; (1) relations of intrinsic geometry of complex manifold given on slide 3; (2) Teichmuller spaces are explained in page 19;
+
+https://www.math.columbia.edu/~chaoli/slides/Nelson.pdf,  orbit method, microlocal analysis and applications to L-functions; (1) gives definition of coadjoint orbits and examples; (2) gives idea behind microlocal analysis, and microlocal support;
+
+https://tdejong.com/mhe60/slides/coquand.pdf, sheaf in type theory; (1) slide 4 gives sheaf models of choice sequences;
+
+https://topos.institute/events/topos-colloquium/slides/2022-06-02.pdf, Coquand gives examples of topos theory with type theory; (1) slide 14 explains what torsors are and explains that they are like affine spaces, energy;
+
+https://www.sci.unich.it/geodeep2022/slides/GDL_SummerSchool_Part2.pdf, sheaf theory for machine learning people; (1) slide 24 gives drawing of presheaf; (2) slide 58 gives definition of cellular sheaves and actual use outside;
+
+https://people.math.ethz.ch/~kowalski/slides-conductors.pdf, trace and conductors in quantitative sheaf theory; (1) slide 42 give dictionary of traces and whatevery analytic number theorists are using;
+
+https://www.fields.utoronto.ca/talk-media/1/45/37/slides.pdf; cohomology of stacks of shtukas; (1) slide 2 gives what are the geometric objects for number fields and function fields, Shimura varieties are number fields, function fields are shtuka stacks; (2) slide 5 gives paw construction for number field and function fields;
+
+https://members.loria.fr/EThome/teaching/2022-cse-291-14/slides/cse-291-14-lecture-04.pdf, computer methods for number fields; slide 7 give number field and function field analogies; slide 20 gives example of number field;
+
+https://intrepid-math.com/simple_words/2024/Slides/Slides%20-%20Hanson.pdf, introduction to number fields; (1) slide 5 gives an example of number fields;
+
+https://www.fields.utoronto.ca/talk-media/1/50/58/slides.pdf, surreal numbers; (1) slide 3 give surreal numbers tree;
+
+https://math-sites.uncg.edu/sites/number-theory/summerschool/2016/riemann-roch-slides.pdf; notes on functionm fields; (1) summarises curves vs function fields in slide 3;
+
+https://www.math.fsu.edu/~hoeij/papers/2015/slides.pdf, valuations and places: (1) definition of regular points, valuations, discrete valuations on slides 6 to slide 7; (2) definition of integral closure in terms of places in slide 9;
+
+https://mathtube.org/sites/default/files/lecture-extra-files/Slides-NT%2520Seminar%2520%28UofL%29-Feb2024-Abbas.pdf, history of Hilbert class field; (1) main definitions are given up to slide 22; (2) history of class field theory from page 26 onwards;
+
+https://math.mit.edu/~poonen/papers/curves.pdf, function field and number field analogy theory; (1) see page 38, it gives the function field analogue;
+
+https://www.mathunion.org/fileadmin/IMU/ICM2022/Presentation-slides/54-Joseph%20Silverman.pdf, arithmetic dynamics survey; (1) slide 21 gives dictionary for arithmetic dynamics; (2) page 37 gives definition of dynamiucal moduli space;
