@@ -67,3 +67,15 @@ https://www.jmilne.org/math/xnotes/svi.pdf, Milne's notes on Shimura varieties: 
 https://arxiv.org/pdf/math/0609184, convex polytopes, (1) dictionary between preposets and braid cones on page 11.
 
 https://people.math.ethz.ch/~oezlemi/pdf/papers/2018-DIT-KroneckerLF.pdf, Kronecker's first limit formula, consider pages 1 to 3 it worked out simple example for simple binary form. The idea is to get a limit formula analogous to the zeta function.
+
+https://guests.mpim-bonn.mpg.de/ferdinand/q-Thesis.pdf, Habiro cohomology in q-de Rham cohomology. (1) page 6 gives motivation for Habiro cohomologhy as a knot invariant; (2) hyperbolic knots and the volume of the corresponding arithmetic hyperbolic 3-fold is captured by the dilogarithm. This is motivic.;
+
+https://cmsa.fas.harvard.edu/media/Kim-1-nopause.pdf, arithmetic topology and field theory: (1) slide 7 gives dictionary between number fields and function fields; (2) slide 14 gives a good summary of quantum field theory, actions, functionals and states; (3) analogy reminder on slide 31.
+
+https://people.mpim-bonn.mpg.de/zagier/files/doi/10.4171/176-1/33/HirzebruchLectureECM2016.pdf, arithmetic topology introduction by Zagier: (1) Legendre elliptic curves on page 13; 
+
+https://www.cip.ifi.lmu.de/~grinberg/algebra/lambda.pdf, lambda-rings, (1) define representation ring of all representation of a group over a field k and virtual representaitons on page 6.
+
+https://sites.math.duke.edu/~hain/talks/brin_2023.pdf, a talk on the history of polylogarithms: (1) example of surgery working on a torus on page 63; (2) Dirichilet's unit theorem and the regular mapping on page 3.
+
+https://arxiv.org/pdf/2502.10945, tannakian ccategories. (1) Milne gives an analogy of Tannakian categories and its fundamental groups on page 5.
