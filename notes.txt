@@ -79,3 +79,29 @@ https://www.cip.ifi.lmu.de/~grinberg/algebra/lambda.pdf, lambda-rings, (1) defin
 https://sites.math.duke.edu/~hain/talks/brin_2023.pdf, a talk on the history of polylogarithms: (1) example of surgery working on a torus on page 63; (2) Dirichilet's unit theorem and the regular mapping on page 3.
 
 https://arxiv.org/pdf/2502.10945, tannakian ccategories. (1) Milne gives an analogy of Tannakian categories and its fundamental groups on page 5.
+
+https://arxiv.org/pdf/1605.00929, classification of topological vector bundles. (1) On page 10 there are some computations for the rank 2 Grassmannian to try and adapt to understand.
+
+https://www.math.mcgill.ca/darmon/pub/Articles/Research/72.DV2/borcherds.pdf, on Borcherds’ products. (1) Simplest example of a theta symbol can be found on page 19.
+
+https://viasm.edu.vn/Cms_Data/Contents/viasm/Media/file/viasm_2016.pdf, introduction to Deligne-Lustzig theory: (1) direct sum and tensor products come from sums and products of trace on slide 6; (2) Jordan Holder defines simple groups as building blocks of finite groups on slide 9; (3) definition of general linear group on slide 39
+
+https://arxiv.org/pdf/0708.4401, definition of 2-gerbes, I finally got the point of gerbes in this paper. (1) Algebraic group schemes are categories of group extensions of groups G, on page 2; (2) define action of a group on category C as a functor and a natural transformation from on page 3, then an algebraic group scheme gerbe over a point is for a category that is a groupoid, connected, and autos of objects are algebraic group schemes; (3) page 13 gives a definition of the Picard groupoid, then an algebraic group scheme gerbe is a module category over Pic^Z as module categories;
+
+https://arxiv.org/pdf/math/0605346, Siegel modular forms. (1) basic example given on page 5 of the Siegel modular group.
+
+https://arxiv.org/pdf/0708.2160, rational K theory; (1) page 18 and page 19 give some descriptions of examples. This paper was hard to read.
+
+https://arxiv.org/pdf/0711.2812, Baxter Q-operators; (1) pages 18 to 19 gives a definition of the Weil group. 
+
+https://arxiv.org/pdf/1904.00179, Deligne-Ihara, (1) page 12 gives a dictionary; (2) exposition gives explanation on how the solution of the conjecture was found by thinking about periods.
+
+https://peterjhaine.github.io/files/KFF.pdf, K theory of finite fields. (1) definition of first algebraic K group in terms of matrices on pages 2 to 3; (2) definition of Quillen's plus construction on pages 3; (3) BPQ theorem and relation between stable homotopy groups and K theory in page 4
+
+https://arxiv.org/pdf/2011.14234, Baez 10 fold way, (1) 10 types of matter
+
+https://arxiv.org/pdf/0912.2157, topological states of matter. (1) page 9 gives classification 
+
+https://arxiv.org/pdf/1208.5055, Freed on topological K theory on matter. (1) Main paper explaining this.
+
+https://people.math.harvard.edu/~auroux/papers/slides-horipen.pdf, Lefschetz pencils slides: (1) slide 3 shows Dehn twist with monodromy; (2) slide 2 gives definition of symplectic 4 folds; (3) slide 5 gives definition of mapping class groups and monodromies; (4) slide 6 gives pictures of Hurwitz equivalences
