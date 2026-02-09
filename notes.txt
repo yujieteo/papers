@@ -215,3 +215,5 @@ https://arxiv.org/abs/0903.0517, Serre's note on using finite fields; (1) start 
 https://arxiv.org/pdf/1805.07172, Serre on cohomological invariants mod 2 of Weyl groups. I did not really learn much from this.: (1) example 1, example where GF is symmetric group of order n can be used to compute the ring of chomological invariants mod 2 with basis elements of rank 1 + [n/2].
 
 https://arxiv.org/pdf/1708.00046, Serre on mod p reduction of orthogonal representations: (1) Serre on page 1 gives a fact, G finite group, r a linear rep in char 0 which is orthogonal (symplectic), let p be a prime number more than 2, reduction mod p of r is orthogonal (symplectic); (2) reduction mod p is defined here as well.
+
+https://arxiv.org/pdf/math/0305257, Serre on group embeddings: (1) on page 7 there are a summary of examples, we have A_4 iso to PSL_2(F_3), S_4 iso to PGL_2(F_3) and A_5 iso to PSL_2(F_5) in SO_3(R) so these are the symmetries of the tetrahedron, cube, and octahedron, one can embed a group into another group to examine symmetries; (2) subgroups of SO_3 gives is a unique example in analysis or topology.
