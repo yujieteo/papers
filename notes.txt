@@ -225,3 +225,17 @@ https://arxiv.org/abs/math/0605429, Quillens + construction on F_1; (1) page 4 h
 https://www.ams.org/journals/tran/1991-327-02/S0002-9947-1991-1041048-5/S0002-9947-1991-1041048-5.pdf, Mellin transform in function fields; (1) page 3 gives a Z-p value measured and definition of Z-p valued distributions, precisely as per finitely additive measure on compact open subsets mimicking measure theory;
 
 https://arxiv.org/pdf/1703.07842, Clausen K theory of Artin maps, I want to understand this since I want to understand class field theory; (1) Remark 0.11 on page 4 states that Artin maps are Riemann-Roch style natural transformations from algebraic K-homology to topological K-homology; (2) page 3 theorem 9 that gives the main theorem; (3) page 3 definition of Selmer K theory spectrum is most important in this set up, with Remark 0.5 giving the appropriate theorems, where L_1 K becomes Galois cohomology, gluing on TC plays imposing integrality conditions; (3) page 2 gives Selmer K-homology as an etale sheafified algebraic K-theory "morally"; (4) page 22 gives Brown-Comementz duality to use duality to reduce to sheaves instead, then there is some stable homotopy theory going on here; (5) you need Galois cohomological dimension <= 2 on page 28;
+
+https://www.mn.uio.no/math/personer/vit/rognes/papers/higher_arithmetic_duality.pdf, summaries of higher arithmetic duality. (1) page 1 to 3 gives a summary leading up to Tate duality;
+
+https://www.homepages.ucl.ac.uk/~ucaheps/topics/ODP_without_pauses.pdf, Richard Thomas's notes on the ordinary double point. (1) slide 10 explains monodromy.
+
+https://www.homepages.ucl.ac.uk/~ucaheps/topics/Chern_Classes_25.pdf, Richard Thomas's notes explaining Chern classes and vector bundles. (1) definition of vector bundle in slide 3;
+
+https://math.stanford.edu/%7Econrad/249BW09Page/handouts/geomcft.pdf, geometric class field theory using finite varieties of smooth projective curves. (1) caveat and Serre’s version for local class field is given on page 1; on page 3 it is etale isogenies of…
+
+https://lesesvre.perso.math.cnrs.fr/2021-tate_lecture-slides.pdf, introduction to adeles, the best one yet with lots of motivation. (1) Tate’s thesis described on page 49
+
+https://math.bu.edu/people/jsweinst/Math274/ScholzeLectures.pdf, Scholze lectures on shtukas. (1) definition given on page 3
+
+https://arxiv.org/pdf/1404.2156, Galois theory in homotopy theory.
