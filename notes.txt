@@ -239,3 +239,5 @@ https://lesesvre.perso.math.cnrs.fr/2021-tate_lecture-slides.pdf, introduction t
 https://math.bu.edu/people/jsweinst/Math274/ScholzeLectures.pdf, Scholze lectures on shtukas. (1) definition given on page 3
 
 https://arxiv.org/pdf/1404.2156, Galois theory in homotopy theory.
+
+https://people.math.harvard.edu/~lurie/papers/Conceptual.pdf, Jacob Lurie on Makkai conceptual completeness. I want to understand this to understand how to generalise or simplify the condensed formalism. 
