@@ -173,3 +173,7 @@ https://mathtube.org/sites/default/files/lecture-extra-files/Slides-NT%2520Semin
 https://math.mit.edu/~poonen/papers/curves.pdf, function field and number field analogy theory; (1) see page 38, it gives the function field analogue;
 
 https://www.mathunion.org/fileadmin/IMU/ICM2022/Presentation-slides/54-Joseph%20Silverman.pdf, arithmetic dynamics survey; (1) slide 21 gives dictionary for arithmetic dynamics; (2) page 37 gives definition of dynamiucal moduli space;
+
+http://people.math.harvard.edu/~lurie/282ynotes/LectureXXI-Verdier.pdf, Verdier duality and motivation from Jacob Lurie, probably the clearest notes on Verdier duality in relation to cosheaves; (1) the basic idea is that on page 1, one needs to define cosheaves, and for simplicity let the category be pointed so that one can draw fibres and have the notion of space of sections supported on K for K compact in Hausdorff topological space Y; (2) on page 2, Verdier duality assertse equivalence of sheaves and cosheaves are opposites, double Verdier duality means no information is lost;
+
+https://www.math.ias.edu/~lurie/papers/Conceptual.pdf, Lurie's work on ultracategories. I got interested in this based on condensed mathematics. (1) page 3 gives the existence of the jointly surjective maps thorugh every element s determining an ultrafilter; (2) 
