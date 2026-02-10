@@ -251,3 +251,7 @@ https://webusers.imj-prg.fr/~pierre.schapira/ConfSurveys/GrTopAn.pdf, Schapira's
 https://pbelmans.ncag.info/notes/etale-cohomology.pdf, list of properties of Weil cohomology type theories. This is a good summary, worth reading and digesting. (1) A list of topologies is listed on page 11; (3) elementary six functor formalism in page 14; (3) compactification always exists for separated scheme of finite type over a field, definition leads to cohomology groups with compact support;, then this motivatesVerdier duality; (4) purity is explained on page 21 with Gysin maps;
 
 https://www.math.columbia.edu/algebraic_geometry/stacks-git/topologies.pdf, list of topologies on Stack's project; (1) page 2 gives general procedure on sites; 
+
+http://www-math.mit.edu/~poonen/papers/Qpoints.pdf, Poonen's book on rational pioint: (1) number fields are defined on page 17, with adele rings next;
+
+https://www.math.ias.edu/~lurie/278xnotes/Lecture8-Topologies.pdf, Lurie's lecture on Grothendieck topologies: (1) classifying topos of a first order theory is a sapace of all models, page 4; (2) span of morphisms of coherent categories form a full subcategory, composition of coherent categories induces equivalence of categories given a pretopos, then one gets a pretopos completion on page 1, this defines a syntactic category of T on page 2; (3) a pretopos is a coherent category to admit finite disjoint coproduct and every equivalence relation must be effective; 
