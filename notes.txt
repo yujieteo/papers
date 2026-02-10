@@ -270,4 +270,20 @@ https://www.math.columbia.edu/~jmorgan/Analytic_Rings.pdf, Morgan's notes on ana
 
 https://arxiv.org/pdf/math/0205027, notes on hypersheafs and Verdier site; (1) Verdier sites are basal hypercovers which are split and dense;
 
-https://arxiv.org/pdf/2501.16465, discussions on Eckmann-Hinton dualities: (1)
+https://arxiv.org/pdf/math/0207281, Eckmann-Hilton argument and higher operads; (1) pairs of monoidal structures with homomorphism from each other, coincide, and leads to commutativity, example ab = ba, with different operations;
+
+https://legacy-www.math.harvard.edu/theses/senior/lehner/lehner.pdf, Riehl all concepts are Kan extensions. (1) a Kan extension is an extension of the preimage category from a base category (as a natural transformation) respecting representables, a left Kan extension is the left adjoint, a right Kan extension is a right adjoint. a Kan lift is an lift to the preimage category from an embedding to a base category respecting representables. If the base category is terminal, left Kan extensions turn the preimage extension into a colimit over a terminal base, right Kan extensions turns the preimage embedded into a limit over a terminal base. A functor can be thought of as a Kan extension with a represented base category, the left Kan extensions are left adjoints, right Kan extensions are right adjoints.
+
+https://www.math.columbia.edu/~qiaohe/ASW2.pdf, Kudla program. (1) A Kudla program is a program relating arithmetic cycles to Eisenstein series and L functions.
+
+https://arxiv.org/pdf/2111.00069, short proof of straightening and unstraightening. (1) A straightening is a functor (that gives an equivalence of categories) of categories functors of cartesian fibrations over an infinity category and its functor of "points as categories of infinity categories"; (2) Grothendieck's construction is a functor between prestacks and fibred categories that is an equivalence of categories; (3) a corollary of Grothendieck's construction is Tannakian formalism, or a equivalence of covering spaces and sets with action of the fundamental group on the symmetric groups of a base; (4) a Cartesian fibrations from nlab is a fibration that is an inner fibration which is a right lift from the full simplex to the all outer inclusions such that the existence of a lift of the image element, there is a corresponding fibre element that is the preimage of the inclusion of base elements for last edge in the outer horn inclusion. [Drawing will be easier]. The basic idea is you want image elements to have guaranteed fibres that embed into it even though you have a right lift or the inner horn.
+
+https://arxiv.org/pdf/2111.10203, Schlenk on red shift, (1) a mode is an idempotent algeba on a presentable infinity 1 category of left adjoint functors.
+
+https://hott.github.io/book/hott-online-78-g0bb33d2.pdf, homotopy type theory; (1) univalence axiom can be interpreted as every fibration of pullbacks are essentially unique pullbacks of the canonical fibration over types up to smallness; (2) a univalent bundle is an infinity 1 object classifier; (3) higher inductive types have no universally accepted definition.
+
+https://home.sandiego.edu/~shulman/papers/stthits.pdf, problems defining higher inductive types, (1) Stefanich formalism with Aoki's fix partially solves slides 61 to 65, only maybe problems with universes but not the typeness of T(empty);
+
+https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1451-16.pdf, Bloch-Kato definition of Artin reciprocity on page 5, for a regular connected projective scheme factoring through rational equivalence, there is a Artin reciprocity map from the zeroth Chow group cycles to etale fundamental group of the maximal abelian quotient of the scheme that is an isomorphism if the scheme is flat over the integers, bad definition.
+
+https://math.berkeley.edu/~avizeff/notes/CFT.pdf, some perspectives of class field theory, particularly Clausen's construction. (1) Artin map is defined as equivalence of the K-theory of locally compact derived infinity category of complexes of F modules for F global, local or finite to the Selmer K homology to the same derived infinity category P; (2) Selmer K homology is defined as the K(1) localised topological cyclic homology fibre product of TC(P), with projections K(1) localised of K(P) with TC(P).
