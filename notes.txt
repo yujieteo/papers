@@ -434,3 +434,163 @@ https://legacy-www.math.harvard.edu/theses/senior/krulewski/krulewski.pdf, topol
 https://arxiv.org/pdf/1202.2110, new approach to proving the Functoriality Conjecture using the trace formulas
 
 https://arxiv.org/pdf/math-ph/9908029, stress here is on two principles: complexification and polarisation. For applications in field theory, the underlying vector space may carry either a Euclidean or a Minkowskian structure.
+
+https://arxiv.org/pdf/2401.02568, Stone duality between condensed math and algebraic geometry: (1) page 1, idea is to do geometry of logic, solution is to use stone duality i.e. opposite category of profinite set or totally disconnected compact Hausdorff spaces, similarly, replace Shv^fpqc_F2 with condensed sets; (2) to describe fpqc sheaves as sheaves of k-modules, use Tannaka reconstruction on page 2; (3) problem, you want flatness to be defined, solution defined absolutely flat if every module over it is flat; (4) problem, you want to show closure under all colimits, using finite and filtered colimits, solution: use Bousefield-Kan localisation see page 5; (5) you want to not define Stone k-algebra, solution is to define the pearl and connected components; (6) you need faithful and finitness to be applied for Stone duality, this is why it needs to be commutative algebra over a field, see section 1.5 as to why these hypotheses are applied; (7) one want's to discard cardinality bounds, solution, take left Kan extensions along cardinals, then prove full and faithfulness then take filtered colimits, this is introduced by Clausen and Scholze, see page 11; (8) one wants to do algebraic geometry on condensed sets to study, solution is to define the petra k-space as some fpqc sheafification functor using Stone duality, see page 16, example is to idetnify underlying set on condensed spaces, example to understand affinisation, global functions.
+
+https://math.rice.edu/~ar99/Neuchatel2.pdf, slides by Alan Reid; (1) relate knots and complements as hyperbolic 3-manifolds so use latter to study knots, solved using Thurston's hyperbolisation theorem; (2) to use number field techniques on Q(tr Gamma) which is trace field of Klein group; solution is to use rigidty and finite co-volume; (3) construct hperbolic 3 manifolds, use Dehn surgery; (4) relationship between hyperbolic knot and hyperbolic 3-manifolds, use Dehn surgery theorem, if K is hyperbolic knot, cofinitely many Dehn surgeries give hyperbolic 3-manifolds; (5) understand classfication of quaternion algebras over local fields, solution is classification theroem M(2, C) is unique iso class opf quaternion algebras over R, H and M(2, R) are quaternion algebras over R, L is finite extension of Q_p, two iso classes, M(2, L), D_L.
+
+https://people.mpim-bonn.mpg.de/zagier/files/preprints/HyperbolicAndNeumann.pdf, Neumann—henceforth simply Walter—has made huge contributions to topology, singularity theory, and number theory. His work on the combinatorics of triangulations of 3-manifolds and its interactions with algebraic K-theory certainly can be counted as among the most far-reaching and beautiful of these. In this short note we will try to recount some of the high points of this work 
+
+https://math.commelin.net/files/wdreps.pdf, Weil Delign reps.
+
+https://www.i-repository.net/contents/osakacu/sugaku/00306126-59-2-315.pdf, degenerations of Riemann surfaces from a topological viewpoint, the topological monodromies play a very important role. In this paper, as an analogy, we introduce the concept of “topological monodromies of splitting families” for degenerations of Riemann surfaces, and their “monodromy assortments”. We show that the monodromy assortments of barking families associated with tame simple crusts act as a pseudo-periodic homeomorphism of negative twist on each irreducible component of the main fibers. As an application of our results, we show an interesting example of two splitting families for one degeneration that have different topological monodromies, although they give the same splitting.
+
+https://arxiv.org/pdf/0807.4855, Hodge correlators. Feynman integral related to X. We show that its correlators, defined via the standard perturbative series expansion procedure, are well defined, and identify them with the Hodge correlators. We show that the Hodge correlator map defines a functorial real mixed Hodge structure of the rational homotopy type of X. The Hodge correlators are the homotopy periods of X.
+
+https://annals.math.princeton.edu/wp-content/uploads/annals-v173-n3-p12-p.pdf, prove the local Langlands conjecture for GSp4 (F) where F is a nonarchimedean local field of characteristic zero.
+
+https://webusers.imj-prg.fr/~julien.marche/Ref_GL_GT/Bump.pdf, introduction to Langlands by Bump.
+
+https://arxiv.org/pdf/0911.5328, first of a series of papers reviewing the geometric construction of the double affine Hecke algebra via affine flag manifolds
+
+https://arxiv.org/pdf/1802.07138, general gauge theory with a closed irreducible gauge algebra possessing the non-anomalous global (super)symmetry in the case when the gauge fixing procedure violates the global invariance of classical action. The theory is quantized in the framework of BRST-BV approach in the form of functional integral over all fields of the configuration space.
+
+http://javier.fresan.perso.math.cnrs.fr/expmot.pdf, following Katz, Kontsevich, and Nori, we construct a neutral Q-linear tannakian category of exponential motives over a subfield k of the complex numbers. This category is endowed with Betti and de Rham realisation functors, as well as a comparison isomorphism between them.
+
+https://arxiv.org/abs/math/0111175, study eta invariants of Dirac operators and regularized determinants of Dirac Laplacians over hyperbolic manifolds with cusps and their relations with Selberg zeta functions. Using the Selberg trace formula and a detailed analysis of the unipotent orbital integral, we show that the eta and zeta functions defined by the relative traces are regular at the origin so that we can define the eta invariant and the regularized determinant.
+
+https://arxiv.org/pdf/1405.0356, first part is an introduction to 1-summability. The definitions rely on the formal Borel transform and the Laplace transform along an arbitrary direction of the complex plane. Given an arc of directions, if a power series is 1-summable in that arc, then one can attach to it a Borel-Laplace sum, i.e. a holomorphic function defined in a large enough sector and asymptotic to that power series in Gevrey sense.
+
+https://arxiv.org/pdf/1702.04148, quantum mechanical systems with a discrete spectrum. We show that the asymptotic series associated to certain paths of steepest-descent (Lefschetz thimbles) are Borel resummable to the full result.
+
+https://people.mpim-bonn.mpg.de/zagier/files/tex/ECMHirzebruchLecture/ECMHirzebruchLectureCorrected.pdf, in as simple a way and to as wide a readership as possible, some of the beautiful ways in which differential equations are related to number theory, algebraic geometry, and topology. But— since this is the first of the “Hirzebruch Lectures” that are now planned to be given at each future European Mathematical Congress
+
+https://math.uchicago.edu/~shmuel/L%5E2%20cohomology%20readings/Kammeyer%20Introduction%20To%20_%5E2-%20invariants.pdf, algebraic topology is to study a space via an associated chain complex. If the space carries a CW structure, the cellular chain groups capture the number of cells in each degree and the boundary maps reflect how the cells are glued to the previous skeleton.
+
+https://arxiv.org/pdf/2209.15039, it naturally generalizes Kirwan’s classical partial desingularization algorithm to the context of derived algebraic geometry, preserves quasi-smoothness, and is a derived enhancement of the intrinsic stabilizer reduction constructed by Kiem, Li and the third author.
+
+https://arxiv.org/pdf/math/9901053, q-deform a construction of Kazhdan and Kostant from 1970's which produces quantum Toda Hamiltonians by considering the action of Casimirs of a simple Lie algebra on Whittaker functions on the corresponding Lie group. We also give the affine analog of this generalization. This is done by extending the notion of a Whittaker function to quantum groups and quantum affine algebras. We compute the q-deformed Toda Hamiltonians for Lie algebras of type A and show that they coincide with those known in the theory of integrable systems.
+
+https://www.math.columbia.edu/~woit/twistorp1.pdf, remarkably, the twistor P 1 occurs as a fundamental object in both four-dimensional space-time geometry and in number theory. In Euclidean signature twistor theory it is how one describes space-time points. In recent work by Fargues and Scholze on the local Langlands conjecture using geometric Langlands on the Fargues-Fontaine curve, the twistor P 1 appears as the analog of this curve at the infinite prime
+
+https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf, concise algebraic topology.
+
+https://www.claymath.org/library/academy/LectureNotes05/Lodaypaper.pdf, survey of some of the nice properties of the associahedron (also called Stasheff polytope) from several points of views: topological, geometrical, combinatorial and algebraic.
+
+https://webusers.imj-prg.fr/~leila.schneps/MSRI.pdf, ranslate these results in terms of the mapping class groups and show that when the conditions on phi are satisfied, we obtain a homomorphism between mapping class groups which has geometric and arithmetic significance, and that in genus zero, these two conditions are always satisfied. We end with two explicit examples of such homomorphisms, one in genus zero and one in genus one.
+
+https://math.berkeley.edu/~serganov/ilyaz.org/papers/Reciprocity_Langlands/Langlands-pictorial-20221020.pdf, quadratic reciprocity Zakharevich
+
+https://jvoight.github.io/quat-book-v1.0.5.pdf, on Voight on quaternion algebras.
+
+https://math.mit.edu/~poonen/papers/Qpoints.pdf, Poonen rational points.
+
+https://math.berkeley.edu/~fengt/263C.pdf, Venkatesh on L-functions.
+
+https://indico.global/event/9583/attachments/42067/78761/slides_Bismut.pdf, Quillen metrics summary.
+
+https://arxiv.org/pdf/2510.17778, Lefschetz pencils, he introduced a topological viewpoint on phenomena such as degenerations and the behavior of varieties near their boundaries
+
+https://www.math.stonybrook.edu/~kirillov/mat552/liegroups.pdf, Kirillov Lie groups and Lie algebras.
+
+https://arxiv.org/pdf/2312.05922, construction involves integrals over configuration spaces associated to trivalent ribbon graphs, which can be seen as a version of perturbative Chern-Simons theory in arbitrary dimension
+
+https://arxiv.org/pdf/2411.07169, introduce local invariants of algebraic spaces and stacks which measure how far they are from being a scheme. Using these invariants, we develop mostly topological criteria to determine when the moduli space of a stack is a scheme. As an application we study moduli of principal bundles on a smooth projective curve.
+
+https://arxiv.org/pdf/hep-th/0610328, K-theory classification conjectures in string theory. Sen conjecture based proposals classify D-brane trajectories in backgrounds with no H flux.
+
+https://florianadler.github.io/inftyCats/inftyCats.pdf, Wagner infinity categories.
+
+https://arxiv.org/pdf/0712.4124, three ways to think about linear differential equations: scalar equations, linear systems and differential modules. Just as it is useful to think of linear maps in terms of linear equations, matrices and associated modules, it will be helpful in future sections to go back and forth between the different ways of presenting linear differential equations.
+
+https://dutchcats.github.io/2022-11-24/li_20221124.pdf, internal language of sheaves
+
+https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/978-3-540-30308-4_1/fulltext.pdf, dilogarithm function, defined in the first sentence of Chapter I, is a function which has been known for more than 250 years, but which for a long time was familiar only to a few enthusiasts.
+
+https://arxiv.org/pdf/1411.1514, S be a nonsingular projective K3 surface. Motivated by the study of the Gromov-Witten theory of the Hilbert scheme of points of S, we conjecture a formula for the GromovWitten theory (in all curve classes)
+
+https://publications.ias.edu/sites/default/files/Automorphic-forms-on-GL2.pdf, Langlands notes on automorphic forms on GL2.
+
+https://arxiv.org/pdf/2509.18062, overview of several aspects of what has come to be called the relative Langlands program
+
+https://www.math.uchicago.edu/~fcale/papers/CaVeFinal.pdf, torsion Venkatesh Langlands correspondence.
+
+https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/coctalos.pdf, topics revolved around the use of stacks in studying complex oriented cohomology theories
+
+https://chrisjelliott.github.io/Motivic_L_functions.pdf, exposition on motivic L functions.
+
+https://www.math.uchicago.edu/~bloch/madrid.pdf, exposition on Feynman amplitudes.
+
+https://arxiv.org/pdf/1602.06674, comparing sheaf and singular cohomology.
+
+https://archive.ymsc.tsinghua.edu.cn/pacm_download/117/5822-11511_2006_Article_BF02392492.pdf, Hormander PDES.
+
+https://www.math.mcgill.ca/darmon/theses/leahy/thesis.pdf, Tate's thesis introduction.
+
+https://www.math.brown.edu/mchan2/GuanajuatoModuliSchool.pdf, tropical curves Melody Chan.
+
+https://www.math.stonybrook.edu/~aknapp/download/Beyond2-clickable.pdf, Knapp's Lie Groups and beyond.
+
+https://arxiv.org/pdf/1803.08585, Goncharov motivic correlators.
+
+https://alex-youcis.github.io/MatsushimaNotes.pdf, cohomology of Shimura varieties.
+
+https://www.math.harvard.edu/media/clausen.pdf, Springer corespondence.
+
+https://arxiv.org/pdf/2510.06057, q-de Rham by Wagner using Habiro.
+
+https://www.math.uchicago.edu/~farb/papers/mcgbook.pdf, Farb on mapping class groups.
+
+https://arxiv.org/pdf/2405.18231, toric periods and relative Langlands.
+
+https://personal.ntu.edu.sg/bernhard/Publications/pub/p_ranks.pdf, field descent problem for ideals.
+
+https://arxiv.org/pdf/2502.11950, Chern-Simons invariants and motivic stuff.
+
+https://arxiv.org/pdf/1802.00779, Donaldson-Thomas theory.
+
+https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/blumberg-burnside.pdf, notes on topics in algebraic topology.
+
+https://arxiv.org/pdf/2406.01443, Iwasawa theory.
+
+https://www.math.ucla.edu/~colinni/Lubin-Tate%20and%20Algebraic%20Geometry%20in%20Chromatic%20Homotopy%20Theory.pdf, Lubin Tate and relation to algebraic geometry.
+
+https://math.colorado.edu/~casa/seminars/reading/stack_of_curves_21/papers/fultonetalstacks/2fultonCFGs.pdf, categories fibred in groupoids.
+
+https://arxiv.org/pdf/1510.03342, Weak Siegel Maase forms.
+
+https://www.math.ias.edu/~akshay/research/BZSVpaperV1.pdf, relative Langlands duality by Ben-Zvi.
+
+https://arxiv.org/pdf/1204.0586, higher dim local fields and adeles.
+
+https://arxiv.org/pdf/2306.17679v3, Coquand on Azumaya algebras.
+
+https://arxiv.org/pdf/0804.1274, loop spaces and derived algebraic geometry.
+
+https://arxiv.org/pdf/1410.5893, Berkovich and Banach rings.
+
+https://math.berkeley.edu/~cjdowd/modulargalois.pdf, modular Galois representations.
+
+https://web.math.princeton.edu/~kk2703/kallal_cft_notes.pdf. class field theory.
+
+https://arxiv.org/pdf/1805.00544, modularity of rigid Calabi-Yau manifolds
+
+https://arxiv.org/pdf/1409.2562, algebra and geometry in enumerative combinatorics.
+
+https://arxiv.org/pdf/2411.19889, tropicaal and valuated matroids.
+
+https://arxiv.org/pdf/2508.15971, Deninger foliated dynamical systems.
+
+https://arxiv.org/pdf/2408.05103, Koszul duality for p-adic groups.
+
+https://arxiv.org/pdf/2602.05841, perfect matrices and Voroni quadratic forms.
+
+https://arxiv.org/pdf/2508.07443v1, highher algebra for Seiberg duality, holomorphic field theory.
+
+https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1116&context=math_fac, onnection between the Weil 2-cocycles defining the local and adelic metaplectic ` groups defined over a global field, i.e. the double covers of the attendant local and adelic symplectic ` groups, and local and adelic Maslov indices
+
+https://categorified.net/JohnsonFreyd-thesis.pdf, addresses a number of related questions concerning perturbative “path” integrals. Perturbative methods are one of the few successful ways physicists have worked with (or even defined) these infinite-dimensional integrals
+
+https://sites.math.rutgers.edu/~ctw/quotients.pdf, notion of quotient in geometric invariant theory introduced by Mumford
+
+https://math.uchicago.edu/~amathew/j.pdf, J-homomorphism by Akhil Mathew.
