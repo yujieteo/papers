@@ -230,6 +230,8 @@ https://web.math.princeton.edu/~huh/ICM2022.pdf, exposition on Lorentzian polyno
 
 https://www.jmilne.org/math/articles/2005aX.pdf, introduction to Shimura varieties by Milne. (1) page 13 gives a classification of ermitian symmetric spaces.
 
+https://www.math.purdue.edu/~arapura/preprints/diffforms.pdf, introduction to differential forms.
+
 https://arxiv.org/abs/0903.0517, Serre's note on using finite fields; (1) start with proof that auto of complex affine n-space where a^2 = 1 over C^n, a has a fixed point, idea is to replace C with a finite field, now pick G be finite p-grouup acting on A^n over k, char k not equal to p, G has a fixed point. The p-group fixed point theorem was done for case l prime, l not equal to p, reduce to l, then by contradiction, enlarge ring A for action of G to be defined, use Nullstellensatz to get a polynomial Q (with a maximal ideal) and repeatedly enlarge ring A, then use hypothesis of field A/m not eual to p, apply part a to get contradiction. This is an example of replacing autos with sets with more structure like p-group structure.
 
 https://arxiv.org/pdf/1805.07172, Serre on cohomological invariants mod 2 of Weyl groups. I did not really learn much from this.: (1) example 1, example where GF is symmetric group of order n can be used to compute the ring of chomological invariants mod 2 with basis elements of rank 1 + [n/2].
@@ -259,6 +261,16 @@ https://lesesvre.perso.math.cnrs.fr/2021-tate_lecture-slides.pdf, introduction t
 https://math.bu.edu/people/jsweinst/Math274/ScholzeLectures.pdf, Scholze lectures on shtukas. (1) definition given on page 3.
 
 https://arxiv.org/pdf/1404.2156, Galois theory in homotopy theory.
+
+https://www.math.purdue.edu/~arapura/preprints/etale.pdf, 60 page introduction to etale cohomology.
+
+https://www.math.purdue.edu/~arapura/preprints/abelian.pdf, 46 page introduction to abelian varieties and moduli
+
+https://www.math.purdue.edu/~arapura/preprints/delgab.pdf, 11 page introduction to purity by Gabber.
+
+https://www.math.purdue.edu/~arapura/algebra/homological.pdf, 70 page introduction to Homological Algebra.
+
+https://irma.math.unistra.fr/~liu/OFM.pdf, Fourier-Mukai transform for complex tori.
 
 https://people.math.harvard.edu/~lurie/papers/Conceptual.pdf, Jacob Lurie on Makkai conceptual completeness. I want to understand this to understand how to generalise or simplify the condensed formalism. Basically ultrafilters are some sort of measure on fuzzy interval so one can do measure theory with it instead of using subobject classifiers. Makkai conceptual completeness is an functor giving a small pretopos to be equivalent the category of ultrafunctors from the category of models to the category of sets. An ultrastructure is a family of isomorphisms that gives a Stokes' formula indexed by objects of ultracategories, and ultrafilters on an index satisfying coherence conditions.
 
