@@ -729,7 +729,7 @@ https://arxiv.org/pdf/2508.07443v1, higher algebra for Seiberg duality, holomorp
 
 https://math.uchicago.edu/~amathew/j.pdf, J-homomorphism by Akhil Mathew.
 
-https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1116&context=math_fac, onnection between the Weil 2-cocycles defining the local and adelic metaplectic, groups defined over a global field, i.e. the double covers of the attendant local and adelic symplectic ` groups, and local and adelic Maslov indices
+https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1116&context=math_fac, onnection between the Weil 2-cocycles defining the local and adelic metaplectic, groups defined over a global field, i.e. the double covers of the attendant local and adelic symplectic groups, and local and adelic Maslov indices
 
 https://categorified.net/JohnsonFreyd-thesis.pdf, addresses a number of related questions concerning perturbative “path” integrals. Perturbative methods are one of the few successful ways physicists have worked with (or even defined) these infinite-dimensional integrals
 
