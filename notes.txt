@@ -286,6 +286,8 @@ https://www.math.columbia.edu/algebraic_geometry/stacks-git/topologies.pdf, list
 
 http://www-math.mit.edu/~poonen/papers/Qpoints.pdf, Poonen's book on rational pioint: (1) number fields are defined on page 17, with adele rings next;
 
+https://www.math.mcgill.ca/darmon/courses/18-19/cft/refs/neukirch.pdf, Neukirch's Class Field Theory;
+
 https://www.math.ias.edu/~lurie/278xnotes/Lecture8-Topologies.pdf, Lurie's lecture on Grothendieck topologies: (1) classifying topos of a first order theory is a space of all models, page 4; (2) span of morphisms of coherent categories form a full subcategory, composition of coherent categories induces equivalence of categories given a pretopos, then one gets a pretopos completion on page 1, this defines a syntactic category of T on page 2; (3) a pretopos is a coherent category to admit finite disjoint coproduct and every equivalence relation must be effective; 
 
 https://kskedlaya.org/papers/condensed.pdf, Kedlaya's notes on condensed mathematics. (1) light means countable inverse limit; (2) profinite sets are test spaces; (3) free modules over condensed rings and complete it generate connective D(R)_>=0 under colimits, linear combinations of Dirac measures, R[S] is completion, or bigger space of measures; (4) pushouts are important, giving completed tensor products; (5) definition from Clausen, an analytic ring has a light condensed ring and a category of derived rings such that internal homs remain in the ring, the light condensed ring is the unit object, the category of derived rings is a subcategory of the category of light condensed rings, and the completion functor (left adjoint to inclusion functor) preserves connective objects.
@@ -310,7 +312,119 @@ https://legacy-www.math.harvard.edu/theses/senior/lehner/lehner.pdf, Riehl all c
 
 https://www.math.columbia.edu/~qiaohe/ASW2.pdf, Kudla program. (1) A Kudla program is a program relating arithmetic cycles to Eisenstein series and L functions.
 
+https://www.math.columbia.edu/~woit/wordpress/?p=15456, Weil anima II. (1) to organise Galois groups and modules, one develops the class formation, profinite group Gamma, with A discrete gamma-module; (2) to find H^1(H/N ; A^N) to vanish, and H^2 to be cyclic the order of index H/N, one studies A^N, N fixed points; (3) the purpose of Nakayama-Tate lemma is to get the Artin reciprocity map by inverting an isomorphism, G is finite group, A is a G-module, get H^2(G;A), take H^i(G, Z) take cup with it to get H^{i+2}(G;A) to get map in Tate cohomology, assuem map is injective in degree i_0 + 1 in Z. (4) to use Nakayama-Tate, one check that from the axioms of the class formation that it satisfies the axiom; (5) to find the Artin map with dense image and kernel is intersection of transfers of all normal subgroups, one can find the natural isomorphism between abelianisation of absolute Galois group as long as you verify cohomological axioms (H/N)^ab from A^H/tr(A^N), transfer tr, N fixed points to H fixed points or H0 for Tate cohomology; (6) to complete understand A^H to H^ab (abelianisation of absolute Galois groups), the image of the Tate map is dense image; (7) to verify criterion of the cohomological data for the use of class formations, one must list the axioms; (8) to list the axioms for the cohomological data for class formations, one must reduce to check for cyclic extensions; (9) to exploit Tate cohomology, it is two cyclic so one can describe H0 and use periodicity; (10) to show that it is a class formation, you need Herbrand quotient, enough cyclic extensions, then ..., need enough cyclic extensions; (11) to study examples of class formations, then one can work on nonarchimedean local fields of characteristic 0, C is a Galois category, A is G_m, step 1 is to verify Herbrand quotient is order of the group, step 2 is by Hilbert's satz 90, step 3 is to use unramified extensions, this proves the local class field theory; (12) to make canonical the definition of class formations where Gamma is not well defined as a group but only as a connected groupoid, one must identify the absolute Galois group and there is no canonical way, arguably for Q there is canonical C, but local global compatibility, and there is a different choice; (13) to prove enough extensions, one may use Kummer theory. (13) to make things canonical, associate the Weil group to a class formation. (14) to make canonical the isomorphism classes obtained from the formation of the Weil group, use gerbe on BG banded by A at the cocycle level, Clausen gives 5 interpretations. (15) to understand the basics of cocycle classes, one interprets cocycles as x in C^2 dx = 0, 2-morphism is alpha in C^1, dalpha y - x; (16) to define the isomorphism classes of gerbes, one will need to use the language of 2-groupoids, categories of groupoids form a two groupoids such that the relative H_1 identifies with A which is the gerbe; (17) objects are inverse systems of group extensions, 2 morphisms is conjugations by abelian subgroups, 1 morphisms are morphisms of inverse systems of group extensions; (18) to get canonicity for Galois group and change the definition of class formation, one must refine it to a groupoid, a refined class formation is a triple C, F, alpha, C galois category, F from C -> D(T), cosheaf, values on derived infinity category, alpha is map from H0F to Z such that in the first condition HiF(X) = 0 for all i different from 0 and 1, cosheaves lives in two degrees, alpha is an isomorphism when X is connected; (18) to promote a class formation to its refinement, there is a theorem where you need a map kappa in D(Z) where Z/#C is subgroup of Q = union over all objects of 1/card_X Z, category of finite gamma sets or the degree of extensions, more extensions of have, more denominators you are allowed, to R Gamma(C, A[]), such that kappa induces an isomorphism between 1/#C Z/Z is isomorphic to H^2(C,A); (19) to promote to class formation with pi0, then one must specify data pi_0 from H^2(C,A) inject into Q/Z which is a compatible collection of U_{H/N}, pi_1 is an Ext group (1/#C Z, A(*)), pi_2 is Hom(1/#C Z, A(*)), equals here means torsor be careful; (21) F^tr from C^op to D(Z); (20) one want to show that F^tr is a sheaf, that is why you want the definition to be a cosheaf; (21) to study class formations with the basic example, one should study rational numbers Q since it is easier, pi0 is the usual inverse, the inverse would be from H^2(G_Q, adele class group) is isomorphism to Q/Z, there are two conventions which differ by sign, these are homology and cohomology, corresponds to different conventions for Artin map, arithmetic and geometric Frobenius, uniformisation goes to arithmetic Frobenius, or go to geometric Frobenius which is negative, don't understand why one changes Artin's convention, geometric with etale cohomology the action of geometric Frobenius, for pi1 and pi2, Ext vanishes, and Hom is not so big, it is positive real numbers under multiplication so there basically is a canonical choice, pass to norm 1 subgroups for Hom; (22) class formation for field, use restriction on connected object X, choice for Q, then you get a canonical choice for any number fields, use profinite group restrict choice for Q, problem calculate Ext^1, Z^/Z, Hom is 0, so exists refined class formation, choice of lift is unique up to isomorphism, but isomorphism is nonunique and differ by power of Frobenius, fix alg closure up to Frobenius; (23) for nonarchmedian local fields to prove refined class formation, one fixes the data for F_p, get canonicity for finite fields and nonarchimedean local fields, Ext is Z^/Z, Hom is 0; (24) to study archimedial local field, pi_9, *, Ext(1/2Z, R^cross) is 0, Hom(1/2 Z, R^cross) is R^*, up to norm 1; (25) pullback of refined class formation, pushforward of cosheaf or sheaf; (24) to study number rings or locally compact Hausdorff rings that appear in number theory, then take F cosheaf + isomorphism st H_i F(R) = 0, H_1(F(R)) is usual class group, cosheaf of finite etale site for any R, induces CFT on R, ideal is first homology is class group then get functor, automatically get the refinemenet this functor F^univ this is at the end; (25) to classify class groups, here is the following: local field, ring of units, finite field, Z, global field adeles; (26) to get all of class field functorially; H_1 F^univ(R) is K_1(locally compact R-modules) gives the correct class group, but K_0 is not usually Z so some modification will be necessary to truly recover class field theory is canonical way; (27) to define Weil groupoids, C is C_Gamma finite, story is simple, refined class formations are abelian gerbes, noncanonical unless you take homology; (28) to check cosheaf property, one can check it on finite levels; (29) to understand transition maps, one does it for abelian gerbes, take transition maps of abelianisations of weil groupoids from W to BGamma'; (30) to define the weil groupoid and refine class formation, one takes gerbes living over the finite group, get an n-indexed system of n-groupoids, then take inverse limit, there is a problem of showing pi_0 W is trivial and nonempty this comes from compactness;
+
+https://merrickcai.com/pdfs_notes/Differential%20graded%20algebras.pdf, differential graded algebra; from Ibsen; (1) singular chain complex is a dg-cosheaf; singular cochain complex is a dg-sheaf, the (co)gluing axiom is Mayer-Vietoris;
+
+https://www.math.ucla.edu/~balmer/Pubfile/Gluing.pdf; (1) gluing is Mayer-Vietoris;
+
+https://www.fuw.edu.pl/~urbanski/Suszek_cz.pdf,c comparison of abelian gerbes to Lagrangians;
+
+https://aimath.org/WWN/buildings/nadler.pdf, Nadler notes on Langlands in 5 pages, this is really cool;
+
+https://www.jmilne.org/math/articles/2003b.pdf, gerbes and abelian motives by Milne;
+
+https://makoba.gitlab.io/ws2021-algebraic-groups-actions/group-actions.pdf, 3 page summary of algebraic group actions;
+
+https://max-mornev.github.io/et/BrauerGroups.pdf, summary on Brauer groups;
+
+https://people.math.harvard.edu/~zyao/notes/notes/LLC.pdf, local Langlands for GL_n;
+
+https://www.keerthimadapusi.com/assets/talks/2025-02-19-darmstadt.pdf, F-gauges notes
+
+https://www.keerthimadapusi.com/assets/old_notes/logpdiv.pdf, log p-divisible groups
+
+https://people.maths.bris.ac.uk/~malab/PDFs/Algebraic%20Geometry%20L7.pdf, notes on uniformisers in 5 pages;
+
+https://www.fields.utoronto.ca/talk-media/1/45/35/slides.pdf, fpqc and finite topologies;
+
+https://www.math.ias.edu/~lurie/205notes/Lecture26-Isocrystals.pdf, Lurie 3 pager on isocrystals;
+ 
+https://myweb.ecu.edu/abdulalis/Vancouver.pdf, Tate twist of Hodge structures
+
+https://people.maths.bris.ac.uk/~matyd/BMC/slides/Lenstra%20-%20Profinite%20number%20theory.pdf, profinite number theory Hendrik Lenstra 62 slides; (1) to use ultrafilters, one use profinite integers; (2) to prove that ring of profinite integers is commutative, only care about last few digits; (2) to do infinite Galois group theory, one use profinite groups, as a product of finite discrete groups; (3) to define p-adic integers, one takes inverse limit of product of b_i mod p^i or powers of Frobenius;
+
+https://cisinski.app.uni-regensburg.de/SS20/talk-condensed-cohomology-slides.pdf, condensed cohomology slides. (1) to define singular cohomology, turn simplicial sets into chain complexes with alternating sum of i+1 face maps; (2) to define Cech cohomology, one uses alternating sum of face or projection maps giving colimit of global sections;  
+
+https://kskedlaya.org/slides/epfl2025-handout.pdf, Honda-Tate theorem slides by Kedlaya.
+ 
+https://arxiv.org/pdf/math/0611317, notes on 1 and 2 gerbes; 
+
+https://www.fields.utoronto.ca/av/slides/06-07/crs-quasibasic/joyal/download.pdf, quasicategories, Joyal;
+
+https://msp.cis.strath.ac.uk/types2025/slides/TYPES2025-slides9.pdf, choice principles in HoTT;
+
+https://www.math.ku.dk/bibliotek/arkivet/phd-theses/phd13sa.pdf, intersection theory of compactification of Z, in 66 pages PhD thesis; (1) to study arithmetic of k[x], one may consider proj schemes over k then use Riemann-Roch and Riemann-Hurwitz;
+
+https://www.math.univ-paris13.fr/~harpaz/homotopy_day_talk.pdf, higher semi-additivity;
+
+https://www.math.auckland.ac.nz/~hekmati/Slides/RIMS2011.pdf, slides on 1-cocycles in 36 slides. (1) to introduce a twist in K-theory, one must use gerbes; (2) to find one example of twisted K-theory, one defines the space of Fredholm operators with the norm topology, then consult Atiyah Janich where K0 is X, Fred(H), X paracompact Hausdorff topological space;
+
+https://arxiv.org/pdf/math/0605200, homotopy classification of gerbes in 26 pages by Jardine.
+
+https://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/REUPapers/Harper.pdf, group cohomology and Kummer theory.
+
+https://hoyois.app.uni-regensburg.de/papers/efimov.pdf, Efimov K-theory introduction in 4 pages.
+
+https://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Lynn.pdf, notes on Galois categories.
+
+https://www.math.sci.hokudai.ac.jp/~wakate/mcyr/2023/pdf/li_he.pdf, Efimov K-theory in 5 pages.
+
+https://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/REUPapers/Petkov.pdf, adele and ideles and their applications in 25 pages.
+
+https://www.math.columbia.edu/~khovanov/MA2_2022/files/cyclotomic.pdf, 7 pages of notes on cyclotomic extensions.
+
+https://cklixx.people.wm.edu/teaching/math430/Note-33.pdf, slides on cyclotomic extensions that gives a full argument for the construcibility of n-gons. (1) to prove constructibility of n-gons, Gauss used cyclotomic extensions; (2) to define cyclotomic extensions, one define cyclotomic polynomials over Q using polynomials of roots of unity; (3) to prove that x^n - 1 is product of cyclotomic polys, use partitioning of zeroes; (4) to prove cyclotomic polys are monic with integer coefficients, one use an induction argument.
+
+https://arxiv.org/pdf/1401.5728, investigation of Nakayama-Tate lemma for all local and global fields. (1) to get a Tate-Nakayama morphism, one must consider the extension chosen, see page 2;
+
+https://arxiv.org/pdf/math/0012142, generalised class formations.
+
+https://arxiv.org/pdf/2303.04120, Tate hypercohomology.
+
+http://faculty.bicmr.pku.edu.cn/~dingyiwen/dm.pdf, 7 pager on the Dieudonne Manin classification theorem;
+
+https://homepage.sns.it/vistoli/slides/2016-03-Kioloa.pdf, fundamental gerbes and Tannakian category;
+
+https://home.mathematik.uni-freiburg.de/arithgeom/preprints/huber-TT1.pdf, tensor structure for Nori motives;
+
+https://math.mit.edu/~etingof/egnobookfinal.pdf, tensor category;
+
+https://people.mpim-bonn.mpg.de/scholze/GaloisTop.pdf, topological realisations of Galois groups.
+
+https://www.numdam.org/article/AFST_2008_6_17_2_411_0.pdf, local class field theory with Lubin-Tate theory.
+
+https://arxiv.org/pdf/2007.04647, bounded complexes.
+
+https://openaccess.city.ac.uk/id/eprint/1913/1/transfer-Hochschild.pdf, transfer in Hochschild homology.
+
+https://arxiv.org/pdf/1507.00104, geometric class field theory introduction in Master's thesis.
+
+https://arxiv.org/pdf/2110.07707, Tate construction.
+
+https://www.keerthimadapusi.com/assets/old_notes/NOS.pdf, 26 pages notes on sheaves
+
+https://math.stanford.edu/~conrad/papers/hypercover.pdf, notes on cohomological descent by Keith Conrad;
+
+https://imsarchives.nus.edu.sg/oldwww2/events/2018/lang/files/nicolas.pdf, Ramanujan conjecture over function fields.
+
+https://sites.math.duke.edu/~dasgupta/papers/SH.pdf, good summary of class field theory in 36 slides. (1) to define abelianisation of Q (not canonical), one can call this the union of Q(exp[2 pi i n]), this is the content of the Kronecker-Weber theorem;
+
+https://www.ms.u-tokyo.ac.jp/~t-saito/pp/GR2.pdf, studies on ramification. In this article we also report on recent discoveries on ramification. (1) to show that Jacobi sums and the Betti functions are similar, the formal similarity is found by Frobenius and use geometry on X^n + Y^n = 1 or the Fermat curve; (2) to study beta functions, one can study the cohomology of Fermat curves.
+
+https://math.berkeley.edu/~hhao/notes/Adelic%20Line%20Bundles%20and%20Bogomolov%20Conjecture.pdf, adelic line bundles in 15 pages.
+
+https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/b594a0782d952277f82601576981c775_MIT18_786S16_lec7.pdf, Herbrand quotients, (1) to analyse the unit group, one must use Herbrand quotient as a exact sequence; (2) to exploit Herbrand quotients, work up to finite G modules. For induced modules, the Herbrand quotient is zero. The Tate cohomology vanishes identically. Then one proves that the Herbrand quotient is for the order of the group for 0 -> G_L^cross -> L^cross -> Z -> 0;
+
+https://www.math.ucla.edu/~jas/writings/cft-inequalities.pdf, class field theory inequalities. (1) to prove the first inequality, one must use the Herbrand quotient, (2) to define the Herbrand quotient, one takes |H^2(G,A)|/|H^1(G,A)|; (3)
+
 https://people.reed.edu/~jerry/311/ecintro.pdf, introduction to elliptic curves; (1) on page 2, idea, an elliptic curve is an abelian group with infinity as the identity;
+
+https://1429cecd-24a0-4223-8b7c-1ebf47aa12e2.filesusr.com/ugd/8e912a_fe1c2f8e90094d0fa065fb8129687963.pdf, fractured structures on condensed anima, 61 pages.
+
+https://www.math.uni-bonn.de/~schwede/equivariant.pdf, 113 pages, equivariant Schwede.
+
+https://home.hiroshima-u.ac.jp/ichiro-shimada/slides/2022AugNUS/2022AugTalkNUSShimada.pdf, slides about Mordell-Weil groups, very little motivations but one can find a summary of Niemier lattices; (1) to find an alternative to Vinberg's algorithm, (2) Niemier lattices are described on page 24.
 
 https://arxiv.org/pdf/2111.00069, short proof of straightening and unstraightening. (1) A straightening is a functor (that gives an equivalence of categories) of categories functors of cartesian fibrations over an infinity category and its functor of "points as categories of infinity categories"; (2) Grothendieck's construction is a functor between prestacks and fibred categories that is an equivalence of categories; (3) a corollary of Grothendieck's construction is Tannakian formalism, or a equivalence of covering spaces and sets with action of the fundamental group on the symmetric groups of a base; (4) a Cartesian fibrations from nlab is a fibration that is an inner fibration which is a right lift from the full simplex to the all outer inclusions such that the existence of a lift of the image element, there is a corresponding fibre element that is the preimage of the inclusion of base elements for last edge in the outer horn inclusion. [Drawing will be easier]. The basic idea is you want image elements to have guaranteed fibres that embed into it even though you have a right lift or the inner horn.
 
@@ -384,7 +498,7 @@ https://math.uchicago.edu/~may/REU2016/REUPapers/Banerjee.pdf, Adams-Atiyah solu
 
 http://van-der-geer.nl/~gerard/ff.pdf, survey of counting curves over finite fields.
 
-https://people.mpim-bonn.mpg.de/scholze/DeformationSpaces.pdf, Weil groups to be fixcxed on bad reduction using deformation spaces.
+https://people.mpim-bonn.mpg.de/scholze/DeformationSpaces.pdf, Weil groups to be fixxed on bad reduction using deformation spaces.
 
 https://www.math.uni-bonn.de/people/schwein/documents/rutgers21.pdf, Galois group should be replaced by
 a variant called the Weil group as a result of the Langland's program.  Artin reciprocity that most texts give is not quite the right statement and the Weil group fixes this issue. This is the main upshot of class field theory. The Weil groups of global fields are literally only accessible through cohomological machinery and they are the starting point for Langlands.
@@ -465,7 +579,7 @@ https://math.rice.edu/~ar99/Neuchatel2.pdf, slides by Alan Reid; (1) relate knot
 
 https://people.mpim-bonn.mpg.de/zagier/files/preprints/HyperbolicAndNeumann.pdf, Neumann—henceforth simply Walter—has made huge contributions to topology, singularity theory, and number theory. His work on the combinatorics of triangulations of 3-manifolds and its interactions with algebraic K-theory certainly can be counted as among the most far-reaching and beautiful of these. In this short note we will try to recount some of the high points of this work 
 
-https://math.commelin.net/files/wdreps.pdf, Weil Delign reps.
+https://math.commelin.net/files/wdreps.pdf, Weil Deligne representations.
 
 https://www.i-repository.net/contents/osakacu/sugaku/00306126-59-2-315.pdf, degenerations of Riemann surfaces from a topological viewpoint, the topological monodromies play a very important role. In this paper, as an analogy, we introduce the concept of “topological monodromies of splitting families” for degenerations of Riemann surfaces, and their “monodromy assortments”. We show that the monodromy assortments of barking families associated with tame simple crusts act as a pseudo-periodic homeomorphism of negative twist on each irreducible component of the main fibers. As an application of our results, we show an interesting example of two splitting families for one degeneration that have different topological monodromies, although they give the same splitting.
 
