@@ -611,11 +611,11 @@ https://arxiv.org/pdf/2209.15039, it naturally generalizes Kirwan’s classical 
 
 https://arxiv.org/pdf/math/9901053, q-deform a construction of Kazhdan and Kostant from 1970's which produces quantum Toda Hamiltonians by considering the action of Casimirs of a simple Lie algebra on Whittaker functions on the corresponding Lie group. We also give the affine analog of this generalization. This is done by extending the notion of a Whittaker function to quantum groups and quantum affine algebras. We compute the q-deformed Toda Hamiltonians for Lie algebras of type A and show that they coincide with those known in the theory of integrable systems.
 
-https://www.math.columbia.edu/~woit/twistorp1.pdf, remarkably, the twistor P 1 occurs as a fundamental object in both four-dimensional space-time geometry and in number theory. In Euclidean signature twistor theory it is how one describes space-time points. In recent work by Fargues and Scholze on the local Langlands conjecture using geometric Langlands on the Fargues-Fontaine curve, the twistor P 1 appears as the analog of this curve at the infinite prime
+https://www.math.columbia.edu/~woit/twistorp1.pdf, remarkably, the twistor P1 occurs as a fundamental object in both four-dimensional space-time geometry and in number theory. In Euclidean signature twistor theory it is how one describes space-time points. In recent work by Fargues and Scholze on the local Langlands conjecture using geometric Langlands on the Fargues-Fontaine curve, the twistor P 1 appears as the analog of this curve at the infinite prime
 
 https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf, concise algebraic topology.
 
-https://arxiv.org/pdf/math/0212126, formula to compute coordinates of verties of associahedron;
+https://arxiv.org/pdf/math/0212126, formula to compute coordinates of vertices of associahedron;
 
 https://math.mit.edu/~apost/papers/permutohedron.pdf, permutoherdron notes;
 
@@ -665,7 +665,7 @@ https://chrisjelliott.github.io/Motivic_L_functions.pdf, exposition on motivic L
  
 https://www.math.uchicago.edu/~bloch/madrid.pdf, exposition on Feynman amplitudes.
 
-https://arxiv.org/pdf/1602.06674, comparing sheaf and singular cohomology.
+https://arxiv.org/pdf/1602.06674, comparing sheaf and singular cohomology, this paper outlines a condition for isomorphism of sheaf and singular cohomology by weakening it to covering of semi-locally contractible opens. (1) to give condition by covering of contractible open sets and to weaken it, one may define weakly locally contractible to be embeddings into U, adn contractible in U; (2) to compare sheaf cohomology and singular cohomology, requires semi-locally contractible and paracompact (admits locally finite refinemenet so points belong to finitely many members  of U') then singular cohomology is isomorphic to sheaf cohomology; (3) to ditch paracompactness for this isomorphism, one may use Ramanan's method; (4) to use Ramanan's method, the idea is to define direct limit of complex surjections to form a flasque resolution;
 
 https://archive.ymsc.tsinghua.edu.cn/pacm_download/117/5822-11511_2006_Article_BF02392492.pdf, Hormander PDES.
 
@@ -683,15 +683,21 @@ https://www.math.harvard.edu/media/clausen.pdf, Springer corespondence.
 
 https://arxiv.org/pdf/2510.06057, q-de Rham by Wagner using Habiro.
 
-https://www.math.uchicago.edu/~farb/papers/mcgbook.pdf, Farb on mapping class groups.
+https://pagine.dm.unipi.it/~a019210/Farb%20Magalit_Primer%20on%20Teichmuller%20theory.pdf, Farb on mapping class groups, 509 pages so large.
+
+https://www.dpmms.cam.ac.uk/~hjrw2/MCG%20lectures.pdf, introduction to mapping class groups in 50 pages.
 
 https://arxiv.org/pdf/2405.18231, toric periods and relative Langlands. (1) to do some local langlands dual reductive group, one extends it to Hamiltonian G and Ghat-actions, these index objects and numerical measurements on both sides; (2) to ignore trivial divergences without regularisation, one discards smaller orbits; (3) to investigate numerical duality in the local Langlands duality, one defines toric dual to give a natural combinatorial definition; (4) to evaluate the action of the algebrraic group scheme, one uses an eigenmeasure which is a differential form of top degree on th esmooth locus; (5) to investigate the preimage of integer powers of Frobenius inside the etale fundamental group, one will need to study Weil groups; (6) to normalise local class field theory, one needs to send the geometric Frobenius element to 1/q where q is the size of the residue field; (7) to discuss orbits of toric varieties, one needs to define fans of toric varieties, which are collections of rational strongly convex cones; (8) to investigate T-orbits in X, one uses the fact that cones in the fan are in bijection to T-orbits in X as hom-sets; (9) to investigate Langlands duality, one can investigate the toric duality between the Langlands torus T and its toric dual; (10) to investigate the weak numerical duality between toric varieties, one can look at Deligne-Mumford stacks wihich are global quotients of a toric variety by a finite group; (11) to investigate unramified twists of the L-function, one can restrict to unramified orbits, where unramfieid orbits of the regularised automorphic period corresponds to the L-function;
 
-https://personal.ntu.edu.sg/bernhard/Publications/pub/p_ranks.pdf, field descent problem for ideals.
+https://personal.ntu.edu.sg/bernhard/Publications/pub/p_ranks.pdf, field descent problem for ideals, (1) to undersand the field descent problem, one must understand principal ideal I for number field K, and one wants conditions for I to be generated by a subfield of K.
 
 https://arxiv.org/pdf/2502.11950, Chern-Simons invariants and motivic stuff.
 
 https://arxiv.org/pdf/1802.00779, Donaldson-Thomas theory.
+
+https://math.uni.lu/~vokes/vokes_mcg_lecture1.pdf, mapping class group slides;
+
+https://www.math.uchicago.edu/~farb/papers/thirdessdim.pdf, essential dimension via prismatic cohomology;
 
 https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/blumberg-burnside.pdf, notes on topics in algebraic topology.
 
@@ -701,13 +707,13 @@ https://www.math.ucla.edu/~colinni/Lubin-Tate%20and%20Algebraic%20Geometry%20in%
 
 https://math.colorado.edu/~casa/seminars/reading/stack_of_curves_21/papers/fultonetalstacks/2fultonCFGs.pdf, categories fibred in groupoids.
 
-https://arxiv.org/pdf/1510.03342, Weak Siegel Maase forms.
+https://arxiv.org/pdf/1510.03342, Weak Siegel Maass forms.
 
 https://www.math.ias.edu/~akshay/research/BZSVpaperV1.pdf, relative Langlands duality by Ben-Zvi.
 
-https://arxiv.org/pdf/1204.0586, higher dim local fields and adeles.
+https://arxiv.org/pdf/1204.0586, higher dimensional local fields and adeles.
 
-https://arxiv.org/pdf/2306.17679v3, Coquand on Azumaya algebras.
+https://arxiv.org/pdf/2306.17679v3, Coquand on Azumaya algebras in constructive setting, not very useful as a review of Azumaya algebra but gives an idea how to do stuff constructively. (1) to study commutative fields with elements division algebras, one studies Brauer groups. (2) to describe Brauer groups, these are central simple algebras up to Morita equivalence. (3) to formulate the theory of local rings, one can define 0 != 1, and inv(x) or inv(1-x) where inv means exist 1 = xy; (4) to define Henselian in coherent way, one can describe strictly Henselian instead; (4) to define Zariski spectrum in a logical way, define it as universal support of R to Z(R), where supports are maps R to M to bunded distributive lattice M satisfying ideal axioms; (5) to define unramifiable, one means the polynomial has a simple root in some extension of the residue field; (6) to define Azumaya algebras, it is algebra that is projective of finite type, and tensor prod A otimes A^op to End_k(A) be isomoprhism; (7) to give constructive proofs in Azumaya algebra theory, one use tree inductions.
 
 https://arxiv.org/pdf/0804.1274, loop spaces and derived algebraic geometry.
 
@@ -715,15 +721,37 @@ https://arxiv.org/pdf/1410.5893, Berkovich and Banach rings.
 
 https://math.berkeley.edu/~cjdowd/modulargalois.pdf, modular Galois representations. (1) to find the simplest example of correspondences between Galois representations and automorphic representations, one uses class field theory;
 
-https://web.math.princeton.edu/~kk2703/kallal_cft_notes.pdf. class field theory.
-
 https://arxiv.org/pdf/1805.00544, modularity of rigid Calabi-Yau manifolds
 
-https://arxiv.org/pdf/1409.2562, algebra and geometry in enumerative combinatorics, this is very long, 144 pages; (1) to obtain asymptotic formulas, recursive formulas, and enumerate combinatorial objects, one use generating functions, and replace with q = exp(2 pi i z) to get a modular forms; (2) to do exponential operations or to use group theory, one use the exponential generating function; (3) to use analytic methods, one use the ring of formal power series, then one can do complex analysis; (4) to have equality in analytic functions, ones check equality in open neighbourhood of zero; (5) to count reducible objects, it suffices to count irreducible objects so one wants to have a notion of reducibility;
+https://web.math.princeton.edu/~kk2703/kallal_223a_notes.pdf, notes on algebraic number theory in 110 pages.
 
-https://arxiv.org/pdf/2411.19889, tropical and valuated matroids.
+https://web.math.princeton.edu/~kk2703/kallal_129_notes.pdf, notes on number fields in 77 pages.
 
-https://arxiv.org/pdf/2508.15971, Deninger foliated dynamical systems.
+https://web.math.princeton.edu/~kk2703/kallal_chicago_2020.pdf, notes on Selberg trace formula in 53 pages.
+
+https://web.math.princeton.edu/~kk2703/kallal_weber_lecture.pdf, notes on class numbers of p-power cyclotomic fields in 26 pages.
+
+https://web.math.princeton.edu/~kk2703/haseliu_kallal_ffgs.pdf, notes on group schemes in 68 pages.
+
+https://arxiv.org/pdf/1409.2562, algebra and geometry in enumerative combinatorics, this is very long, 144 pages; (1) to obtain asymptotic formulas, recursive formulas, and enumerate combinatorial objects, one use generating functions, and replace with q = exp(2 pi i z) to get a modular forms; (2) to do exponential operations or to use group theory, one use the exponential generating function; (3) to use analytic methods, one use the ring of formal power series, then one can do complex analysis; (4) to have equality in analytic functions, ones check equality in open neighbourhood of zero; (5) to count reducible objects, it suffices to count irreducible objects so one wants to have a notion of reducibility; (5) to define quasiindependent, take linear combinations of c_j x_j just have it imply c_j is diract delta delta_ik, quasi-basis is quasi-independent set of generators; 
+
+https://arxiv.org/pdf/2411.19889, tropical and valuated matroids, good paper but very hard to learn why these ideas are interesting (1) to break down GL_n(K), one can see it is isomorphic to semidirect prod of sym group S_n and K^cross ^n which is multiplicative group of units of K; (2) to do representation theory of low dim tropical representation, one may introduce weakly free and quasi free modules are used in combinatorial object like polyhedral cones or appear in tropicalisation.
+
+https://arxiv.org/pdf/2411.19883, representation theory of semifield, good to read as a concrete exercise in working with algebraic geometry, will read later; (1) to study valuated matroids, one can use algebraic geometry of tropical linear varieties; to understand matroids, one may develop representation theory over semifields;
+
+https://arxiv.org/pdf/2508.15971, Deninger foliated dynamical systems, good paper with one of the best introductions, but very hard to read in the middle. (1) to study motivic L-functions, Deninger proposed to attach arithmetic cohomology to arithmetic schemes with the formula playing LEfschetz trace formulas; (2) to do foliations of dynamical systems on arithmetic schemes, Deninger invented the rational Witt space; (3) to do functional analysis of the Riemann zeta function, Connes introduced the adele class space; (4) to define the adele class space, it is the space of leaves of the idele class groups; (5) to do non-commutative geometry, one must come up with a theory of foliations; (6) to connect Deninger's foliated dynamical systems, and Connes-Cosani adelic spaces, this paper gives a map of interest with an arithmetic linking homomorphism; (7) to discover the geometric monodromy around the orbit, the idea is to define an arithmetic linking homomorphism with an homomorphism of etale fundamental groups, then class field theory describes how primes are linked with each other in arithmetic topology, the linking number is the Legendre symbol, (8) to define the Connes adele class space, it is a dynamical system equipped with action of idele class group, then it is a noncommutative geometric model for the spectrum of a number ring O_K; (9) to define Deninger systems, one takes a rational Witt vectors as a ring as a functor of commutative rings, then do a lot of work I do not understand; 
+
+https://arxiv.org/pdf/math-ph/0306023, adelic spaces.
+
+https://kskedlaya.org/slides/nagoya2010.pdf, p-adic Hodge theory from Weil cohomologies, Kedlaya.
+
+https://arxiv.org/pdf/2508.05329, rational Witt vectors and associated sheaves, Deninger;
+
+https://arxiv.org/pdf/1104.4852, foliation dynamics
+
+https://webusers.imj-prg.fr/~antoine.sedillot/topological_adelic_curves_V2.pdf, topological adelic curves in 114 pages.
+
+https://lmbp.uca.fr/~gaudron/art18.pdf, adelic vector spaces and slopes in 40 pages.
 
 https://arxiv.org/pdf/2408.05103, Koszul duality for p-adic groups.
 
@@ -733,13 +761,13 @@ https://arxiv.org/pdf/2508.07443v1, higher algebra for Seiberg duality, holomorp
 
 https://math.uchicago.edu/~amathew/j.pdf, J-homomorphism by Akhil Mathew.
 
-https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1116&context=math_fac, onnection between the Weil 2-cocycles defining the local and adelic metaplectic, groups defined over a global field, i.e. the double covers of the attendant local and adelic symplectic groups, and local and adelic Maslov indices
+https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1116&context=math_fac, connection between the Weil 2-cocycles defining the local and adelic metaplectic, groups defined over a global field, i.e. the double covers of the attendant local and adelic symplectic groups, and local and adelic Maslov indices
 
 https://categorified.net/JohnsonFreyd-thesis.pdf, addresses a number of related questions concerning perturbative “path” integrals. Perturbative methods are one of the few successful ways physicists have worked with (or even defined) these infinite-dimensional integrals
 
 https://sites.math.rutgers.edu/~ctw/quotients.pdf, notion of quotient in geometric invariant theory introduced by Mumford, good set of notes in reivising Lie group theory. (1) finite dimensional versions of Harder-Narasimahan and Jordan-Holder filtrations, one technique can be using convexity of Kempf-Ness functions; (2) moment polytope computation, one can use some sort of qantisation; (3) time one flow at the identiy, use exponential map of the Lie algebra (which is left invariant vector field Lie action) on the Lie group where group multiplication is a smooth math. (4) make Lie group a vector space on it, define left action as smooth map with associativity and identiy, then one has K-manifold, and if works like a linear algebra, then it is K-equivariant; (5) remember sign of Lie bracket, due to left invariant vector fields, these generate right action, while actions are defined on the left; (6) to stabilise a fixed point x, define the stabiliser and the orbit, where orbit is constant is stabiliser; (7) to define de Rham operators, one needs graded derivations or a product rule on D(a0a1) = D(a0a1) + (-1)^d|a0| a0 D(a1); (8) to distinguish complex linear transformations from classical groups of linear symplectomorphisms, sympletic manifold with sympletic closed non-degenerate two form defined; (9) to define conserved quantity, one defines symmetries of a Hamiltonian dynamical system with energy function, and Noether's theroem; (10) to remove restriction on symplectomorphisms since must be same direction, one uses a Lagrangian correspondence or Lagrangian submanifolds to remove the dimension restriction; (11) to generalise symplectic geometry, one defines Poisson geometry but not compatible with Lagrangian correspondences as morphisms; (12) to define orgdinary momentum in symplectic manifold, one defines a moment map using Hamiltonian maps which lifts to equivariant map of Lie algebras and comoment maps; (13) to calculate area of the two sphere, one can do a moment map calculation this can be done to obtain the area of the cylinder between the two z-values; (14) to do linear algebra, exterior algebra, pullbacks, interior products, one defines a Hamiltonian K-manifold; (15) to generalise Darboux theorem, one use Morese theory to define an equivariantly closed differential form, this is introduced in Atiyah and Bott; (16) to interpret linearisastion of an action, the moment map can be thought of in terms of an infinitesimal linearisation or a lift to a vector bundle; (17) to ensure that quotients are well defined, where free actions means symplectic structure is admitted, one defines symplectic qupotitent as preimage of moment map on 0, quotiented out by the Hamiltonian K-manifold; (18) to give an example of symplectic quotient; the product of unit two spheres with diagonal action of K = SO(3) is the moduli space of closed n-gons with lengths rescaled by lambda or eigenvalues, where the moment maps sends each point to some sort of trace; (19) to describe compatibility with complex structure, one has Kahler manifolds see page 18;
 
-https://srln.se/presentation.pdf, notes on Galois theory with an introduction to etale pi 1: (1) to prove the fundamental theorem of Galois theory as a fucntor: (1) one has the opposite category of finite etale k-algebra, etale is isomorphic to finite product of separable extensions K_i of k, then the opposite category to finite left Gal(k)-sets taking A to hom_k(A, k_s) so this is an antiequivalence of categories; (2) to choose an absolute Galois group, one must choose a separable closure; (3) to define the fundamental theorem of Galois theory, one must use limits of finite etale algebras or union of all finite separable extensions; (4) to study the fundamental group and its action, one must study the monodromy action of pi_1(X, x) acting on the fbre preimage(x), this will be a path from y to another point in the fibre over X, defining a permutation of the fibre; (5) to study topology of Galois theory,one can have the main theorem of covering theory where coverings of topological space X is equivalent to left pi_1(X,x)-sets; restrict to finite covers means these are continuous left profinite completed left pi_1(X,x) sets; (6) to define Galois categories, one uses the fundamental covering tehory with a functor called the fibre functor lifting the category to G-sets; (7) to define the etale fundamental group, one defines etale_pi^1(X, bar x) to be G or automorphisms of the fibre functor; (8) to study anabelian schemes, they must be reconstructibel from their fundamental group under various definitions of smoothness, this is the content of anabelian geometry;
+https://srln.se/presentation.pdf, notes on Galois theory with an introduction to etale pi 1, extremely amazing introduction to Galois categories and etale pi 1: (1) to prove the fundamental theorem of Galois theory as a fucntor: (1) one has the opposite category of finite etale k-algebra, etale is isomorphic to finite product of separable extensions K_i of k, then the opposite category to finite left Gal(k)-sets taking A to hom_k(A, k_s) so this is an antiequivalence of categories; (2) to choose an absolute Galois group, one must choose a separable closure; (3) to define the fundamental theorem of Galois theory, one must use limits of finite etale algebras or union of all finite separable extensions; (4) to study the fundamental group and its action, one must study the monodromy action of pi_1(X, x) acting on the fbre preimage(x), this will be a path from y to another point in the fibre over X, defining a permutation of the fibre; (5) to study topology of Galois theory,one can have the main theorem of covering theory where coverings of topological space X is equivalent to left pi_1(X,x)-sets; restrict to finite covers means these are continuous left profinite completed left pi_1(X,x) sets; (6) to define Galois categories, one uses the fundamental covering tehory with a functor called the fibre functor lifting the category to G-sets; (7) to define the etale fundamental group, one defines etale_pi^1(X, bar x) to be G or automorphisms of the fibre functor; (8) to study anabelian schemes, they must be reconstructibel from their fundamental group under various definitions of smoothness, this is the content of anabelian geometry; (9) to define Galois categories, these are continuous left G-sets on a profinite group, then G is the fundamental group of the Galois category, with a fibre lifting from G. = Aut(Fibre functor) from C to G-sets;
 
 https://web.math.princeton.edu/~kollar/FromMyHomePage/modbook-final.pdf, Kollar's book on varieties
 
@@ -751,7 +779,7 @@ https://math.uchicago.edu/~amathew/ATnotes.pdf, notes from Mathew and Hopkins on
 
 https://math.uchicago.edu/~amathew/notes.html, general Akhil Mathew notes
 
-https://people.math.harvard.edu/~dafr/M392C-2012/Readings/Hopkins.pdf
+https://people.math.harvard.edu/~dafr/M392C-2012/Readings/Hopkins.pdf, algebraic topology and modular forms.
 
 https://wstein.org/books/modform/modform/, Stein’s book on modular forms.
 
