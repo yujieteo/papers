@@ -328,11 +328,29 @@ https://merrickcai.com/pdfs_notes/Differential%20graded%20algebras.pdf, differen
 
 https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/cab89a135e857d1dca92425bf22ade36_MIT18_905F16_lec8.pdf, relative homology notes;
 
-https://www.math.ucla.edu/~balmer/Pubfile/Gluing.pdf; (1) gluing is Mayer-Vietoris;
+https://www.math.ucla.edu/~balmer/Pubfile/Gluing.pdf; (1) gluing is Mayer-Vietoris; (2) to study algebraic geometry, one can study its incarnation as tensor triangulated categories; (2) to define supports in a reasonable way, one eneds to define the spectrum of a triangulated category, with the sphere spectrum as an initial object; (3) to make arestriction functor, one forms the presheaf of triangulated category by taking the idempotent completion of the Verdier quotient K/K_Z where K is a triangulated category and K_Z is a subcategory of those supp(a) in Z and ought to disappear on U, then localisation an idempotent completion gives restriction; (4) to solve the problem of gluing trinagulated categories K1 and K2 over K12, one uses the Mayer-Vieterosi long exact sequence to get an isomorphism of a_1 in K_1 to a_2 in K_2 in K_12, this gluing is unique up to unique isomorphism; (5) to do Brauer groups of Azumaya algebras, one can do Mayer Vietoris on Picard groups, see page 3; (6) to define excision, one can see it at a variant of Mayer Vietoris;
 
-https://www.fuw.edu.pl/~urbanski/Suszek_cz.pdf,c comparison of abelian gerbes to Lagrangians;
+https://www.fuw.edu.pl/~urbanski/Suszek_cz.pdf, comparison of abelian gerbes to Lagrangians;
 
-https://aimath.org/WWN/buildings/nadler.pdf, Nadler notes on Langlands in 5 pages, this is really cool;
+https://aimath.org/WWN/buildings/nadler.pdf, Nadler notes on Langlands in 5 pages, this is really cool, fastest introduction to geometric Langlands and geometric Satake; (1) to construct the dual group, one uses a geometric Satake to geometrically construct a reductive group; (2) to solve the problem of converting reductive groups over the complex numbers to be described as numbers, rings or categoriues, one can use geometric Satake; (3) to understand geometric Satake, one can work out the Cartan decomposition of the Grassmanian of a reductive group Gr_G = G(K)/G(O), then the combinatorics of the representation theory of the reductive group encodes convolution as tensor product, and MV cycles as weight multiplicities; (4) to define perverse sheaves, one uses category theory to say that perverse sheaves as abelian categories are equivalent to the dual of the reductive group; (5) to study the basic example of the Grassmannian of a reductive group, one studies GL_1, then Gr_G is isomorphic to Z as a topological space, we care only about the order of the pole, then the perverse sheaves are assigned a finite dimensional vector spaces i.e. Perverse sheaves of GL_1(O) of Grassmannian Gr_G is isomorphic to Z-graded vector spaces which are the representations of the reductive group; (6) to do G(O)-equivariant geometry on Gr_G for GL_1, replace it with GL_1(O)\Z or a groupoid, which is C^cross or S_1, and replace Z with C_P; (7) to find a new Satake category, the Z is replaced with copies of CP^\ifty which are differential graded C[u]-modules; (8) to do the spectral side, one maps graded dg C[u] modules to be equivalent to graded dg C oplus C modules; (9) to describe the main example from Drinfeld: the set of all G(O) equivariant sheaves on the grassmannians is equivalent to G-dual-equivaraint dg C oplus C gV[1]-modules, this is very complicated; (10) to do homological mirror symmetry or harmonic analysis on locally symmetric spaces, one uses the geometric satake; (11) to define locally symmetric spaces, one take Bun_G(C) or the space of all principal G-bundles on C, G = GL_1, then Bun_G(C) is the space of all line bundles n C; (12) to describe Bun_G(C), one can use adeles to remove enough points so tha tthe G-=bundle is trivial; (13) to do harmonic analysis, potential eigenvalues are in the form of Rep(G_dual) to vector space under the Satake action;
+
+https://www.math.ucla.edu/~balmer/Pubfile/RATM.pdf, Artin-Tate motives;
+
+https://wstein.org/books/modform/modform/, modular forms a computational approach;
+
+https://github.com/williamstein/bsd/blob/master/main.pdf, BSD by Stein;
+
+https://wstein.org/books/ent/ent.pdf, elementary number theory by William Stein in 172 pages;
+
+https://wstein.org/books/ribet-stein/main.pdf, Ribet and Stein modular forms in 283 pages;
+
+https://wstein.org/books/sagebook/sagebook.pdf, SAGE for Power Users, in 147 pages;
+
+https://wstein.org/books/ant/ant.pdf, algebraic number theory, comp approach in 215 pages;
+
+https://www.math.ucla.edu/~balmer/Pubfile/PmMfAm.pdf, permutation modules, mackey functors and artin motives introduction in 31 pages;
+
+https://www.math.ucla.edu/~balmer/Pubfile/TT-Perm.pdf, visual geometry of permutation modules in 76 pages;
 
 https://www.jmilne.org/math/articles/2003b.pdf, gerbes and abelian motives by Milne;
 
