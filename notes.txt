@@ -354,6 +354,24 @@ https://www.math.ucla.edu/~balmer/Pubfile/TT-Perm.pdf, visual geometry of permut
 
 https://www.jmilne.org/math/articles/2003b.pdf, gerbes and abelian motives by Milne;
 
+https://ncatlab.org/nlab/files/lurie.pdf, 2 page geometric Langlands;
+
+https://arxiv.org/pdf/2511.09553, 14 pages on categorification of sheaf theory by Stefanich;
+
+https://gstefanich.github.io/Chern1.pdf, 5 pages on Chern classes;
+
+https://arxiv.org/pdf/2311.04515, Stefanich, 1-affineness, Tannakian duality in 66 pages;
+
+https://gstefanich.github.io/Chern2.pdf, 6 pages on Chern classes in equivariant K-theory, Stefanich;
+
+https://gstefanich.github.io/HH.pdf, 12 pages and derived Morital theory;
+
+https://gstefanich.github.io/Thesis.pdf, Stefanich thesis on higher quasicoherent sheaves which are higher enriched categories;
+
+https://math.uchicago.edu/~may/REU2022/REUPapers/Fang,Xingzhu.pdf, geometric Satake in REU paper, 26 pagess;
+
+https://arxiv.org/pdf/1703.07288, geoemtric Satake equivalence in 115 pages;
+
 https://makoba.gitlab.io/ws2021-algebraic-groups-actions/group-actions.pdf, 3 page summary of algebraic group actions;
 
 https://max-mornev.github.io/et/BrauerGroups.pdf, summary on Brauer groups;
