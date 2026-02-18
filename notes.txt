@@ -836,3 +836,63 @@ https://drive.google.com/file/d/1AP04RkR-_L7YvUKI_Hah3lxU6t5IWmiM/view, quiver v
 https://drive.google.com/file/d/1HcIzPNfEc1ImxyCepO7a74_ngWddCVhE/view, Kahler Huybrechts
 
 https://indico.math.cnrs.fr/event/5382/attachments/2589/3743/Thomas_Course.pdf, Vafa-Witten algebraic geometry
+
+https://www.lri.fr/~pons/docs/HDR.pdf, permutohedra associohedra
+
+https://arxiv.org/pdf/2211.04866, Banach halos
+
+https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/a/189/files/2023/01/Notes-on-conformal-field-theory.pdf, Tate k vector space
+
+https://www.people.sissa.it/~mbersht/CFT/2019/Lectures2019.pdf, Virasoro algebra
+
+https://people.maths.ox.ac.uk/joyce/kytalk3.pdf, Kuranishi algebra
+
+https://www.physics.rutgers.edu/~gmoore/618Spring2019/GTLect2-LinearAlgebra-2019.pdf, linear algebra operating manual, 284 pages
+
+https://jpwolfson.com/wp-content/uploads/2013/02/mrl_23_06_a02.pdf, Hochschild homology with Tate k vector spaces
+
+https://arxiv.org/pdf/2301.11346, trace methods for coHochschild homology
+
+https://alainconnes.org/wp-content/uploads/Hochschild-homology-trace-map-and-%CE%B6-cycles-2023.pdf, Hochschild homology 
+
+https://arxiv.org/pdf/2411.04743, linear K theory
+
+https://www.ma.imperial.ac.uk/~anskor/orient_today.pdf, Brauer groups cohomological definition
+
+https://www.numdam.org/article/ASENS_1968_4_1_1_149_0.pdf, Tate residues of differentials
+
+https://dirdi.org/wp-content/uploads/2023/03/qfktgc-article.pdf, quadratic forms, K theory and Galois cohomology
+
+https://arxiv.org/pdf/2503.07136, birational motives
+
+https://www.claymath.org/library/monographs/cmim02.pdf, motivic cohomology with finite coefficient truncated is Galois cohomology
+
+https://math.berkeley.edu/~avizeff/seminars/motivic-cohomology-talk.pdf, distillation of motivic cohomology, relation to Tate isomorphism
+
+https://arxiv.org/pdf/2001.11622, K(1) localisation of algebraic K theory
+
+https://arxiv.org/pdf/math/0203106, motivic Haar measures
+
+https://people.math.harvard.edu/~mpopa/571/chapter6.pdf, motivic integration
+
+https://www.ams.org/journals/proc/1997-125-07/S0002-9939-97-04106-3/S0002-9939-97-04106-3.pdf, virtual cohomology on Coxeter groups
+
+https://ctnt-summer.math.uconn.edu/wp-content/uploads/sites/1632/2016/02/Xiao.pdf, quaternion algebra and reciprocity
+
+https://arxiv.org/pdf/1707.01799, topological cyclic homology
+
+https://cmsa.fas.harvard.edu/media/Kim-3-nopause.pdf, class field theory and Langlands reciprocity
+
+https://youtu.be/9qlqVEUgdgo?si=GrKe_j-oElxPcGd0, Connes on doing math
+
+https://documentserver.uhasselt.be/bitstream/1942/23769/2/Octonions5.pdf, octonions notes,
+
+https://people.maths.ox.ac.uk/horawa/math_631.pdf, Mustata algebraic geometry
+
+https://www.homepages.ucl.ac.uk/~ucaheps/notes/algebraic%20geometry.pdf, algebraic varieties, Ed Segal so very accessible, no number theory
+
+https://www.homepages.ucl.ac.uk/~ucaheps/notes/Group%20Representation%20theory%202014.pdf, group rep Ed Segal
+
+web.science.mq.edu.au/~street/CT90Como.pdf, Joyal Street Tannakian
+
+https://arxiv.org/pdf/1304.0979, sigma injectivity
