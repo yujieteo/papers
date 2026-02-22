@@ -934,3 +934,51 @@ https://www.homepages.ucl.ac.uk/~ucaheps/notes/Group%20Representation%20theory%2
 web.science.mq.edu.au/~street/CT90Como.pdf, Joyal Street Tannakian
 
 https://arxiv.org/pdf/1304.0979, sigma injectivity
+
+https://people.mpim-bonn.mpg.de/gaitsgde/GLOH_2020/NotesFrenkelFeb3.pdf, analytic Langlands
+
+https://math.berkeley.edu/~frenkel/loop.pdf, Langlands loop groups
+
+https://www.homepages.ucl.ac.uk/~ucaheps/topics/BlowUps.pdf, Blow ups Richard Thomas
+
+https://arxiv.org/pdf/math/0501398, opers
+
+https://arxiv.org/pdf/math/9902068, opers and differential equation with Ben-Zvi
+
+https://arxiv.org/pdf/hep-th/0512172, notes on Langlands by Frenkel, differential equations on Hecke operators.
+
+https://kerodon.net/kerodon.pdf, Kerodon pdf
+
+https://dmitripavlov.org/nyuad.pdf, geometric cobordism hypothesis
+
+https://indico.math.cnrs.fr/event/5382/attachments/2589/3779/Pandharipande_Course.pdf, Rahul course
+
+https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1094.html
+
+https://mathoverflow.net/questions/253010/why-study-higher-sheaf-cohomology/253051#253051, Sawin's answer on why care about higher sheaf cohomology, (1) allows Dolbeault cohomology for classification problems.
+
+https://mathoverflow.net/questions/201853/why-is-differential-galois-theory-not-widely-used/201859#201859, Sawin's answer on differential Galois theory; (1) one piece controls everything
+
+https://mathoverflow.net/questions/263223/arithmetic-morse-theory/263224#263224, Lefschetz pencils is Morse theory, take smooth proj variety map to projective line, make critical points simple, apply vanishing cycles theory to this
+
+https://mathoverflow.net/questions/344746/smooth-vs-regular-vs-non-singular/344749#344749, regular means dim of Zar tangent space is equal to dim at that point, smooth is fibrewise over geo points regular flat and locally of finite presentation, smooth over base scheme so smooth is property of schemes, a map of two reg schemes can fail to be smooth, so reg is a scheme property
+
+https://sanathdevalapurkar.github.io/files/calculus-and-cohomology.pdf, geometric satake stuff
+
+https://pi.math.cornell.edu/~erin/analysis/lectures.pdf, Holder proof
+
+https://pi.math.cornell.edu/~erin/docs/distributions_oh.pdf, introduction to dist theory
+
+https://lebras.perso.math.cnrs.fr/Notes_workshop_all.pdf, notes on Arakelov geometry
+
+https://arxiv.org/abs/0907.4226, Madsen-Weiss for geometric topologists
+
+https://www.math.uchicago.edu/~may/EXTHEORY/MaySig.pdf, May and Sigurdsson for infinity category theory
+
+https://www.youtube.com/live/w4foQ_0iMSI?si=rG17jG5RTD5kd6zM, talk on how to make the category of schemes. (1) The category of schemes is not abelian. One wants to do algebraic K-theory to make it abelian like somehow. (2) 
+
+https://web.stanford.edu/~dkim04/writings/notes/spencer-probabilistic-methods.pdf, probabilistic methods
+
+https://arxiv.org/pdf/0903.0517, spreading out by Serre for Ax-Grothendieck
+
+https://arxiv.org/pdf/2504.15542, Igusa stacks
