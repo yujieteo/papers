@@ -982,3 +982,31 @@ https://web.stanford.edu/~dkim04/writings/notes/spencer-probabilistic-methods.pd
 https://arxiv.org/pdf/0903.0517, spreading out by Serre for Ax-Grothendieck
 
 https://arxiv.org/pdf/2504.15542, Igusa stacks
+
+https://arxiv.org/abs/1107.6032, fixed point theorems, in general IMPORTANT.
+
+https://isft2023.sciencesconf.org/data/LTakhtajan.pdf, best proof of Atiyah-Singer
+
+https://math.stackexchange.com/questions/281807/two-definitions-of-limsup, lim sup is inf of sup
+
+https://arxiv.org/pdf/1103.5628, knot theory book
+
+https://runegha.folk.ntnu.no/iopd.pdf, Hauseng notes on operads
+
+https://desyncthethird.github.io/Reference-Book/Reference.pdf, book with everything for undergraduate math
+
+https://warwickmathssociety.com/module-guides, short notes for undergrad math
+
+https://www.tandfonline.com/doi/abs/10.1080/00927879108824246, Noetherian semilocal commutative ring can arise as Artinian modules
+
+https://people.math.ethz.ch/~rahul/Zassenhaus-I.pdf, Pandharipande slides on Witten theory introduction to SW in theory
+
+https://arxiv.org/pdf/1803.08585, Goncharov polylog motivic correlators to calculate algebraic K theory
+
+https://arxiv.org/pdf/2105.06426 Goncharov 
+
+https://arxiv.org/abs/math/0407308, Goncharov regulators for algebraic K theory
+
+https://arxiv.org/pdf/math/0510310, Goncharov starting paper
+
+https://arxiv.org/abs/2106.11115, Lawvere theory in Appendix A of these notes for a quick sketch
