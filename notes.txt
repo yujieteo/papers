@@ -1010,3 +1010,86 @@ https://arxiv.org/abs/math/0407308, Goncharov regulators for algebraic K theory
 https://arxiv.org/pdf/math/0510310, Goncharov starting paper
 
 https://arxiv.org/abs/2106.11115, Lawvere theory in Appendix A of these notes for a quick sketch
+
+https://math.uchicago.edu/~dannyc/notes/scissors.pdf, Calegari notes
+
+https://math.rice.edu/~michael/teaching/426_Spr14/ultrafilter.pdf, exposition of ultrafilters
+
+https://www.math-beb.net/wp-content/uploads/2021/07/1102.1150.pdf, obstruction theory in DAG
+
+https://cel.hal.science/cel-00963631v2/document, Roth's theorem and regularity argument
+
+https://www.sayantankhan.io/pages/pdfs/notes/roth.pdf, circle method Roth
+
+https://sites.math.northwestern.edu/~jnkf/classes/mflds/, Cobordism notes
+
+https://sites.math.washington.edu/~mitchell/Atop/cw.pdf, CW complex
+
+https://philpuetzstueck.gitlab.io/documents/sheaves-on-manifolds.pdf, sheaves on manifolds
+
+https://alainconnes.org/wp-content/uploads/foliationsfine.pdf, foliations survey
+
+https://arxiv.org/pdf/math/0404128, physics
+
+https://alainconnes.org/wp-content/uploads/The-scaling-site-2016.pdf, Scaling site, very short article, endow category C with Grothendieck topology, objects are possibly empty bounded open intervals morphisms are given by hom for n in multiplicative group of naturals such that nOmega in Omega’ for Omega to Omega’, category admits pullbacks via lcm. Has pullbacks, just provide basis for open covers. This is Grothendieck topos, points defined over boolean are in canonical bijection of Adele class space whose Archimedean component vanishes. Legendre transform is used to describe the reduced smearing in extension of scalars.
+
+https://alainconnes.org/wp-content/uploads/GeomoverF1.pdf Arakelov geometry for geometric interp. of zeroes of zeta. Functor of extension of scalars, from category of until commutative k-algebra. Extends to category of schemes. Idea is Chevalley group schemes give rise to affine varieties over extension of F_1. Root systems introduction, data given by lattice or free abelian group of finite rank, this is the group of weight, a finite subset of the lattice that is a set of roots, and a Z-valued linear form for each root, this is the chroot associated with the root.
+
+https://arxiv.org/pdf/math/0404185, introduction to the geometry of F1.
+
+https://alainconnes.org/wp-content/uploads/Qlattices-1.pdf, physics to number theory via non commutative geometry
+
+https://alainconnes.org/wp-content/uploads/whySM.pdf, Standard model, based on gauge invariance principle, U(1) * SU(2) * SU(3), pick reps for fermions and bosons. Spectral geometry, classify irreducible triplets (A,H,J). Basically it is the fermion doubling problem, need K-theory dim 6. Need quaternions for construction, massless photon.
+
+https://alainconnes.org/wp-content/uploads/poincareseminar2007.pdf, Lorentzian metric a requires curved space time, with Einstein-Hilbert action principle or integral. Classically to quantum requires probability amplitude to be exp(I S(A) /h). Noncommutative space comes from semi direct product where you need space of diffeomorphisms of Map(M,G) semi direct product with Diff(M), G is gauge group, U(1) * SU(2) * SU(3). Non-commutative space, x^mu no longer satisfies simplifying commutative rule, order 	of terms is irrelevant to product. Example he thinks about it is to have easy automorphisms f in A mapping to ufu’, where u is invertible element in A, and these are the inner automorphisms, forming inner auto so that we have Out(A) = Aut(A)/Inn(A) as exact sequence. Noncommutative geometry do not focus on g_munu, but focus on Dirac operator D, extract square root of Laplacian, get ds = 1/D, spectral geometry is A, H, D. It is even if H is endowed with Z/2 grading. Traditional notions of geometry all have spectrum. Dim spectrum, dim spectrum is simple etc. Inner autos decompose full auto into equivalence classes modulo inner. Observables means those are observable in gravity are invariant under the gauge group. Dirac operator definition, self adjoint operator in Hilbert spaces commuting with J_F, C_F, anti-commuting with Gamma_F, and fulfil one more condition. Commutation with C_F ensure one gauge vector boson is massless. Table 1 conversion from spectral action to Standard Model.
+
+https://alainconnes.org/wp-content/uploads/
+bookwebfinal-2.pdf, Alain Connes full book. First change of paradigm is a real variable, quantum mechanics need to do a self adjoint operator, choice of Hilbert space is irrelevant since all separable infinite dim Hilbert spaces have isomorphism. Spectral multiplicity gives the number of time a real number is reached. Physicists had a clear intuition of this analogy between operators in Hilbert space and variables. Self adjoint operator is real, complex variable is [a ,a*] operator = 1, we have a*a - aa* = 1, Spec(aa*) is integers, the reason Spec^*(AB) = Spec^*(BA). The Boltzman state, Beta = 1/kT, phi(A) = Z^{-1} tr(A exp(-beta N)), then Z is normalisation. Evolution of observables from A mapping to exp*(itH) A exp(-itH), this is the Heisenberg evolution. Three types of factorisation, Type I is factor as tensor product, Type II is amazing. Kubo-Martin-Schwinger condition, there was a mathematical way to write down the relationship to write down the a relation of the Boltzmann state and Heisenberg evolution. What is going on, the trace property gives a property to permute exp(itH) recall that there is permutation which is conjugate by exp(itM). Tomita-Takesaki, proved that M a von Neumann algebra, phi a faithful normal state on M, then there exists on element in the automorphism of von Neumann algebra that fulfils the KMS condition, if you are in the Boltzman-Gibbs state you get the Heisenberg evolution, and it is well defined. Connes’ thesis, April 1872, 1 -> Int(M) -> Aut(M) -> Out(M) -> 1, then there is a von Neumann algebra, has a canonical evolution from R to Out(M), this is given by the KMS condition, and the Tomita-Takesaki theorem. He also found reduction of Type III to Type II by factorisation. Foliation is a local factorisation. At the local level a foliation decomposes any small open sets as … you can write it locally as a product of a segment by 2D piece. For a foliation, you do not want to retain the fact the elements on this piece are on the same height, you want to retain the fact that it has split into plaques. The plaques fit together to form leaves. When you move along a plaque you are moving along a leaf. If you have a foliation, when you find up that are constant along the leaves, there are no functions that are constant along the leaves. Random operator for each leaf (T_f) it is a family, operator T_f acting in L^2(f), q-number valued functions. You have to say they are bounded, you get an abstract von Neumann algebra? The Von Neumann algebra, you want a measure theory, topology, and differential geometry. Godbillion-Vey, take fundamental class of the leaf space and canonical time evolution of the von Neumann algebra of the foliation. The trnasverse fundamental class of the leaf space is given by the one dimensional cyclic cocycle which corresponds to integration of transverse 1-forms. The time evolution of the von Neumann algebra of the foliations is the algebraic counterpart of its non-commutativity. The leaf space of a foliation can have higher cohomological dimension than the naive value, or the codimension of the foliation. Noncommutativity generates time. Randomness, cannot predict where it will land. I saw Tao's on this as the position momentum tradeoff. Noncommutativity is the origin of this randomness, when one permutes A and B, you make it evolve in time, and one evolves it by i.
+
+https://alainconnes.org/wp-content/uploads/walkNCGgarden.pdf, walk in NCG garden
+
+https://alainconnes.org/wp-content/uploads/char1absolutepoint.pdf, working in characteristic 1, idea is to replace R with locally compact semi field R_+^nmax, which means idempotent analysis replace real analysis, and tropical geometry replace geometry over complex numbers, this is the schedule algebra or max plus algebra. Frobenius becomes more transparent. Frobenius is additive since x -> x^lambda, since monotonic and compatible with max(x,y), classification of local fields with positive char, reduces to class of finite fields with positive char. Starting point is free energy interns of entropy from variational principle, as log(exp(a) + exp(b)) as sup of partition of 1, then reconstruct addition 1. Use existing results in idempotent analysis and tropical analysis to develop local math in char 1. Basic examples are Chevalley group schemes, admit cell decomposition in toric varieties. Adele class space of global field of a. Monoid, from functor associating monoid of category of commutative monoids the set of points defined over the monoid, one can evaluate any cheek over F_1 over such a monoid.
+
+https://alainconnes.org/wp-content/uploads/cmr0.pdf, KMS states and complex multiplication
+
+https://alainconnes.org/wp-content/uploads/arithmeticsite.pdf, arithmetic site
+
+https://alainconnes.org/wp-content/uploads/scalingsite.pdf, geometric site
+
+https://alainconnes.org/wp-content/uploads/1809.02944-3.pdf, entropy and spectral action
+
+https://alainconnes.org/wp-content/uploads/NCGspectral.pdf, spectral view point on noncommutative algebraic geometry
+
+https://alainconnes.org/wp-content/uploads/conceptualSM.pdf, determining Lagrangian of the fundamental interactions, problem is arbitrariness in Higgs stuff, three ansatz, space time is product of ordinary Riemannian manifold by finite commutative space, K-theory dim is 6 modulo 8, physical action functional is given by spectral action on unification scale. Two conditions, order zero condition, and Z/2 grading on Hilbert space.
+
+https://alainconnes.org/wp-content/uploads/BC-system-absoute-cyclotomypublished.pdf, BC systems introduction
+
+https://alainconnes.org/wp-content/uploads/JAG2020-1.pdf, algebraic geometry summary by Connes
+
+https://alainconnes.org/wp-content/uploads/BC-system-absoute-cyclotomypublished.pdf, BC system survey
+
+https://alainconnes.org/wp-content/uploads/reality.pdf, non-commutativity and reality
+
+https://math.uchicago.edu/~bundles/Uploads/BunG_Seminar_1_4_23.pdf, Rozenblyum introduction,
+
+https://alainconnes.org/wp-content/uploads/thermodynamicsofendomotives.pdf, endomotive thermodynamics
+
+https://alainconnes.org/wp-content/uploads/On-the-Metaphysics-of-F_12024-published.pdf, metaphysics of F1.
+
+https://alainconnes.org/wp-content/uploads/ncgphysics.pdf, BEST PAPER INTRODUCING CONNES’ WORK, noncommutative space admits canonical time evolution since time maters, line elements whose incarnation as Dirac operator, encode ordinary space with less price than commutative algebras, position and momentum can fail commutativity. Type I is ordinary tensor prod composition, type II has trace, Type III is special. Non-commutativity means UAU&* makes sense with alpha, this is an inner automorphism, forming normal subgroup for some canonical homomorphism with time evolution of Out(M) = Aut(M)/Int(M). Her of delta is a subgroup of R or the periods of the manifold M. Quantum mechanics, outcomes are not repeatable, ut probability, there is fundamental randomness. So It is preferred for true randomness. Real variable means one needs to think carefully about coexisting real and discrete variables solution is self adjoint operator in Hilbert space. But continuous and discrete variables do not commute. Spectral dictionary, self adjoint operator H has range of variable as spectrum. Composition means you want measure theory. Bounded complex variable is bounded operator, infinitesimal means you want compact operators. The rest are interesting stuff. Heisenberg, spectrum of P and Q (momentum and position) you get a real line. Get a geometry from purely Hilbert space condition, Dirac assembles momenta into single expression using Dirac operator, via gamma matrices. Riemannian is given as prerequisite, but really they prescribe square of line element ds squared is g_mu nu dx^mu dx^nu, they need unit of length by using wavelength of transition, the reason is localisation means you need it to be sea,, wavelength of hyperfine transition of caesium, spectral, non commuting with coordinates, Dirac operator or inverse Dirac propagator, non commutative, means does not need to be localised. Spectral definition should be used as unit of length. Much better definition of unit length, replaces ds^2 with Riemannian geometry using a subtle square root taken through the Clifford algebra, compact operator has all the properties of infinitesimal. Spectral triples are important, A, H, D, A is not assumed to be commutative, inner autos are internal symmetries of physics. Simple mental picture, sheet of paper, differentiation means one can restrict on either side, this gives the Brout-Englert-Higgs field. fermionic second quantisation, first is algebra, second is action of inner operations, first is Hilbert space, second is Clifford algebra, third is Dirac operator to time evolution of KMS state on Clifford algebra, then spectral action is entropy of KMS state. Second quantised higher level geometry is similar to K-theory. Commutativity of Cartesian coordinates does not hold in the algebra of coordinates on the phase space of a microscopic system. Space time and foliations motivated the general theory. Example, Penrose tilings, space as noncommutative topology, golden ratio comes out by algebra. Noncommutative means you cannot put it in bijective or injective onto the reals. However, K-theory of non-commutative algebra and map it to real numbers but he trace. Map K-theory of Penrose tiling to real numbers you get the golden ratio. Bost-Connes system, round table with several people, as soon as one person makes plate on left, all must take one on the left, similarly on the right, this is the symmetry breaking. The Bost-Connes system has the partition function with the Riemann zeta function. Minus sign appears as naive expression of Riemann zeroes as a spectrum. One should look for an absorption spectrum or absorption lines. Renormalisation, Dirac quantised electromagnetic field. Einstein said energy must be integral multiples of h nu. Kreimer, manipulate Feynman graphs, Hopf algebra. Renormalisation is similar to Birkhoff decomposition, Grothendieck used it to prove vector bundles. It is also related to the Riemann-Hilbert problem. Computing points of topos is non-commutative space! Define action from spectral invariant, scientist’s had a problem, so instead of platinum bar and it did not have constant length, caesium transition. Spectral triple is the shift that occur, by using wavelength of fixed chemical. Action principle allows you to recover gravity coupled with matter by measuring the spectrum of the line element, formula for distance comes from noncommutativity.
+
+https://celebratio.org/connes_a/article/842/, best Connes interview.
+
+https://repo-archives.ihes.fr/FONDS_IHES/I_Prepublications/CONNES/Depuis_1999/M_99_75/M_99_75.pdf, renormalisation and Riemann-Hilbert problem.
+
+https://www.math.fsu.edu/~marcolli/KITPslides.pdf, Connes-Kreimer renormalisation
+
+https://alainconnes.org/wp-content/uploads/geometryquantumCCM.pdf, spectrum of self-adjoint operator of Hilbert space, experiments are not repeatable, can only get probability, true source of randomness. Problem of inverse of line element. Spectral triple, Algebra, Hilbert space, Dirac operator. Extra choice needed to square root, get K-homology. Encode position variable using Feynman slash. Spectral triple is direct sum of irreducible spectral triples associated with components. Quantisation? Sphere of arbitrary shape and unit volume in Planck units? Quantum field theory, Wigner formulated as irreducible representations of the Poincare group. 
+
+https://www.math.uni-bonn.de/people/fintzen/Fintzen_CDM.pdf, rep theory of p-adic groups with crazy stuff
+
+https://alainconnes.org/wp-content/uploads/CDS.pdf, superstring theory is perturbative expansion of M-theory. M-theory can be defined as a matrix quantum mechanics. This is a short introduction of Matrix theory.
+
+https://static1.squarespace.com/static/53f62f0fe4b0a7a51b059df3/t/54124622e4b0ae5352b84ed0/1410483746539/mosaic.pdf, Jack Morava
+
+https://www.math.ku.dk/english/calendar/events/masterclass-continuous-k-theory/Clausen1.pdf, three perspectives of Deligne cohomology
