@@ -1159,3 +1159,33 @@ https://cameroncounts.wordpress.com/wp-content/uploads/2017/03/pgts.pdf, permuta
 https://cameroncounts.wordpress.com/wp-content/uploads/2013/12/cg.pdf, classical groups
 
 https://cameroncounts.wordpress.com/wp-content/uploads/2013/12/ec.pdf, enumerative combinatorics
+
+https://arxiv.org/pdf/1703.02325, Connes, Abelian category, morphisms, semiadditive
+
+https://arxiv.org/pdf/1607.03089, good visuals for fibre bundles in physics, important to read
+
+https://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/deninger3.pdf, Deninger
+
+https://emis.de/ft/10155, Deninger analogies
+
+https://www.math.utoronto.ca/ivrii/Victor_Ivrii_Microlocal_Analysis,_Sharp_Spectral_Asymptotics_and_Applications.pdf, microlocal analysis treatise
+
+https://friedl.app.uni-regensburg.de/papers/1at-total-public-october-14-2022.pdf, topology full treatise
+
+https://abel.math.harvard.edu/~gross/preprints/ggp9.pdf, Gan-Gross-Prasad survey, read after Bump
+
+https://viasm.edu.vn/Cms_Data/Contents/viasm/Media/file/viasm_2016.pdf introduction to Deligne-Lustzig theory.
+
+https://www.math.iitb.ac.in/~dprasad/dl-notes.pd, Prasad notes on representation theory 
+
+https://people.math.harvard.edu/~gross/preprints/gan-epilogue.pdf, Gan Gross Prasad epilogue
+
+https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1571-04.pdf , Hida-Mazur theory, knots braids and primes
+
+https://people.mpim-bonn.mpg.de/zagier/files/cntp-3-2/fulltext.pdf, Chern-Simons theory
+
+https://www.mn.uio.no/math/personer/vit/rognes/papers/bergen10.pdf, stable homotopy theory by Rognes
+
+https://www.uio.no/studier/emner/matnat/math/MAT9580/gamle-undervisningsressurser/varen-2017/documents/spectra.pdf, chromatic homotopy theory by Rognes
+
+https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/chromatic.pdf
