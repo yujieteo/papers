@@ -1189,3 +1189,9 @@ https://www.mn.uio.no/math/personer/vit/rognes/papers/bergen10.pdf, stable homot
 https://www.uio.no/studier/emner/matnat/math/MAT9580/gamle-undervisningsressurser/varen-2017/documents/spectra.pdf, chromatic homotopy theory by Rognes
 
 https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/chromatic.pdf
+
+https://math.uchicago.edu/~may/REU2014/REUPapers/Peng.pdf, Hahn Banach separation theorem
+
+https://arxiv.org/pdf/1407.5782, Gabber points in algebraic topology;
+
+https://stacks.math.columbia.edu/download/homology.pdf, stacks prject homological algebra: preadditive category, endow morphism set with abelian group with bilinear composition, additive if functorality is a homomorphism of abelian groups. Lemma 3.2. preadditive x object, TFAE, x is zero object, if zero object exisss, morphism factors through it zero morphism i.e. representability, proof is by trivial abelian group factorisation, zero morphism representability comes from bilienearity in definition of preadditive category. Lemma 3.4, preadditive, pairwise coprod isomorphic to pairwise prod, proof is by commutative diagram of pairwise projections, 
