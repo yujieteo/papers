@@ -1188,7 +1188,7 @@ https://www.mn.uio.no/math/personer/vit/rognes/papers/bergen10.pdf, stable homot
 
 https://www.uio.no/studier/emner/matnat/math/MAT9580/gamle-undervisningsressurser/varen-2017/documents/spectra.pdf, chromatic homotopy theory by Rognes
 
-https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/chromatic.pdf
+https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/chromatic.pdf, Rognes notes on chromatic homotopy theory.
 
 https://math.uchicago.edu/~may/REU2014/REUPapers/Peng.pdf, Hahn Banach separation theorem
 
@@ -1198,7 +1198,7 @@ https://www.its.caltech.edu/~matilde/coll-55.pdf, Connes motives,
 
 https://www.its.caltech.edu/~matilde/MAT1314HS2019.html, NCG introduction by Marcolli.
 
-https://www.its.caltech.edu/~matilde/Ma191Winter2014.html, motives and periods by Marcolli.
+https://www.its.caltech.edu/~matilde/Ma191Winter2014.html, motives and periods by Marcolli. Good summary of dg categories. Enhanced version of derived categories, if isomorphic cohomology then retain homotopy and fix the problems of triangulated categories. However, do note that infinity categories are better. Main idea is pure motives work for smooth projective algebraic varieties, with de Rham, Betti, etale, universal cohomology theory, for NC motives it is smooth and proper dg categories, then you have homological invariants like K theory, Hochschild and cyclic cohomology, you get NC motives. Recall that dg categories have hom-sets complexes of k-mdoules, composition sastisfyin product rule d(f * g) = df * g + (-1)^deg(f) f * dg. Tabuada paper. Tannakian definition, exist K valued fibre functor, K field extension of F, such that exact fiathful tensor functor from C to Vect(K), neutral if K = F. Try example with (C, otimes, 1) using (AbGrp, otimes, 1) for group rep, example they had was C is Rep_F(Gal(C)) afifine group scheme, Gal(C) = Aut^otimes(omega). Supper Tannakian is for Z/Z graded super vector space. Tannakian means I want to do linear algebra. There is also now a parity automorphism. The main thing is to lead to the definition of Tate triples, by Deligne-Milne.
 
 https://stacks.math.columbia.edu/download/homology.pdf, stacks project homological algebra: preadditive category, endow morphism set with abelian group with bilinear composition, additive if functorality is a homomorphism of abelian groups. Lemma 3.2. preadditive x object, TFAE, x is zero object, if zero object exists, morphism factors through it zero morphism i.e. representability, proof is by trivial abelian group factorisation, zero morphism representability comes from bilienearity in definition of preadditive category. Lemma 3.4, preadditive, pairwise coprod isomorphic to pairwise prod, proof is by commutative diagram of pairwise projections
 
