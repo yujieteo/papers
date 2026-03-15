@@ -1299,3 +1299,21 @@ https://dspace.mit.edu/handle/1721.1/116075.2, A Term of Commutative Algebra. Re
 https://mathoverflow.net/questions/255813/applications-of-the-prime-avoidance-lemma, learning about the prime avoidance lemma.
 
 https://arxiv.org/pdf/1405.4527, the arithmetic site by Alain Connes, topos is presehaf topos of functors from the multiplicative semigroup of the positive integers (max as sum, + as product BUT endomorphisms form the product over the semiadditive category). The set of points is computed over the maximal compact subring of the tropical semifield is the noncommutative space Q^\times / adele_Q / Z^\times, adele class space of Q by the action of the maximal compact subgroup Z^* of the idele class group, consider a small category C, denote C^ a topos of contravariant functors from C to the category of sets, N^times be single object End(*) = N^times. Define the arithmetic site as the topos N^times endowed with the structural sheaf that is the compactiifcation of the natural numbers, infimum and + viewed as a semiring of the topos. Recall that a point of a topos is a geometric morphism from the topos of sets to T. A cont function induces direct and inverse image between Grothendieck topoi of sheaves, so a geometric morphism is a pair of adjoint function, so that direct image preserves finite limits. If inverse image has exceptional pushforward as left adjoint instead, it is an essential geometric morphism. Since Grothendieck topoi satsifies Freyd's adjoint functos, Grothendeick topoi with all small colimits must have a right adjoint, so for Groth. topos can be defined as a functor called direct image, preserving finite limits, all small colimits, under Freyd's adjoint functor theorem. Example is categorification of morphisms of locales.
+
+https://arxiv.org/pdf/1407.5782, points in F1 and what sort of topologies
+
+http://cm2vivi2002.free.fr/AC-biblio/AC-biblio79.pdf, theta-summable Fredholm story around cyclic (co)homology/traces from Connes
+
+https://arxiv.org/pdf/math/0409520, Marcolli NCG notes
+
+https://brownmath.com/stfa/read.htm, reading a math book
+
+https://www.math.stonybrook.edu/~fzheng/seminar-f24/notes/week-5-6.pdf, A_infty algebra dictionary, smooth becomes formally smooth with killing off nilpotent ideals, total space is symemtri algebra, vector fields are derivations, tangent bundles or O(X)-modules of all derivations, cotangent bundle, differential forms.
+
+https://arxiv.org/pdf/1506.08376, one liner proof of weak Nullstellensatz 
+
+https://arxiv.org/pdf/1709.06271, infinity categories
+
+https://math.stackexchange.com/questions/4710666/what-are-the-benefits-of-working-with-smooth-and-admissible-representations, definition of smoothness in representations, definitely true in R, but looks different in Qp
+
+https://arxiv.org/pdf/2109.14594, infinity categories reference by Eugster and Pridham
