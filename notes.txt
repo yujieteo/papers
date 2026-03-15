@@ -348,7 +348,15 @@ https://pbelmans.ncag.info/notes/etale-cohomology.pdf, list of properties of Wei
 
 https://www.math.columbia.edu/algebraic_geometry/stacks-git/topologies.pdf, list of topologies on Stack's project; (1) page 2 gives general procedure on sites; 
 
-http://www-math.mit.edu/~poonen/papers/Qpoints.pdf, Poonen's book on rational pioint: (1) number fields are defined on page 17, with adele rings next;
+https://www.math.mcgill.ca/barr/papers/vst.pdf, basic exposition on Grothendieck topos in about 12 pages. problem is ther eis a circle, and there are rational points on a circle. Set builder notation cabn be used but it is not so useful now.
+
+https://arxiv.org/pdf/2009.14023, facts ont he Scott adjunction. Scott topology where opens are precisely those subsets whose cahracteristic function preserve directed joints. Scott adjunction is left adjoint of functor o fpoints from locales to posets with directed colimit i.e. some sort of free construction.
+
+http://www-math.mit.edu/~poonen/papers/Qpoints.pdf, Poonen's book on rational points: (1) number fields are defined on page 17, with adele rings next;
+
+https://algo.inria.fr/flajolet/Publications/book.pdf, analytic combinatorics 800 page book
+
+http://www-igm.univ-mlv.fr/~berstel/Articles/2008wordsbookMtlUltimate.pdf, Christoffel words
 
 https://www.math.mcgill.ca/darmon/courses/18-19/cft/refs/neukirch.pdf, Neukirch's Class Field Theory;
 
