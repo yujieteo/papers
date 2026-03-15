@@ -336,7 +336,7 @@ https://webusers.imj-prg.fr/~pierre.schapira/ConfSurveys/GrTopAn.pdf, Schapira's
 
 https://webusers.imj-prg.fr/~pierre.schapira/LectNotes/MuShv.pdf, microlocal sheave theory;
 
-https://webusers.imj-prg.fr/~pierre.schapira/LectNotes/ALTOintro.pdf, algebra and topology intro; 
+https://webusers.imj-prg.fr/~pierre.schapira/LectNotes/ALTOintro.pdf, algebra and topology intro; linear algebra over a ring starts with Hom(X,Y), get natural iso Hom(Y, prod X_i) to prod Hom(Y, X_i), this is the fact that hom is right adjoint, and right adjoint preserves limits. Then there is a lot of relations.
 
 https://webusers.imj-prg.fr/~pierre.schapira/LectNotes/CalD.pdf, differential calculus in 60 pages;
 
