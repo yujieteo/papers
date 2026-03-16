@@ -1252,7 +1252,11 @@ https://math.berkeley.edu/~reb/courses/261/all.pdf, Borcherds' notes on Lie theo
 
 https://arxiv.org/pdf/hep-th/9808042, Hopf algebras, renormalisation and noncommutative geometry.
 
-https://math.berkeley.edu/~evans/entropy.and.PDE.pdf, Evans PDEs and entropy notes.
+https://math.berkeley.edu/~evans/entropy.and.PDE.pdf, Evans PDEs and entropy notes. State space is a open convex subset of R^m+1, a C^1 function from state space to reals, S concave, dS/dE > -, S is positively homogenous of degree 1, Sigma is state space, S is entropy of system. E is internal engine, dE/dS is temperature, -dE/dX_k is generalised force or pressure. Prove Gibbs' formula, S = S(E, X_1,... X_m) is fundamental system equation. Example of simple fluid. There are also extensive and intensive parameters. Interpete P dX as infinitesimal work (spectral elements? dual numbers? cotangent?). Equilibrium, positivity of temperature, extensive and intensive parameters. Concavity of entropy, hypothesising the additivity. Convexity of E. Isolated system means entropy max, energy min. Legendre transform is sup(pq - H(p)), L = H*. Comes from some convexity? Energy and entropy not physically measurable, use Legendre transform to convert to intensive variables. Helmholtz free energy, enthalpy and Gibbs potential is defined. Ideal gas model. Capacities notation. Maxwell's relations give first derivatives of thermodynamic potential, energy, free energy, enthalpy, Gibbs potential. Van der Waals fluid.
+
+https://math.berkeley.edu/~evans/math%20170%20notes.pdf, methods of variations, Evans
+
+https://math.berkeley.edu/~evans/math%20195%20notes.pdf, optimisation, Evans.
 
 https://math.berkeley.edu/~vfr/VonNeumann2009.pdf, Von Neumann algebra notes
 
