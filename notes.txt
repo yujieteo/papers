@@ -1327,3 +1327,19 @@ https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geomet
 https://dornsife.usc.edu/aravind-asok/wp-content/uploads/sites/213/2023/10/MATH599.S16.pdf, algebraic geometry from A1 homotopy theory point of view.
 
 https://legacy-www.math.harvard.edu/theses/senior/mathew/mathew.pdf, Galois group of stable homotopy group
+
+https://www.people.sissa.it/~mbersht/CFT/2019/Lectures2019.pdf, Virasoro algebras
+
+https://arxiv.org/pdf/math/9906167, CFT Virasoro intuitive intro to CFT
+
+https://t2r2.star.titech.ac.jp/rrws/file/CTT100830984/ATD100000413/, q-Whittaker thesis
+
+https://arxiv.org/pdf/0711.2812, q-Whittaker, theory of quantum integrable systems 
+
+https://arxiv.org/pdf/1708.01175, Kass-Wickelgren 27 lines
+
+https://arxiv.org/pdf/1008.0129, Borcherds paper on renormalissation and quantum field theory, some interesting topics, causality means a occurs before b, not comparable of spacelike separated, closed reflexive and transitive relation for causality, fd metrizable manifold space time. Causality can be constructed from Lorentz metric with time oreintation. Sheaf of classical fields is the sheaf of smooth of sections of some finite dimensional super vector bundle over space time. Use conventions of super sheaf, suepralgebra, symmetric algebras are that in the super algebra sense. Minus signs should be inserted in formulas whenever the order of two terms is exchanged. Global section of a sheaf of things is a thing (good point), a clasisical field is a global section of the sheaf of classical fields, sections of the dual of the sheaf of classical feilds. Sheaf of classical fields usually comes with bilinear form, so canonical isomorphism with its duals. Sheaf of derivtives of classical fields or simple fields is the sheaf J * Phi = Hom(J, Phi), J is the sheaf of jets of M, Hom is taken over the smooth functions on M, equal to the ivnerse limit of the sheaves of jets of finit order of M, the sheaf of polynomial Lagrangians on composite fields SJPhi is the symmetric algebra of the sheaf J Phi of derivatives of classical fields, sections are pol Lagragians. Pertubative quantum field theories depend on choice of Lagrangian. Sheaf of Lagrangian densities or local sections. Propagator can be though as complex distribution of M x M taking values in the dual of the external tensor product, it has a wave front set, which is a cone in the imaginary cotangent space of the point. Key points in definition of cut propagator (psotivie energy condition) is condition on wave front sets. Basic idea seen in propagator of massive Hermitian scalar fields. Feynman measure is sort of analogue of Haar measure on fd real vector space. Haar measure as an element of the dual of the space of continuously compactly supported functions. For infinite dim, there is not enough, but instead define measure to be an element of the dual of some other space of functions. Feynman measures are something like the elements of the dual of all functions that are given by free field Gaussians * compactly supported action, assign a complex number to each compactly supported action, formally representing the integral over all fields of the action timse a Gaussial exp(iL_F), some sort of analogue of translation invariance? Definition 9 is the key definition for propagators.Problems: ultraviolet divergences. Quantum field theories satisfy Wightman axioms and is determined by Wightman distributions. Ultraviolet group is studied by Connes and Kreimer, ultraviolet group. For any Langragian there is an infinitesimal auto that just multiplies elements by iL, lift to auto exp(iL).
+
+https://arxiv.org/pdf/math-ph/0204014, Borcherds quantum field theory notes
+
+https://www.sciencedirect.com/science/article/pii/000187087190020X?via%3Dihub&__cf_chl_tk=IXCqTUGC67rL0cpezqg8SM9qTntPuy1VubPV.b02aH4-1773670613-1.0.1.1-3KMU4.YfvT3BbdxrWkvloUVeVdl6L5Ip_M5IbZuGGQA, for symplectic geometry.
