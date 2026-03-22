@@ -1502,13 +1502,45 @@ https://arxiv.org/pdf/2409.04677, 400 page introudction to relative Langlands, a
 
 https://arxiv.org/pdf/2102.13459, Fargues-Fontaine geometric Satake. Recommended to read introduction only.
 
-https://arxiv.org/pdf/2102.02245, Siegel modular forms first introduction, sections of naturally defined vector bundles on arithmetic quotients of boundede symmetric domains because ot mirrors the section of a line bundle over a modular stack via the transformation law, allows description of stack quotient by alegbraic group like GL_n, Igusa described ring of scalar-valued Siegel modular forms of degree 2, GL_2, moduli of principal polarized complex abelian surface, moduli of algebraic curves. Siegel modular forms are function on Siegel upper hafl plane, modular group of degree g is automorphism group of symplectic lattice, elements is 2 x 2 matrix a b c d, of 4 g*g blocks using basis e_i and f_i, so gamma = (a, b; c d), scalar valued Siegel modular form is a holomorphic function satisfying some det condition, modular forms are sections of vector bundles using algebraic geometry, let A_g be moduli space of principally polarized abelian varieties of dimension g, DM stack relative dim g(g+1)/2 over Z, A_g has natural hodge bundle with universal principal polarized abelian variety. A_g is important, starting from hodge bundle E can build new vector bundle, irred rep of GL_g defines E_rho by applying Schur funcotr, get determinant line bundle L = deT(E), A_g can be Satake compactified, L is ample line bundle A_g, this is A_g* or Prok(R_k), satisfying inductive property.
+https://arxiv.org/pdf/2512.03648, Brinks condensed group cohomology
+
+https://arxiv.org/pdf/1904.00179, computations of motives.
+
+https://math.stanford.edu/~conrad/papers/luminysga3smf.pdf, worked out examples for reductive groups.
+
+https://pi.math.cornell.edu/~allenk/courses/10spring/7670/notes.pdf, sheaf cohomology notes by Knutson.
+
+https://stacks.math.columbia.edu/tag/01XS, compute cohomology
+
+https://ocw.mit.edu/courses/18-726-algebraic-geometry-spring-2009/da2b637d79c2c9d13d208a04fd47b21c_MIT18_726s09_lec19_cohomproj.pdf, Serre's computation of cohomology of twisting sheaves.
+
+https://math.uchicago.edu/~may/REU2013/REUPapers/Fung.pdf, Serre duality computations.
+
+https://arxiv.org/pdf/2102.02245, Siegel modular forms first introduction, sections of naturally defined vector bundles on arithmetic quotients of bounded symmetric domains because it mirrors the section of a line bundle over a modular stack via the transformation law, allows description of stack quotient by alegbraic group like GL_n, Igusa described ring of scalar-valued Siegel modular forms of degree 2, GL_2, moduli of principal polarized complex abelian surface, moduli of algebraic curves. Siegel modular forms are function on Siegel upper hafl plane, modular group of degree g is automorphism group of symplectic lattice, elements is 2 x 2 matrix a b c d, of 4 g*g blocks using basis e_i and f_i, so gamma = (a, b; c d), scalar valued Siegel modular form is a holomorphic function satisfying some det condition, modular forms are sections of vector bundles using algebraic geometry, let A_g be moduli space of principally polarized abelian varieties of dimension g, DM stack relative dim g(g+1)/2 over Z, A_g has natural hodge bundle with universal principal polarized abelian variety. A_g is important, starting from hodge bundle E can build new vector bundle, irred rep of GL_g defines E_rho by applying Schur functor, get determinant line bundle L = det(E), A_g can be Satake compactified, L is ample line bundle A_g, this is A_g* or Prok(R_k), satisfying inductive property.
 
 https://arxiv.org/pdf/1604.02654, first 20 pages give cohomological view point.
 
 https://arxiv.org/pdf/1907.08783, read first 3 chapters for Siegel modular forms.
 
 https://arxiv.org/pdf/2307.04115, motivic action for Siegel modular forms.
+
+https://arxiv.org/pdf/2401.01446, Vogan notes, need topological vector space, Hausdorff, locally convex, seminorms, sequentially complete first countable.
+
+https://arxiv.org/pdf/1711.08169, computations of PSL(2,R), easy to compute standard basis of Lie algebra of subgroup of PSL(2,R) bounded by unit disk. 
+
+https://arxiv.org/pdf/1512.08296, propose a new approach to tilting modules for reductive algebraic groups in positive characteristic. Lie groups are linked with D-modules.
+
+https://arxiv.org/pdf/0904.1247, use topological field theory and derived algebraic geometry to do representation theory of reductive groups.
+
+https://arxiv.org/pdf/1212.0791, Kazhdan and Lusztig introduce the basis oof the Hecke algebra of a Coxeter system. Soergel bimodule is an object in the additive Karoubian subcategory B of graded R-bimodules generaetd by Bott-Samelson bimodules and their shifts.
+
+https://masaooi.github.io/DL.pdf, warmup example on page 8 with G3, compute conjugacy classes, so 3 irreducible representations, signature character another 1D representation. Remaining representation is by computing on dimension, order of G_3 is 6, 1^2 + 1^2 + r^2 = 6. Introduce a space, introduce a functorial linearisation. Operation that associates to each space X which is functorial in X. Group structure of GL_2(F_q) can be computed.
+
+https://masaooi.github.io/DL.pdf, representation theory of finite groups of Lie type.
+
+https://masaooi.github.io/LAG.pdf, theory of algebriac groups.
+
+https://masaooi.github.io/BT.pdf, Bruhat-Tits theory of p-adic reductive groups.
 
 https://people.mpim-bonn.mpg.de/zagier/files-restricted/doi/10.1007/978-3-540-74119-0/fulltext.pdf, read appendices at the back from Gunter Harder, "A congruence between a Siegel and an elliptic modular form"
 
