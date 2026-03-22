@@ -1514,7 +1514,11 @@ https://ocw.mit.edu/courses/18-755-lie-groups-and-lie-algebras-ii-spring-2024/mi
 
 https://www.math.tecnico.ulisboa.pt/~jnatar/MAGEF-23/trabalhos/Bernardo.pdf, SU3 in physics in 5 pages.
 
-https://arxiv.org/pdf/2512.03648, Brinks condensed group cohomology
+https://arxiv.org/pdf/2512.03648, Brinks condensed group cohomology, foundations of condensed math
+
+https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf, Eisenbud's commutative algebra
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf, Eisenbud's geometry of schemes
 
 https://arxiv.org/pdf/1904.00179, computations of motives.
 
@@ -1663,3 +1667,37 @@ https://arxiv.org/pdf/2207.09929, chromatic nullstellensatz and Lubin-Tate theor
 https://arxiv.org/pdf/2310.17459, K-theory counterexamples.
 
 https://arxiv.org/pdf/2111.10203, higher semiadditive algebraic K-theory and red shift.
+
+https://shmakov.us/docs/Weil/Kloosterman.pdf, Kloosterman sums by Shmakov
+
+https://shmakov.us/docs/Weil/Lefschetz.pdf, Lefschetz theory and Brylinski-Radon transform
+
+https://shmakov.us/docs/Weil/perverse.pdf, l-adic perverse sheaves
+
+https://shmakov.us/docs/Weil/Weil_II.pdf, Weil II, monodromy and purity.
+
+https://shmakov.us/docs/Iwasawa.pdf, Iwasawa theory
+
+https://shmakov.us/docs/LubinTate.pdf, Lubin Tate theory
+
+https://shmakov.us/docs/dilog.pdf, Bloch-Wigner dilogarithms.
+
+https://shmakov.us/docs/Slides/ArithmeticStatistics.pdf, arithmetic statistics.
+
+https://shmakov.us/docs/Slides/CanonicalPaths.pdf, single value iterated integrals.
+
+https://shmakov.us/docs/Slides/LightningSlides.pdf, cohomology of local systems on moduli of abelian varieties.
+
+https://shmakov.us/docs/Slides/Moduli.pdf, examples of moduli of curves.
+
+https://shmakov.us/docs/Slides/Zagier.pdf, Zagier's conjecture and hyperbolic geometry.
+
+https://shmakov.us/docs/Slides/Siegel.pdf, Siegel modular forms, slide based introduction.
+
+https://shmakov.us/docs/Slides/Counting.pdf, Siegel modular forms and point counting of abelian varieties over finite fields.
+
+https://shmakov.us/docs/Slides/WeaklyHolomorphic.pdf, weakly holomorphic modular forms.
+
+https://shmakov.us/docs/Slides/Tate.pdf, Tate's thesis.
+
+https://shmakov.us/docs/Slides/Fourier.pdf, Fourier analysis on R and Q_p, Tate's thesis, S(R) of Schartz functions, C vector space of smooth functions for f^(n) with radpid decay, Pontryagin self dual. Self duality of Gaussian function over R follows by killing off the sine part then computing a cosine integral.
