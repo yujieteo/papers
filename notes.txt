@@ -1790,3 +1790,21 @@ https://shmakov.us/docs/Slides/WeaklyHolomorphic.pdf  weakly holomorphic modular
 https://shmakov.us/docs/Slides/Tate.pdf  Tate's thesis. Gamma_R(S) = pi^(-s/2) Gamma(s/2). Compelte zeta function admits analytic continuation with simple pole at s = 1, residue 1, satisfying the functional equation. J, number field, r_1 r_2 complex places, discriminant Delta k, can write Dedekind zeta function as series, and Euler product, it also admits analytic continuation with simple pole at s = 1, with functional equation. Again an L function, has a series, and a Euler product, again it admits analytical continuation, and a function equation. Let K be number field with ring of integers O_K, for v a place of K, K_v be completion of K at v with valuation O_V, Let A_K be adele ring of K, at finitely many places, consisting (x_v)_v in prod K_v such that x_v in O_v for all but finitely many places. There is diagonal embeddings of K in A_K, K^\times in idele calss group I_K. Local fields K_v with usual topology are locally compact abelian groups which are Pontryagin self dual.
 
 https://shmakov.us/docs/Slides/Fourier.pdf  Fourier analysis on R and Q_p, Tate's thesis, S(R) of Schartz functions, C vector space of smooth functions for f^(n) with rapid decay, Pontryagin self dual. Self duality of Gaussian function over R follows by killing off the sine part then computing a cosine integral. The Gaussian function is self dual as one can check Fix a Haar emasure, and use the self daulity to compute Z_f_infty(s).  Reducing Haar measure -1 gets pi^{s/2} Gamma(s/2) if one uses the integral definition of the Gamma function, so the Haar measure is deeply related to the Gamma function. The integration over Q_p is very easy, get p-1/p when integrating d_x over Z_p^times. There are more examples of computations, essentially it boils down to using Z_p as a coproduct of p^k Z_p^\times and change of variables, then check for convergence. Convergence is important, need to check that sometimes the integral may fail. Definition of conductor on slide 17. One wants self duality, so get the p-adic Gaussian. Likewise, let S(Q_p) be the space of Bruhat-Schwartz functions, C-vector space of compactly supported locally constant function, Q_p is a locally compact abelian group with Pontryagin self duality. Define Fourier transform the exact same way. Use the p-adic Gaussian function and check that it is Fourier self dual. Lastly, one can do Fourier theory over ring of adeles A_q, S(A_q) Bruhat-Schwarz function, again define Fourier transform for exp(- 2 pi i [ux]) dx, inverse, then we have monomial Schwarz function fourier transform preserves product, define global zeta. Define completed Riemann zeta function, again factor of pi^{-s/2} Gamma(s/2) appears when taking Haar measure. Key example is non-holomorphic Eisenstein series, wrok out this nasty example.
+
+https://raphaelponge.org/wp-content/uploads/2023/09/chap1-2.pdf, ideals in comm algebra
+
+https://raphaelponge.org/wp-content/uploads/2023/09/chap2-1.pdf, modules in comm algebra
+
+https://raphaelponge.org/wp-content/uploads/2023/11/chap3.pdf, rings and modules of fractions
+
+https://raphaelponge.org/wp-content/uploads/2023/11/chap4-1.pdf, primary decomposition
+
+https://raphaelponge.org/wp-content/uploads/2023/12/chap5.pdf, integral dependence and valuations
+
+https://raphaelponge.org/wp-content/uploads/2023/12/chap6-1.pdf, chain conditions
+
+https://raphaelponge.org/wp-content/uploads/2023/12/chap7-1.pdf, Noetherian rings
+
+https://raphaelponge.org/wp-content/uploads/2023/12/chap8.pdf, Artin rings
+
+https://gaborszabo.nfshost.com/Slides/2018-11-Banff-IntroCAlg-v3.pdf, slides on C* algebras.
