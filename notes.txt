@@ -1714,7 +1714,7 @@ https://arxiv.org/pdf/1902.04050, slice knot is concordant to unknoot. Concordan
 
 https://arxiv.org/pdf/1705.09989, Gabai lightbulb. Smale classified regular homootpy classes of immersions of 2-spheres into Euclidean space. Develop analogous for imbeddings, immersed spheres. Transverse sphere to immersed surface is sphere with trivial normal bundle, intersects transversely to immerserd surface in single point. Study lemma 2.2 to see how proofs work. Light bulb lemma, presence of transverse sphere, one can do ambient isotopy of surface R without introducing self intersections.
 
-https://arxiv.org/pdf/1604.03466, geometric interpretation of bordered Heegard-Floer homology for manifolds with torus boundary. Recall that cycles are closed chains, kernel of boundary map is zero. 1-cycle is closed curve for example. Boundaries is image of (n+1) dim object. Boundaries are speical, they are cycles bounding an object.
+https://arxiv.org/pdf/1604.03466, geometric interpretation of bordered Heegard-Floer homology for manifolds with torus boundary. Recall that cycles are closed chains, kernel of boundary map is zero. 1-cycle is closed curve for example. Boundaries is image of (n+1) dim object. Boundaries are special, they are cycles bounding an object.
 
 https://arxiv.org/pdf/2302.09016, fusion systems in representation theory
 
