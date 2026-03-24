@@ -24,7 +24,7 @@ https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf  Scholze's paper on Gestal
 
 https://sites.math.washington.edu//~hart/m556/, lectures on Banach spaces;
 
-https://www.fields.utoronto.ca/programs/scientific/08-09/o-minimal/miniworkshops/Prelli.pdf  o minimal program, 99 slides on Sobolev sheaves, good intro to sheaf theory using category of opens, really good example of how one develops a sheaf theory from scratch based on considerations and need to develop a six functor formalism. Important example on opens with and morphism as inclusion in categories. Now use this category as the one where a sheaf of k-vector space, open sets of X are Mod(K), subneighourhoods are global sections (now I understand what sections are intuitively, as constant functions on opens in R), and inclusions are dual to restriction maps via contravariance. Examples of sheaves are holomorphic functions (literally numbers), C^\infty functions (smoothness), distributions (for obvious reasons), L^2 functions and tempered distributions are not sheaves. Need to weakn to less opens or less covers i.e. glue over a lot, need sites, then it may become sheaves. Fiber is directed limit of modules of sections for Mod(k), see slide defining fibre, then these direct limits are equivalence classes under neighbourhood U, recall that these are the subsections, the equivalence class relation here is very vague to be honest, but I have a mental image of these now knowing that U are global sections somehow. Define topological site for subfamily of opens, recall that in definition of sheaf in category of opens you just need open subsets and coverings since we change subn'hoods U into F(U) or Section(U;F) for F sheaf. Finite coverings of U, the U correspond to global sections under coefficients of continuous bounded sections. This is an example of finite coverings, they worked concretely,then define site by opens as subsets of the family, and finite coverings of the family. Now the family is chosen to be open, relatively compact, subanalytic subsets of a real analytic manifold, this is a subanalytic site. Alternatively, one can use oppen definable subsets of N^n given as a O-minimal structure (N, <, ...) or DTOP site. Sheaves are constructed using split exact sequences. Subanalytic sheaves allow us to use tempered holomorphic functions, but direct limits of F(U) or fibres do not exist. However to fix this, need to consider spectral topology since if we only conside fibers associated at points. Consider countable, locally finite covering U_n, with U_n being relatively compact and subanalytic, in U_n consider the ULTRAFILTERS of globally subanalytic subsets (ultrafilters give you more points via surjections), a neighbourhood of an ultrafilter is a globally subanalytic open subset U contained in ultrafilter, oh no you can define a sheaf on it. Call bar X the associated topological space, any covering of relatively compact subanalytic open subset has finite subcover. Therefore to work on fibers one needs to work on sheaves with global sections defined on neighbourhoods of ultrafilters of globally subanalytic subsets so that on ehas enough points, this is the spectral topology. See Prelli's paper, his theorem states that 6 functor formalisms works for sheaves on subanalytic sites.
+https://www.fields.utoronto.ca/programs/scientific/08-09/o-minimal/miniworkshops/Prelli.pdf  o minimal program, 99 slides on Sobolev sheaves, good intro to sheaf theory using category of opens PROBABLY THE BEST INTRO ON HOW TO BUILD SHEAF THEORY FROM SCRATCH, really good example of how one develops a sheaf theory from scratch based on considerations and need to develop a six functor formalism. Important example on opens with and morphism as inclusion in categories. Now use this category as the one where a sheaf of k-vector space, open sets of X are Mod(K), subneighourhoods are global sections (now I understand what sections are intuitively, as constant functions on opens in R), and inclusions are dual to restriction maps via contravariance. Examples of sheaves are holomorphic functions (literally numbers), C^\infty functions (smoothness), distributions (for obvious reasons), L^2 functions and tempered distributions are not sheaves. Need to weakn to less opens or less covers i.e. glue over a lot, need sites, then it may become sheaves. Fiber is directed limit of modules of sections for Mod(k), see slide defining fibre, then these direct limits are equivalence classes under neighbourhood U, recall that these are the subsections, the equivalence class relation here is very vague to be honest, but I have a mental image of these now knowing that U are global sections somehow. Define topological site for subfamily of opens, recall that in definition of sheaf in category of opens you just need open subsets and coverings since we change subn'hoods U into F(U) or Section(U;F) for F sheaf. Finite coverings of U, the U correspond to global sections under coefficients of continuous bounded sections. This is an example of finite coverings, they worked concretely,then define site by opens as subsets of the family, and finite coverings of the family. Now the family is chosen to be open, relatively compact, subanalytic subsets of a real analytic manifold, this is a subanalytic site. Alternatively, one can use oppen definable subsets of N^n given as a O-minimal structure (N, <, ...) or DTOP site. Sheaves are constructed using split exact sequences. Subanalytic sheaves allow us to use tempered holomorphic functions, but direct limits of F(U) or fibres do not exist. However to fix this, need to consider spectral topology since if we only conside fibers associated at points. Consider countable, locally finite covering U_n, with U_n being relatively compact and subanalytic, in U_n consider the ULTRAFILTERS of globally subanalytic subsets (ultrafilters give you more points via surjections), a neighbourhood of an ultrafilter is a globally subanalytic open subset U contained in ultrafilter, oh no you can define a sheaf on it. Call bar X the associated topological space, any covering of relatively compact subanalytic open subset has finite subcover. Therefore to work on fibers one needs to work on sheaves with global sections defined on neighbourhoods of ultrafilters of globally subanalytic subsets so that on ehas enough points, this is the spectral topology. See Prelli's paper, his theorem states that 6 functor formalisms works for sheaves on subanalytic sites.
 
 https://arxiv.org/pdf/1108.6020, Grothendieck-Verdier categories, also called *-autonomous categories, notable example is derived category of constructible sheaves. *-autonomous category or Grothendieck-Verdier cat is monoidal category M, K dualizing object, for every Y in M X -> Hom(X otimes Y, K) is representable by DY in M, i.e. tensor hom adjunctions is representable by mapping into K using object DY in monoidal category, D is a duality functor. These are exploited to great effect by Kashiwara and Schapira. This dualizing object is global in somse sense.
 
@@ -480,7 +480,7 @@ https://wstein.org/books/ribet-stein/main.pdf  Ribet and Stein modular forms in 
 
 https://wstein.org/books/sagebook/sagebook.pdf  SAGE for Power Users, in 147 pages;
 
-https://wstein.org/books/ant/ant.pdf  algebraic number theory, comp approach in 215 pages;
+https://wstein.org/books/ant/ant.pdf  algebraic number theory, computational approach in 215 pages;
 
 https://www.math.ucla.edu/~balmer/Pubfile/PmMfAm.pdf  permutation modules, mackey functors and artin motives introduction in 31 pages;
 
@@ -490,7 +490,7 @@ https://www.jmilne.org/math/articles/2003b.pdf  gerbes and abelian motives by Mi
 
 https://ncatlab.org/nlab/files/lurie.pdf  2 page geometric Langlands;
 
-https://arxiv.org/pdf/2511.09553, 14 pages on categorification of sheaf theory by Stefanich;
+https://arxiv.org/pdf/2511.09553, 14 pages on categorification of sheaf theory by Stefanich; Integral QCoh(X) or factorisation homology regard as E_\infty algebra, right hnd side, actually need categorical Kunneth.
 
 https://gstefanich.github.io/Chern1.pdf  5 pages on Chern classes;
 
@@ -518,7 +518,7 @@ https://www.keerthimadapusi.com/assets/old_notes/logpdiv.pdf  log p-divisible gr
 
 https://people.maths.bris.ac.uk/~malab/PDFs/Algebraic%20Geometry%20L7.pdf  notes on uniformisers in 5 pages;
 
-https://www.fields.utoronto.ca/talk-media/1/45/35/slides.pdf  fpqc and finite topologies;
+https://www.fields.utoronto.ca/talk-media/1/45/35/slides.pdf  fpqc and finite topologies; Base change functor alpha_*, - otimes_R S change Mod_R to Mod_S, alpha, R -> S, if alpha_* exact: alpha is flat, alpha_* faithful exact: alpha faithfully flat, alpha_* faithful: alpha pure. Lazard-Feder, pure implies direct summand or splitting if S/R finitely presented, R, complete Notherian ring. Reverse base change is descent! Did not think about this. Gemetric meaning of purity comes from Grothendieck topology. v-topology. Finite coverings (finite surjective morphisms). Base change states that restricting cohomology commutes with pushing it forward, need to extend 6ff to stacks, compute on fiber. This is essential for integral transforms.
 
 https://www.math.ias.edu/~lurie/205notes/Lecture26-Isocrystals.pdf  Lurie 3 pager on isocrystals;
  
@@ -1820,6 +1820,16 @@ https://masaooi.github.io/DL.pdf  representation theory of finite groups of Lie 
 
 https://masaooi.github.io/LAG.pdf  theory of algebriac groups.
 
+https://people.csail.mit.edu/joonwonc/papers/bsthesis-math.pdf, pushout as fibred sum, pullback as fibred product.
+
+https://webusers.imj-prg.fr/~pierre.schapira/LectNotes/CatShv.pdf, categories and sheaves by Pierre Schapira. Covers all the types of categories you will want to know.
+
+https://chriskuo0.github.io/homepage/Thesis.pdf, microlocal sheaf theory and using symplectic geometry on it as thesis.
+
+https://par.nsf.gov/servlets/purl/10600030, integral transforms classifies all colimit preserving functors between categories of sheaves with isotropic support.
+
+https://irma.math.unistra.fr/~liu/Liegpext.pdf, group extension problem important in cohomology theory of abelian varieties over positive characteristic. Complex tori is complex analytic analogue. Lie group summary, extensions of complex Lie groups and classification data. Outer and inner morphisms, this follows something similar to what Connes sadi. Second countable. Group extensions.
+
 https://masaooi.github.io/BT.pdf  Bruhat-Tits theory of p-adic reductive groups.
 
 https://people.mpim-bonn.mpg.de/zagier/files-restricted/doi/10.1007/978-3-540-74119-0/fulltext.pdf  read appendices at the back from Gunter Harder, "A congruence between a Siegel and an elliptic modular form"
@@ -1846,7 +1856,7 @@ https://www.jmilne.org/math/Documents/DeligneArcata.pdf  etale cohomology starti
 
 https://www.jmilne.org/math/CourseNotes/LEC.pdf  Milne etale cohomology
 
-https://web.ma.utexas.edu/users/slaoui/notes/Sheaf_Cohomology_3.pdf  basic primer on sheaf theory
+https://web.ma.utexas.edu/users/slaoui/notes/Sheaf_Cohomology_3.pdf  basic primer on sheaf theory, sheaves require assignment compatible with taking restrictions and going from local to global sections i.e. I can take pushforwards of sheaves. Sheaf cohomology generalises more conventional cohomology theories, leading to six functor formalism, with the constant sheaf being the prototypical example of a coefficient system. Smooth manifolds as ringed spaces, so you can do this as an interlude before sheaves.
 
 https://www.jmilne.org/math/Documents/fac.pdf  Serre's FAC Milne's translation
 
