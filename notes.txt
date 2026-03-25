@@ -1,4 +1,4 @@
-https://arxiv.org/pdf/2510.26269, Scholze's paper on six functor formalism. A six functor formalism from Corr(C,E) to Cat_infty as a lax symmetric monoidal functor with right adjoints to projection formula, resulting in proper base change. Straightening and unstraighening defines a symmetric monoidal infinity category. A Kunneth formula takes cohomology of tensor products to cohomology of fibre products, a projection formula is a formula that proves Kunneth's formula; trivial Kan fibrations to define infinity categories on page 14; propositional definitions 3.11 and 3.12 for Mann's definition resulting in a computation of the projection formula on pages 23 and 24. Category of locally compact Hausdorff spaces. Sheaf cohomology is needed for weird spaces. Right derived functors. Use constant sheaf and you get cohomology groups, so cohomology can be thought of as right derived functors with constant sheaf coefficients. So coefficients matter. Pushfoward interpolates cohomology of all the fibres. Note that 6 functor formalism can morally be thought of any formalism that makes the projection formula work f_! A otimes B is isomorphic to f_! (A otimes f* B). Liu-Zheng did this in etale cohomology. Projection formula means pulling back a bundle from the base, and tensor producting on the total space is compatable with proper pushforward. Lax symmetric monoidal funcotrs preserve algebras and modules, defined already on Corr(C,E), f_! is D(Y)-linear functor is encoded in the definition. Powerful definition of covers, consider a family of maps, these form a D-cover if for all F_i, they form a over in the canoncal topology, and satisfies universal !-descent.
+https://arxiv.org/pdf/2510.26269  Scholze's paper on six functor formalism. A six functor formalism from Corr(C,E) to Cat_infty as a lax symmetric monoidal functor with right adjoints to projection formula, resulting in proper base change. Straightening and unstraighening defines a symmetric monoidal infinity category. A Kunneth formula takes cohomology of tensor products to cohomology of fibre products, a projection formula is a formula that proves Kunneth's formula; trivial Kan fibrations to define infinity categories on page 14; propositional definitions 3.11 and 3.12 for Mann's definition resulting in a computation of the projection formula on pages 23 and 24. Category of locally compact Hausdorff spaces. Sheaf cohomology is needed for weird spaces. Right derived functors. Use constant sheaf and you get cohomology groups, so cohomology can be thought of as right derived functors with constant sheaf coefficients. So coefficients matter. Pushfoward interpolates cohomology of all the fibres. Note that 6 functor formalism can morally be thought of any formalism that makes the projection formula work f_! A otimes B is isomorphic to f_! (A otimes f* B). Liu-Zheng did this in etale cohomology. Projection formula means pulling back a bundle from the base, and tensor producting on the total space is compatable with proper pushforward. Lax symmetric monoidal funcotrs preserve algebras and modules, defined already on Corr(C,E), f_! is D(Y)-linear functor is encoded in the definition. Powerful definition of covers, consider a family of maps, these form a D-cover if for all F_i, they form a over in the canoncal topology, and satisfies universal !-descent.
 
 https://mgallauer.warwick.ac.uk/docs/m6ff.pdf  Gallauer's six functor formalisms. Cohomology and homology in terms of six functors on the tensor unit with a dictionary in page 8. Grothendieck duality dictionary on page 10. Relative purity is a six functor condition for smoothness on page 11. Definition of localisation on page 15. Definition of proper and smooth base change on page 16. Definition of coefficient systems, a coefficient system is a sheaf with site that enable a six functor formalism, axioms on page 18. Noether explained Betti numbers are shadows of homology, sequences measuring difference between cycles and boundaries. Homology groups richer than Betti numbers. zeta-function of X packages finite extensions or number of rational points over finite extensions of k. Weil roved this for curves, follow from well-behaved cohomology theory for varieties over finite fields, l-adic cohomology. Categorification of numbers example, recall no interesting maps from 2 to 3, but lots of interesting abelian groups, cohomology. Six functors govern categorical invariants. Relative point of view from Grothendieck means need morphism maps, six functors are these morphism maps, nonproper varieties means need to define cohomology with compact support. Operations operate on sheaves, inverse image and direct image of sheaves. Exceptional direct image or pushforward admits right adjoint only for local compact Hausdorff or exceptional inverse image. LTensor product and internal Rhom. Cohomology, take tensor unit, pullback and pushforward, obstruction on this gives cohomology, pullback with exceptional pushforward gives cohomology with compact support. Homology means both must be exceptional, exceptional pullback, exceptional pushforward, this retains Verdier duality with cohomology. Borel-Moore means exceptional pullback but direct pushfoward, locally finite homology. How does Verdier duality work in this case? Coefficient systems, constructivble l-adic sheaves, constructible analytic sheaes give Betti, holonomic D-modules give de Rham, so types of sheaves give types of cohomology groups. Vanishing and nearby cycles are interesting. Chern classes and regulator maps are morphisms of certain cohomology groups of one theory to another. Proper pushforward means f_! -> f_* is iso. Grothendieck duality means compute f^! 1 for f : X -> * smooth. Poincare duality means if orientable, coeff Q, H^n iso H^d-n, l-adic Poincare duality, indices become H^n iso H^2d-n, in Q_l, Serre duality X proper, some other thing. Proper projection formula. Relative purity between f^! and f^* measured by f^! 1. Define Tate twists and shifts on tensor units, open covers give rise to Mayer-Vietoris exact triangles. Cohomology with compact support, homology of Z relative to X. Localisation can be hard depending on context, example fully faithful i_* is Kashiwara's lemma. Blow up and cohomology is related cia proper base change. It is encoded in an abstract blow up sqaure. Beck-Chevalley condition or push pull transformation. Proper base change, if f is proper than Beck Chevalley g^* f_* -> k_* k^* g^* f_* iso k_* h^* f^* f_* -> k_* h^*. Relative purity, inverse image along smooth morphism admits a left adjoint. Nisnevich-Mayer-Vietoris sqaure. Proper and smooth base change may refer to isomorphisms but with exceptional pushforward and pull back. Coefficeint system functor valued in Cat^stotimes_\infty, has left adjoint p#, smooth base change, smooth projection formula, right, internal hom, pushforward, localisation, A^1 homotopy, Tate stability. Main result, morphisms of coefficient systems underlie morphisms of 6ff, coefficient systems underlie six ff. Ind-completion turns small coeff into presentable one (important for presentable since finitely many obj). Caveats in remark 2.17, Thm 2.13 is the main theorem. Presentable only. Duality is important. Duality cannot be expected unless coeffs are constructible. Axioms in constructing exceptional functorality requires localisation and A^1 homotopy was first observed by Voevodsky. three ways of thinking about Stable homotopic category, see remark 2.25 oculd not understand. Coefficient systems satisfy cdh-descent, some of them satisfy descent like etale descent, useful for extending schemes to algebraic stacks via atlas. Linear coefficient systems and scalar extension. Orientable coeff systems are easier in the sense that all Thom twists are Tate twists. there is a functor that exponentiates a coeff systems, get exponential motives, Exp coeff system comes with 7th operation, Fourier transform in l-adic theory or D-modules. Tensor product and direct image functorality no problem, hard part is !-functorality. Exceptional functorality requires support property. Proper base change implies support. Motivic coefficient systems give a technique to construct coefficient systems. Theorem 2.13 give recognition criteria. Recall this view point, pullback maps coefficient system of tensor unit to space X, pushforward collects global sections (think derivative), its derived versions quantify obstructions of extending local sections to global ones i.e. derivative? In sheaf cohomology, tensor unit is sheaf structure sheaf of modules or constant sheaf. Computing cohomology of this unit recovers standard topological cohomology. Pullbacks lift structures back to space. Pushforward of a sheaf of global sections. Beck-Chevalley condition is the key to this,. Integral transforms are also a key example (think circle group, which is the prototypical example in my mind for cohomology measuring defect in integration), in geoemtry, and quantifiers.
 
@@ -66,7 +66,7 @@ https://www.math.mcgill.ca/barr/papers/chu-hist.pdf  history of Chu construction
 
 https://people.math.harvard.edu/~lurie/papers/DAG-XIV.pdf  representability theorems, Lurie, gives examples of dualising modules.
 
-https://arxiv.org/pdf/2310.12456, Khan's notes on stacks. Key definitions: (1) simplicial sets on page 8 as well as the horn filling condition leading to infinity categories from page 8 to page 11; (2) sheaves and stacks from page 14 to 16. Key computations: (1) working out explicitly what nerves are in Remark 1.2.2. concretely; (2) working out concretely the descent condition based on totalisation criterion on pages 20 - 21.
+https://arxiv.org/pdf/2310.12456, Khan's notes on algebraic stacks SUPER IMPORTANT. Key definitions: (1) simplicial sets on page 8 as well as the horn filling condition leading to infinity categories from page 8 to page 11; (2) sheaves and stacks from page 14 to 16. Key computations: (1) working out explicitly what nerves are in Remark 1.2.2. concretely; (2) working out concretely the descent condition based on totalisation criterion on pages 20 - 21.
 
 https://terrytao.wordpress.com/books/additive-combinatorics/, Terence Tao and Van Vu's book on Additive Combinatorics, chapter 1: Key definitions are: (1) a first moment method is a method that uses Markov's inequality; Key lemmas are: (1) Markov's inequality; (2) a union bound based on the pigeonhole principle on the linearity of expectations; (3) Borel-Cantelli lemma is a result based on probability as expectation of indicators, monotone convergence theorems, and Markov's inequality; (4) exercise on Bonferroni's inequality by inclusion and exclusion principle inductively after taking expectation of indicators and applying the union bound; (5) popularity principle by taking expectations on both sides.
 
@@ -77,6 +77,34 @@ https://people.math.harvard.edu/~landesman/assets/class-groups-notes.pdf  distri
 https://www.linux.bucknell.edu/~pm040/MySlides/pomona.pdf  slides on algebraic combinatorics, looks very readable. (1) symmetric polynomials are invariant under permutations of variables, a symmetric function is a formal power series invariant under permutation of infinite sets of variables; (2) basis of symmetric functions means we can use linear algebra, solutions include monomial/elementary/complete homogenous symmetric, power sum symmetric functions; (3) symmetric function basis, Schur functions and use Young diagrams to represent them; (4) coefficients of the ring of symmetric functiosn, these are the Littlewood Richardson coefficients; (5) nonnegative Littlewood Richardson coefficients in expansion, prove using rep theory of GL(n, C), S_n or Schubert calculus; (6) how to do combinatorics on Littlewood Richardson coefficients, solution is to use Littlewood-Richardson rule; (7) generalise cylinderic skew Shur function, is to use 3-point Gromov-Witten invariants; (7) do explicit combinatorics with pictures, Young diagrams; (8) connect S_n, GL(n,C) and Schubert classes, solution is to use Littlewood Richardson coefficients and its generalisation to Gromov Witten invariants; 
 
 https://www.math.uni-bonn.de/people/scholze/Condensed.pdf  Scholze's notes on condensed mathematics. Key definitions: (1) definition of condensed formalism on page 8, page 15 explicitly; (2) solid abelian groups in anticipation of completion of tensor products on page 32; (3) theorem 5.8 for extension to solid abelian groups on page 34; (4) analytic and preanalytic rings on pages 44 to 45. Key computations: (1) use of Stone-Cech compactification for the appropriate surjection on page 11; (2) proof of generation by compact projectives and proof of abelian categories on page 12 to 13; (3) computation of cohomology of condensed abelian group on compact Hausdorff spaces.
+
+https://www.math.columbia.edu/~calebji/6_functors.pdf, Scholze's guidelines, D(X), X geometric i.e. in topoi, finite limits, exp object (cartesian closed, int hom + prod), suboject classifier, pullback preserves finite limit or continuity, have direct and inverse adjunction. Grothendieck topoi has cocomplete and small generating set, equiv to cat of sheaves. Boundary conditions, D(X) stable infinity category, important steps are identifeid, six functors must satisfy base change, projection, Kunneth, duality, compatability encoded as coherences using infinity-categories, construct sym monoidal category of coherences, 3-functor formalism as lax sym mnoidal, then admit right adjoints.
+
+https://user.math.uzh.ch/ayoub/PDF-Files/AGV.pdf, Ayoub 6FF for motives
+
+https://lebras.perso.math.cnrs.fr/Notes_Dauser.pdf, 13 page summary of six functor for analytic stacks
+
+https://oscarharr.com/wp-content/uploads/2022/04/verdier-duality.pdf, 20 pages, 6 functor for topology
+
+https://dagur.sites.ku.dk/files/2022/01/condensed-foundations.pdf, 100 page thesis on condensed mathematics, easier to read?
+
+https://arxiv.org/pdf/2412.15780, uniqueness of 6ff
+
+https://server.mcm.ac.cn/~zheng/LI/Katz.pdf, local systems to groups
+
+https://www.seas.upenn.edu/~jean/sheaves-cohomology.pdf, 600 pages of homological algebra, almost all proofs. FAC is clearest for sheafification.
+
+https://server.mcm.ac.cn/~zheng/LI/Laumon.pdf, Lusztig induction and restriction
+
+https://server.mcm.ac.cn/~zheng/LI/Temkin.pdf, logarithmic geometry, slides
+
+https://server.mcm.ac.cn/~zheng/slides/compatible_IHES.pdf, local monodromy introduction, slides
+
+https://server.mcm.ac.cn/~zheng/slides/nearby-slides.pdf, nearby cycle over general bases, slides
+
+https://server.mcm.ac.cn/~zheng/slides/PANT2011.pdf, mod l cohomology algebra, slides
+
+https://server.mcm.ac.cn/~zheng/slides/ICCM10.pdf, mod l equivariant cohomology algebra, slides 43
 
 https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf  Bhatt's notes on prismatic F-gauges. Key definitions: (1) Breuil-Kisin twists for prismatic F-gauges on page 5; (2) heuristc remark for crystalline objects on page 6; (3) syntomic cohomology of Z_p on page 6; (1); Key computations: (1) algebraic de Rham complex on torus on page 11 giving analytification; (2) computing nature of Tate twists for Hodge-theory coefficients and lisse l-adic sheaf for etale coefficients on pages 4 - 5; I was looking Jacob Lurie's talk E in FGauges, give cohomology, X, out extension isomorphism classes Ext(Z_prism, E otimes Z_prism ^\times), de Rham with Hodge filtration, crystalline cohomologi with Nygaard, made up of differential forms. TC(X), TP(X), THH(X) closely related to differenetial forms, input syntomic, output topological cyclic cohomology (thin Marcolli), not coming from prismatic F-gauges. Goal of this talk is to enlarge prismatic F-gauges. Digressions, in algebraic topology. Stable homotopy category, objects are  
 
@@ -204,7 +232,7 @@ http://www.davidrenshawhansen.net/etcohtalkhandout.pdf  etale cohomology of rigi
 
 https://seminari-simba.github.io/slides/simba211103-DMartinez.pdf, slides on simplicial sets, stable homotopy theory.
 
-https://cms.dm.uba.ar/Members/gcorti/workgroup.GNC/SLIDES%20Arun%20Soor.pdf  six functor formalism slides. notes on tautological inclusion on slide 12, basically global sectiosn of QCoh on QCoh has right and left adjoint, one is local cohomology right adjoint, the other is "inverse image"; highlights exceptional edges in slide 3; slide 16 defines adjoint triple of monads; Category of correspondences can give definition. Lax symmetric monoidal functor from Corr(C,E) valued in Cat_\infty. Streamline proof of Poincare/Grothendieck Verdier duality and inform correct definitions of objects. Cateogry of germs defined by Berkovich.
+https://cms.dm.uba.ar/Members/gcorti/workgroup.GNC/SLIDES%20Arun%20Soor.pdf  six functor formalism slides. notes on tautological inclusion on slide 12, basically global sections of QCoh on QCoh has right and left adjoint, one is local cohomology right adjoint, the other is "inverse image"; highlights exceptional edges in slide 3; slide 16 defines adjoint triple of monads; Category of correspondences can give definition. Lax symmetric monoidal functor from Corr(C,E) valued in Cat_\infty. Streamline proof of Poincare/Grothendieck Verdier duality and inform correct definitions of objects. Cateogry of germs defined by Berkovich.
 
 https://arxiv.org/pdf/2301.03821, Poincare duality in six functors; (1) definition given on page 1 for the Poincare dualities; (2) exposition of Verdier's diagonal trick on page 28.
 
@@ -230,7 +258,53 @@ https://www.math.ucla.edu/~pak/lectures/Slides/Moraga--Birational_maps_final--ta
 
 http://maine-quebec.mat.ulaval.ca/20/slides/Adam_Logan.pdf  summary of K3 surfaces; (1) slide 6 gives definitions and examples of K3 surfaces;
 
-https://www.dpmms.cam.ac.uk/~or257/slides/Clay.pdf  slides on classifying spaces. Best set of slides to introduce moduli spaces (1) slide 4 and slide 5 gives lots of examples of moduli spaces; (2) slide 7 gives motivation of cohomology as characteristic classes of families; (3) slide 10 gives a homological stability theorems which is clear to understand; (4) slide 12 gives a good example of symmetric groups with an easy to understand example;
+https://www.dpmms.cam.ac.uk/~or257/slides/Clay.pdf  slides on classifying spaces. Best set of slides to introduce moduli spaces, M_g = genus g Riemann surfaces / isomorphisms, M_g = Teichmuller space // mapping class group. Classifying space, BG = any contractible free G space / G classifying space, G discrete get Eilenberg Maclane space, pi_1 of point recovers G. Examples on slide 5, braid groups, symmetric groups. Three main examples M_g, B Gamma_g, BDiff(Sigma_g), diffeomorphism groups Homological stability, mapping class group, consider boundary connect sums. Generic homological stability theorem, divergent function H_d(G_n-1) -> H_d(G_n) is an ep for d <= f(n), iso for d < f(n). Quillen's idea find simplicial object with G_n action such that stabilisers of simplices are smaller groups in the family, X_n is good approxi to point, X_n/G not too complicated. Axiomatised in other paper/ Example, complex of injective words, simplicial sets used. Stable cohomology, limiting ohomology comes from algebraic K-theory. Combine moduli spaces into monoid, top group has G iso Omega B G i.e. deloop loop G, BM class space of top monoid M, Sigma B M is homotopy theory group completion. BPQ are remarks on sphere spectra. Madsen-Weiss, don't understand. Long surfaces. Use new paradigm for families of moduli spaces take R := coprod BGamma_g,1 as algebra try to get presentation, use E_k-algebras.
+
+https://www.dpmms.cam.ac.uk/~or257/slides/BTM2013.pdf, positive scalar curvature, index theory, 10 slides
+
+https://www.dpmms.cam.ac.uk/~or257/slides/MFOPrize.pdf, calculus of embeddings
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Skye.pdf, metastability of mapping class groups
+
+https://www.dpmms.cam.ac.uk/~or257/slides/eCHT.pdf, homological stability in 35 slides
+
+https://www.dpmms.cam.ac.uk/~or257/slides/coruna.pdf, scanning of surfaces
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Princeton2022.pdf, spaces of manifolds, fibre bundles
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Randal-Williams.pdf, stable moduli spaces
+
+https://www.dpmms.cam.ac.uk/~or257/slides/MIT2020.pdf, smoothing theory
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Muenster2020.pdf, diffeomorphisms of discs I
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Munster2024.pdf, cohomology of moduli space case study, easy and accessible
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Oxford2021.pdf, Tits buildings in 68 slides
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Copenhagen2020.pdf, diffeomorphisms introductions
+
+https://www.dpmms.cam.ac.uk/~or257/slides/ICM2022.pdf, diffeomorphisms introduction in 72 slides, expanded
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Berlin2022.pdf, homemorphisms of Euclidean space, 25 slides. Orthogonal calculus
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Delhi2021.pdf, Miller Morita Mumford classes and tautological rings
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Bonn.pdf, Steinberg module, fuller set of slides on homological stability, 65 pages
+
+https://www.dpmms.cam.ac.uk/~or257/slides/Banff2021.pdf, E_infty algebra and general linear groups in 21 slides. Nesterenko–Suslin theorem.
+
+https://www.dpmms.cam.ac.uk/~or257/teaching/notes/HomotopyTheory.pdf, homotopy theory 84 page notes
+
+https://www.dpmms.cam.ac.uk/~or257/teaching/IAGroups/2019/groups.pdf, group theory 75 pages notes
+
+https://www.dpmms.cam.ac.uk/~or257/teaching/notes/TopSp.pdf, 44 pages top space notes
+
+https://www.dpmms.cam.ac.uk/~or257/teaching/notes/Kthy_long.pdf, characteristic classes and K-theory, I need to learn this, 75 page notes
+
+https://www.dpmms.cam.ac.uk/~or257/teaching/notes/GRM.pdf, groups rings and modules 73 pages notes
+
+https://www.dpmms.cam.ac.uk/~or257/teaching/notes/at.pdf, algebraic topology 80 page notes
 
 https://math.stanford.edu/~vakil/22-245moduli/modulislides03-11.pdf  Vakil's summary of algebraic geometry; (1) slide 7 gives useful fact that sheaf has open cover of representable functors, then it is a representable functors;
 
