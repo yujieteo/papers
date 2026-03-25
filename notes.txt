@@ -298,9 +298,17 @@ https://www.dpmms.cam.ac.uk/~or257/teaching/notes/HomotopyTheory.pdf, homotopy t
 
 https://www.dpmms.cam.ac.uk/~or257/teaching/IAGroups/2019/groups.pdf, group theory 75 pages notes
 
+https://arxiv.org/pdf/2601.06868, complex analysis computations into algebraic geometry PENANDPAPER. Too long though 301 pages.
+
+https://courses.maths.ox.ac.uk/pluginfile.php/101603/mod_resource/content/7/CAG%20slides.pdf, classical algebraic geometry in 205 slides
+
+https://web.math.princeton.edu/~kollar/FromMyHomePage/icm-talk-slides.pdf  Janos Kollar slides on structure of algebraic varieties
+
 https://www.dpmms.cam.ac.uk/~or257/teaching/notes/TopSp.pdf, 44 pages top space notes
 
 https://www.dpmms.cam.ac.uk/~or257/teaching/notes/Kthy_long.pdf, characteristic classes and K-theory, I need to learn this, 75 page notes
+
+https://graffeomichele.github.io/NotesCiAG.pdf, computations in algebraic geometry 45 pages, PENANDPAPER, Veronese embedding is nontrivial.
 
 https://www.dpmms.cam.ac.uk/~or257/teaching/notes/GRM.pdf, groups rings and modules 73 pages notes
 
@@ -1168,9 +1176,51 @@ https://sites.math.rutgers.edu/~ctw/quotients.pdf  notion of quotient in geometr
 
 https://srln.se/presentation.pdf  notes on Galois theory with an introduction to etale pi 1, extremely amazing introduction to Galois categories and etale pi 1: (1) to prove the fundamental theorem of Galois theory as a fucntor: (1) one has the opposite category of finite etale k-algebra, etale is isomorphic to finite product of separable extensions K_i of k, then the opposite category to finite left Gal(k)-sets taking A to hom_k(A, k_s) so this is an antiequivalence of categories; (2) to choose an absolute Galois group, one must choose a separable closure; (3) to define the fundamental theorem of Galois theory, one must use limits of finite etale algebras or union of all finite separable extensions; (4) to study the fundamental group and its action, one must study the monodromy action of pi_1(X, x) acting on the fbre preimage(x), this will be a path from y to another point in the fibre over X, defining a permutation of the fibre; (5) to study topology of Galois theory,one can have the main theorem of covering theory where coverings of topological space X is equivalent to left pi_1(X,x)-sets; restrict to finite covers means these are continuous left profinite completed left pi_1(X,x) sets; (6) to define Galois categories, one uses the fundamental covering tehory with a functor called the fibre functor lifting the category to G-sets; (7) to define the etale fundamental group, one defines etale_pi^1(X, bar x) to be G or automorphisms of the fibre functor; (8) to study anabelian schemes, they must be reconstructibel from their fundamental group under various definitions of smoothness, this is the content of anabelian geometry; (9) to define Galois categories, these are continuous left G-sets on a profinite group, then G is the fundamental group of the Galois category, with a fibre lifting from G. = Aut(Fibre functor) from C to G-sets;
 
-https://web.math.princeton.edu/~kollar/FromMyHomePage/modbook-final.pdf  Kollar's book on varieties
+https://web.math.princeton.edu/~kollar/FromMyHomePage/modbook-final.pdf  Kollar's book on varieties, 462 pages
+
+https://people.math.osu.edu/katz.60/slides/KatzHTICIMPA.pdf, Hodge theory combinatorial in 93 slides
+
+https://www.stat.uchicago.edu/~lekheng/meetings/datamining/yao08.pdf, combinatorial hodge to ranking in 36 slides
+
+https://web.math.princeton.edu/~huh/MatroidHodge.pdf, matroid hodge in 72 pages
+
+https://www.mn.uio.no/math/personer/vit/johnco/rationalitybeamer.pdf, tropical degenerations
+
+https://pages.uoregon.edu/njp/JuneHuhOregon.pdf, 86 slides combinatorial hodge by Huh, VERY IMPORTANT MUST RAED
+
+https://app.icerm.brown.edu/assets/332/2350/2350_2572_Robles_020120211000_Slides.pdf, 15 slides on combinatorial stuff, rename please
+
+https://pages.uoregon.edu/njp/tv.pdf, 43 pages intro to toric varieties
+
+http://higeom.math.msu.su/people/taras/talks/, many slides from bordism theorist TO EXPLORE
+
+http://higeom.math.msu.su/people/taras/talks/2018Nsk-lecture1.pdf, toric varieties in 27 slides
+
+https://hal.science/hal-05492542v1/file/Proc.PrimerOnToric.pdf, 18 page toric varieties drawing
+
+https://web.ma.utexas.edu/users/ikmartin/pages/additional-pages/toric-page/documents/Toric-Varieties_Cox-Little-Schenck.pdf, 863 pages Cox Little Schneck
+
+https://oskarhenriksson.io/slides/toric_chapter3c.pdf, from fans to toric varieties, 24 slides
+
+https://arxiv.org/pdf/2203.01690, 79 pages intro to toric varieties
+
+https://www.mn.uio.no/math/personer/vit/johnco/enriques.pdf, enriques surface fibrations visual
+
+https://www.math.nagoya-u.ac.jp/~itoken/conference/RK2012/slides/Tanabe.pdf, combinatorial Hodge star
+
+https://www2.math.upenn.edu/~jhaglund/IPAC/Atlas/Lecture1Notes.pdf, log concave poset inequalities
+
+https://www.math.ias.edu/~bhatt/teaching/mat517f25/pHT-notes.pdf?utm_source=chatgpt.com, p-adic Hodge in 138 pages Bhatt
+
+https://arxiv.org/pdf/2407.02256v2, mixed hodge on stacks
 
 https://wiki.math.ntnu.no/ma3203/2024v/pensum, notes on quivers
+
+https://arxiv.org/pdf/1801.10129, IMPORTANT MOTIVIC HODGE paper in 61 pages 
+
+https://w3.impa.br/~hossein/myarticles/hodgetheory.pdf?utm_source=chatgpt.com, 380 pages Hodge theory book
+
+https://webusers.imj-prg.fr/~fouad.elzein/Hodge.pdf?utm_source=chatgpt.com, 597 pages hodge theory book
 
 https://swc-math.github.io/aws/2019/2019HopkinsNotes.pdf  notes from Hopkins on Lubin-Tate deformation theory
 
