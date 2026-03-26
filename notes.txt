@@ -1194,7 +1194,7 @@ https://pages.uoregon.edu/njp/tv.pdf, 43 pages intro to toric varieties
 
 http://higeom.math.msu.su/people/taras/talks/, many slides from bordism theorist TO EXPLORE
 
-http://higeom.math.msu.su/people/taras/talks/2018Nsk-lecture1.pdf, toric varieties in 27 slides
+http://higeom.math.msu.su/people/taras/talks/2018Nsk-lecture1.pdf, toric varieties in 27 slides, cohomology of toric manifolds, complete regular fans.
 
 https://hal.science/hal-05492542v1/file/Proc.PrimerOnToric.pdf, 18 page toric varieties drawing
 
