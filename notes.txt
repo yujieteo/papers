@@ -1314,11 +1314,11 @@ https://documentserver.uhasselt.be/bitstream/1942/23769/2/Octonions5.pdf  octoni
 
 https://people.maths.ox.ac.uk/horawa/math_631.pdf  Mustata algebraic geometry
 
-https://weilab.math.msu.edu/CTGG/slides/internal-online-seminar-lect1.pdf, 26 slides casual summary of algebraic topology
+https://weilab.math.msu.edu/CTGG/slides/internal-online-seminar-lect1.pdf  26 slides casual summary of algebraic topology
 
 https://pi.math.cornell.edu/~barbasch/china2024.pdf  Dirac operators, Dirac cohomology in 47 slides must read for physics background. MUST READ.
 
-https://www.math.columbia.edu/~ccliu/Seminars/20220124-slides_orginal.pdf, quantum K-theory of flag varieties, nonabelian localisation
+https://www.math.columbia.edu/~ccliu/Seminars/20220124-slides_orginal.pdf  quantum K-theory of flag varieties, nonabelian localisation
 
 https://math.mit.edu/nt/Zhang2020-11-16.pdf  must read, 10 line proof of Weil conjectures, summary of etale cohomology
 
@@ -1326,19 +1326,19 @@ https://nyuad.nyu.edu/content/dam/nyuad/research/centers-labs-projects/center-fo
 
 https://nyuad.nyu.edu/content/dam/nyuad/research/centers-labs-projects/center-for-quantum-and-topological-systems-/events-conferences/m-theory-presentations/Hisham_mtheory2023.pdf  M-theory slides for physicists
 
-https://math.mit.edu/~drew/vantage/DograSlides.pdf, nonabelian Chabauty 
+https://math.mit.edu/~drew/vantage/DograSlides.pdf  nonabelian Chabauty 
 
-https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes%20and%20talks/Galois%20descent%20beamer%20slides.pdf, slides on Galois descent 76 pages, computations
+https://users.math.msu.edu/users/ruiterj2/math/Documents/Notes%20and%20talks/Galois%20descent%20beamer%20slides.pdf  slides on Galois descent 76 pages, computations
 
-https://www.math.purdue.edu/~thoma922/seminars/pmtas/meretzky-mta25-slides.pdf, Picard-Vessiot theory and differential galois theory in 109 slides
+https://www.math.purdue.edu/~thoma922/seminars/pmtas/meretzky-mta25-slides.pdf  Picard-Vessiot theory and differential galois theory in 109 slides
 
-https://quantum.lvc.edu/tgts/abstracts/2016.10.14.slides.part2.pdf, computations of poset algebra cohomology
+https://quantum.lvc.edu/tgts/abstracts/2016.10.14.slides.part2.pdf  computations of poset algebra cohomology
 
-https://math.berkeley.edu/~avizeff/seminars/other/prismatic.pdf, primsatic cohomology slides in 71 slides, motivation is perfectoid rings
+https://math.berkeley.edu/~avizeff/seminars/other/prismatic.pdf  primsatic cohomology slides in 71 slides, motivation is perfectoid rings
 
-https://personal.math.vt.edu/lmihalce/schubert-seminar/short_talks(Dec16-2024)/Joy%20Hamlin%20Schubert%20Seminar%20Presentation.pdf, 15 slides on quantum K-theory and combinatorics
+https://personal.math.vt.edu/lmihalce/schubert-seminar/short_talks(Dec16-2024)/Joy%20Hamlin%20Schubert%20Seminar%20Presentation.pdf  15 slides on quantum K-theory and combinatorics
 
-https://sites.millersville.edu/rumble/slides/PennState4-11-08.pdf, combinatorics of A^\infty algebras in 28 slides
+https://sites.millersville.edu/rumble/slides/PennState4-11-08.pdf  combinatorics of A^\infty algebras in 28 slides
 
 https://sites.millersville.edu/rumble/slides/  more slides from Rumble TO EXPLORE
 
@@ -2384,7 +2384,7 @@ https://emilyriehl.github.io/files/context.pdf  Riehl's in context, the only def
 
 https://intlpress.com/site/pub/files/_fulltext/journals/hha/2016/0018/0001/HHA-2016-0018-0001-a003.pdf  Dwyer-Kan localisations. Localisation along collection of arrows defined by universal property, fibrant replacement of model category of marked simplicial sets. Dwyker-Kan, simplicial localisation produces a new simplicial categories, all homotopies are taken into account, every f in W is not just invertible, bu all homotopies are invertible as well, reflective localisation or LEft Bousfield localisation means you form a property W, form W-local objects as full subcategory of original category under a good definition of W-local, quasicategories uses maximal Kan subcomplex, homotopy type theory asserts equivalence. Localisation means formally adjoining inverses to make something (isomorphism), everything else in invertible, zeroes are in a sense obstructions to isomorphism when you draw a curve and set it to 0. In a sense, also group completion? One loses a lot of information by killing off structural differences.
 
-https://sebastiano.tronto.net/talks/notes-etale.pdf  etale cohomology, constant sheaf on irreduible variety is flasque or flabby so higher cohomology groups with constant sheaf coefficients vanish. This is bad. Solve this with etale topology. Defined cohomology as right derived functor. l-adic needed for coefficient field. Defined sheaves on a site. Descent injectivity means nonzero section restricts to nonzero section at least one some open set. It must be equal. Exactness in middle of descent means two things, sections coincide on intersection for collections of section, this is gluing. Notion of open cover is needed to define sheaves. Etale morphisms, hard, locally Noehterian, finite type, always holds for algebraic varieties, unramified if f(m_A) * B = m_B jection of local rings is separable field extension. Example to compute for number rings. Injectivity of tensor products gives flatness, and it is local, reflecting inverttibility, for every prime ideal. No zero divisors and invertibility are the key properties for locality, no zero divisors are better to capture nilpotents. Etale site defined. Etale means flat and unramified. Cech cohomology groups defiend over covering families.
+https://sebastiano.tronto.net/talks/notes-etale.pdf  etale cohomology, constant sheaf on irreduible variety is flasque or flabby so higher cohomology groups with constant sheaf coefficients vanish. This is bad. Solve this with etale topology. Defined cohomology as right derived functor. l-adic needed for coefficient field. Defined sheaves on a site. Descent injectivity means nonzero section restricts to nonzero section at least one some open set. It must be equal. Exactness in middle of descent means two things, sections coincide on intersection for collections of section, this is gluing. Notion of open cover is needed to define sheaves. Etale morphisms, hard, locally Noehterian, finite type, always holds for algebraic varieties, unramified if f(m_A) * B = m_B jection of local rings is separable field extension. Example to compute for number rings. Injectivity of tensor products gives flatness, and it is local, reflecting inverstibility, for every prime ideal. No zero divisors and invertibility are the key properties for locality, no zero divisors are better to capture nilpotents. Etale site defined. Etale means flat and unramified. Cech cohomology groups defiend over covering families.
 
 https://sebastiano.tronto.net/talks/kummer-tarrach.pdf  Kummer theory for elliptic curves in 15 slides. Summing points via tangent and chord process.
 
@@ -2396,17 +2396,181 @@ https://sebastiano.tronto.net/talks/slides-kummer-final.pdf  Kummer extension is
 
 https://sebastiano.tronto.net/talks/slides-groupcohomec.pdf  group cohomology in 22 slides, very fast. Two perspectives on left G modules, linear left action of ab group G on M, or homomorphism of ab group G on automorphism on M, left group ring G-module on M. G-invariants, submodule of G-module of M, is subgroup of M closed under action of G, the first cohomology group of H^1(G,M) is right derived functor of G-invariant functor. A^G = m in M | gm = m. Cocyle is map from G to G-mod such that p(gh) = p(g) + g p(h) under left g-action, this mimicks product rule partially, coboundary is when this becomes exact on homomorphism i.e. the homomorphism disappears, map g -> gm - m. First cohomology group measures the obstruction of this p(g) + gp(h) from becoming gm - m (to equal 0). Recall A^G means imposing gm = m or gm = 0, kill off gm - m elements. Explicitly, define d^n+1 map using Euler characteristics PENANDPAPER slide 6. Long exact sequence on cohomology. Brauer groups Br(K) = H^2(G_K, G_m), Weil-Chatelet group WC(A/K) = H^1(G_K, A), Tate Shafarevich group. Now do elliptic curves where it becomes interesting compute PENANDPAPER, page 8. Sah's lemma proof PENANDPAPER page 13.
 
-https://www.math.uchicago.edu/~eskin/luminy2012/lectures.pdf, sl2(R) action on moduli space
+https://www.math.uchicago.edu/~eskin/luminy2012/lectures.pdf  sl2(R) action on moduli space
 
-https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf, representations of sl(2,C).
+https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf  representations of sl(2,C).
 
-https://math.gmu.edu/~rallen2/slides/gmu/lie%20algebra.pdf  very fast introduction to Lie algebra and cohomology in 81 slides, very rapid intro to get to Lie algebra cohomology asap, bilinear brakcet,  JAcobi identity, L1 and L2, imply x,y = -y,x. Center of Lie algebra, Lie bracket 0, Derived algebra, linear combination of brackets. Abelian if center equals Lie algebra or derived Lie algebra is 0. Simple if non nontrivial proper ideals, center is 0 and derived Lie algebra is itself. Wow these are very good definitions to remember. Semisimple if direct sum. Lie algebra use smatrices. Lie group is group object in manifolds or mult and inv are smooth maps by Yoneda. sl(2,C) prototype example. Write e, h, f. ad x in der A, delta A -> A satisfing Liebniz rule, so adjoint maps are in derivations of lie algebra as endomorphisms, inner derivatiosn or adjoint maps x, x in A are inner derivations. Killing form. T^k is tensor of Lie algebra k times, T^0 is just C, J^k be ideal generated by elements of all the forma a_i = a_k for i neq j, kill off those elements so a_i not equal to j. J^k is some orthogonality ideal, get exterior product. One can now do the exterior algebra. Tensor algebra T(g) is take T^k to infinity, think as some sort of formal power series, J be elements x otimes y - y otimes x = [x,y] i.e.. get noncommutativity as Lie bracket, get univerasl enveloping algebra. Vector space of n cochains C^n(g,M) is simplies homset of exterionr algebra to M a g-module, coboundary operator is some nasty Euler identity thing so that d^2 = 0, define n-cocycles as ker d_n, n-coboundaries as image of d_n-1, can have Lie cohomology, compute 0-th get M so it satisfies dimension axiom of Eilenberg-Steenrod axioms of cohomology first cohomology is just the hom from g to M, Hom_C(g,M), it turns out this is a group cohomology by computation, 1 cocycles are set of derivations, Der(g,M).
+https://math.gmu.edu/~rallen2/slides/gmu/lie%20algebra.pdf  very fast introduction to Lie algebra and cohomology in 81 slides, very rapid intro to get to Lie algebra cohomology asap, bilinear bracket,  JAcobi identity, L1 and L2, imply x,y = -y,x. Center of Lie algebra, Lie bracket 0, Derived algebra, linear combination of brackets. Abelian if center equals Lie algebra or derived Lie algebra is 0. Simple if non nontrivial proper ideals, center is 0 and derived Lie algebra is itself. Wow these are very good definitions to remember. Semisimple if direct sum. Lie algebra use smatrices. Lie group is group object in manifolds or mult and inv are smooth maps by Yoneda. sl(2,C) prototype example. Write e, h, f. ad x in der A, delta A -> A satisfing Liebniz rule, so adjoint maps are in derivations of lie algebra as endomorphisms, inner derivatiosn or adjoint maps x, x in A are inner derivations. Killing form. T^k is tensor of Lie algebra k times, T^0 is just C, J^k be ideal generated by elements of all the forma a_i = a_k for i neq j, kill off those elements so a_i not equal to j. J^k is some orthogonality ideal, get exterior product. One can now do the exterior algebra. Tensor algebra T(g) is take T^k to infinity, think as some sort of formal power series, J be elements x otimes y - y otimes x = [x,y] i.e.. get noncommutativity as Lie bracket, get univerasl enveloping algebra. Vector space of n cochains C^n(g,M) is simplies homset of exterior algebra to M a g-module, coboundary operator is some nasty Euler identity thing so that d^2 = 0, define n-cocycles as ker d_n, n-coboundaries as image of d_n-1, can have Lie cohomology, compute 0-th get M so it satisfies dimension axiom of Eilenberg-Steenrod axioms of cohomology first cohomology is just the hom from g to M, Hom_C(g,M), it turns out this is a group cohomology by computation, 1 cocycles are set of derivations, Der(g,M).
+
+https://hal.science/hal-02498233v1/file/Derived_deformation_algebraic_structures_10_2019.pdf, derived deformation theory
 
 https://sanathdevalapurkar.github.io/files/rh-slides.pdf  Riemann-Hilbert correspondence in 61 slides.
 
 https://pcwww.liv.ac.uk/~jonwoolf/Slides/OberwolfachSlides.pdf  Poincare duality gives intersection cohomology and intersection spaces as two ways to work. Whitney stratification. Perverse sheaves are stacks, finite length, neither sheaves nor perverse. Morse theory? Stratified Morse theory.
 
-https://www.math.stonybrook.edu/~bishop/classes/math638.F20/wp_notes.pdf  minimal surface program slides 252 slides. Lots of analysis done along the way worth reading.
+https://people.maths.ox.ac.uk/joyce/DublinTalk2.pdf, wall crossing formulae via vertex algebras
+
+https://www.math.stonybrook.edu/~bishop/classes/math638.F20/wp_notes.pdf  minimal surface program slides 252 slides. Lots of analysis done along the way worth reading. Riemannian metric on space of diffeomorphisms of the unit cirle T into the complex numbers C. Spaces of closed curves on an infinite dim manifold, put Hilbert space norm on the tangent space at each point. This second part is not so scary. Weil-Petersson metric is used in Mumford's approach to computer vision. Use information theory and entropy to measure curve complexity. Quasiconformal maps send infinitesimal ellipses to circles. Eccentricity, ratio of major/minor ellipse. Mapping theorem. Relation between jordan curve and conformal map, basically a problem of "category theory" how good is conformal map in representing f, base space is circle? Weil-Pettersson metric on universal Teichmuller space T(1) that makes it intoa. Hilbert manifold, uncountably many connected components i.e. first homology will fail badly. Topological group i.e. very bad. Bounded mean oscillation is that space of functions so m_I(f - m_I(f)) = O(1). Universal Liouville action. Definition of Weil-Petersson in Dirichlet space implies Gamma is Weil-Petersson iff chord length and arclength param is H^3/2(T), H^3/2 is Sobolev spaces. H^s is diffeomorphisms of circle s > 3/2. However, he uses knot theory. O'Hara introduced knot energies, or Mobius energy, blows up when close to self intersecting, minimal Mobius energy lead to canonical nice representative of each knot type. Jones' travelling salesman. The beta-numbers are important. I got bored midway. Renormalised area is introduced by Graham and Witten later.
+
+https://www.math.stonybrook.edu/~bishop/classes/math670.F23/notes1.pdf. notes on Riemann surfaces, connections to dessins.
+
+https://www.math.stonybrook.edu/~bishop/lectures/Barcelona1.pdf, finite trees and Riemann surfaces
+
+https://www.math.stonybrook.edu/~bishop/lectures/Barcelona2.pdf, complex dynamics and trees
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/  Joyce lecture course and slides on derived algebraic geometry
+
+https://people.maths.ox.ac.uk/joyce/AberdeenTalk.pdf, what is derived geometry.
+
+https://people.maths.ox.ac.uk/joyce/MMThandout1.pdf, DT theory slide 1
+
+https://people.maths.ox.ac.uk/joyce/MMThandout2.pdf, DT theory slide 2
+
+https://people.maths.ox.ac.uk/joyce/MMThandout3.pdf, DT theory slide 3
+
+https://people.maths.ox.ac.uk/joyce/ToulouseHandout1.pdf, derived differential geometry, Joyce, lecture 1, form higher categories, moduli spaces are used to define invariants. A compact oriented derived manifold has a virtual class in homology, or virtual chain if bound del X nonempty. Kuranishi spaces are prototype derived orbifolds. Kurainishi space are the easiess. Quasismooth requires virtual classes. Quasismooth is defined that the cotangent complex L_X lies in [-1,0], not in (-inf,0], several ways to say this, derived manifold is locally a homootpy fibre product of classical manifolds (mimicking the Euclidean space anlogy), a derived manifold is locally a fibre s^-1(0) of a smooth section s of a vector bundle E to V on a classical manifolds. Definition of ordinary manifolds, top space with sheaf of O_X of R-algebra or C^\infty rings locally isomorphic to Euclidean space with sheaf of smooth functions. Manifold is a Hausdorff, second countable top space an atlas of charts with homemorphism. DDG typically generalises the hseaf definition, Joyce generalises definition 1.2. 2-categories are often the prototype exmaple. Definition of fibre product is some natural isomorphism comm diagram. Diff geometry works well for nonisngular spaces. C^\infty schemes are algebraic object, replace comm rings with C^\infty rings. First ategory uses some messed up n-fold operation. Global sections functor take (X, O_X) or ringed spaces to sheaf of rings O_X, right adjoint is the spectrum functor, for C^\infty ring, construct a local C^\infty ringed space. I need a simpler example of global sections and spectrum adjunction from algebraic geometry.
+
+https://people.maths.ox.ac.uk/joyce/ToulouseHandout2.pdf, derived differential geometry, Joyce, lecture 2, derplace dg C-algebras. Square 0 dg C^\infty rings can be defined. Examples are m-Kuranishi neighbourhoods in slide 3. d-manifold has virtual dimensions, affine if equiv do dManf, open cover by affine d-manifolds. Hard to define. m-Kuranishi neighbourhood are defined by atlas of charts. Then used the classifcal definition of equivalences using triple overlaps for Thm. 8.1. Then one can define w-transversality.
+
+https://people.maths.ox.ac.uk/joyce/ToulouseHandout3.pdf, derived differential geometry, Joyce, lecture 3,  Smooth maps of manifolds is submersion. Orientations on ordinary manifolds, define canonical product as canonical bundle, orientation is orientation on fibres of K_X, o is equiv class of isomorphisms, opposite orientation is -i. Bordism, form moduli space with some sort of geometric structure, count to get number in Z or Q, or homology class or virtual class in some homology theories. Floer homology and Fukaya categories, moduli spaces have boundaries, must define chain, virtual chains. All this counting invariants can be defined using derived algebraic geometry. Use bordism to define virtual classes for compact oriented derived manifolds without boundary, but fails for orbifold case. Stuck half way.
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/DAG1+2.pdf  Joyce DAG slide 1 to 2, geometry to be as strong as possible to capture family of objects. Introduce functors, schemes, and other basics. Deligne-Mumford stacks are moduli functor of points classifying up to isomorphism with set value points of isomorphism calasses, Deligne-Mumford stacks, iso(X) is finite on each X in isomorphism classes. Artin stacks are Iso(X) are algebraic K-groups. All clasiscal moduli problems, moduli stacks exists even if moduli schemes do not exists. Derived algebraic geometry, Lurie's foundations run of 1000s of pagess. Pick the category of commutative differential grade dalgebras in degrees <= 0. Alternatively use simplicial K-algebras. All must be valued in the category of simplicial sets. PENANDPAPER slide 33, pick example. Derived scheme remembers information on dependencies. Tehre is a virtual dimension. Bezouts' theorem is the key example, see slide 35, virtual count of mn, derived intersection, proper, quasismooth derived scheme with virtual dimension 0, without transversality hypothesis that dim C cap D, virtual dim can be used. Transversality is not need in derived geometry, derived geometry is useful for Bezout type counting problem. CDAlg_K is really the wrong category, need quasiisomorphism, should be iso on all loclsed categories CDGAlg_K(Q^-1) which have inverses, i.e. infinity category. Give nice local models for derived spaces, the local models are glued on overllaps not by isomorphisms, but on some mysterious equivalence relation. Quasiisomorphisms are to be inverted and treat as infinity-category, too much is lost. See slide 37. Derived geometric spaces should form higher categories, use homotopy categories.
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/DAG3+4.pdf  Joyce DAG slides 3 to 4, slide 32 gives the best introduction to principal G-bundles as morphisms in the category of a point quotiented out by an isotropy group, 2-categories are good for intuition, fibre products are good. The slides on two categories are just more background. Classical stacks, 2-category of orbifolds, which are Deligne-Mumford stacks in the category of manifolds somehow. Stack as functor from Alg_K -> Groupoids, does not give much geometric intuition. Stacks and orbifolds as global quotients, nice stack r orbifolds are open covers, so global quotients are lcoal models for general stacks. For stacks and orbifolds, there is isotropy groups associated to each point [x], this is a finite group for DM stacks and orbifolds, algebraic K-group for Artin stacks, for each Gamma-orbit, Iso(uGamma) = Stab_Gamma(u). PENANDPAPER, example 4.2 in slide 4.2., singel point with isotropy group gamma or (*/Gamma), 1-morphisms are equivalent to principal bundles pi : P -> U, for morphisms U -> [*/Famma], two morphisms are isomorphisms of principal gamma bundles, so [*/Gamma] is the classifying stack of principal Gamma bundkles, in homotopy categories, these morphisms are iso classes, but homotopy cateogry forges Aut(P), which is encoded in two morphisms of Art_K. Smooth stacks have locally constatn dimension on each connected component, quotient staks are smooth if U is smooth as a K-scheme, then the formula dim[U/Gamma] = dim U - dim Gamma, turning quotients into pointwise hom, negative dimension is a thing, stack 1-morphisms means smooth stacks for fibres on points with respect to X. Artin stack has an atlas, exists smooth surjective 1-morhism U -> X called an atlas, this makes sense. Compute slide 36. Presheaf of sets. Local on X means determined by it  behaviour on any cover of small open sets. 
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/DAG5+6.pdf  Joyce DAG slide 5 to 6, recall from slide 8 is when coarse moduli scheme works, naturally transform F_Vect -> F_M, not natural iso. Fine moduli schemes of stable bundles exists, coarse moduli scheems of semistable bundles exist. So stability problems like Giesecker or Bridgeland stability is useful for representability problems. Stacks as categories fibred in groupoids, this is the fibre functor of groupoids perspectives. Delign-Mumford K-stack can lead to a clean definition, diagonal morphisms representable, diag mor qusicompact and separated. Better to work with a ategory that has nice properties, with nasty object, than a category with nasty properties but nice objecrts. Coherent sheaves enlarges Vect(K) which is an abelian categories, completion of Vect(X) by adding kernels and cokernels, och(X) can be like singular vector bundles, or vector bundles. Vect(X) is the category of algebraic vector bundles, define them is E is a K-scheme. Is there a way to take an abelian completion by formally adjoining kernels and cokernels. Abelian categories are summarised in slide 31. Vect_K of vector spaces over a field is K-linear abelian. Skyscraper sheaf is important example in slide 37, a coherent sheaf, for all open U, O_X(U) is K, 0 otherwise x not in U, so attach an entire field for x in U. ats by left multiplication, PENANDPAPER. Torsion sheaves apears as cokernels of morphisms of vector bundles, cannot be kernel of morphism of vector bundles, only torsion free sheaves can. Think about it as the abelian category starting with algebraic vector bundles category Vect(K) add all cokernels, get coh(X). Example, ideal sheaf as subsheaf of sections such that s|x is 0, ideal sheaf is torsion free and appears as a kernel in a morphism of vector bundles. Torsion free sheaves as limits of vector bundles if they are not locally free. Coherent sheaves, let X be smooth projecive K-scheme, dim 2, moduli spaces of vector bundles are generally noncompact, but (coarse) moduli schemes of (gieseker semistable) coherent sheaveswith fixed Chern character are proper (Hausdorff), gives compactification of (semistable) algebraic vector bundles by extended them to moduli spaces of (semistable) torsion free coherent sheaves. Compact proper moduli schemes.
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/DAG7+8.pdf  Joyce DAG 7
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/DAG9+10.pdf  Joyce DAG 9
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/DAG11+12.pdf  Joyce DAG 11
+
+https://people.maths.ox.ac.uk/joyce/DAG2022/DAG13+14.pdf  Joyce DAG 13, most important sets of slides, Bezout's theorem thought of as homology [C] = m[CP^1], [D] = n[CP^2] in H_2(CP^2, Z), get [C] * [D] = mn, so H_0(CP^2, Z) = Z, so Bezout's theorem can be thought off as recovering homology class of products. Vrtiual classes, derived Delign-Mumford K-stack, virtual classes satisfy deformation invariance just like transversality. Chow homoloyg is of Borel-Moore type, Behrend-Fantachi's intersection theory. Algebraic geometry still use obstruction theories, rather than derived world, advantages. Slide 8, how to think about virtual classes, compute example of derived 0 locus on slide 8. cCompact oriented Kuranishi spaces have virtual classes. Semistable coherent sheaves on Calabi-Yau 3-folds are DT invariants. Virtual classes, use DM stacks rathern than Artin stacks, restrict to stable objects or semistable objects, restricting to stavles can kill compactness if stable != semistable. Complex object can be polystable if it admits solutions to interesting PDE. Harder-Naramsimhan filtration, generalising slope filtration of vector bundles. Example, Bun_G is not of finite type but can stratisfy it to these filtrations. GIT stability typically coincides with category semistability. Calabi-Yau m-fold is smooth projec variety of C-scheme. Thomas defined numerative invariants. Use Chern char and Gieseker stability, compute Hom and Ext, apply Serre's duality.DT is start of a long story, categorification gets -1-shifted symplectic structures.
+
+https://people.maths.ox.ac.uk/joyce/VertexAlgebras2021/VA1+2.pdf, vertex algebras 1 + 2 by Joyce
+
+https://people.maths.ox.ac.uk/joyce/VertexAlgebras2021/VA3+4.pdf, vertex algebras 3 + 4 by Joyce
+
+https://people.maths.ox.ac.uk/joyce/VertexAlgebras2021/VA5+6.pdf, vertex algebras 5 + 6 by Joyce
+
+https://people.maths.ox.ac.uk/joyce/VertexAlgebras2021/VA7+8.pdf, vertex algebra by 7 + 8 by Joyce
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/index.html, Joyce on Kahler geometry
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG1+2.pdf, Kahler geometry 1 and 2, complex charts and holomorphic transition functions, almost complex structures. Newlander-Nirenberg theorem, alternative use locally ringed space is locally isomorphic to C^\infty scheme or use atlas of charts and transition functions of diffeomorphisms. Holomorphic gives complex manifolds. Definition ins slide 4, PENANDPAPER. Complex atlas give local holomorphic coordinates. Compute slide 12 examples. Projective variety is subset of CP^n defined by noninvertibility or vanishing of finitely many homogenous poly closed in CP^n, so compact, proj complex manifold. Complex proj. has embedding into CP^n, Chow's theorem compact complex submanifolds in CP^n, it is a projective complex manifold, defined by vanishing og homogenous polys aka Chow's theorem means I can use algebraic geometry. Complex vector spaces are equivalent to real vector space with endomorphism J^2 = -Id. This naturally gives the Cauchy Riemann equations. Nijenhaus tensor, means obstruction to existence of holomorphics locally on X since 2n equations on 2 functions. Computes possible first derivatives. Converse is Newlander-Nirenberg, Nijenhuis tensor as 'curvature' of J, N being residue 0 as flatness. Definition of complex manifold, integrable with almost complex structure i.e. residue N = 0 or Nijenhuis tensor. Equivalency of definition means use NEwlander-Nirenberg, define atlas, trasnition functions, complex manifolds. Turns out that J-holomorphic curves or 2dim complex submanifolds are well behaved. Symplectic form omega on X is 2-form omega with d_omega = 0. Darboux means each point in symplectic manifold, can choose points omega = sum dx_j cap dy_k, Newlander-Nirenberg shows if J is almost complex structure, Nijenuis tensors N residue 0, at each point x we can choose coord with J some antisymmetric thing, complex manifolds are locally same as standard model (R^2n, J0). Symplectic geometry depends on choosing compatible J then counting J holomorphic curves in X.
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG3+4.pdf, Joyce on Kahler geometry, exterior forms
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG5+6.pdf, Joyce on Kahler geometry, Hodge theory or Kahler theory
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG7+8.pdf, Joyce on Kahler geometry, line bundles and divisors, cohomology
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG9+10.pdf, Joyce on Kahler geometry, vanishing theorem says given assumptions H^q(E) = 0, q > 0, dimension counting is easy i.e. chi(X, E) = sum (-q)^1 dim_C H^q(E) reduces to dim_C(H^0 (E)), Hirzebruch-Riemann-Roch gies this as integral ch(E) td(X), compute number of holomorphic sections of E. To read more.
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG11+12.pdf, Joyce on Kahler geometry
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG13+14.pdf, Joyce on Kahler geometry
+
+https://people.maths.ox.ac.uk/joyce/KahlerGeom2022/KG15+16.pdf, Joyce on Kahler geometry
+
+https://math.mit.edu/juvitop/pastseminars/notes_2018_Spring/03-14_Hahn_Schlessinger's-Criterion.pdf, formal moduli problem functor from local artinian k algebra to continuous homomorphism, simplest example is ring of dual numbers Lubin-Tate, there exists a complete local ring E, residue field k, for any artinian k-algerba A continuous maps E into A represents pi_0 Def_*(A). Lurie wants to generalise this. Spectral deformation of p-divisible groups. Deformation of G_0 over E_\infty ring, consists of p-divisble groups. Schlessinger needs formal smoothness.
+
+https://math.mit.edu/juvitop/pastseminars/notes_2021_Fall/Ishan.pdf, formal moduli problems and Lie algebras in 5 pages
+
+https://people.maths.ox.ac.uk/brantner/DeformationTheoryAndPartitionLieAlgebras.pdf, deformation theory means infintesimal structure of moduli space, char 0, controlled by dg Lie algebras. Classical example on page 0, H^0(Z, T_Z) controls inf autos of rtivial deformation.
+
+https://adebray.github.io/lecture_notes/m392c_BrSt_notes.pdf, bridgeland stability Arun Debray notes, 
+
+https://www-fourier.univ-grenoble-alpes.fr/~mbrion/notes_luminy.pdf, intro to actions algebraic groups, alg group is variety with structure of a group, any finite group is algebraic.
+
+https://drive.google.com/file/d/1BnwN5ybs5aBloCD9hu-HBep5cYXqgDOK/view, instanton sheaves
+
+https://drive.google.com/file/d/1aaX_hpH90QUDEf7c6vxSoaAVbk4jE7R6/view, instanton objects and bridgeland stability
+
+https://drive.google.com/file/d/1IocrE6lCSNk9tOW0fbGXbAC53ikyN7ps/view, instanton sheaves in bridgeland stability
+
+https://drive.google.com/file/d/1nsubldPFfMhMbTCAeFvLOM9DkV3Me5wU/view, higher DT/PT wall crossing
+
+https://sites.duke.edu/scshgap/files/2021/01/clay1.pdf, tom bridgeland on bridgeland stability
+
+https://www.mathnet.ru/PresentFiles/27341/slides.pdf, geometry from DT invariants
+
+https://sites.duke.edu/scshgap/files/2021/01/clay2.pdf, tom bridgeland on joyce structures
+
+https://sites.duke.edu/scshgap/files/2021/01/clay3.pdf, tom bridgeland on riemann-hilbert problems
+
+https://export.arxiv.org/pdf/2209.12432v1, 22 pages of cohomological jump loci
+
+https://amslaurea.unibo.it/id/eprint/29232/1/Lorenzo-Lipparini-Differential-graded-Lie-algebras-in-deformation-theory.pdf, thesis on deformation functors
+
+https://people.maths.ox.ac.uk/joyce/Kuranishi22.pdf, Kuranishi space introduction
+
+https://arxiv.org/pdf/2602.04658v1, Kodaira spencer theory for courant algebroids
+
+https://arxiv.org/abs/0709.3091, DAG deformation theory
+
+https://arxiv.org/pdf/1910.07255, derived deformation theory
+
+https://arxiv.org/pdf/2408.07972, 24 pages of spectral algebraic geometry, functor from stable inf category to abelian category is homological if it is additive and takes cofibre sequences in C to exact sequences in A. Recall that cofibres are associated with mapping cones.
+
+https://people.maths.ox.ac.uk/joyce/Edinburgh.pdf, bordism categories and orientations of moduli spaces
+
+https://people.maths.ox.ac.uk/joyce/DAGdummies.pdf, shifted symplectic space
+
+https://sanathdevalapurkar.github.io/files/slides-nah.pdf, introduction to the nonabelian Hodge conjecture via Donaldson's work
+
+https://hal.science/hal-04386288v1/file/Gentle-intro-non-abelian-Hodge.pdf, 63 page introduction to non abelian Hodge
+
+https://www.ma.imperial.ac.uk/~skdona/GEOMETRICANALYSIS.PDF, MOST IMPORTANT: lecture notes on geometric analysis by Donaldson
+
+https://shurui.people.stanford.edu/sites/g/files/sbiybj24951/files/media/file/non_abelian_hodge_2.pdf, 16 page introduction to nonabelian Hodge theory
+
+https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/9/19423/files/2024/09/Hitchin_notes.pdf, introduction to nonabeliam Hodge via Hitchin's self duality
+
+https://web.ma.utexas.edu/SMC/2020/notes/YangMillsMinicourse.pdf, 27 page introduction to Young's mills.
+
+https://math-sites.uncg.edu/sites/number-theory/summerschool/2016/uncg-hess-comments.pdf, slides on algorithmic algebraic number theory
+
+https://swc-math.github.io/aws/2014/2014DavidNotes.pdf, slides on statistics of number fields
+
+https://webusers.imj-prg.fr/~marc.hindry/Notes_rev_Brasilia.pdf, introduction to statistics of number fields
+
+https://math.mit.edu/classes/18.786/2024/LectureNotes7.pdf, meromorphic differentials on compact Riemann surfaces
+
+https://www.ms.u-tokyo.ac.jp/~kelly/Course2025KTheory/KTheoryLecturesAll.pdf  47 pages algebraic k theory lectures
+
+https://www.utsc.utoronto.ca/people/kupers/wp-content/uploads/sites/50/introduction.pdf 5 page intro to hermitian K theory
+
+https://arxiv.org/pdf/2009.07223, hermitian K-theory 9 author paper part I
+
+https://arxiv.org/pdf/2009.07224, hermitian K-theory 9 author paper part II
+
+https://arxiv.org/pdf/2009.07225, hermitian K-theory 9 author part III
+
+https://florianadler.github.io/AlgebraBonn/KTheory.pdf  lectures on hermitian K theory, Wagner who is working on Habiro stuff typed up these slides.
+
+https://guests.mpim-bonn.mpg.de/ferdinand/q-Habiro.pdf  Habiro introduction
+
+https://math.mit.edu/~poonen/papers/cft.pdf  8 pages statements of class field theory by Poonen, very short summary, PENANDPAPER
+
+https://web.ma.utexas.edu/users/gdavtor/notes/4manifolds.pdf  4 manifold topology
+
+https://arxiv.org/pdf/1606.01321, Kedlaya notes on Isocrystals,, Berthelot
+
+https://math.berkeley.edu/~mhaiman/math256-fall18-spring19/cohomology-1_derived-cat.pdf  21 pages on derived categories
+
+https://dtubbenhauer.com/Talk-Eugene-2020.pdf  categories of tilting modules on sl2(c)
+
+https://dtubbenhauer.com/talks/2024-07-york-1-3.pdf  analytic theory of monoidal categories to avoid counting
+
+https://dtubbenhauer.com/Talk-Freiburg.pdf  cellular algebra of U_q(g)
+
+https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf  45 slides on sl2(C), Lie bracket is skew symmetric IMPORTANT INTRODUCTION SLIDES, THE BEST ONE I HAVE SEEN. Lie bracket is given by commutators. Need adjoint representation, that gives Jacobi identity, want to show [ad(x), ad(y)] = ad([x,y]), denote ad(x) by x' x'y-y'x = (xy)', Lie bracket is what makes this possible. Schur's lemma Pt I proof, use first isomorphism theorem, irreduc, map T is nonzero ker of T is 0, im(T) is V so isomorphism. ker(T) uses T(xv) = x T(v), but T(v) is 0! Schur's lemma part II uses ker(T - lambda id) = V as nonzero submodule of V, T has eigenvlue due to alg closure, so T = lambda id as endomorphisms of V. This is also a fast proof of Schur's. PENANDPAPER, page 25 onwards
+
+https://www.math.stonybrook.edu/~cschnell/mat545/class16.pdf  8 pages of sl2(C) and Kahler
+
+https://www.math.wustl.edu/~matkerr/sl2notes.pdf  36 pages oh Hodge theory, prabolic induction on SL2(R), Eisenstein series, modular forms, automorphic cohomology, MUST READ ALL IMPORTANT TOPICS
 
 https://www.stat.umn.edu/geyer/f13/8931aster/slides/s4.pdf  asymptotic approximation
 
