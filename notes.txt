@@ -4,9 +4,53 @@ https://arxiv.org/pdf/2105.13028, de Rham Fargues Fontaine
 
 https://webhomes.maths.ed.ac.uk/~v1ranick/papers/hopksing.pdf, Hopkins-Singer differential cohomology
 
-https://arxiv.org/pdf/2312.14338v1, 20 pages Arun Debray introduction to differential cohomology
+https://arxiv.org/pdf/math/0007070, universal homotopy thoery, universal model cateory built from C
+
+https://arxiv.org/pdf/1311.3188, differential cohomology as sheaves of spectra
+
+https://arxiv.org/pdf/1510.06366, cohomology operations from cohomology to differential cohomology via stacks learn from stacks paper
+
+https://arxiv.org/abs/1604.05988, differential cohomology primary operations using stacks.
+
+https://arxiv.org/pdf/2312.14338v1, 20 pages Arun Debray introduction to differential cohomology, closed differential form, interpret as gauge field in aa quantum field theory wants quantum refinement. These must be quantised i.e. in some system of units they are integers and not arbitrary real nubmbers. M smooth manifold, diff cohomology groups H^k(M,Z) and a characteristic class map mapping from diff cohomology to ordinary de Rham cohomology and a curvature map mapping to Omega^k or differential forms, the differential cohomology is the universal object of classifying data of an integral cohomology class (its char class), a closed differential form, an d an identificaiton of the two induced de Rham cohomology. The first construction is by Cheeger-Simons. Ordinary cohomology is to topolocial objects, differential cohomology is to geometric ones. H^2 classifies complex line bundles L -> M, H^2 classifies complex line bundles with conneciton. Which facts of ordinary cohomology can be upgraded to differential cohomology, example. Differential cohomology groups, char class maps sends to ordinary cup product, curvature maps. Integration along the fibre. Grady and Sati lifted primary and second cohomology operations to differential cohomology. Characteristic classes are imporant for differential cohomology, analogy with ordinary cohomology gives new phenomena, Chern-Weil theory is important! Leads to Chern-Simons invariants. Key properties of Chern-Weil forms, CW(P , theta, f) is a closed form, the de Rham class depends on P but not on the choice of Theta, holding f fixed, it is natural. I got stuck at CHern-Weil theory here.
+
+https://www.imath.kiev.ua/~mariyka/publ/BPPune-slides-1.pdf, cohomology and congruences
+
+https://albanymath.github.io/comper25/Slides/vr_st.pdf, persistence and cohomology, introduction to Steenrod algebras, and Steenrod algebras
+
+https://topos.institute/events/topos-colloquium/slides/2022-06-02.pdf, intruoduction to global elements, torsors and their role in sheaf cohomology, sheaf cohomology relied on injective resolutions, n-stacks generalises this. Topos theory, category of sheaves functions is a super structure of measurement, incorporate all that is essential aobut thsi space. Set formed by all sheaves, one can take lots of rulers. Sheaf model, LEM may not be valid, axiom of choice may fail. Partial or virtual elements, G-sets, G = Z/2Z, T = {a,b}, a, b swapped by G action T -> 1 is epi, T has no global element. Notion of topos, refelected by any Z-torsor is trivial. Helix over S_1. Russell use R as a line representing time. H1 of sheaf cohomology for sheaves of groups, all G-torsors up to isomorphism for H^1(X, G). See Baez, torsors made easy, G is a group, G-torsor T is like group that forgotten origin, like potential energy. G-torsor is isomorphic to G but not canonically. Any map between two G-torsors is isomorphism, so collection of G-torsors form groupoint, but locally T(Ui) -> T'(Ui) has some unique inverse. Patch to build global inverse. In torsor, need unique choice, choice may fail, unique choice is always OK. New principle of unique choice only hold in univalent type theory. H^1 is iso classes of G-torsors, H^2 is sheaves of groupoid. Torsors and gerbes have a lnaguage equivalent to Cech cocycles. Object defined up to unique isomorphisms, of category defined up to unique equivalence up to unique isomorphism, and recollement of stacks. Stacks, noncommutative uses Giraud's thesis, but limited to 1-stacks, need cohomological formalism not commutative in terms of n-stack. Try to characterise delooping as universal property, by Deligne. Stuck in the middle at slide 30
+
+https://jpascale.web.illinois.edu/lecture1.pdf, Fukaya category lecture 1
+
+https://jpascale.web.illinois.edu/lecture2.pdf, Fukaya category lecture 2
+
+https://jpascale.web.illinois.edu/lecture3.pdf, Fukaya category lecture 3
+
+https://jpascale.web.illinois.edu/courses/2018/595/, homological mirror symmetry introduction
+
+https://arxiv.org/pdf/math/9910179, A-infty algebras introduction in 30 slides
+
+https://categorified.net/ASQC4.pdf, SPT phases and generalised cohomology
 
 https://arxiv.org/pdf/hep-th/0205002, gerbes and duality in relation to electromagnetic duality
+
+https://sites.math.washington.edu//~julia/Slides/Evans08.pdf, cohomology and support, varieties for modules, rank varieties
+
+https://math.berkeley.edu/~ltomczak/notes/Lent2023/GrpCohom_Notes.pdf, group cohomology notes in 38 pages
+
+https://sudo-rushil.github.io/chroma2022/assets/slides/talk5.pdf, Steenrod algebra, stable cohomology operations is a natural transformation functors from Top_* -> GrAb, Hopf algebras
+
+https://eprints.maths.manchester.ac.uk/1709/1/PRESENTATION.pdf, Steenrod algebra in 14 pages, lots of calculations here
+
+https://arxiv.org/pdf/0903.4997, Steenrod algebra in a nontechnical manner, exaplined, Steenrod algebra is to regard tohe total Steenrod operation as a perturbation of the Frobenius map, define Steenrod algebra as the subalgebra generated by the homogenous components
+
+https://math.gmu.edu/~rallen2/slides/gmu/Multiplication%20Operators%20on%20the%20Bloch%20Space%20of%20the%20Unit%20Disk.pdf, isometries on H^p and A^p, isometry probmlem is to determine the isometries on X. Investgiated by Banach, motivates definition of Hardy spaces. Analytic functions on open unit disk such that there is some sup integral norm or something. Weighted compositon operators are a key definition. Composition operators are independently studied. Bloch space, define an analytic function f: D -> C is Bloch if beta_f := sup(1 - |z|^2) |f'(z)| < inf. Bounded. Schwarz-Pick lemma, all polynomials are Bloch. 
+
+https://math.gmu.edu/~rallen2/slides/gmu/Glimpse%20into%20Operator%20Theory%20I.pdf, glumpse into operator thoeries, Banach spaces, Hilbert spaces, bounded linear operators
+
+https://math.gmu.edu/~rallen2/slides/gmu/Glimpse%20into%20Operator%20Theory%20II.pdf, spectral theory, point spectrum
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/ctcwsli.pdf, cobordism, closed m-dim manifold is m+1 manifold with boundary M u N, abelain group of cobord classes of oriented closed m-dim manifolds, addition by disjoint union, oriented cobordism ring 
 
 https://www.ms.u-tokyo.ac.jp/~yasuyuki/yamashita-crest2022-3.pdf, differential cohomology introduction, this is a very hard set of slides and does not obviously talk about spectra, refines generalised cohomology with differential geometric data on manifolds, accounts for topological terms in Lagrangians like holonomy for U(1) and Chern-Simons. PENANDPAPER, slide 4 some formula. Nontrivial topology means differential forms fail. Not topological also, depend on geometry, variation under bordisms is measured by pullback of field strength and pushforward over W^n for residue classes mod Z. Field strenght R(x^) is integral, Dirac charge quantization. Recover topology including torsions. Some commutative diagrams. Solution is via differential cohomology. Wait what H^2(X,Z) for CW complex cohomology is the equivalence class of Hermitian line bundles under isometry. Take connection to detect Chern clases. Corresponding class for the c_1(L) is the first Chern class. To detect Chern classes, one way is to take the connection, take U(1)-connection nabla on L, locally nabla = d + A, for A. As one compute the Chern class it is the 1/2pi i [F_\nabla] is H^2, curvature recovers first Chern class up to torsion, this is the Dirac charge quantization. Nontrivial line bundles that cannot be detected by curvature, these are rightfully called those with flat connection, notntriviality requires holonomy. Holonomy remembers the isomorphism (=gauge equivalence) class of (L, nabla). Geometric model is by Hermitian line bundle with U(1)-connection. H^2 gets differential extension. Alternatively, see Cheegers-Simons, but I think this got superceded later. n-th differential charactrer, closd n-form omega in Omega^n_clo(X), group hom from Z_infty,n-1(X ; Z) -> R/Z, the key definition in CS85 is the definition of second differential character phi(delta c) is integral omega (mod Z). Differential characterrs can be used to compute Chern-Simon invariants, pick G = U(n), compute Chern classes. Cheeger-Simons, higher holonomy can be evaluated. Anderson self-duality is hidden behind the definition. Trivialisations of different characters are hard to define. Differential cocycles can be defined as element of Z^n x C^n-1 x Omega_clo, so that omega - c_R = delta h. Set the differenial cohmology be sets of (c, h, omega) or differential n-cocycles on X / equiv given by above (c,h,w) equiv (c+delta b, h - b_R - delta k, omega). Cochain complex means one can have topological trivialisations, or flat trivialisations. K-theory is generalised cohomology theory, vector bundles, Fredholm operators, Gradations on Clifford modules. Relative K0 group. Bott periodicity + 2 for topologcicla K theory, one can define topological Chern characters. Cher character form is some sort of trace.  Chern-Simons forms for the homotopy. K^0 for Grothendieck group? Topological K theory K^ has differential integration maps. The Chern-Weil construction to compute characteristic classes. Dan Freed does gauge theories using differential cohomology. Calculate partition functions and EM duality in differential cohomology, The differential cohomology is infinite dimensional and the partition function is like a zeta function. TQFTs just need bare homotopy theory. Differential cohomology is meant to refine singular cohomology with integer coefficients. Self dual higher gauge theory. Partition function of self-dual higher gauge theory is given by (a multiple of) the unique holomorphic section of a square root of the line bundle classified by the secondary intersection pairing.
 
@@ -612,7 +656,25 @@ https://arxiv.org/pdf/1411.4540, Heegard Floer homologies lecture notes in 31 pa
 
 https://web.stanford.edu/~cm5/Gokova.pdf triangulation lecture in 33 pages, conjecture is every top manifold can be triangulated.
 
-https://www.math.purdue.edu/~arapura/preprints/etale.pdf  etale cohomology in 60 pages
+https://www.math.purdue.edu/~arapura/preprints/etale.pdf  etale cohomology in 60 pages 
+
+https://www.math.purdue.edu/~pvankoug/talks/spectra13.pdf, spectra and localisation in 12 pages
+
+https://www.math.purdue.edu/~pvankoug/talks/homotopybeamer14.pdf, stable homotopy theory and geometry in 67 pages, buidld topological spaces using n-1 spehres. Homotopy means attaching maps of 1 can be deformed into attackhing maps of the other. This is a relative POV, relative to common space, same attaching maps. Suspension of a space. With suspension maps, and Freudenthal suspension thoerem, suspension map from pi_k S^n -> pi_k++ S^n+1, is surjection for k = 2n-1, isomorphism for k < 2n - 1. One can take stable homotopy groups of sphere, degree of map is a homotopy invariants, pi_n S^n is cyclic. So the diagonal is copies of Z. Hopf fibration is the simplest nontrivial examples. Stably framed (n-k)-manifold.
+
+https://www.math.purdue.edu/~pvankoug/talks/stableinfty16.pdf, 9 pages of summary of stable homotopy theory, topological space with algebra of opens under certain conditions, space is Hausdorff compactly generated with compact open generated topology.
+
+https://www.math.purdue.edu/~pvankoug/talks/steenrod16.pdf, Steenrod algebra in 5 pages. 
+
+https://www.math.purdue.edu/~pvankoug/talks/spectra13.pdf, spectra and localisation in 11 pages
+
+https://math.stanford.edu/~conrad/vigregroup/vigre04/hondatate.pdf, Honda-Tate theory in 29 pages
+
+https://www.ams.org/journals/jams/1992-05-02/S0894-0347-1992-1124982-1/S0894-0347-1992-1124982-1.pdf, Kottwitz introduction to Shimura varieties. 
+
+https://www.math.nyu.edu/~tschinke/books/finite-fields/final/05_oort.pdf  Frans Oort introudction to abelian varieties in 67 pages
+
+https://www.maths.ed.ac.uk/~v1ranick/papers/moshtang.pdf, Mosher and Tangora book on operations
 
 https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf  9 page perverse sheaves by Sophie Morel, OK notes, need something in the middle and to do computations PENANDPAPER showing 6ff later, condition if X is smooth equivalence between C-local systems, locally constant sheaves of fd C-vector spaces and pairs (Eps, Nabla), eps is vector bundle, nabla is integrable flat connection then correspondence with C-local systems and these pairs, sends pairs (eps, nabla) to sheaf eps^nabla, sends local system L to vect bundle L otimes_C O_X, connection given by usual connection of O_x, one can define Q-structure or R-structure on the pair to define varaitions of Hodge structure, simply the data of Q-local systems. D-modules generalise (Eps, nabla), forming abelian cat D-mod, subcat D-hmod of holonomic D-modules with good properties, D-hmod is Artinian and Noetherian, simple objects are D-modules whose underlying O_X-module is a vector bundle, stable by D-module version of Verdier duality, has 4 ops, pushpull and exceptional versions. For general D-modules only exceptionall pullback and direct pushforward are defined. But this theory is more than D-modules on smooth varieties. For the general theory, choose a covering of opens that embeds into smoothness, check that it does not depend on coverings and embeddings. You want holonomic modules to generalise to (eps, nabla), need something that generalises Q-local, and generalisation of holonomic D-modules. Perverse sheaves and Riemann correspondences are the answer. Fix F field, F-local systems as sheaves of F-vector spaces, work with Sh(X,F). Constructible if stratification of X, each restriction of F to each stratum is local system. For our purposes, stratification of X is finite partition of X by localy closed algebraic subvarieties such that the closure of each stratum is union of strata, wlog strata are smooth and connected. complexes in D(Sh(X,F)) are constructible if H^iK is constructible for every i in Z. 6ff work for cat of constructible complexes of sheaves of F-vector spaces, triangulated subcategory of D(Sh(X,F)), PENANDPAPER read this part agian. Category of constructible sheaves of X, but not Artinian or stable. Need t-structure to construct abelian subcategories of triangulated categories. Perv(X:F) is given by intersection of D<=0 and D>=0. Intermediate extension functor, simple objects are those having K = j_!* j^* K, j : Z -> X is an open embedding with everywhere dense image. Work out example in middle.
 
