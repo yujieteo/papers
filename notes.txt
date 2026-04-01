@@ -3294,6 +3294,54 @@ https://pub.math.leidenuniv.nl/~gaansowvan/jancol1.pdf  probability measures on 
 
 https://www.math.nagoya-u.ac.jp/~garrigue/tpp2024/slides/hirata.pdf  formalising Prokhorov's theorem, topology of weak convergence, coarse point makign lambda mu and integral f mu continuous for all f in C_b(X), all functionals that are boiunded and continuous. Weak convergence is convergence on points mu_n -> mu in P(X), or int f dmu_dn -> int f dmu. Central limit theorem, P_n weakly convergeces to normal(0,1). Prohorov's theorem P a polish space, Gamma in P_r(X) or P(X) intersect {mu, mu(X) < r, r < inf}, P(X) is set of all FINITE MEASURES ON X, not power set. So finite finite measures bounded, compactification of Gamma compact in set of finite measures, gamma is tight i.e. compact in X satisfies mu(X - K) < eps. Operator convergence, strong is pointwise, weak is inner prod. Probability, weak converence is in distribution or in measures, strong converegence is pointwise. Oh wait then these are similar? Strong is pointwise, weak is always under inner prod or in measure. But strong topology has harder convergence, weak topology has easier convergence by making mor sets compact.
 
+https://www.math.purdue.edu/~arapura/preprints/hodgeintro.pdf, any comlex submanifold of P^n is agan an algebraic subvariety, zero set of a collection of homogenous polynomials of defining polynomials. Jacobian of these polynomials have expected rank locally so it is also a complex manifold. Hermitian metric on a complex manifold has coefficients g_ik and tensor product between dz_i otimes dz_j conj. Does conjugation appear as second term of matrix? This looks very similar to the Riemannian metric, what if I wanted to generalise the line element of the Dirac operator on the Hermitian metric? 
+
+https://homeweb.unifr.ch/ghanaatp/pub/gromov-hausdorff.pdf  Gromov-Hausdorff distance and applications
+
+https://www.fields.utoronto.ca/talk-media/1/26/87/slides.pdf, Gromov Hausdorff distance in 9 slides, R be subset of direct product, extend to pseudo metric, x R y implies d(x,y) = 0, largest R-invariant extended pseudo metric that is bounded above, quotient metric is defined, and 1-Lipschitz can be defined as universal property. Homotophy interleaving distance, waeak equivalence if zizag of weak equivalence. Not sure how this is metric topology. Example, persistence homology is stable. Some Vietoris-Rips is 2-Lopschitz? Gromov Hausdorff disance can be defined using a quotient metric or interleaving distance? xRy implies d'(f(x), f(y)) = 0.
+
+https://home.mathematik.uni-freiburg.de/ketterer/geo_met.pdf, geometry of metric spaecs in 83 pages
+
+https://anton-petrunin.github.io/metric-geometry/tex/pure-metric.pdf, pure metric topology in 96 pages
+
+https://anton-petrunin.github.io/alexandrov/alexandrov.pdf, metric spaces in 180 pages
+
+https://msp.org/gt/2023/27-9/gt-v27-n9-p07-s.pdf, grmov hausdorff distance between spheres in 71 pages
+
+https://math.berkeley.edu/~lott/msri.pdf, optimal transport, M a smooth n-dim Riemannian manifold, m a point in M, tangent space at m.
+
+https://arxiv.org/pdf/2012.00756, lectures on GH distacne geometry in 108 pages
+
+https://cvgmt.sns.it/media/doc/paper/5311/ICM-De-Lellis-web-version-2.pdf, regularity theory in geoemtri cmeasure theory
+
+https://arxiv.org/pdf/2112.00540, rectifiable survey
+
+https://bicmr.pku.edu.cn/upload/file/2024/20240701/20240701185633_75539.pdf, theory of varifolds survey in 9 pages at the start
+
+https://minterscompactness.wordpress.com/wp-content/uploads/2024/12/reg-in-gmt-notes.pdf, regularity techniques in geometric measure theory
+
+https://choum.net/~chris/talks/Beamer_ILCLI.pdf, short tour in model theory, semantic gives meaning, syntax is to formalise the semantic. Godel completeness of first order logic. First order theory of ZF is built on top of Naive Set Theory. Model theories use ZF. Exact definition of model theory is hard since it interacts a lot with mathematics. Model theorists focus on semantics, only the set itself is important. Quantifier elimination if ther exists another formula which does not use for all and there exists that is equivalent. A structure has QE if the theory or its axioms have quantifer elimination. Quantifier elimination is a classical tool. Default of expressibility or collapse of semantic. Example x > 0 eliminated quantifiers for x = y^2 up to the level of sets. Compactness theorem, symbolic definition? Classification theory by Shelah uses infinite combinatorics. A theory is stable if for all model M of T and for all formula, there is no infinite sequence of elements of M such that the following holds i.e. i <= j iff M follows formula phi(a_i,a_j). Informally no formula interprets order that behaves like (N, <=), (R, +, *, <) is not stable but (C, +. *) is stable. Stability is an extremely successful notion since it occurs in C, and allows for lagebraic geometry to use it. Model theory is too general, general tools are weak for particular eaxmples. 
+
+https://math.mit.edu/~lguth/polynomialmethbeamer.pdf, polynomial methods in 37 slides. Idea comes from algorithms about solving polynomials. Take points in vector space, find polynomial of lowest possible degree that vanishes the points, use this polynomial to attack the problem. Let F be a field, let p_i be points, nonzero poly that vanishes it, reduced to linear algebra. Nonzero poly degree of degree d that vanishes at all points if and only if the evaluation map has nontrivial kernel, by first isomorphism theorem, recall that in Schur's kernel is subspsace, so this is similar.We can efficiently find a poly that vanishes at each p_j. Nikodym conjecture in finite fields was solved with the polynomial method. See Dvir's paper. Space of polynomials is alrge, d^3 for V(d), vanishing lemma or behaviour of polynomials along a line is rather restricted.
+
+https://arxiv.org/pdf/1803.07118, model theory and ultraproducts in 13 slides.
+
+https://homepages.math.uic.edu/~marker/orsay/orsay1.pdf, model theory for algebra and algebraic geometry
+
+https://swc-math.github.io/aws/2024/2024MazurSlides.pdf, abelian varietes, Barry Mazur.
+
+https://swc-math.github.io/notes/files/06CohenLectures.pdf, explicit methods for Diophantine equations in 82 slides
+
+https://swc-math.github.io/aws/2023/PAWSNagloo/2022PAWSNaglooNotes4.pdf, model theory introduction in 7 pages. A subset is aproper filter if I in filter, empty not in filter, A, B in filter implies intersection in filter, A in filter A in B in I, then B in filter. I is nonempty set, P(I) is power set of I, filters are in the power set of I. Frechet filter gives notion of largeness. Ultrafilter is maximal filter, filter not contained in any other filter, principal filter on I denoted by F_x is filter for one element, x in I, F_x is ultrafilter. Ultrafilter is a deicision about which of X or its complement is large. Los's theorem. Compactness theorem, T is L theory, T is consistent if and only if every finite subset of T is consistent. Can be proved using ultrafitlers. Quantifier elimination, model theroy is to study all definable sets.
+
+https://yufeizhao.com/pm/probmethod_notes.pdf, probabilistic methods in combinatorics in 214 pages.
+
+https://www.braunling.org/chicago.pdf, adelic methods in algebraic geometry
+
+https://arxiv.org/pdf/2109.04331, noncommutative analogue of idele class groups, F number field, LCA, locally compact topological F-vector spaces
+
+https://arxiv.org/pdf/2109.01136, classes in zakharevich K-groups or assemblers. Take the zeroth homotopy group of K(Var) such that pi_0 K(Var) = K_0(Var) are now known as Zakharevich K-groups, K0(Var) is Gorthendieck ring of complex varieties for every closed immersion Z into X, open complement (like a quotient) U, forming [X] = [U] + [Z].
+
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra, solutions start on page 246.
 
 https://www.ms.u-tokyo.ac.jp/~yasuyuki/yamashita-crest2022-3.pdf, differential cohomology
