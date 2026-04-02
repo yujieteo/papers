@@ -3385,3 +3385,117 @@ https://aaronkychan.github.io/notes/pgsem/quivers.pdf, quivers, representations 
 https://arxiv.org/pdf/2307.01711, Chow rings of quiver moduli
 
 http://www.math.uni-bonn.de/~schroer/fd-atlas-files/FD_Atlas.pdf, atlas of finite dimensional algebras in 365 pages as well as tilting theories.
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/DS-NTDU.pdf, rational approximation of irrationals, approximate specifc numbers hard open problems, focus on proving results about almost all numbers, exclude small pathological sets. Some sort of colourign and measure theory.
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/DS-Alpbach-L1.pdf, metric diophantine approximation, Khinchin's theorem
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/Divisors-CNTA-2024.pdf, divisors, choose n in [1,x] at random, what is distribution of divisors? Scale calibration, some log stuff. Probabilistic number theory. How does one smooth a power series of exp to form an integral? Integr written as product of pines, get log estimate, slide 6, PENANDPAPER. Permutation can be written as disjoint cycles is reelated to monic irreducibles? Probabilistic Galois theory is a thing?
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/Divisors-NTWS.pdf, high dim theory of integer divisors, Erdos about divisors, low dim constraints of geometro-combinatorial nature. Linear algbera of k divisors closed, linear system.
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/DS-NTDU.pdf, rational approximations of irrationals improving Dirichlet's theorem, Boren-Cantelli lemma is a.key tool events in prob space, limi sup be event that infinitely many that occur, if sum of probabilities is Minf, probability is 0, if prob = inf, E_j, independent, prob E is 1. How does one prove this? PENANDPAPER. Slide 15 crucial but special case.
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/irr-random-polynomials.pdf, irred of random poly of large degree?
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/Oberwolfach2016.pdf, selberg sieve notes
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/Crete2016.pdf, perm in transitive group, understand subgroup structure of permutation groups. IMPORTANT SLIDES!
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/CDKS.pdf, freuqency of elliptic curve groups, Lang-Trotter conjecture
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/Fouvry60.pdf, distribution of the maximum character sums
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/CMS2012.pdf, group structures of elliptic curves over finite fields, pick elliptic curve, a, b st 4a^3 + 27b^2 nonzero., then E{Q} = set of solutions to elliptic curve union inf, is fg gorup, what is the discriminant, how does one even prove this?
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/CNTA12.pdf, sieve notes, classical sieve methods, exstimate size of primes, twin primes?
+
+https://dms.umontreal.ca/~koukoulo/documents/slides/QuebecMaineOct10.pdf, generalised multiplication tables
+
+https://www.math.purdue.edu/~twooley/2023ant/2023antnotes.pdf, circle method notes pg 50
+
+https://ford126.web.illinois.edu/sieve2023.pdf, sieve method notes 129
+
+https://people.math.harvard.edu/~landesman/assets/analytic-number-theory-notes.pdf, analytic number theory notes pg 137
+
+https://people.math.ethz.ch/~kowalski/espanol.pdf, prob number theory notes in 22 pages
+
+https://people.math.ethz.ch/~kowalski/number-theory.pdf, kowalski number theory in 134 pages
+
+https://dms.umontreal.ca/~andrew/CEBBrochureFinal.pdf, primes of intervals of bounded length in 44 pages
+
+https://math.mit.edu/research/highschool/primes/materials/2024/May/1-1-Hou.pdf, gabriel's theorem in 86 slides
+
+https://aaronkychan.github.io/notes/talk-StdExtNoOverlays.pdf, ext-algebra of standard modules in 23 slides
+
+https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section7_h.pdf, ring theory basics
+
+https://www.math.clemson.edu/~macaule/classes/f18_math8510/slides/f18_math8510_lecture-rings-01_h.pdf, ring theory advanced
+
+https://bimsa.net/doc/notes/24462.pdf?id=0.7289508920220682, comp commutative algebra in 12 pages
+
+https://www.damtp.cam.ac.uk/user/dbs26/AQFT.html, Skinner AQFT notes
+
+https://dec41.user.srcf.net/notes/III_M/advanced_probability_thm_proof.pdf, modern prob theory proofs 42 pages
+
+https://nabiliqbal.github.io/lectures.pdf, QFT notes in 66 pages
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Schembri.pdf?_gl=1*1708npr*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODgkajM4JGwwJGgw, quaternionic multiplication torsion and moduli in 21 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Schiavone.pdf?_gl=1*1qfy8v3*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk1MDUkajIxJGwwJGgw, theta constants 6 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lecture%20slides/AGNTC%202024%20AM-%20Salgado%20%28converted%20to%20PDF%29.pdf?_gl=1*1qfy8v3*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk1MDUkajIxJGwwJGgw, rank jumps on elliptic curves 187 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lecture%20slides/AGNTC%202024%20AM-%20Venkatesh.pdf?_gl=1*1qi52a1*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk1MDUkajIxJGwwJGgw, spin structures and arithmetic statistics 58 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Costa.pdf?_gl=1*1708npr*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODgkajM4JGwwJGgw, Eichler-Shimura modular forms 14 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Duque%20Rosero%20%28converted%20to%20PDF%29.pdf?_gl=1*1708npr*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODgkajM4JGwwJGgw, qudartic Chabauty 12 slides 
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Lau.pdf?_gl=1*1708npr*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODgkajM4JGwwJGgw, genus 6 curves 8 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Logan.pdf?_gl=1*1708npr*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODgkajM4JGwwJGgw, algebraic cycles 20 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lecture%20slides/AGNTC%202024%20AM-%20Zubrilina.pdf?_gl=1*c5hf9p*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0NjkkajU3JGwwJGgw, murmurations 109 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Assaf.pdf?_gl=1*1qnn2x9*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODAkajQ2JGwwJGgw, algebraic modular forms in 57 slides
+
+https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20van%20Bommel.pdf?_gl=1*1qnn2x9*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODAkajQ2JGwwJGgw, cayley octads in 11 slides
+
+https://drive.google.com/file/d/1FF-EfVxzflAEafzfK5SuYOtuO6G1Uw3k/view, modular forms in 56 pages
+
+https://indico.cern.ch/event/1228934/contributions/5505764/attachments/2693753/4674932/exercises.pdf, feynman integral exercises in 3 pages
+
+https://arxiv.org/pdf/2201.03593, feynman integrals in 816 pagees
+
+https://indico.cern.ch/event/1228934/contributions/5505799/attachments/2694570/4676327/ampsol.pdf, feynman integrals solutions panzer
+
+https://arxiv.org/pdf/1412.2296, DE for feynman integrals in 41 pages
+
+https://indico.cern.ch/event/1140580/contributions/4863931/attachments/2463784/4224699/CERN_TH_MB_2022.pdf, feynman integrals in 81 slides
+
+https://web2.ph.utexas.edu/~vadim/Classes/2022f/DR.pdf, dim reg in 6 pages
+
+https://multi-loop-2019.sciencesconf.org/data/program/Weinzierl_ML19.pdf, feynman integrals in elliptic curves in 39 slides
+
+https://arxiv.org/pdf/2410.06278, Grothendieck Galois theory in 11 pages
+
+https://dec41.user.srcf.net/exp/etale_fundamental_group/etale_fundamental_group.pdf, etale pi 1 in 12 pages
+
+https://homepage.univie.ac.at/lukas.bertsch/wp-content/uploads/2024/10/Algebraic-Fundamental-Group_1.pdf, etale pi 1 in 9 pages
+
+https://eldenelmanto.com/wp-content/uploads/2023/07/ihes-2.pdf, elmanto motivic cohomology in 54 pages
+
+https://jiantongliu.github.io/files/Motivic_Cohomology_Notes.pdf, motivic cohomology in 115 pages
+
+https://math.berkeley.edu/~phaine/files/Motivic_Overview.pdf, motivic cohomology review in 10 pages
+
+https://sustech-topology.github.io/grad/24spr/0430-Sun.pdf, sun yunhao motivic cohomology in 27 slides
+
+https://math.berkeley.edu/~avizeff/seminars/other/Tannakian.pdf, tannakian formalism in 7 pages
+
+https://adebray.github.io/lecture_notes/u19_differential_Galois_theory.pdf, differential galois theory in 13 pages.
+
+https://singer.math.ncsu.edu/papers/LMSlectures.pdf, galois theory of linear DE in 82 pages
+
+https://pmb.centre-mersenne.org/item/10.5802/pmb.43.pdf, topics in Tannakian categories
