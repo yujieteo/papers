@@ -556,7 +556,7 @@ https://websites.umich.edu/~pixton/papers/tautological.pdf  Pixton's thesis;
 
 https://people.math.harvard.edu/~lurie/252xnotes/Lecture2.pdf  Lurie's lecture 2 on Lazard's theorem
 
-https://people.math.harvard.edu/~lurie/papers/Conceptual.pdf  Jacob Lurie on Makkai conceptual completeness. I want to understand this to understand how to generalise or simplify the condensed formalism. Basically ultrafilters are some sort of measure on fuzzy interval so one can do measure theory with it instead of using subobject classifiers. Makkai conceptual completeness is an functor giving a small pretopos to be equivalent the category of ultrafunctors from the category of models to the category of sets. An ultrastructure is a family of isomorphisms that gives a Stokes' formula indexed by objects of ultracategories, and ultrafilters on an index satisfying coherence conditions.
+https://people.math.harvard.edu/~lurie/papers/Conceptual.pdf  Jacob Lurie on Makkai conceptual completeness, MUST READ. I want to understand this to understand how to generalise or simplify the condensed formalism. Basically ultrafilters are some sort of measure on fuzzy interval so one can do measure theory with it instead of using subobject classifiers. Makkai conceptual completeness is an functor giving a small pretopos to be equivalent the category of ultrafunctors from the category of models to the category of sets. An ultrastructure is a family of isomorphisms that gives a Stokes' formula indexed by objects of ultracategories, and ultrafilters on an index satisfying coherence conditions. Sheaves as left ultrafunctors?
 
 https://aareyanmanzoor.github.io/assets/matsumura-CA.pdf  Matsmura's Commutative Algebra.
 
