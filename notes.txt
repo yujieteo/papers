@@ -4,17 +4,17 @@ https://arxiv.org/pdf/2105.13028, de Rham Fargues Fontaine
 
 https://www.nieuwarchief.nl/serie5/pdf/naw5-2010-11-4-250.pdf
 
-http://denise.vella.chemla.free.fr/interview-EMS-2008.pdf, Connes criticism of string theory, sociological war. Triangle of thoughts book. Reading math extremely slowly.
+http://denise.vella.chemla.free.fr/interview-EMS-2008.pdf  Connes criticism of string theory, sociological war. Triangle of thoughts book. Reading math extremely slowly.
 
-https://kssarkaria.org/Quotations%20Sources/ConnesInteng.pdf, Connes interview in English, grounded by computations, go for a walk to arrange the elements before writing it on paper. Galois studies the most asymmetric and noninvariant element. Go on your own path.
+https://kssarkaria.org/Quotations%20Sources/ConnesInteng.pdf  Connes interview in English, grounded by computations, go for a walk to arrange the elements before writing it on paper. Galois studies the most asymmetric and noninvariant element. Go on your own path.
 
-https://www.nieuwarchief.nl/serie5/pdf/naw5-2010-11-4-250.pdf, kind of disliked fashionable areas. Some computations.
+https://www.nieuwarchief.nl/serie5/pdf/naw5-2010-11-4-250.pdf  kind of disliked fashionable areas. Some computations.
 
-https://denisevellachemla.eu/mai10.pdf, solve it by yourself, think about it or a while, you can also come to the conclusion that the teacher is wrong
+https://denisevellachemla.eu/mai10.pdf  solve it by yourself, think about it or a while, you can also come to the conclusion that the teacher is wrong
 
-http://www.ipm.ac.ir/IPM/news/connes-interview.pdf, Oka transplantation of analogy, of a plant. Create mental images, not new objects because of the constraint of reality. Go for a walk to organise the ideas before starting computations.
+http://www.ipm.ac.ir/IPM/news/connes-interview.pdf  Oka transplantation of analogy, of a plant. Create mental images, not new objects because of the constraint of reality. Go for a walk to organise the ideas before starting computations.
 
-https://webhomes.maths.ed.ac.uk/~v1ranick/papers/hopksing.pdf, Hopkins-Singer differential cohomology
+https://webhomes.maths.ed.ac.uk/~v1ranick/papers/hopksing.pdf  Hopkins-Singer differential cohomology
 
 https://arxiv.org/pdf/math/0007070, universal homotopy thoery, universal model cateory built from C
 
@@ -26,51 +26,51 @@ https://arxiv.org/abs/1604.05988, differential cohomology primary operations usi
 
 https://arxiv.org/pdf/2312.14338v1, 20 pages Arun Debray introduction to differential cohomology, closed differential form, interpret as gauge field in aa quantum field theory wants quantum refinement. These must be quantised i.e. in some system of units they are integers and not arbitrary real nubmbers. M smooth manifold, diff cohomology groups H^k(M,Z) and a characteristic class map mapping from diff cohomology to ordinary de Rham cohomology and a curvature map mapping to Omega^k or differential forms, the differential cohomology is the universal object of classifying data of an integral cohomology class (its char class), a closed differential form, an d an identificaiton of the two induced de Rham cohomology. The first construction is by Cheeger-Simons. Ordinary cohomology is to topolocial objects, differential cohomology is to geometric ones. H^2 classifies complex line bundles L -> M, H^2 classifies complex line bundles with conneciton. Which facts of ordinary cohomology can be upgraded to differential cohomology, example. Differential cohomology groups, char class maps sends to ordinary cup product, curvature maps. Integration along the fibre. Grady and Sati lifted primary and second cohomology operations to differential cohomology. Characteristic classes are imporant for differential cohomology, analogy with ordinary cohomology gives new phenomena, Chern-Weil theory is important! Leads to Chern-Simons invariants. Key properties of Chern-Weil forms, CW(P , theta, f) is a closed form, the de Rham class depends on P but not on the choice of Theta, holding f fixed, it is natural. I got stuck at CHern-Weil theory here.
 
-https://www.imath.kiev.ua/~mariyka/publ/BPPune-slides-1.pdf, cohomology and congruences
+https://www.imath.kiev.ua/~mariyka/publ/BPPune-slides-1.pdf  cohomology and congruences
 
-https://albanymath.github.io/comper25/Slides/vr_st.pdf, persistence and cohomology, introduction to Steenrod algebras, and Steenrod algebras
+https://albanymath.github.io/comper25/Slides/vr_st.pdf  persistence and cohomology, introduction to Steenrod algebras, and Steenrod algebras
 
-https://topos.institute/events/topos-colloquium/slides/2022-06-02.pdf, intruoduction to global elements, torsors and their role in sheaf cohomology, sheaf cohomology relied on injective resolutions, n-stacks generalises this. Topos theory, category of sheaves functions is a super structure of measurement, incorporate all that is essential aobut thsi space. Set formed by all sheaves, one can take lots of rulers. Sheaf model, LEM may not be valid, axiom of choice may fail. Partial or virtual elements, G-sets, G = Z/2Z, T = {a,b}, a, b swapped by G action T -> 1 is epi, T has no global element. Notion of topos, refelected by any Z-torsor is trivial. Helix over S_1. Russell use R as a line representing time. H1 of sheaf cohomology for sheaves of groups, all G-torsors up to isomorphism for H^1(X, G). See Baez, torsors made easy, G is a group, G-torsor T is like group that forgotten origin, like potential energy. G-torsor is isomorphic to G but not canonically. Any map between two G-torsors is isomorphism, so collection of G-torsors form groupoint, but locally T(Ui) -> T'(Ui) has some unique inverse. Patch to build global inverse. In torsor, need unique choice, choice may fail, unique choice is always OK. New principle of unique choice only hold in univalent type theory. H^1 is iso classes of G-torsors, H^2 is sheaves of groupoid. Torsors and gerbes have a lnaguage equivalent to Cech cocycles. Object defined up to unique isomorphisms, of category defined up to unique equivalence up to unique isomorphism, and recollement of stacks. Stacks, noncommutative uses Giraud's thesis, but limited to 1-stacks, need cohomological formalism not commutative in terms of n-stack. Try to characterise delooping as universal property, by Deligne. Stuck in the middle at slide 30.
+https://topos.institute/events/topos-colloquium/slides/2022-06-02.pdf  intruoduction to global elements, torsors and their role in sheaf cohomology, sheaf cohomology relied on injective resolutions, n-stacks generalises this. Topos theory, category of sheaves functions is a super structure of measurement, incorporate all that is essential aobut thsi space. Set formed by all sheaves, one can take lots of rulers. Sheaf model, LEM may not be valid, axiom of choice may fail. Partial or virtual elements, G-sets, G = Z/2Z, T = {a,b}, a, b swapped by G action T -> 1 is epi, T has no global element. Notion of topos, refelected by any Z-torsor is trivial. Helix over S_1. Russell use R as a line representing time. H1 of sheaf cohomology for sheaves of groups, all G-torsors up to isomorphism for H^1(X, G). See Baez, torsors made easy, G is a group, G-torsor T is like group that forgotten origin, like potential energy. G-torsor is isomorphic to G but not canonically. Any map between two G-torsors is isomorphism, so collection of G-torsors form groupoint, but locally T(Ui) -> T'(Ui) has some unique inverse. Patch to build global inverse. In torsor, need unique choice, choice may fail, unique choice is always OK. New principle of unique choice only hold in univalent type theory. H^1 is iso classes of G-torsors, H^2 is sheaves of groupoid. Torsors and gerbes have a lnaguage equivalent to Cech cocycles. Object defined up to unique isomorphisms, of category defined up to unique equivalence up to unique isomorphism, and recollement of stacks. Stacks, noncommutative uses Giraud's thesis, but limited to 1-stacks, need cohomological formalism not commutative in terms of n-stack. Try to characterise delooping as universal property, by Deligne. Stuck in the middle at slide 30.
 
-https://jpascale.web.illinois.edu/lecture1.pdf, Fukaya category lecture 1
+https://jpascale.web.illinois.edu/lecture1.pdf  Fukaya category lecture 1
 
-https://jpascale.web.illinois.edu/lecture2.pdf, Fukaya category lecture 2
+https://jpascale.web.illinois.edu/lecture2.pdf  Fukaya category lecture 2
 
-https://jpascale.web.illinois.edu/lecture3.pdf, Fukaya category lecture 3
+https://jpascale.web.illinois.edu/lecture3.pdf  Fukaya category lecture 3
 
 https://jpascale.web.illinois.edu/courses/2018/595/, homological mirror symmetry introduction
 
 https://arxiv.org/pdf/math/9910179, A-infty algebras introduction in 30 slides
 
-https://categorified.net/ASQC4.pdf, SPT phases and generalised cohomology
+https://categorified.net/ASQC4.pdf  SPT phases and generalised cohomology
 
 https://arxiv.org/pdf/hep-th/0205002, gerbes and duality in relation to electromagnetic duality
 
-https://sites.math.washington.edu//~julia/Slides/Evans08.pdf, cohomology and support, varieties for modules, rank varieties
+https://sites.math.washington.edu//~julia/Slides/Evans08.pdf  cohomology and support, varieties for modules, rank varieties
 
-https://math.berkeley.edu/~ltomczak/notes/Lent2023/GrpCohom_Notes.pdf, group cohomology notes in 38 pages
+https://math.berkeley.edu/~ltomczak/notes/Lent2023/GrpCohom_Notes.pdf  group cohomology notes in 38 pages
 
-https://sudo-rushil.github.io/chroma2022/assets/slides/talk5.pdf, Steenrod algebra, stable cohomology operations is a natural transformation functors from Top_* -> GrAb, Hopf algebras
+https://sudo-rushil.github.io/chroma2022/assets/slides/talk5.pdf  Steenrod algebra, stable cohomology operations is a natural transformation functors from Top_* -> GrAb, Hopf algebras
 
-https://eprints.maths.manchester.ac.uk/1709/1/PRESENTATION.pdf, Steenrod algebra in 14 pages, lots of calculations here
+https://eprints.maths.manchester.ac.uk/1709/1/PRESENTATION.pdf  Steenrod algebra in 14 pages, lots of calculations here
 
 https://arxiv.org/pdf/0903.4997, Steenrod algebra in a nontechnical manner, exaplined, Steenrod algebra is to regard tohe total Steenrod operation as a perturbation of the Frobenius map, define Steenrod algebra as the subalgebra generated by the homogenous components
 
-https://math.gmu.edu/~rallen2/slides/gmu/Multiplication%20Operators%20on%20the%20Bloch%20Space%20of%20the%20Unit%20Disk.pdf, isometries on H^p and A^p, isometry probmlem is to determine the isometries on X. Investgiated by Banach, motivates definition of Hardy spaces. Analytic functions on open unit disk such that there is some sup integral norm or something. Weighted compositon operators are a key definition. Composition operators are independently studied. Bloch space, define an analytic function f: D -> C is Bloch if beta_f := sup(1 - |z|^2) |f'(z)| < inf. Bounded. Schwarz-Pick lemma, all polynomials are Bloch. 
+https://math.gmu.edu/~rallen2/slides/gmu/Multiplication%20Operators%20on%20the%20Bloch%20Space%20of%20the%20Unit%20Disk.pdf  isometries on H^p and A^p, isometry probmlem is to determine the isometries on X. Investgiated by Banach, motivates definition of Hardy spaces. Analytic functions on open unit disk such that there is some sup integral norm or something. Weighted compositon operators are a key definition. Composition operators are independently studied. Bloch space, define an analytic function f: D -> C is Bloch if beta_f := sup(1 - |z|^2) |f'(z)| < inf. Bounded. Schwarz-Pick lemma, all polynomials are Bloch. 
 
-https://math.gmu.edu/~rallen2/slides/gmu/Glimpse%20into%20Operator%20Theory%20I.pdf, glumpse into operator thoeries, Banach spaces, Hilbert spaces, bounded linear operators
+https://math.gmu.edu/~rallen2/slides/gmu/Glimpse%20into%20Operator%20Theory%20I.pdf  glumpse into operator thoeries, Banach spaces, Hilbert spaces, bounded linear operators
 
-https://math.gmu.edu/~rallen2/slides/gmu/Glimpse%20into%20Operator%20Theory%20II.pdf, spectral theory, point spectrum
+https://math.gmu.edu/~rallen2/slides/gmu/Glimpse%20into%20Operator%20Theory%20II.pdf  spectral theory, point spectrum
 
-https://webhomes.maths.ed.ac.uk/~v1ranick/slides/ctcwsli.pdf, cobordism, closed m-dim manifold is m+1 manifold with boundary M u N, abelain group of cobord classes of oriented closed m-dim manifolds, addition by disjoint union, oriented cobordism ring 
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/ctcwsli.pdf  cobordism, closed m-dim manifold is m+1 manifold with boundary M u N, abelain group of cobord classes of oriented closed m-dim manifolds, addition by disjoint union, oriented cobordism ring 
 
-https://www.ms.u-tokyo.ac.jp/~yasuyuki/yamashita-crest2022-3.pdf, differential cohomology introduction, this is a very hard set of slides and does not obviously talk about spectra, refines generalised cohomology with differential geometric data on manifolds, accounts for topological terms in Lagrangians like holonomy for U(1) and Chern-Simons. PENANDPAPER, slide 4 some formula. Nontrivial topology means differential forms fail. Not topological also, depend on geometry, variation under bordisms is measured by pullback of field strength and pushforward over W^n for residue classes mod Z. Field strenght R(x^) is integral, Dirac charge quantization. Recover topology including torsions. Some commutative diagrams. Solution is via differential cohomology. Wait what H^2(X,Z) for CW complex cohomology is the equivalence class of Hermitian line bundles under isometry. Take connection to detect Chern clases. Corresponding class for the c_1(L) is the first Chern class. To detect Chern classes, one way is to take the connection, take U(1)-connection nabla on L, locally nabla = d + A, for A. As one compute the Chern class it is the 1/2pi i [F_\nabla] is H^2, curvature recovers first Chern class up to torsion, this is the Dirac charge quantization. Nontrivial line bundles that cannot be detected by curvature, these are rightfully called those with flat connection, notntriviality requires holonomy. Holonomy remembers the isomorphism (=gauge equivalence) class of (L, nabla). Geometric model is by Hermitian line bundle with U(1)-connection. H^2 gets differential extension. Alternatively, see Cheegers-Simons, but I think this got superceded later. n-th differential charactrer, closd n-form omega in Omega^n_clo(X), group hom from Z_infty,n-1(X ; Z) -> R/Z, the key definition in CS85 is the definition of second differential character phi(delta c) is integral omega (mod Z). Differential characterrs can be used to compute Chern-Simon invariants, pick G = U(n), compute Chern classes. Cheeger-Simons, higher holonomy can be evaluated. Anderson self-duality is hidden behind the definition. Trivialisations of different characters are hard to define. Differential cocycles can be defined as element of Z^n x C^n-1 x Omega_clo, so that omega - c_R = delta h. Set the differenial cohmology be sets of (c, h, omega) or differential n-cocycles on X / equiv given by above (c,h,w) equiv (c+delta b, h - b_R - delta k, omega). Cochain complex means one can have topological trivialisations, or flat trivialisations. K-theory is generalised cohomology theory, vector bundles, Fredholm operators, Gradations on Clifford modules. Relative K0 group. Bott periodicity + 2 for topologcicla K theory, one can define topological Chern characters. Cher character form is some sort of trace.  Chern-Simons forms for the homotopy. K^0 for Grothendieck group? Topological K theory K^ has differential integration maps. The Chern-Weil construction to compute characteristic classes. Dan Freed does gauge theories using differential cohomology. Calculate partition functions and EM duality in differential cohomology, The differential cohomology is infinite dimensional and the partition function is like a zeta function. TQFTs just need bare homotopy theory. Differential cohomology is meant to refine singular cohomology with integer coefficients. Self dual higher gauge theory. Partition function of self-dual higher gauge theory is given by (a multiple of) the unique holomorphic section of a square root of the line bundle classified by the secondary intersection pairing.
+https://www.ms.u-tokyo.ac.jp/~yasuyuki/yamashita-crest2022-3.pdf  differential cohomology introduction, this is a very hard set of slides and does not obviously talk about spectra, refines generalised cohomology with differential geometric data on manifolds, accounts for topological terms in Lagrangians like holonomy for U(1) and Chern-Simons. PENANDPAPER, slide 4 some formula. Nontrivial topology means differential forms fail. Not topological also, depend on geometry, variation under bordisms is measured by pullback of field strength and pushforward over W^n for residue classes mod Z. Field strenght R(x^) is integral, Dirac charge quantization. Recover topology including torsions. Some commutative diagrams. Solution is via differential cohomology. Wait what H^2(X,Z) for CW complex cohomology is the equivalence class of Hermitian line bundles under isometry. Take connection to detect Chern clases. Corresponding class for the c_1(L) is the first Chern class. To detect Chern classes, one way is to take the connection, take U(1)-connection nabla on L, locally nabla = d + A, for A. As one compute the Chern class it is the 1/2pi i [F_\nabla] is H^2, curvature recovers first Chern class up to torsion, this is the Dirac charge quantization. Nontrivial line bundles that cannot be detected by curvature, these are rightfully called those with flat connection, notntriviality requires holonomy. Holonomy remembers the isomorphism (=gauge equivalence) class of (L, nabla). Geometric model is by Hermitian line bundle with U(1)-connection. H^2 gets differential extension. Alternatively, see Cheegers-Simons, but I think this got superceded later. n-th differential charactrer, closd n-form omega in Omega^n_clo(X), group hom from Z_infty,n-1(X ; Z) -> R/Z, the key definition in CS85 is the definition of second differential character phi(delta c) is integral omega (mod Z). Differential characterrs can be used to compute Chern-Simon invariants, pick G = U(n), compute Chern classes. Cheeger-Simons, higher holonomy can be evaluated. Anderson self-duality is hidden behind the definition. Trivialisations of different characters are hard to define. Differential cocycles can be defined as element of Z^n x C^n-1 x Omega_clo, so that omega - c_R = delta h. Set the differenial cohmology be sets of (c, h, omega) or differential n-cocycles on X / equiv given by above (c,h,w) equiv (c+delta b, h - b_R - delta k, omega). Cochain complex means one can have topological trivialisations, or flat trivialisations. K-theory is generalised cohomology theory, vector bundles, Fredholm operators, Gradations on Clifford modules. Relative K0 group. Bott periodicity + 2 for topologcicla K theory, one can define topological Chern characters. Cher character form is some sort of trace.  Chern-Simons forms for the homotopy. K^0 for Grothendieck group? Topological K theory K^ has differential integration maps. The Chern-Weil construction to compute characteristic classes. Dan Freed does gauge theories using differential cohomology. Calculate partition functions and EM duality in differential cohomology, The differential cohomology is infinite dimensional and the partition function is like a zeta function. TQFTs just need bare homotopy theory. Differential cohomology is meant to refine singular cohomology with integer coefficients. Self dual higher gauge theory. Partition function of self-dual higher gauge theory is given by (a multiple of) the unique holomorphic section of a square root of the line bundle classified by the secondary intersection pairing.
 
 https://arxiv.org/pdf/1208.3961  intro notes on differential cohomology. PENANDPAPER, start with calculations on page 16. Question 2.3.4 has good answers to questions outlining everything. Recall, if C is infty categroy with all limits and colimits, inclusion of C-valuedc sheaves into C-valued presheaves need not admit a left adjoint, presentability is the standard assumption which guaranteeds it exists. MAIN DEFINITION: The infty-category of differential cohomology theories is the infty category Sh(Mfld, Spt) of sheaves of spectra on manifold. This is the main definition. Mfld is the category of smooth manifolds, it has a Grothendieck topology with open embeddings. Fixed embedding is infty R^\infty, essentially small. Note presheaves (Mfld;C) := Fun(Mfld^op, C), use fact that manifolds admit good covers. Inclusion of abelian category into category fo spectra such as those spectra with homtoopy groups extends to right adjoint Eilenberg Maclan functor from D(Z) to Spt, derived infty categroy of Z cobtained from Ch(Z) or chain complexes of R-modules by inverting quasi-isomorphism, Ch(R) -> D(R) is universal infty category carrying quasi-isomorphisms to equivalences i.e. localisation?. Theory of recollements is meant to glue two categories out of two pieces.
 
-https://math.mit.edu/juvitop/pastseminars/notes_2019_Fall/9-4-19.pdf, Haine 7 pages on diff cohomology
+https://math.mit.edu/juvitop/pastseminars/notes_2019_Fall/9-4-19.pdf  Haine 7 pages on diff cohomology
 
-https://adebray.github.io/papers/diffcoh.pdf, differential cohomology in 200+ pages but it is Arun Debray. It actually came from Simons-Sullivan.
+https://adebray.github.io/papers/diffcoh.pdf  differential cohomology in 200+ pages but it is Arun Debray. It actually came from Simons-Sullivan.
 
 https://www.imo.universite-paris-saclay.fr/~luc.illusie/Kan-Lectures-Illusie-A.pdf  66 slides lectures on the de Rham complex
 
@@ -198,21 +198,21 @@ https://server.mcm.ac.cn/~zheng/LI/Laumon.pdf  Lusztig induction and restriction
 
 https://server.mcm.ac.cn/~zheng/LI/Temkin.pdf  logarithmic geometry, slides, classical reoslution of singularities associates to an integral variety a modification i.e. proper birational Z_res -> Z to smooth Z_res, Hironaka won Fields' medal for this, algorithmic and canonical resolution. Smooth functorality simplifies the arguments and gave rise to equivariant resolution of singularities.
 
-https://janschuetz.perso.math.cnrs.fr/skripte/lecture_notes_etale_cohomology.pdf, etale cohomology notes in 93 pages
+https://janschuetz.perso.math.cnrs.fr/skripte/lecture_notes_etale_cohomology.pdf  etale cohomology notes in 93 pages
 
-https://janschuetz.perso.math.cnrs.fr/skripte/lecture_notes_lubin_tate.pdf, Lubin Tate theory in 141 pages
+https://janschuetz.perso.math.cnrs.fr/skripte/lecture_notes_lubin_tate.pdf  Lubin Tate theory in 141 pages
 
-https://janschuetz.perso.math.cnrs.fr/skripte/lecture_notes_arithlang.pdf, Langlands in 103 pages
+https://janschuetz.perso.math.cnrs.fr/skripte/lecture_notes_arithlang.pdf  Langlands in 103 pages
 
-https://janschuetz.perso.math.cnrs.fr/skripte/vorlesung_the_curve.pdf, Fargues Montaine in 85 pages
+https://janschuetz.perso.math.cnrs.fr/skripte/vorlesung_the_curve.pdf  Fargues Montaine in 85 pages
 
-https://janschuetz.perso.math.cnrs.fr/skripte/homology_profinite.pdf, solid group cohomology in 18 pages. Profinite set for S profinite, T top space T(S) L= Hom_cont(S,T), condensation is a functor on compactly generated topological space and admits a left adjoint from X to X(*)_top denoting global sections of X equipped with compactly generated topology. If G is a locally profinite group, instead of taking profinite sets, then G_ is a condensed group by condensation functor.
+https://janschuetz.perso.math.cnrs.fr/skripte/homology_profinite.pdf  solid group cohomology in 18 pages. Profinite set for S profinite, T top space T(S) L= Hom_cont(S,T), condensation is a functor on compactly generated topological space and admits a left adjoint from X to X(*)_top denoting global sections of X equipped with compactly generated topology. If G is a locally profinite group, instead of taking profinite sets, then G_ is a condensed group by condensation functor.
 
-https://www.math.uni-bonn.de/people/ja/alggeoI/notes.pdf, Scholze's algebraic geometry notes MUST READ IMPORTANT
+https://www.math.uni-bonn.de/people/ja/alggeoI/notes.pdf  Scholze's algebraic geometry notes MUST READ IMPORTANT
 
-http://web.archive.org/web/20190513153411/http://www.math.uni-bonn.de/people/ja/alggeoII/notes_II.pdf, Scholze's algebraic geometry_II notes, MUST READ IMPORTANT, family of schemes is a morphism from f: X -> S, this captures the idea of functorality as family of invariants, intuition here is for all points we have Spec k(s), inclusion Spec k(s) into S. Define fibre of f at s as simply the pullback which is a scheme over k(s). Processs forgets information, morphism f is important. But this definition is useless in generality, problem! Therefore you need flatness and smoothness so that you can work with a Hilbert polynomial and preserve everything you want. A-module is flat if tensor product is not just right exact, it is EXACT. Injective map of modules implies tensor product is injective in A-modules. Morphism of schemes is flatif for all open affines Spec A in S mapping to another Spec R in S, R -> A makes A flat R-module, nullestellensatz is used implicitly here. PENANDPAPER, work these examples out. Smoothness is even stronger than flatness. Sheaf cohomology is meant to prove the Riemann Roch formula. g = dim GlobalSections(C, canonical line bundle), k alg closed, C projective smooth (or equivalently proper normal curve). Riemann-Roch is proved in 3 major steps, first step is long exact sequence on sheaf cohomology by snake, next prove for any line bundle on proper normal curve, dimension formula for zeroth and first homology, then prove Serre duality. This is why Serre duality is important. PENANDPAPER.
+http://web.archive.org/web/20190513153411/http://www.math.uni-bonn.de/people/ja/alggeoII/notes_II.pdf  Scholze's algebraic geometry_II notes, MUST READ IMPORTANT, family of schemes is a morphism from f: X -> S, this captures the idea of functorality as family of invariants, intuition here is for all points we have Spec k(s), inclusion Spec k(s) into S. Define fibre of f at s as simply the pullback which is a scheme over k(s). Processs forgets information, morphism f is important. But this definition is useless in generality, problem! Therefore you need flatness and smoothness so that you can work with a Hilbert polynomial and preserve everything you want. A-module is flat if tensor product is not just right exact, it is EXACT. Injective map of modules implies tensor product is injective in A-modules. Morphism of schemes is flatif for all open affines Spec A in S mapping to another Spec R in S, R -> A makes A flat R-module, nullestellensatz is used implicitly here. PENANDPAPER, work these examples out. Smoothness is even stronger than flatness. Sheaf cohomology is meant to prove the Riemann Roch formula. g = dim GlobalSections(C, canonical line bundle), k alg closed, C projective smooth (or equivalently proper normal curve). Riemann-Roch is proved in 3 major steps, first step is long exact sequence on sheaf cohomology by snake, next prove for any line bundle on proper normal curve, dimension formula for zeroth and first homology, then prove Serre duality. This is why Serre duality is important. PENANDPAPER.
 
-https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf, painless conjugate gradient method to solve sparse linear equations
+https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf  painless conjugate gradient method to solve sparse linear equations
 
 https://server.mcm.ac.cn/~zheng/slides/compatible_IHES.pdf  local monodromy introduction, slides
 
@@ -672,23 +672,23 @@ https://web.stanford.edu/~cm5/Gokova.pdf triangulation lecture in 33 pages, conj
 
 https://www.math.purdue.edu/~arapura/preprints/etale.pdf  etale cohomology in 60 pages 
 
-https://www.math.purdue.edu/~pvankoug/talks/spectra13.pdf, spectra and localisation in 12 pages
+https://www.math.purdue.edu/~pvankoug/talks/spectra13.pdf  spectra and localisation in 12 pages
 
-https://www.math.purdue.edu/~pvankoug/talks/homotopybeamer14.pdf, stable homotopy theory and geometry in 67 pages, buidld topological spaces using n-1 spehres. Homotopy means attaching maps of 1 can be deformed into attackhing maps of the other. This is a relative POV, relative to common space, same attaching maps. Suspension of a space. With suspension maps, and Freudenthal suspension thoerem, suspension map from pi_k S^n -> pi_k++ S^n+1, is surjection for k = 2n-1, isomorphism for k < 2n - 1. One can take stable homotopy groups of sphere, degree of map is a homotopy invariants, pi_n S^n is cyclic. So the diagonal is copies of Z. Hopf fibration is the simplest nontrivial examples. Stably framed (n-k)-manifold.
+https://www.math.purdue.edu/~pvankoug/talks/homotopybeamer14.pdf  stable homotopy theory and geometry in 67 pages, buidld topological spaces using n-1 spehres. Homotopy means attaching maps of 1 can be deformed into attackhing maps of the other. This is a relative POV, relative to common space, same attaching maps. Suspension of a space. With suspension maps, and Freudenthal suspension thoerem, suspension map from pi_k S^n -> pi_k++ S^n+1, is surjection for k = 2n-1, isomorphism for k < 2n - 1. One can take stable homotopy groups of sphere, degree of map is a homotopy invariants, pi_n S^n is cyclic. So the diagonal is copies of Z. Hopf fibration is the simplest nontrivial examples. Stably framed (n-k)-manifold.
 
-https://www.math.purdue.edu/~pvankoug/talks/stableinfty16.pdf, 9 pages of summary of stable homotopy theory, topological space with algebra of opens under certain conditions, space is Hausdorff compactly generated with compact open generated topology.
+https://www.math.purdue.edu/~pvankoug/talks/stableinfty16.pdf  9 pages of summary of stable homotopy theory, topological space with algebra of opens under certain conditions, space is Hausdorff compactly generated with compact open generated topology.
 
-https://www.math.purdue.edu/~pvankoug/talks/steenrod16.pdf, Steenrod algebra in 5 pages. 
+https://www.math.purdue.edu/~pvankoug/talks/steenrod16.pdf  Steenrod algebra in 5 pages. 
 
-https://www.math.purdue.edu/~pvankoug/talks/spectra13.pdf, spectra and localisation in 11 pages
+https://www.math.purdue.edu/~pvankoug/talks/spectra13.pdf  spectra and localisation in 11 pages
 
-https://math.stanford.edu/~conrad/vigregroup/vigre04/hondatate.pdf, Honda-Tate theory in 29 pages
+https://math.stanford.edu/~conrad/vigregroup/vigre04/hondatate.pdf  Honda-Tate theory in 29 pages
 
-https://www.ams.org/journals/jams/1992-05-02/S0894-0347-1992-1124982-1/S0894-0347-1992-1124982-1.pdf, Kottwitz introduction to Shimura varieties. 
+https://www.ams.org/journals/jams/1992-05-02/S0894-0347-1992-1124982-1/S0894-0347-1992-1124982-1.pdf  Kottwitz introduction to Shimura varieties. 
 
 https://www.math.nyu.edu/~tschinke/books/finite-fields/final/05_oort.pdf  Frans Oort introudction to abelian varieties in 67 pages
 
-https://www.maths.ed.ac.uk/~v1ranick/papers/moshtang.pdf, Mosher and Tangora book on operations
+https://www.maths.ed.ac.uk/~v1ranick/papers/moshtang.pdf  Mosher and Tangora book on operations
 
 https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf  9 page perverse sheaves by Sophie Morel, OK notes, need something in the middle and to do computations PENANDPAPER showing 6ff later, condition if X is smooth equivalence between C-local systems, locally constant sheaves of fd C-vector spaces and pairs (Eps, Nabla), eps is vector bundle, nabla is integrable flat connection then correspondence with C-local systems and these pairs, sends pairs (eps, nabla) to sheaf eps^nabla, sends local system L to vect bundle L otimes_C O_X, connection given by usual connection of O_x, one can define Q-structure or R-structure on the pair to define varaitions of Hodge structure, simply the data of Q-local systems. D-modules generalise (Eps, nabla), forming abelian cat D-mod, subcat D-hmod of holonomic D-modules with good properties, D-hmod is Artinian and Noetherian, simple objects are D-modules whose underlying O_X-module is a vector bundle, stable by D-module version of Verdier duality, has 4 ops, pushpull and exceptional versions. For general D-modules only exceptionall pullback and direct pushforward are defined. But this theory is more than D-modules on smooth varieties. For the general theory, choose a covering of opens that embeds into smoothness, check that it does not depend on coverings and embeddings. You want holonomic modules to generalise to (eps, nabla), need something that generalises Q-local, and generalisation of holonomic D-modules. Perverse sheaves and Riemann correspondences are the answer. Fix F field, F-local systems as sheaves of F-vector spaces, work with Sh(X,F). Constructible if stratification of X, each restriction of F to each stratum is local system. For our purposes, stratification of X is finite partition of X by localy closed algebraic subvarieties such that the closure of each stratum is union of strata, wlog strata are smooth and connected. complexes in D(Sh(X,F)) are constructible if H^iK is constructible for every i in Z. 6ff work for cat of constructible complexes of sheaves of F-vector spaces, triangulated subcategory of D(Sh(X,F)), PENANDPAPER read this part agian. Category of constructible sheaves of X, but not Artinian or stable. Need t-structure to construct abelian subcategories of triangulated categories. Perv(X:F) is given by intersection of D<=0 and D>=0. Intermediate extension functor, simple objects are those having K = j_!* j^* K, j : Z -> X is an open embedding with everywhere dense image. Work out example in middle.
 
@@ -744,15 +744,15 @@ https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/Lectures.pdf  lec
 
 https://web.math.ku.dk/~larsh/papers/s07/handbook.pdf  topological cyclic homology survey
 
-https://www.math.uni-hamburg.de/home/richter/oberwolfach2016.pdf, higher topological Hochschild homology overview
+https://www.math.uni-hamburg.de/home/richter/oberwolfach2016.pdf  higher topological Hochschild homology overview
 
-https://www.math.uni-hamburg.de/home/richter/thh.pdf, THH in 4 pages summary
+https://www.math.uni-hamburg.de/home/richter/thh.pdf  THH in 4 pages summary
 
-https://www-users.cse.umn.edu/~tlawson/papers/jmm-boston-handout.pdf, MUSTREAD, 19 slides on truncated Brown Peterson spectra
+https://www-users.cse.umn.edu/~tlawson/papers/jmm-boston-handout.pdf  MUSTREAD, 19 slides on truncated Brown Peterson spectra
 
-https://pouiyter.github.io/dyer-lashof.pdf, Steenrod operatons and Dyer-Lashof algebra
+https://pouiyter.github.io/dyer-lashof.pdf  Steenrod operatons and Dyer-Lashof algebra
 
-https://www-users.cse.umn.edu/~tlawson/papers/obstruction.pdf, 28 pages on obstruction groups on E_\infty ring spectra
+https://www-users.cse.umn.edu/~tlawson/papers/obstruction.pdf  28 pages on obstruction groups on E_\infty ring spectra
 
 https://publications.mfo.de/bitstream/handle/mfo/3637/OWR_2018_15.pdf  topological cyclic homology report
 
@@ -982,13 +982,47 @@ https://masaooi.github.io/DL.pdf notes on computations in representation theory.
 
 https://www.math.uchicago.edu/~bloch/albert_lects/cycletalk1.pdf  Spencer Block on cycles, sheaves are powerful tools. Algebraic cycles are traditionally quite crude, moving lemmas and issues of functorality. Voevodsky fixed this with h-topology, A^1 homotopy. Cycles are conjectured to be morphisms in the category of motives. Beilinson conjectures, cycle schizophrenia, tools used to cycles are very removed from the cycles themselves. Define affine n-space and projective space, O_X sheaf of functions on X for Zariski, vector bundles V and coherent sheaves F, classical example is Kahler differential forms take K_0(X) or Grothendieck group of vector bundles, universal additive invariant. Algebraic cycles are finite formal linear combinations of closed subvarieties. Intersection productgiven by tensor product. Chow group, general reference is Fulton's book. Abel's theorem, 0-cycles of degree 0 modulo divisors of functions are k points of abelian variety J_X. Define more general sorts of algebraic cycles, this is the goal of motivic cohomology, interpret J_X and other similar abelian Lie groups J as Ext groups in the category of Hodge structures. Definition of Hodge structures, stuck here. Mixed Hodge structures, J noncompact case, eventually leads to Beilison's conjectures, real numbers rho(Z) related to values of Hasse-Weil L-functions L(s) at integer points. I suspect due to additivity in partition functions? Beilison conjectures, smooth proj variety X over number field <-> Hasse-Weil L-functions. Chern classes, V be rank r vector of X, then Chern classes c_i(V) in CH^i(X) defined for 1 <= i <= r. Start from Hodge or somewhere on top. Compact opertors, diagonal operators are elements of l_infty acting on l^2 ny multiplications, compact operators are sequences which tends to 0, by pigeonhole averageing they are infinitesimally small. Every ideal in a ring can be thought of as a collection of infinitesimally small elements, since they are one step away from bengn zero. Compact operators on Hilbert space can be considered infinitesimal compared to all bounded operators, forming an ideal where elements are small in the sense that they can be closely approximated by finite rank operators, eigenvalues tends oto 0. Ideals correspond to geometric shapes, higher order terms in ideal represent thickness. Quotienting by ideal turns elements in that ideal into an infinitesimal element i.e. not killing off the coefficient entirely. Example <x^2>. Bounded sets are mapped to totally bounded ones by compact operators.
 
-https://alainconnes.org/wp-content/uploads/UPL6498344618891550944_AN_93_connes.pdf, Connes French paper, compact operators in a Hilbert space play the same role among bounded operator in H as infinitesimal among complex numbers.
+https://alainconnes.org/wp-content/uploads/UPL6498344618891550944_AN_93_connes.pdf  Connes French paper, compact operators in a Hilbert space play the same role among bounded operator in H as infinitesimal among complex numbers.
 
 https://cisinski.app.uni-regensburg.de/traces_LNM.pdf  cohomological methods in intersection theory in 56 pages, proof of Grothendieck Verdier duality of etale motives, motivic base change.
 
-https://www.math.ucla.edu/~tao/preprints/compactness.pdf, why is compactness important in four pages, MUST READ, compactness is local to global (think sheaf) condition on boundedness. All functions attain a maximum or sup by analogy with colimits pointing to it. All sequences have constant subsequences, easily proved with colimit property being the pigeonhole average. All covers have finite subcovers is the true property, linking to Grothendieck topologies. Profinite group, compact operator! Recall that compact operator or almost finitness is a form of infinitesimal in Connes' interpretation, nonzero elements with trivial zero square, looks like a small punctured disk with topology fundamental group Z somehow. Topos theory means one can use set theory for powerful areas of math. Compactness lets you use local control and boost it to global control, to locate maxima, minima or stabilising averages via the pigeonhole principle. Many spaces are not compact, compactification maeks it very nice by adding few more points. Recall that there is a scale in Alexandroff compactification to Stone-Cech by adding all surjections. Recall that the more points you add the more information you lose about the structure. Stone-Cech compactification os the natural numbers are ultrafilters, wihich determine via complementation one side being large, see Leinster's notes on the topic. Compactification lets one view one type of an object as a (co)limit. Dirac delta function is a local compactification of spaces of functions, such as spaces of measure or distributions. Continuous as a limit of the discrete example compactify cyclic groups Z/nZ to circle group R/Z. Central limit theorem can be viewed as some sort of compactification, recall that tending towards averages look like Noetherianness or pigeonhole averaging. This means that the skyscraper sheaf, in Bridgeland stability it is geometric if all skyscraper sheaves are stable with the same space. Skyscraper sheaves are local compactifications of stability manifolds. Line bundles is analogous to exponential functions.
+https://www.math.ucla.edu/~tao/preprints/compactness.pdf  why is compactness important in four pages, MUST READ, compactness is local to global (think sheaf) condition on boundedness. All functions attain a maximum or sup by analogy with colimits pointing to it. All sequences have constant subsequences, easily proved with colimit property being the pigeonhole average. All covers have finite subcovers is the true property, linking to Grothendieck topologies. Profinite group, compact operator! Recall that compact operator or almost finitness is a form of infinitesimal in Connes' interpretation, nonzero elements with trivial zero square, looks like a small punctured disk with topology fundamental group Z somehow. Topos theory means one can use set theory for powerful areas of math. Compactness lets you use local control and boost it to global control, to locate maxima, minima or stabilising averages via the pigeonhole principle. Many spaces are not compact, compactification maeks it very nice by adding few more points. Recall that there is a scale in Alexandroff compactification to Stone-Cech by adding all surjections. Recall that the more points you add the more information you lose about the structure. Stone-Cech compactification os the natural numbers are ultrafilters, wihich determine via complementation one side being large, see Leinster's notes on the topic. Compactification lets one view one type of an object as a (co)limit. Dirac delta function is a local compactification of spaces of functions, such as spaces of measure or distributions. Continuous as a limit of the discrete example compactify cyclic groups Z/nZ to circle group R/Z. Central limit theorem can be viewed as some sort of compactification, recall that tending towards averages look like Noetherianness or pigeonhole averaging. This means that the skyscraper sheaf, in Bridgeland stability it is geometric if all skyscraper sheaves are stable with the same space. Skyscraper sheaves are local compactifications of stability manifolds. Line bundles is analogous to exponential functions.
 
-https://webpages.math.luc.edu/~epeters3/CFTworkshop/Tuesday2pmDmitri.pdf, Dmitri Pavlov 3 pages on Tomita-Takesaki theory
+https://arxiv.org/pdf/math/9906200, category of ind sheaves is how analysts treat distributions
+
+https://repo-archives.ihes.fr/FONDS_IHES/I_Prepublications/CONNES/1994-1998/M_96_37/M_96_37.pdf  spectral action principle with Connes
+
+https://arxiv.org/pdf/1807.04274, physicists gluing part I
+
+https://authors.library.caltech.edu/records/9ape1-ff028, physicists gluing part II
+
+https://arxiv.org/pdf/2506.22693, conceptual universal gluing. Nonstandard and hard to read but conceptual.
+
+https://webpages.math.luc.edu/~epeters3/CFTworkshop/Tuesday2pmDmitri.pdf  Dmitri Pavlov 3 pages on Tomita-Takesaki theory
+
+https://www.math.purdue.edu/~arapura/preprints/partI.pdf  today I learn that localisations R[1/g] are the basic open sets D(g) for the Zariski topology, this is another reason why localisations (inverting quasi-isomorphisms, etc.) are very important.
+
+https://www.its.caltech.edu/~matilde/Ma148Winter2021.html, Marcolli introduction to NCG MUST READ
+
+http://cmtp.uniroma2.it/13MQP/slides/Connes.pdf  Connes MUST READ, ncg and physics slides. Newton used operators. How can time emerge? It emerges from KMS condition, see slide 13. Tomita-Takesaki theory. Unique one parameter group that satisfies kms condition. Von Neumann algebra possess a canoncial time evolution. ib beta given by swapping x and sigma_t(y) to sigma_t(y)x, under positive unitary operator phi(x^* x) >= 0, phi(1) = 1. Spectrum of operators fails to charactrised compact Riemann space. Dirac' square root of Laplacian.
+
+https://online.kitp.ucsb.edu/online/strings05/connes/pdf/Connes_KITP.pdf  Connes Cosmic Galois group slide MUSTREAD, 22 slides.
+
+https://www.its.caltech.edu/~matilde/QSMQlattLesHouches.pdf  dictionary of quantum statistical mechanics and quantum field thoery and Type factors on page 7.
+
+https://aimath.org/wp-content/uploads/bristol-2018-slides/Connes-talk.pdf  Connes Riemann Roch strategy in 56 slides
+
+https://www.noncommutativegeometry.nl/wp-content/uploads/2013/10/ConnesLeiden.pdf  Alain Connes spectral slides 79 slides, MUST READ, dictionary on page 9
+
+https://www.dropbox.com/scl/fi/kbyt00egm9dam2wau9489/ConnesSlides.pdf?rlkey=wduowpnbijta804wnr2qtp3al&e=1&dl=0, Connes slides on BC system
+
+https://alainconnes.org/wp-content/uploads/slides2005-2006.pdf  Alain Connes slides
+
+http://www.cmap.polytechnique.fr/~gaubert/siamct09/slidesgaubertsiamct09.pdf  tropical algebra in 92 slides
+
+http://www.cmap.polytechnique.fr/~gaubert/PAPERS/slidesmontreal.pdf  tropicalizing discrete conex geometry in 49 slides
+
+http://www.cmap.polytechnique.fr/~gaubert/PAPERS/slidesNCG2017Gaubert.pdf  tropical modules Connes slides in 161 slides. Simplex method.
 
 https://cisinski.app.uni-regensburg.de/operations.pdf  4 pages on operations
 
@@ -1720,7 +1754,9 @@ https://www.homepages.ucl.ac.uk/~ucaheps/notes/algebraic%20geometry.pdf  algebra
 
 https://www.homepages.ucl.ac.uk/~ucaheps/notes/Group%20Representation%20theory%202014.pdf  group representations Ed Segal
 
-https://personalpages.manchester.ac.uk/staff/Nicola.Gambino/pssl-101/Blechschmidt.pdf  use internal language of topos, sheaves of modules are treated as plain modules, schemes are sets, reduced rings are Noetherian and in fact fields. Without loss of generality, any reduced ring is Noetherian and a field. Topos has finite limits (continuity), cartesian closed (inner hom prod? exp object), and has a subobject classifier (this is hard). WARNING, subobject classifier does not exist for Top, so Top is not a topos, Set is the category of sets, Sh(X) is set valued sheaves, Zar(S) is big Zariski topos. A topos is a category rich enough to support internal language. A ring is local iff precisely one maximal ideal. BEST DEFINITION OF LOCAL, a homomorphism is local iff it reflects invertibility. Structure sheaf is reification of all the stalks. Transfer principles, structure sheaf inherits all first order properties stable under localisation. Any noninvertible element of structure sheaf is nilpotent. This was the key point for Schur's lemma for me as well. If A is reduced, structure sheaf is reduced, field, anonymously Noetherian in that any ideal is not not finitely generated, has double negation stable equality.
+https://arxiv.org/pdf/1407.3945, cylic and epicyclic sites
+
+https://personalpages.manchester.ac.uk/staff/Nicola.Gambino/pssl-101/Blechschmidt.pdf  use internal language of topos, sheaves of modules are treated as plain modules, schemes are sets, reduced rings are Noetherian and in fact fields. Without loss of generality, any reduced ring is Noetherian and a field. Topos has finite limits (continuity), cartesian closed (inner hom prod? exp object), and has a subobject classifier (this is hard). WARNING, subobject classifier does not exist for Top, so Top is not a topos, Set is the category of sets, Sh(X) is set valued sheaves, Zar(S) is big Zariski topos. A topos is a category rich enough to support internal language. A ring is local iff precisely one maximal ideal. BEST DEFINITION OF LOCAL, a homomorphism is local iff it reflects invertibility. Reflective means inclusion under homomorphism has a left adjoint called LOCALISATION, reflectivity works on local objects. Structure sheaf is reification of all the stalks. Transfer principles, structure sheaf inherits all first order properties stable under localisation. Any noninvertible element of structure sheaf is nilpotent. This was the key point for Schur's lemma for me as well. If A is reduced, structure sheaf is reduced, field, anonymously Noetherian in that any ideal is not not finitely generated, has double negation stable equality. Finite limits means I can have continuity, cartesian closed means I have internal hom. Very few categories work as topos, set, Sh(X) and Zar.
 
 https://arxiv.org/pdf/1004.3802, important paper on internal languages by Shulman.
 
@@ -2053,7 +2089,7 @@ https://alainconnes.org/wp-content/uploads/bookwebfinal-2.pdf  Alain Connes full
 
 https://mathoverflow.net/questions/386464/making-sense-of-every-non-commutative-algebra-has-its-own-internal-time-evoluti, internal time evolution and Dmitri Pavlov's answer
 
-https://archive.ymsc.tsinghua.edu.cn/pacm_download/343/11610-Zhengwei_Liu_4.pdf, noncommmutative uncertainty principle
+https://archive.ymsc.tsinghua.edu.cn/pacm_download/343/11610-Zhengwei_Liu_4.pdf  noncommmutative uncertainty principle
 
 https://alainconnes.org/wp-content/uploads/walkNCGgarden.pdf  walk in NCG garden
 
@@ -2073,7 +2109,7 @@ https://ncatlab.org/nlab/files/SymmetricSpectra.pdf  symmetric spectra by Kupers
 
 https://alainconnes.org/wp-content/uploads/1809.02944-3.pdf  entropy and spectral action
 
-https://alainconnes.org/wp-content/uploads/NCGspectral.pdf  spectral view point on noncommutative algebraic geometry, I watched Connes talk, Ritz-Rydberg use two factors, (AB)_ik is sum A_ij B_jk, Ritz-Ryberg, variability is from passing of time, quantum variability can time emerge from it since it is more primitive from the quantum. Decompsition of Hilbert space into tensor product give rise to theory of factors. Riemannian paradigm takes Taylor expansion. Take inf of integral of root g_mu nu dx^mu dx^ni, minimise length of path joining two points. Orange wavelength of Krypton. Physicists' changed to hyperfine transition of the cesium. Buy in the store, allow you immeidate measurement of length. Riemann was very careful that he was using solid theories. When you work in the very small, solid bodies do not make sense. Spectral framework comes from measurements of length. It is a way to extract sqaure root, you want the line element itself, Hamilton-Clifford-Dirac. This is hard, recall definition of norm. The key is XY = -YX implies (X+Y)^2 = X^2 + Y^2 to get the norm. The line element. So take d(a,b) = Sup|f(a) - f(b)|, ||[D,f]|| <= 1. Kantorovich dual of the usual formula. Line element is propagator of fermions. Arc fail. Fermion propagator makes sense in disconnected space. Quantum corrections can be done easily. Spectral paradigm, involutive algebra gives coordinates acting on Hilbert space which is fixed. Inverse line element is self adjoint operator acting on Hilbert space H. Spectral paradigm. Illustrate by cases, inner automorphisms and internal symmetries. Simplest is to replace with n x n matrices on manifold M for involutive algebra of choice. Nontrivial. 1 -> Int(A) -> Aut(A) -> Out(A) -> 1, becomes identical to 1 -> Map(M,G) -> G -> Diff(M) -> 1, group of Diff(M) related to SU(n). Chamsaddine. Action function, take the above case. Look at the action. Einstein action which only depends on the spectrum of the line element. Yangs-Mills gauge potential appears as the inner part of the metric. In the same way as the group of gauge transformation. Real structure, antilinear unitary operator J acting in H, same algebraic properties as the charge conjugation operator in physics. One needs to require real structure, antilinear unitary operator plays the same role as charge conjugation. Even dimension need chirality operator, fulfil commutation rules. KO homology. Conceptually, what is a manifold. This is work that goes back to 1970s by Dennis Sullivan. Need Poincare duality in ordinary work, if you want to put the space, so that it has a microbundle. Pati-Salam model? KO-dimension.
+https://alainconnes.org/wp-content/uploads/NCGspectral.pdf  spectral view point on noncommutative algebraic geometry, I watched Connes talk, Ritz-Rydberg use two factors, (AB)_ik is sum A_ij B_jk, Ritz-Ryberg, variability is from passing of time, quantum variability can time emerge from it since it is more primitive from the quantum. Decompsition of Hilbert space into tensor product give rise to theory of factors. Riemannian paradigm takes Taylor expansion. Take inf of integral of root g_mu nu dx^mu dx^ni, minimise length of path joining two points. Orange wavelength of Krypton. Physicists' changed to hyperfine transition of the cesium. Buy in the store, allow you immeidate measurement of length. Riemann was very careful that he was using solid theories. When you work in the very small, solid bodies do not make sense. Spectral framework comes from measurements of length. It is a way to extract sqaure root, you want the line element itself, Hamilton-Clifford-Dirac. This is hard, recall definition of norm. The key is XY = -YX implies (X+Y)^2 = X^2 + Y^2 to get the norm. The line element. So take d(a,b) = Sup|f(a) - f(b)|, ||[D,f]|| <= 1. Kantorovich dual of the usual formula. Line element is propagator of fermions. Arc fail. Fermion propagator makes sense in disconnected space. Quantum corrections can be done easily. Spectral paradigm, involutive algebra gives coordinates acting on Hilbert space which is fixed. Inverse line element is self adjoint operator acting on Hilbert space H. Spectral paradigm. Illustrate by cases, inner automorphisms and internal symmetries. Simplest is to replace with n x n matrices on manifold M for involutive algebra of choice. Nontrivial. 1 -> Int(A) -> Aut(A) -> Out(A) -> 1, becomes identical to 1 -> Map(M,G) -> G -> Diff(M) -> 1, group of Diff(M) related to SU(n). Chamsaddine. Action function, take the above case. Look at the action. Einstein action which only depends on the spectrum of the line element. Yangs-Mills gauge potential appears as the inner part of the metric. In the same way as the group of gauge transformation. Real structure, antilinear unitary operator J acting in H, same algebraic properties as the charge conjugation operator in physics. One needs to require real structure, antilinear unitary operator plays the same role as charge conjugation. Even dimension need chirality operator, fulfil commutation rules. KO homology. Conceptually, what is a manifold. This is work that goes back to 1970s by Dennis Sullivan. Need Poincare duality in ordinary work, if you want to put the space, so that it has a microbundle. Pati-Salam model? KO-dimension. Page 19 has the quantised calculus. I want to replace this dictionary with sheaf theory.
 
 https://alainconnes.org/wp-content/uploads/conceptualSM.pdf  determining Lagrangian of the fundamental interactions, problem is arbitrariness in Higgs stuff, three ansatz, space time is product of ordinary Riemannian manifold by finite commutative space, K-theory dim is 6 modulo 8, physical action functional is given by spectral action on unification scale. Two conditions, order zero condition, and Z/2 grading on Hilbert space. Type is factorisation of Hilbert space H = H_1 otimes H_2, pick H_2 = 1, one can get factors for type H_1. KMS condition. Understand the algebras that appear in this way and occur in subsystems. Algebraic operators. Factor comes from factorisations that imitate the sitaution with the tensor product. Type 2 give interval [0,1] or [0,\infty], type 3 is all that remains. Type 2 are what corresponds to the subspaces. This is the first appearance of continuous dimensions and came from Von Neumann. Boltzmann state, tr(x exp(-beta H)), H is hamiltonian, sigma_t(x) = exp(itH) x exp(-itH). Tomita-Takesaki, M be von Neumann algebra, faithful normal state. Noncommutativity implies evolution, one parameter group of automoprhisms has canoical evolutions. Classification of factors, factor of type III_lambda, period, subgroup of R, T(M) in R. Foliations -> factors in geometry. Completely canonical way for Von Neumann foliations. Differential geometry, local product forming. Newton was interested in variables, recall that variables can be thought of as operators with values realised in a spectrum or eigenvalues. Compact operators are infinitesimal values, take characteristic values, eigenvalues for absolute value of operator, for any epsilon there only finitely many of them that is larger than the epsilon. Infinitesimal of order, differentail of variable, F = F* with involution, F^2 = 1, similar to Kahler. Commutator which satisifies, relation gives operator F and opearator T. Differential K-forms. Quantised calculused gives cyclic cohomology. Fundamental role as De Rham homology.
 
@@ -2247,11 +2283,11 @@ https://arxiv.org/pdf/2401.08401, adele class space, Connes, delivers geometric 
 
 https://sites.icmc.usp.br/grossi/Sasha/galg/manin.pdf  Manin introduction to schemes. System of equations is K-algebra with generators, solution is K-algebra homomorphism. 
 
-https://www.samraskin.net/m392c_Raskin_AG_notes.pdf, Raskin algebraic geometry notes
+https://www.samraskin.net/m392c_Raskin_AG_notes.pdf  Raskin algebraic geometry notes
 
-https://sites.math.washington.edu/~julia/notes/Algebraic_Groups_UW2014.pdf, algebraic group schemes, easiest way
+https://sites.math.washington.edu/~julia/notes/Algebraic_Groups_UW2014.pdf  algebraic group schemes, easiest way
 
-https://api.pageplace.de/preview/DT0400.9780511590504_A23679079/preview-9780511590504_A23679079.pdf, Galois groups and fundamental groups book
+https://api.pageplace.de/preview/DT0400.9780511590504_A23679079/preview-9780511590504_A23679079.pdf  Galois groups and fundamental groups book
 
 https://alainconnes.org/wp-content/uploads/book94bigpdf.pdf  Alain Connes, noncomm book. Proof of Radon-Nikodym theorem by having every element of Hilbert space of square integrable measurable functions is represented by measurable function. Hilbert space with countable basis has specific automorphisms called unitary operators on the space, the algebra of operators which commute with those automorphisms are von Neumann algebras. Centre of von Neumann algebra are commutative von Neumann algebras. General case decompose over the centre as direct integral of so called factors. Type I are direct integrals of type I factors up to notion of multiplicity correspond to classical measure theory. Top eII has continuous dimension, no longer classified by dimension which is integer, crucial properties like dim(E and F) + dim(E or F) = dim(E) + dim(F) remain true. General von Neumann algebras appear everywhere. Continuous dimension helps measure the multiplicity of te kernel of an invariant elliptic differential operator on Galois covering space, this is the Atiyah Singer index theory.
 
@@ -3318,49 +3354,49 @@ https://pub.math.leidenuniv.nl/~gaansowvan/jancol1.pdf  probability measures on 
 
 https://www.math.nagoya-u.ac.jp/~garrigue/tpp2024/slides/hirata.pdf  formalising Prokhorov's theorem, topology of weak convergence, coarse point makign lambda mu and integral f mu continuous for all f in C_b(X), all functionals that are boiunded and continuous. Weak convergence is convergence on points mu_n -> mu in P(X), or int f dmu_dn -> int f dmu. Central limit theorem, P_n weakly convergeces to normal(0,1). Prohorov's theorem P a polish space, Gamma in P_r(X) or P(X) intersect {mu, mu(X) < r, r < inf}, P(X) is set of all FINITE MEASURES ON X, not power set. So finite finite measures bounded, compactification of Gamma compact in set of finite measures, gamma is tight i.e. compact in X satisfies mu(X - K) < eps. Operator convergence, strong is pointwise, weak is inner prod. Probability, weak converence is in distribution or in measures, strong converegence is pointwise. Oh wait then these are similar? Strong is pointwise, weak is always under inner prod or in measure. But strong topology has harder convergence, weak topology has easier convergence by making mor sets compact.
 
-https://www.math.purdue.edu/~arapura/preprints/hodgeintro.pdf, any comlex submanifold of P^n is agan an algebraic subvariety, zero set of a collection of homogenous polynomials of defining polynomials. Jacobian of these polynomials have expected rank locally so it is also a complex manifold. Hermitian metric on a complex manifold has coefficients g_ik and tensor product between dz_i otimes dz_j conj. Does conjugation appear as second term of matrix? This looks very similar to the Riemannian metric, what if I wanted to generalise the line element of the Dirac operator on the Hermitian metric? 
+https://www.math.purdue.edu/~arapura/preprints/hodgeintro.pdf  any comlex submanifold of P^n is agan an algebraic subvariety, zero set of a collection of homogenous polynomials of defining polynomials. Jacobian of these polynomials have expected rank locally so it is also a complex manifold. Hermitian metric on a complex manifold has coefficients g_ik and tensor product between dz_i otimes dz_j conj. Does conjugation appear as second term of matrix? This looks very similar to the Riemannian metric, what if I wanted to generalise the line element of the Dirac operator on the Hermitian metric? 
 
 https://homeweb.unifr.ch/ghanaatp/pub/gromov-hausdorff.pdf  Gromov-Hausdorff distance and applications
 
-https://www.fields.utoronto.ca/talk-media/1/26/87/slides.pdf, Gromov Hausdorff distance in 9 slides, R be subset of direct product, extend to pseudo metric, x R y implies d(x,y) = 0, largest R-invariant extended pseudo metric that is bounded above, quotient metric is defined, and 1-Lipschitz can be defined as universal property. Homotophy interleaving distance, waeak equivalence if zizag of weak equivalence. Not sure how this is metric topology. Example, persistence homology is stable. Some Vietoris-Rips is 2-Lopschitz? Gromov Hausdorff disance can be defined using a quotient metric or interleaving distance? xRy implies d'(f(x), f(y)) = 0.
+https://www.fields.utoronto.ca/talk-media/1/26/87/slides.pdf  Gromov Hausdorff distance in 9 slides, R be subset of direct product, extend to pseudo metric, x R y implies d(x,y) = 0, largest R-invariant extended pseudo metric that is bounded above, quotient metric is defined, and 1-Lipschitz can be defined as universal property. Homotophy interleaving distance, waeak equivalence if zizag of weak equivalence. Not sure how this is metric topology. Example, persistence homology is stable. Some Vietoris-Rips is 2-Lopschitz? Gromov Hausdorff disance can be defined using a quotient metric or interleaving distance? xRy implies d'(f(x), f(y)) = 0.
 
-https://home.mathematik.uni-freiburg.de/ketterer/geo_met.pdf, geometry of metric spaecs in 83 pages
+https://home.mathematik.uni-freiburg.de/ketterer/geo_met.pdf  geometry of metric spaecs in 83 pages
 
-https://anton-petrunin.github.io/metric-geometry/tex/pure-metric.pdf, pure metric topology in 96 pages
+https://anton-petrunin.github.io/metric-geometry/tex/pure-metric.pdf  pure metric topology in 96 pages
 
-https://anton-petrunin.github.io/alexandrov/alexandrov.pdf, metric spaces in 180 pages
+https://anton-petrunin.github.io/alexandrov/alexandrov.pdf  metric spaces in 180 pages
 
-https://msp.org/gt/2023/27-9/gt-v27-n9-p07-s.pdf, grmov hausdorff distance between spheres in 71 pages
+https://msp.org/gt/2023/27-9/gt-v27-n9-p07-s.pdf  grmov hausdorff distance between spheres in 71 pages
 
-https://math.berkeley.edu/~lott/msri.pdf, optimal transport, M a smooth n-dim Riemannian manifold, m a point in M, tangent space at m.
+https://math.berkeley.edu/~lott/msri.pdf  optimal transport, M a smooth n-dim Riemannian manifold, m a point in M, tangent space at m.
 
 https://arxiv.org/pdf/2012.00756, lectures on GH distacne geometry in 108 pages
 
-https://cvgmt.sns.it/media/doc/paper/5311/ICM-De-Lellis-web-version-2.pdf, regularity theory in geoemtri cmeasure theory
+https://cvgmt.sns.it/media/doc/paper/5311/ICM-De-Lellis-web-version-2.pdf  regularity theory in geoemtri cmeasure theory
 
 https://arxiv.org/pdf/2112.00540, rectifiable survey
 
-https://bicmr.pku.edu.cn/upload/file/2024/20240701/20240701185633_75539.pdf, theory of varifolds survey in 9 pages at the start
+https://bicmr.pku.edu.cn/upload/file/2024/20240701/20240701185633_75539.pdf  theory of varifolds survey in 9 pages at the start
 
-https://minterscompactness.wordpress.com/wp-content/uploads/2024/12/reg-in-gmt-notes.pdf, regularity techniques in geometric measure theory
+https://minterscompactness.wordpress.com/wp-content/uploads/2024/12/reg-in-gmt-notes.pdf  regularity techniques in geometric measure theory
 
-https://choum.net/~chris/talks/Beamer_ILCLI.pdf, short tour in model theory, semantic gives meaning, syntax is to formalise the semantic. Godel completeness of first order logic. First order theory of ZF is built on top of Naive Set Theory. Model theories use ZF. Exact definition of model theory is hard since it interacts a lot with mathematics. Model theorists focus on semantics, only the set itself is important. Quantifier elimination if ther exists another formula which does not use for all and there exists that is equivalent. A structure has QE if the theory or its axioms have quantifer elimination. Quantifier elimination is a classical tool. Default of expressibility or collapse of semantic. Example x > 0 eliminated quantifiers for x = y^2 up to the level of sets. Compactness theorem, symbolic definition? Classification theory by Shelah uses infinite combinatorics. A theory is stable if for all model M of T and for all formula, there is no infinite sequence of elements of M such that the following holds i.e. i <= j iff M follows formula phi(a_i,a_j). Informally no formula interprets order that behaves like (N, <=), (R, +, *, <) is not stable but (C, +. *) is stable. Stability is an extremely successful notion since it occurs in C, and allows for lagebraic geometry to use it. Model theory is too general, general tools are weak for particular eaxmples. 
+https://choum.net/~chris/talks/Beamer_ILCLI.pdf  short tour in model theory, semantic gives meaning, syntax is to formalise the semantic. Godel completeness of first order logic. First order theory of ZF is built on top of Naive Set Theory. Model theories use ZF. Exact definition of model theory is hard since it interacts a lot with mathematics. Model theorists focus on semantics, only the set itself is important. Quantifier elimination if ther exists another formula which does not use for all and there exists that is equivalent. A structure has QE if the theory or its axioms have quantifer elimination. Quantifier elimination is a classical tool. Default of expressibility or collapse of semantic. Example x > 0 eliminated quantifiers for x = y^2 up to the level of sets. Compactness theorem, symbolic definition? Classification theory by Shelah uses infinite combinatorics. A theory is stable if for all model M of T and for all formula, there is no infinite sequence of elements of M such that the following holds i.e. i <= j iff M follows formula phi(a_i,a_j). Informally no formula interprets order that behaves like (N, <=), (R, +, *, <) is not stable but (C, +. *) is stable. Stability is an extremely successful notion since it occurs in C, and allows for lagebraic geometry to use it. Model theory is too general, general tools are weak for particular eaxmples. 
 
-https://math.mit.edu/~lguth/polynomialmethbeamer.pdf, polynomial methods in 37 slides. Idea comes from algorithms about solving polynomials. Take points in vector space, find polynomial of lowest possible degree that vanishes the points, use this polynomial to attack the problem. Let F be a field, let p_i be points, nonzero poly that vanishes it, reduced to linear algebra. Nonzero poly degree of degree d that vanishes at all points if and only if the evaluation map has nontrivial kernel, by first isomorphism theorem, recall that in Schur's kernel is subspsace, so this is similar.We can efficiently find a poly that vanishes at each p_j. Nikodym conjecture in finite fields was solved with the polynomial method. See Dvir's paper. Space of polynomials is alrge, d^3 for V(d), vanishing lemma or behaviour of polynomials along a line is rather restricted.
+https://math.mit.edu/~lguth/polynomialmethbeamer.pdf  polynomial methods in 37 slides. Idea comes from algorithms about solving polynomials. Take points in vector space, find polynomial of lowest possible degree that vanishes the points, use this polynomial to attack the problem. Let F be a field, let p_i be points, nonzero poly that vanishes it, reduced to linear algebra. Nonzero poly degree of degree d that vanishes at all points if and only if the evaluation map has nontrivial kernel, by first isomorphism theorem, recall that in Schur's kernel is subspsace, so this is similar.We can efficiently find a poly that vanishes at each p_j. Nikodym conjecture in finite fields was solved with the polynomial method. See Dvir's paper. Space of polynomials is alrge, d^3 for V(d), vanishing lemma or behaviour of polynomials along a line is rather restricted.
 
 https://arxiv.org/pdf/1803.07118, model theory and ultraproducts in 13 slides.
 
-https://homepages.math.uic.edu/~marker/orsay/orsay1.pdf, model theory for algebra and algebraic geometry
+https://homepages.math.uic.edu/~marker/orsay/orsay1.pdf  model theory for algebra and algebraic geometry
 
-https://swc-math.github.io/aws/2024/2024MazurSlides.pdf, abelian varietes, Barry Mazur.
+https://swc-math.github.io/aws/2024/2024MazurSlides.pdf  abelian varietes, Barry Mazur.
 
-https://swc-math.github.io/notes/files/06CohenLectures.pdf, explicit methods for Diophantine equations in 82 slides
+https://swc-math.github.io/notes/files/06CohenLectures.pdf  explicit methods for Diophantine equations in 82 slides
 
-https://swc-math.github.io/aws/2023/PAWSNagloo/2022PAWSNaglooNotes4.pdf, model theory introduction in 7 pages. A subset is aproper filter if I in filter, empty not in filter, A, B in filter implies intersection in filter, A in filter A in B in I, then B in filter. I is nonempty set, P(I) is power set of I, filters are in the power set of I. Frechet filter gives notion of largeness. Ultrafilter is maximal filter, filter not contained in any other filter, principal filter on I denoted by F_x is filter for one element, x in I, F_x is ultrafilter. Ultrafilter is a deicision about which of X or its complement is large. Los's theorem. Compactness theorem, T is L theory, T is consistent if and only if every finite subset of T is consistent. Can be proved using ultrafitlers. Quantifier elimination, model theroy is to study all definable sets.
+https://swc-math.github.io/aws/2023/PAWSNagloo/2022PAWSNaglooNotes4.pdf  model theory introduction in 7 pages. A subset is aproper filter if I in filter, empty not in filter, A, B in filter implies intersection in filter, A in filter A in B in I, then B in filter. I is nonempty set, P(I) is power set of I, filters are in the power set of I. Frechet filter gives notion of largeness. Ultrafilter is maximal filter, filter not contained in any other filter, principal filter on I denoted by F_x is filter for one element, x in I, F_x is ultrafilter. Ultrafilter is a deicision about which of X or its complement is large. Los's theorem. Compactness theorem, T is L theory, T is consistent if and only if every finite subset of T is consistent. Can be proved using ultrafitlers. Quantifier elimination, model theroy is to study all definable sets.
 
-https://yufeizhao.com/pm/probmethod_notes.pdf, probabilistic methods in combinatorics in 214 pages.
+https://yufeizhao.com/pm/probmethod_notes.pdf  probabilistic methods in combinatorics in 214 pages.
 
-https://www.braunling.org/chicago.pdf, adelic methods in algebraic geometry
+https://www.braunling.org/chicago.pdf  adelic methods in algebraic geometry
 
 https://arxiv.org/pdf/2109.04331, noncommutative analogue of idele class groups, F number field, LCA, locally compact topological F-vector spaces
 
@@ -3368,89 +3404,89 @@ https://arxiv.org/pdf/2109.01136, classes in zakharevich K-groups or assemblers.
 
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra, solutions start on page 246.
 
-https://www.ms.u-tokyo.ac.jp/~yasuyuki/yamashita-crest2022-3.pdf, differential cohomology
+https://www.ms.u-tokyo.ac.jp/~yasuyuki/yamashita-crest2022-3.pdf  differential cohomology
 
-https://www.mathunion.org/fileadmin/IMU/ICM2022/Presentation-slides/159-Amnon%20Neeman.pdf, finite approximations to study triangulated categories, 120 slides, metric on category assigns length to every morphisms. I think this is a bad idea, one should use Connes' ideas instead. Equivalence of metrics if identity functor is uniformly continuous, definition of of Cauchy sequence, for any epsilon > 0, there exists a M > 0 such that length of morphisms less than epsilon, whenever i,j > M. This is basically the epsilon-delta definition. Slide 40 gives full dictionary. Somehow t-structure is like Banach norms. Get some t-structures out of this.
+https://www.mathunion.org/fileadmin/IMU/ICM2022/Presentation-slides/159-Amnon%20Neeman.pdf  finite approximations to study triangulated categories, 120 slides, metric on category assigns length to every morphisms. I think this is a bad idea, one should use Connes' ideas instead. Equivalence of metrics if identity functor is uniformly continuous, definition of of Cauchy sequence, for any epsilon > 0, there exists a M > 0 such that length of morphisms less than epsilon, whenever i,j > M. This is basically the epsilon-delta definition. Slide 40 gives full dictionary. Somehow t-structure is like Banach norms. Get some t-structures out of this.
 
-https://sites.math.washington.edu//~zhang/SeattleRDncAR2018/Five-M/KevinCarlson.pdf, higher Brown representability, functor from F: pointed connected space to point sets is representable if adn only if it is a cohomology theory i.e. it preserves coproducts (wedge axiom), and weak pushout (Mayer-Vietoris axiom), perfectly generated triangulated categories (Neeman), pointed locally representable infinity category (Lurie), fails for homotopy category of arbitrary spaces. 2-functor Hot, 2-cate of spaces^op - groupoid is representable iff preserve coproducts, weak pushouts, and weak tensors. Brown representability gives new method to construct stable infinity categories essentially.
+https://sites.math.washington.edu//~zhang/SeattleRDncAR2018/Five-M/KevinCarlson.pdf  higher Brown representability, functor from F: pointed connected space to point sets is representable if adn only if it is a cohomology theory i.e. it preserves coproducts (wedge axiom), and weak pushout (Mayer-Vietoris axiom), perfectly generated triangulated categories (Neeman), pointed locally representable infinity category (Lurie), fails for homotopy category of arbitrary spaces. 2-functor Hot, 2-cate of spaces^op - groupoid is representable iff preserve coproducts, weak pushouts, and weak tensors. Brown representability gives new method to construct stable infinity categories essentially.
 
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra
 
-https://www.waltervansuijlekom.nl/wp-content/uploads/2026/03/goa2026.pdf, spectral triples, unital *-algebra, self adjoint operator D with compact resolvent and bounded operators, both acting on Hilbert space H, recall Connes defined it as largest of differences for functions f with gradient less than or equal to 1. Generalise distance functions, states are positive linear functionals of norm 1, distance function on state space, replace self adjoitn vector pace E of bounded operators on H with operaator system. Mathematical reformulation needs full Dirac operator. So fix this with spectral truncations, H -> PH, spectral projection on closed hilbert space, D -> PDP self adjoint operator, A -> PAP but not algebra anymore unless P in A. Operator systems. Cannot possible remember this definition, but matrix order *-vector space E with an order unit e. Operator systems are different from C* algebras. Spectral truncation of circles in his paper with connes. Eigenvectors are Fourier modes D_S1, operator system of Toeplitz matrix (concrete example, calculate), Fejer-Riesz operator system probably comes from Fejer kerne;? Curiousitieson Topelitz matrices. K-theory exists for operator systems. What is wanted, projection or ivnertible self adjoint element, spectral localiser, invariance under Morital equivalence. PENANDPAPER slide 24 for Bott projection. Calculate Dirac operator.
+https://www.waltervansuijlekom.nl/wp-content/uploads/2026/03/goa2026.pdf  spectral triples, unital *-algebra, self adjoint operator D with compact resolvent and bounded operators, both acting on Hilbert space H, recall Connes defined it as largest of differences for functions f with gradient less than or equal to 1. Generalise distance functions, states are positive linear functionals of norm 1, distance function on state space, replace self adjoitn vector pace E of bounded operators on H with operaator system. Mathematical reformulation needs full Dirac operator. So fix this with spectral truncations, H -> PH, spectral projection on closed hilbert space, D -> PDP self adjoint operator, A -> PAP but not algebra anymore unless P in A. Operator systems. Cannot possible remember this definition, but matrix order *-vector space E with an order unit e. Operator systems are different from C* algebras. Spectral truncation of circles in his paper with connes. Eigenvectors are Fourier modes D_S1, operator system of Toeplitz matrix (concrete example, calculate), Fejer-Riesz operator system probably comes from Fejer kerne;? Curiousitieson Topelitz matrices. K-theory exists for operator systems. What is wanted, projection or ivnertible self adjoint element, spectral localiser, invariance under Morital equivalence. PENANDPAPER slide 24 for Bott projection. Calculate Dirac operator.
 
-https://www.waltervansuijlekom.nl/wp-content/uploads/2025/08/iwota2025.pdf, isospectral drums, Riemannian manifold does spectrum of wave numbers determine Riemannian manifold, answer is no. Dirac operator, k^2 is an eigenvalue of the Lapllacian in Helmholtz, Dirac operator is a square root of the Laplacian so its spectrum give wave numbers, exists on any Riemannian spin manifold. Laplacian of circle is given by - d^2/dt^2, Dirac operator is just -i d/dt. Eigenfunctions are complex exponential functions. PENANDPAPER compute Dirac operator on this basic example. Consider 2D torus. Use complex matrices, Dirac operator has spectrum of Pythagorean triples for torus! Dirac operator exists for spin manifolds with some calculation, essentially. Largest of difference with gradient less than or equal to 1 to define distance, then define a spectral triple. Unital operator systems are studied. PENANDPAPER compute spectral truncation of a circle.
+https://www.waltervansuijlekom.nl/wp-content/uploads/2025/08/iwota2025.pdf  isospectral drums, Riemannian manifold does spectrum of wave numbers determine Riemannian manifold, answer is no. Dirac operator, k^2 is an eigenvalue of the Lapllacian in Helmholtz, Dirac operator is a square root of the Laplacian so its spectrum give wave numbers, exists on any Riemannian spin manifold. Laplacian of circle is given by - d^2/dt^2, Dirac operator is just -i d/dt. Eigenfunctions are complex exponential functions. PENANDPAPER compute Dirac operator on this basic example. Consider 2D torus. Use complex matrices, Dirac operator has spectrum of Pythagorean triples for torus! Dirac operator exists for spin manifolds with some calculation, essentially. Largest of difference with gradient less than or equal to 1 to define distance, then define a spectral triple. Unital operator systems are studied. PENANDPAPER compute spectral truncation of a circle.
 
 https://www.waltervansuijlekom.nl/wp-content/uploads/2025/05/osmu2025-1.pdf Fermion in space time,minimal ingredients needed is just coordiantes x_mux_nu(p) = x_mu(p) x_nu(p), and Dirac operator D_M = i gamma^mu del_mu. Spectral triple was used to combine these three, involutive algebra and Dirac operator acting on hilbert space. Distance metric was constructed as supremum of differences with gradient less than 1, graident of f is given by the norm on the commutator i.e. [D_m,f] = D_Mf - fD_m. Fermonic starting point induces bosonic theoru. Noncommutative two points space. PENANDPAPER, non commutative two point space. Spectral triple lets us write Dirac equation or propagationof singel fermion, wave function, one particle quantum physics. Clifford algebra, let H be Hilbert space, underlying Euclidean vector space V = H_R. Complexified Clifford algebra. Equip with trace, Clifford algebra is C*-closure in B(H_tau) for Hilbert space completion H_tau in Cl^\alg(V). Cl(V) = Cl(V) otimes_R C base change to complexified Clifford algebra in finite dimensional case. This feels very similar to finding a complex. Self adjoint operator D in H is used as the generator of a one parameter group of automorphisms on the Clifford algebra. Inverse temperature means.
 
 https://www.waltervansuijlekom.nl/talks/, best source of learning noncommutative geometry essentially from talks here
 
-https://www.waltervansuijlekom.nl/wp-content/uploads/2025/05/CIRM2025.pdf, similar to other slides, but compute entropy of two point space, see slide 31 onwards, PENANDPAPER.
+https://www.waltervansuijlekom.nl/wp-content/uploads/2025/05/CIRM2025.pdf  similar to other slides, but compute entropy of two point space, see slide 31 onwards, PENANDPAPER.
 
-https://www.waltervansuijlekom.nl/wp-content/uploads/2020/11/kreimer2020.pdf, anatomy of gauge theory
+https://www.waltervansuijlekom.nl/wp-content/uploads/2020/11/kreimer2020.pdf  anatomy of gauge theory
 
-https://www.noncommutativegeometry.nl/wp-content/uploads/2021/04/GNCG-Magee.pdf, twisted real structured for spectral triples or Hodge-de Rham spectral triples, and gauge transformations. Gauge transformations, define gauge theory in NCG, get Pati-Salam like models, gauge theory in NCG is (A, H, D, J) and Morita self equivalences. PENANDPAPER, start with slide 19 and work out this example. Gauge transformations with twisted real structure, get twisted 1 form?
+https://www.noncommutativegeometry.nl/wp-content/uploads/2021/04/GNCG-Magee.pdf  twisted real structured for spectral triples or Hodge-de Rham spectral triples, and gauge transformations. Gauge transformations, define gauge theory in NCG, get Pati-Salam like models, gauge theory in NCG is (A, H, D, J) and Morita self equivalences. PENANDPAPER, start with slide 19 and work out this example. Gauge transformations with twisted real structure, get twisted 1 form?
 
-https://www.math.uwo.ca/faculty/khalkhali/files/Shahyad1.pdf, 44 pages of spectral aspects of noncommutative geometry, Weyl's lwa asymptotic distribution of eigenvalues. Eigenvalue, quantisation, no functor, Weyl's law must hold, let (M, g) be closed Riemannian manifold, Laplacian on functions, spectrum contains dimension, volume, and total scalar curvature. Short time asymptotis of the heat trace give spectral invariants like Weil's law. A = unvoluative unital algebra, H = Hulbert space, D has compact resolvent, all commutators pi: A -> L(H), [D, pi(a)]. Commutative examples of spectral triples PENANDPAPER slide 23/44. Internalise case of D = d + d'. Spectral triple on Cantor set slide 25. Noncommutative torus is key example. Complex structures on involutive algebra, where is Hodge theory? Any observation will end up with finding a point in the spectrum of a self adjoint operator, Heisenberg's uncertainty principle, algebra of observables is noncommutative algebras.
+https://www.math.uwo.ca/faculty/khalkhali/files/Shahyad1.pdf  44 pages of spectral aspects of noncommutative geometry, Weyl's lwa asymptotic distribution of eigenvalues. Eigenvalue, quantisation, no functor, Weyl's law must hold, let (M, g) be closed Riemannian manifold, Laplacian on functions, spectrum contains dimension, volume, and total scalar curvature. Short time asymptotis of the heat trace give spectral invariants like Weil's law. A = unvoluative unital algebra, H = Hulbert space, D has compact resolvent, all commutators pi: A -> L(H), [D, pi(a)]. Commutative examples of spectral triples PENANDPAPER slide 23/44. Internalise case of D = d + d'. Spectral triple on Cantor set slide 25. Noncommutative torus is key example. Complex structures on involutive algebra, where is Hodge theory? Any observation will end up with finding a point in the spectrum of a self adjoint operator, Heisenberg's uncertainty principle, algebra of observables is noncommutative algebras.
 
-https://aaronkychan.github.io/notes/pgsem/quivers.pdf, quivers, representations and path algebras in about 81 slides, quivers are directed graphs with set of vertices and set of arrows with no restriction between the number of arrows between two vertices, capturing autos of arrows? Representation of Q is collection of k-vector spaces and linear maps. Source and target functions exists, Q_1 -> Q_0.
+https://aaronkychan.github.io/notes/pgsem/quivers.pdf  quivers, representations and path algebras in about 81 slides, quivers are directed graphs with set of vertices and set of arrows with no restriction between the number of arrows between two vertices, capturing autos of arrows? Representation of Q is collection of k-vector spaces and linear maps. Source and target functions exists, Q_1 -> Q_0.
 
 https://arxiv.org/pdf/2307.01711, Chow rings of quiver moduli
 
-http://www.math.uni-bonn.de/~schroer/fd-atlas-files/FD_Atlas.pdf, atlas of finite dimensional algebras in 365 pages as well as tilting theories.
+http://www.math.uni-bonn.de/~schroer/fd-atlas-files/FD_Atlas.pdf  atlas of finite dimensional algebras in 365 pages as well as tilting theories.
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/DS-NTDU.pdf, rational approximation of irrationals, approximate specifc numbers hard open problems, focus on proving results about almost all numbers, exclude small pathological sets. Some sort of colourign and measure theory.
+https://dms.umontreal.ca/~koukoulo/documents/slides/DS-NTDU.pdf  rational approximation of irrationals, approximate specifc numbers hard open problems, focus on proving results about almost all numbers, exclude small pathological sets. Some sort of colourign and measure theory.
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/DS-Alpbach-L1.pdf, metric diophantine approximation, Khinchin's theorem
+https://dms.umontreal.ca/~koukoulo/documents/slides/DS-Alpbach-L1.pdf  metric diophantine approximation, Khinchin's theorem
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/Divisors-CNTA-2024.pdf, divisors, choose n in [1,x] at random, what is distribution of divisors? Scale calibration, some log stuff. Probabilistic number theory. How does one smooth a power series of exp to form an integral? Integr written as product of pines, get log estimate, slide 6, PENANDPAPER. Permutation can be written as disjoint cycles is reelated to monic irreducibles? Probabilistic Galois theory is a thing?
+https://dms.umontreal.ca/~koukoulo/documents/slides/Divisors-CNTA-2024.pdf  divisors, choose n in [1,x] at random, what is distribution of divisors? Scale calibration, some log stuff. Probabilistic number theory. How does one smooth a power series of exp to form an integral? Integr written as product of pines, get log estimate, slide 6, PENANDPAPER. Permutation can be written as disjoint cycles is reelated to monic irreducibles? Probabilistic Galois theory is a thing?
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/Divisors-NTWS.pdf, high dim theory of integer divisors, Erdos about divisors, low dim constraints of geometro-combinatorial nature. Linear algbera of k divisors closed, linear system.
+https://dms.umontreal.ca/~koukoulo/documents/slides/Divisors-NTWS.pdf  high dim theory of integer divisors, Erdos about divisors, low dim constraints of geometro-combinatorial nature. Linear algbera of k divisors closed, linear system.
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/DS-NTDU.pdf, rational approximations of irrationals improving Dirichlet's theorem, Boren-Cantelli lemma is a.key tool events in prob space, limi sup be event that infinitely many that occur, if sum of probabilities is Minf, probability is 0, if prob = inf, E_j, independent, prob E is 1. How does one prove this? PENANDPAPER. Slide 15 crucial but special case.
+https://dms.umontreal.ca/~koukoulo/documents/slides/DS-NTDU.pdf  rational approximations of irrationals improving Dirichlet's theorem, Boren-Cantelli lemma is a.key tool events in prob space, limi sup be event that infinitely many that occur, if sum of probabilities is Minf, probability is 0, if prob = inf, E_j, independent, prob E is 1. How does one prove this? PENANDPAPER. Slide 15 crucial but special case.
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/irr-random-polynomials.pdf, irred of random poly of large degree?
+https://dms.umontreal.ca/~koukoulo/documents/slides/irr-random-polynomials.pdf  irred of random poly of large degree?
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/Oberwolfach2016.pdf, selberg sieve notes
+https://dms.umontreal.ca/~koukoulo/documents/slides/Oberwolfach2016.pdf  selberg sieve notes
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/Crete2016.pdf, perm in transitive group, understand subgroup structure of permutation groups. IMPORTANT SLIDES!
+https://dms.umontreal.ca/~koukoulo/documents/slides/Crete2016.pdf  perm in transitive group, understand subgroup structure of permutation groups. IMPORTANT SLIDES!
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/CDKS.pdf, freuqency of elliptic curve groups, Lang-Trotter conjecture
+https://dms.umontreal.ca/~koukoulo/documents/slides/CDKS.pdf  freuqency of elliptic curve groups, Lang-Trotter conjecture
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/Fouvry60.pdf, distribution of the maximum character sums
+https://dms.umontreal.ca/~koukoulo/documents/slides/Fouvry60.pdf  distribution of the maximum character sums
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/CMS2012.pdf, group structures of elliptic curves over finite fields, pick elliptic curve, a, b st 4a^3 + 27b^2 nonzero., then E{Q} = set of solutions to elliptic curve union inf, is fg gorup, what is the discriminant, how does one even prove this?
+https://dms.umontreal.ca/~koukoulo/documents/slides/CMS2012.pdf  group structures of elliptic curves over finite fields, pick elliptic curve, a, b st 4a^3 + 27b^2 nonzero., then E{Q} = set of solutions to elliptic curve union inf, is fg gorup, what is the discriminant, how does one even prove this?
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/CNTA12.pdf, sieve notes, classical sieve methods, exstimate size of primes, twin primes?
+https://dms.umontreal.ca/~koukoulo/documents/slides/CNTA12.pdf  sieve notes, classical sieve methods, exstimate size of primes, twin primes?
 
-https://dms.umontreal.ca/~koukoulo/documents/slides/QuebecMaineOct10.pdf, generalised multiplication tables
+https://dms.umontreal.ca/~koukoulo/documents/slides/QuebecMaineOct10.pdf  generalised multiplication tables
 
-https://www.math.purdue.edu/~twooley/2023ant/2023antnotes.pdf, circle method notes pg 50
+https://www.math.purdue.edu/~twooley/2023ant/2023antnotes.pdf  circle method notes pg 50
 
-https://ford126.web.illinois.edu/sieve2023.pdf, sieve method notes 129
+https://ford126.web.illinois.edu/sieve2023.pdf  sieve method notes 129
 
-https://people.math.harvard.edu/~landesman/assets/analytic-number-theory-notes.pdf, analytic number theory notes pg 137
+https://people.math.harvard.edu/~landesman/assets/analytic-number-theory-notes.pdf  analytic number theory notes pg 137
 
-https://people.math.ethz.ch/~kowalski/espanol.pdf, prob number theory notes in 22 pages
+https://people.math.ethz.ch/~kowalski/espanol.pdf  prob number theory notes in 22 pages
 
-https://people.math.ethz.ch/~kowalski/number-theory.pdf, kowalski number theory in 134 pages
+https://people.math.ethz.ch/~kowalski/number-theory.pdf  kowalski number theory in 134 pages
 
-https://dms.umontreal.ca/~andrew/CEBBrochureFinal.pdf, primes of intervals of bounded length in 44 pages
+https://dms.umontreal.ca/~andrew/CEBBrochureFinal.pdf  primes of intervals of bounded length in 44 pages
 
-https://math.mit.edu/research/highschool/primes/materials/2024/May/1-1-Hou.pdf, gabriel's theorem in 86 slides
+https://math.mit.edu/research/highschool/primes/materials/2024/May/1-1-Hou.pdf  gabriel's theorem in 86 slides
 
-https://aaronkychan.github.io/notes/talk-StdExtNoOverlays.pdf, ext-algebra of standard modules in 23 slides
+https://aaronkychan.github.io/notes/talk-StdExtNoOverlays.pdf  ext-algebra of standard modules in 23 slides
 
-https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section7_h.pdf, ring theory basics
+https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section7_h.pdf  ring theory basics
 
-https://www.math.clemson.edu/~macaule/classes/f18_math8510/slides/f18_math8510_lecture-rings-01_h.pdf, ring theory advanced
+https://www.math.clemson.edu/~macaule/classes/f18_math8510/slides/f18_math8510_lecture-rings-01_h.pdf  ring theory advanced
 
 https://bimsa.net/doc/notes/24462.pdf?id=0.7289508920220682, comp commutative algebra in 12 pages
 
 https://www.damtp.cam.ac.uk/user/dbs26/AQFT.html, Skinner AQFT notes
 
-https://dec41.user.srcf.net/notes/III_M/advanced_probability_thm_proof.pdf, modern prob theory proofs 42 pages
+https://dec41.user.srcf.net/notes/III_M/advanced_probability_thm_proof.pdf  modern prob theory proofs 42 pages
 
-https://nabiliqbal.github.io/lectures.pdf, QFT notes in 66 pages
+https://nabiliqbal.github.io/lectures.pdf  QFT notes in 66 pages
 
 https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration_on_Arithmetic_Geometry%2C_Number_Theory%2C_and_Computation_Annual_Meeting/lightning%20talk%20slides/AGNTC%202024%20AM-%20Schembri.pdf?_gl=1*1708npr*_ga*MTkzMDgwMDM0NS4xNzc0MzQ5MDcx*_ga_C1G2F4HXQL*czE3NzUxMjk0NjYkbzIkZzEkdDE3NzUxMjk0ODgkajM4JGwwJGgw, quaternionic multiplication torsion and moduli in 21 slides
 
@@ -3476,38 +3512,38 @@ https://cdn.simonsfoundation.org/share/mps/conferences/2024_Simons_Collaboration
 
 https://drive.google.com/file/d/1FF-EfVxzflAEafzfK5SuYOtuO6G1Uw3k/view, modular forms in 56 pages
 
-https://indico.cern.ch/event/1228934/contributions/5505764/attachments/2693753/4674932/exercises.pdf, feynman integral exercises in 3 pages
+https://indico.cern.ch/event/1228934/contributions/5505764/attachments/2693753/4674932/exercises.pdf  feynman integral exercises in 3 pages
 
 https://arxiv.org/pdf/2201.03593, feynman integrals in 816 pagees
 
-https://indico.cern.ch/event/1228934/contributions/5505799/attachments/2694570/4676327/ampsol.pdf, feynman integrals solutions panzer
+https://indico.cern.ch/event/1228934/contributions/5505799/attachments/2694570/4676327/ampsol.pdf  feynman integrals solutions panzer
 
 https://arxiv.org/pdf/1412.2296, DE for feynman integrals in 41 pages
 
-https://indico.cern.ch/event/1140580/contributions/4863931/attachments/2463784/4224699/CERN_TH_MB_2022.pdf, feynman integrals in 81 slides
+https://indico.cern.ch/event/1140580/contributions/4863931/attachments/2463784/4224699/CERN_TH_MB_2022.pdf  feynman integrals in 81 slides
 
-https://web2.ph.utexas.edu/~vadim/Classes/2022f/DR.pdf, dim reg in 6 pages
+https://web2.ph.utexas.edu/~vadim/Classes/2022f/DR.pdf  dim reg in 6 pages
 
-https://multi-loop-2019.sciencesconf.org/data/program/Weinzierl_ML19.pdf, feynman integrals in elliptic curves in 39 slides
+https://multi-loop-2019.sciencesconf.org/data/program/Weinzierl_ML19.pdf  feynman integrals in elliptic curves in 39 slides
 
 https://arxiv.org/pdf/2410.06278, Grothendieck Galois theory in 11 pages
 
-https://dec41.user.srcf.net/exp/etale_fundamental_group/etale_fundamental_group.pdf, etale pi 1 in 12 pages
+https://dec41.user.srcf.net/exp/etale_fundamental_group/etale_fundamental_group.pdf  etale pi 1 in 12 pages
 
-https://homepage.univie.ac.at/lukas.bertsch/wp-content/uploads/2024/10/Algebraic-Fundamental-Group_1.pdf, etale pi 1 in 9 pages
+https://homepage.univie.ac.at/lukas.bertsch/wp-content/uploads/2024/10/Algebraic-Fundamental-Group_1.pdf  etale pi 1 in 9 pages
 
-https://eldenelmanto.com/wp-content/uploads/2023/07/ihes-2.pdf, elmanto motivic cohomology in 54 pages
+https://eldenelmanto.com/wp-content/uploads/2023/07/ihes-2.pdf  elmanto motivic cohomology in 54 pages
 
-https://jiantongliu.github.io/files/Motivic_Cohomology_Notes.pdf, motivic cohomology in 115 pages
+https://jiantongliu.github.io/files/Motivic_Cohomology_Notes.pdf  motivic cohomology in 115 pages
 
-https://math.berkeley.edu/~phaine/files/Motivic_Overview.pdf, motivic cohomology review in 10 pages
+https://math.berkeley.edu/~phaine/files/Motivic_Overview.pdf  motivic cohomology review in 10 pages
 
-https://sustech-topology.github.io/grad/24spr/0430-Sun.pdf, sun yunhao motivic cohomology in 27 slides
+https://sustech-topology.github.io/grad/24spr/0430-Sun.pdf  sun yunhao motivic cohomology in 27 slides
 
-https://math.berkeley.edu/~avizeff/seminars/other/Tannakian.pdf, tannakian formalism in 7 pages
+https://math.berkeley.edu/~avizeff/seminars/other/Tannakian.pdf  tannakian formalism in 7 pages
 
-https://adebray.github.io/lecture_notes/u19_differential_Galois_theory.pdf, differential galois theory in 13 pages.
+https://adebray.github.io/lecture_notes/u19_differential_Galois_theory.pdf  differential galois theory in 13 pages.
 
-https://singer.math.ncsu.edu/papers/LMSlectures.pdf, galois theory of linear DE in 82 pages
+https://singer.math.ncsu.edu/papers/LMSlectures.pdf  galois theory of linear DE in 82 pages
 
-https://pmb.centre-mersenne.org/item/10.5802/pmb.43.pdf, topics in Tannakian categories
+https://pmb.centre-mersenne.org/item/10.5802/pmb.43.pdf  topics in Tannakian categories
