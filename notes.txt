@@ -762,6 +762,52 @@ https://sam.nitk.ac.in/Monthly%20Seminar/2021/Von%20Neumann%20Algebras.pdf  von 
 
 https://www2.yukawa.kyoto-u.ac.jp/~qft.web/2024/slides/kazama-yoichi.pdf  von Neumann algebra in 210 slides, ultracompact slides. Quantum gravity is core question for von Neumann algebras by Ed Witten. Quantization of a specific local action. Algebraic QFT based on Von Neumann algebras.
 
+https://teorica.fis.ucm.es/bootstrap2024/Jon_LectureNotes.pdf, relative entropy and AQFT
+
+https://ctta.igrothendieck.org/wp-content/uploads/2024/09/Slides_AiguierMarc.pdf, syntax of logics 99 slides in topos theory
+
+https://www.oliviacaramello.com/Talks/InvitationToposTheoreticModelTheory.pdf, model theory with topoi in 108 slides
+
+https://www.cl.cam.ac.uk/events/syco/10/slides/chanavat.pdf, cubical type theory
+
+https://byungdo.github.io/seminars/IMSRS.pdf, differential cohomology and gerbes in 19 pages
+
+https://users.math.msu.edu/users/ruiterj2/math/Documents/Spring%202019/Galois%20Cohomology%20Seminar%20Week%203.pdf, Galois cohomology computation in 14 pages, PENANDPAPER
+
+https://www.math.purdue.edu/~arapura/algebra/homological4.pdf, group cohomology in 7 pages
+
+https://loeh.app.uni-regensburg.de/teaching/grouphom_ss19/lecture_notes.pdf, group cohomology book in 257 pages
+
+https://math.umd.edu/~lcw/Boston.pdf, galois cohomology in 12 pages
+
+https://www.uni-muenster.de/imperia/md/content/theoretische_mathematik/oberseminar_condensed_mathematics.pdf, condensed sets in 18 pages
+
+https://blogs.cuit.columbia.edu/jr4460/files/2024/12/IntroCondensedMathChile.pdf, condensed sets in 29 pages
+
+https://simon-pepin.github.io/notes/six-functors.pdf, 6ff in 17 pages
+
+https://chriskuo0.github.io/homepage/A_quick_introduction_of_microlocal_sheaf_theory.pdf, microlocal sheaf theory in 9 pages
+
+https://chriskuo0.github.io/homepage/Microlocal_sheaf_theory_in_noncommutative_geometry.pdf, microlocal sheaf theory in noncommutative geometry in 7 pages
+
+https://www.math.uni-hamburg.de/home/dyckerhoff/seminar1920/bunk.pdf, higher topoi in 12 pages
+
+https://icms.ac.uk/wp-content/uploads/archive/documents/events/Hipolito-Treffinger.pdf, tilting theory in 25 pages
+
+https://arxiv.org/pdf/2302.12699, tau-tiling theory in 35 pages
+
+https://www.math.utah.edu/dc/tilting.pdf, tilting sheaves and Mukai implies McKay in 39 pages
+
+https://arxiv.org/pdf/1607.01262, Bridgeland stability in 59 pages
+
+https://people.math.harvard.edu/~hirolee/pdfs/280x-13-14-dbcoh.pdf, structure of Coh(P^1) in 24 pages
+
+https://arxiv.org/pdf/2301.10463, higher torsion classes, MUST READ, in 34 pages.
+
+https://www.emiliominichiello.com/assets/slides/slides_diffcechobstruction.pdf, diffeological Cech-de Rham obstruction
+
+https://sinhp.github.io/files/CT/KJsHoTT_slides_Pittsburgh.pdf, Kripke-Joyal semantics in 118 slides
+
 https://www2.yukawa.kyoto-u.ac.jp/~qft.web/2024/slides/, quantum field theory Japanese slides.
 
 https://users.math.msu.edu/users/banelson/conferences/GOALS/notes/vNa_notes.pdf  von Neumann algebras notes in 98 pages
@@ -968,6 +1014,10 @@ https://maths-people.anu.edu.au/~plyung/math6081/Lecture8.pdf  slides on interpo
 
 https://mathoverflow.net/questions/67228/where-do-all-these-projection-formulas-come-from, projection formulasa origin. Tensor product is intersection in this case for set theory, derived categories is the most obvious one.
 
+https://static.ias.edu/pitp/2018/sites/pitp/files/witten_lecture_2.pdf, entanglement in QFT Witten
+
+https://www2.yukawa.kyoto-u.ac.jp/~qimg2023/presentation_files/Sorce_Jonathan_09_14_.pdf, modular flow is a hidden symmetry of a subsystem QFT 17 slides
+
 https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf 80 slides full Fourier analysis forms, probably the fastest introudction to harmonic analysis I had, most surprisingly 6FF helped a lot understanding this, arbitrary function in interval can be superposed with sines and cosines. Locally compact abelian groups, Z^d for integer lattice, Z_N is N-roots of unity, R^d and T^d are continuous, translation operator, study translation invariant spaces, differential operator is time invariant iff constant coefficients, all L^p spaces are translation invariant. Look for smallest translation invariant space containing f has dim 1, Define characters, continuous non-zero homomorphism chi from G to C, if bounded then G -> T, Pontryagin duality gives existence of dual group. Characters are useful, characters of groups are EIGENVECTORS of all translation invariant operators, think Schur's lemma and the spectral theorem with orthonormal basis. Group of characters in R^d, exp( 2 pi i t), t in R^d, if bounded, Z^d periodic, alpha = 2 pi i n for n in Z^d. Dual group of R^d is R^d, dual group of T^d is Z^d. Linear algebra, deal with lienar operator, diagonalise in eigenvectors, characters are eigenvectors, complex exp are linearly independent up to constant phase shoft. Fourier transform is defined by inner product of f and chi, see example of projection formula in Grothendieck's six operator, inner prod is tensor prod, dmu is pullback to locals, integral is pushforward, \bar chi is the kernel in the projection formula, map f in L^1 to f^ in L\infty is the Fourier transform. G^ has natural structure of group and Haar measure d\nu, so analogous Haar measure is like a pullback somehow to local. Inversion formula holds means there is some duality in Grothendieck-Verdier contexts? Another way to look at taanslation invarinat operators is to look at impulse function, K(x,y) is continuous version of a matrix. All translation invariation operators are given by convolutions with a fixed object, g, knowna s the impulse response. Tf(y) = (f * g)(y) = int g(y-x) f(x) dmu(x). Fourier transform of convolution is product of Fourier transform, what does this mean in 6ff. Convolution can be thought of as a weighted average of f. g = 1/mu(B) 1_B, g can be thought of as density of random variable, so it has moments, mass. Schur's criteria for boundedness of operators, this is the result of Holder's inequality since it requires Holder's conjugate, sup is bounded by C somehow. Continuous Minkowski's inequality. You need to use mixed sum of Holder conjugates to prove this. Young's inequality is key input for absolute convergence almost everywhere. Local version of Young's inequality requires one of the function with compact support. Convolution can be thought of as regularisation, convolution inherits regularisation properties from both f and g. Nondiscrete groups, delta mass is not function but measure, delta is formal unit for convolution, tensor unit like a tensor product, so convolution is tensor product, Dirac delta is like tensor unit. Approximate identity or approximate kernel means int k_eps = 1, int |k_eps| <= C, for delta > -, int |k_eps(x)| dx -> 0 as eps tends to 0. Third one rests ofn absolute convergence kernel. Simplest example to work with is take k as normalised charactersitic function of unit ball. Poisson kernel is Gamma function related Gamma(d+1/2) / pi^(d+1)/2, reminds me of adelic theory. Gaussian kernel is 1/root 2 pi exp(-0.5|x|^2), reminds me of prob theory. Approximations of the identity are often used. Continuous Minkowski's inequality is important. I have omitted. Density fo test function, space of infinitely differentiable functions C^\infty(T^d) is dense in all L^p(T^d), likewise for comapct support version, proof is by cont with compact support is dense, approximation of identity, tends ot f in L^p using approximation of th eidentity, use k_eps(X) = eps^-d k(x/eps). Path to distributions, general form of translation invariant operator is convolution wit finite complex Borel emasure, need dmu to be translation invariant operator of delta_0, but replace this with approximation of identity, bounded in L1, T(k_eps) bounded in L^1, appeal to Banach-Alaoglue theorem, finite complex valued measure dmu, produce limit as integral, then check T is convolution with mu on all functions with compact support, insert some technicalities, will work for all functions? Fourier series of periodic functions, linear combs with eigenvectors of chars exp(2 pi i n t). For full Z, we have Fourier series. exp(n) constitute orthnormal basis, finite linear combinations are dense by Weierstarss theorem (poly approximates gives density). Plancherel's identity gives norm^2 c_n = integral norm f(t) from 1 to 0, Parseval relation means decompose norm to product of c_n and c_n conjugate, so it is the same BUT you can use f and g, not f and f conj, so c_n(f) x c_n(g)^bar. Fourier coefficiensts have properties, hard to state anything very general other than Riemann Lebesgue lemma. Dirichlet kernel considers partial sums of exp(2 pi i n t) from N to -N, so get sin(2N+1)pi x / sin pi x. Norm behaves like log N, so Dirichlet kernel is not an approximation of the identity, Fejer kernel (sin(N+1)pi x / sin pi x)^2. Poisson kernel used for Dirichlet problem in the unit disk. Pointwise convergence of FOurier series, use Fejer or Poisson summability. This is an application of maximal function of Hardy-Littlewood. Convergence in norm, requires CZ theory. Rotation invaraint operators in L^p(T), hard! TFAE: commutes with rotations, convolves with L^1(T) functions, diagonalises in Fourier basis, lots of case analysis here. Frequencies are located at Gamma* Fourier analysis in R^d. Riemann Lebesgue Lemma f^ cont function vanishing at infty for L^1(R^d), formulas given. Fourier transform in this case commutes with composition with orthogonal matrices. T is invariant by rigid motions if moreover T(f_A) = (Tf)_A for all orthogonal matrices. Dirichlet means with cubes all balls, strictly speaking not integrable, conditionally convergent. Not approx of identity. Poisson and Gauss means. Heath diffusion. Fourier cotransform. F^-1 f(x) = F f(-x). Some sort of Verdier duality? Distributions in harmonic analysis. Basic idea is f not given by their points but by their action on other functions by integrations. So, pushforward/evaluation of some hom. Distribution is continuous linear map from D(U) -> C, D(U) is dense in all L^p(U) spaces. Write u(phi) = <u, phi) so hom is interpreted as inner product (which is also some sort of hom since adjoints means inner product of hom-sets). Dirac measure is delta_a, comb is also a distribution. Examples of distribution that is not a function or a measure, <p.v. 1/x, phi>. Operations with distributions, derivatives of distributions holds for all locally absolutely continuous functions. Unit step of Heaviside function, then H' is Dirac delta. Function is continuously differentiable in closed intervals determiend bys ome points, where it has jump discontinuities modelled by linear combinations with Dirac delta. Derivative of log|X| is p.v. 1/x. Convergence of distributions u_n -> u means <u_n, phi> -> 0 for all phi by Yoneda's lemma. Distribution with compact support is continuous linear map from C^\infty(R^d) -> C, another interpretation of what compact support meme, tempered distributions are motivated by Fourier transforms of distributions, note that phi^ is no longer in D(R^d), must restrict to particular class of distributions, definition temperature distribution is continuous linear map from S(R^d) -> C, continuity meaps sup_x |x|^|beta| |D^\alphda phi_n(x)| -> 0, restriction of u to D(R^d) is then a distribution. Concrete example of trying to make Pontryagin duality work. Fourier transform of tempered distribution, properties of the Fourier transform of a temperature distribution is hence defined by adjoint <u^, phi> = <u, phi^>. Example is to compute Fourier transforms on slide 70. Paley-Wiener theorems characterise entire functions that are Fourier transforms. Translation invariant operators in test spaces, lots of representation theorems listed. These spaces are reflexive i.e. equal their second dual or some version of Chu/Verdier duality? Hormander's theorem, has to do with convolution become trivial? fundamental solutions. Malgrange-Ehrenpreis theorem, every linear constant coefficient operator P(D) has a fundamental solution. Weyl's lemma. Poisson summation formula gives unified language for Fourier transforms. 
 
 https://arxiv.org/pdf/2508.19524 covering spaces and sites to do Galois theory
@@ -1004,7 +1054,11 @@ https://www.math.purdue.edu/~arapura/preprints/partI.pdf  today I learn that loc
 
 https://www.its.caltech.edu/~matilde/Ma148Winter2021.html, Marcolli introduction to NCG MUST READ
 
-http://cmtp.uniroma2.it/13MQP/slides/Connes.pdf  Connes MUST READ, ncg and physics slides. Newton used operators. How can time emerge? It emerges from KMS condition, see slide 13. Tomita-Takesaki theory. Unique one parameter group that satisfies kms condition. Von Neumann algebra possess a canoncial time evolution. ib beta given by swapping x and sigma_t(y) to sigma_t(y)x, under positive unitary operator phi(x^* x) >= 0, phi(1) = 1. Spectrum of operators fails to charactrised compact Riemann space. Dirac' square root of Laplacian.
+https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/mat9580v23morava.pdf, chromatic homotopy theory by Rognes
+
+https://www.its.caltech.edu/~matilde/IntroNCGCaltech1.pdf, MUST READ, best summary of differential geometry if you have background, PENANDPAPER to write down all the notations, smooth manifolds look locally like R^n with smooth atlas union of opens valued in R^n that are homemomorphisms, local coordinates on intersections, change of coordinates given by phi_j * phi_i^-1 or conjugate action of C^\infty diffeomorphisms. Projections from total space to base space, of rank N over dim d, E -> M, M is union of charts, transitions functions are conjugate action p_j^-1 p_i satisfying cocycle property, sections. Tangent bundle are tangent bundle, cotangent bundle are one forms. Vector fields are section elements in Gamma(M, TM), metric tensor is symmetric tensor action T*M otimes T*M. (p,q) tensor are sections in Gamma(M, TM^otimesp otimes T * M^otimes q), who on earth can remember (p,q) tensors in this form. 1-forms are sections in cotangent bundle i.e. (a_mu) in Gamma(M, T*M). k-form are omega in Gamma(M, Wedge^k(T* M)). The mental iamge I have are OK for tangent bundles, but not form 1-forms or q-forms or (p,q)-tensors. Linear map with Leibniz rule is map from Gamma(M, E) -> Gamma(M, E otimes T*M)
+
+http://cmtp.uniroma2.it/13MQP/slides/Connes.pdf  Connes MUST READ, noncommutative geometry and physics slides. Newton used operators. How can time emerge? It emerges from KMS condition, see slide 13. Tomita-Takesaki theory. Unique one parameter group that satisfies KMS condition. Von Neumann algebra possess a canoncial time evolution. ib beta given by swapping x and sigma_t(y) to sigma_t(y)x, under positive unitary operator phi(x^* x) >= 0, phi(1) = 1. Spectrum of operators fails to charactrised compact Riemann space. Dirac's square root of Laplacian.
 
 https://online.kitp.ucsb.edu/online/strings05/connes/pdf/Connes_KITP.pdf  Connes Cosmic Galois group slide MUSTREAD, 22 slides.
 
