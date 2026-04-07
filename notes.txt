@@ -824,7 +824,7 @@ https://arxiv.org/pdf/1607.01262, Bridgeland stability in 59 pages
 
 https://people.math.harvard.edu/~hirolee/pdfs/280x-13-14-dbcoh.pdf, structure of Coh(P^1) in 24 pages
 
-https://arxiv.org/pdf/2301.10463, higher torsion classes, MUST READ, in 34 pages.
+https://arxiv.org/pdf/2301.10463, higher torsion classes, important topic, in 34 pages, torsion pairs for arbitrary abelian ctegories generalise, torsion, related to t-structures, higher homological algebra is important, important result: subcategory of abelian length category is torsion class if and only if closed under extensiuons or quotients, d-torsion class is defined. Carries structure of d-exact category.
 
 https://www.emiliominichiello.com/assets/slides/slides_diffcechobstruction.pdf, diffeological Cech-de Rham obstruction
 
@@ -1100,7 +1100,7 @@ https://www.its.caltech.edu/~matilde/IntroNCGCaltech16.pdf, reclall that measure
 
 https://arxiv.org/pdf/1209.3606, codensity monad of a functor, monad induced by G and its left adjoint even when no such adjoint exist. This is given by the coYoneda lemma, take inclusion of finite sets into category of all sets, codensity monad (see Riehl) is the ultrafilter monad. So the mere notion of finite set gives rise to ultrafilters, and the notion of compact Hausdorff spaces. Probability measures, ultrafilter is a finitely additive probability measure in which every event has probability either 0 or 1, the elements of an ultrafilter are the subsets that occupy almost all of X for a set X, other sets are null. Integration operator, can integrate against ultra filter, let U be an ultrfilter on a set x, function ffrom X to R with finite image, obtain element int f dU of R, it is the unique element of R, whose f-fibre belongs to U. Integrating agaisnt an ultrafilter has intuition of taking the mode. If elementsof U is large then integrating f dU is the unique value of U taken by a large number of elements of X. In a sense it is like an average! Think pigenohole principle? A functor is eithe rcodense or not. Finer grained information can be obtained by calculating the codensitymonad of G. Ultrafilter monad is the codensity monad of the inclusion of finite set to set, FinSet is not codense in Set. Integration operators are one to one in measures. Need codensity moands as their Kan extensions. What happens if sets are replaced by vector spaces, then ultrafilters are replaced by elements of the double dual of a vector space. Density is actually introduced by Isbell, left adequate full subcategories, Ulmer generalised it to arbitrary functors and introduced the word dense. Codensity characterisation of the ultrafilter monad. Did not read past the introduction.
 
-https://arxiv.org/pdf/2604.01863, chromatic noshift, MUST READ, latest paper. Algebraic K-theory of ring spectra and chromatic filtration started by Waldhausen has been transformed by Ausoni and Rognes' redshift. Algebraic K-theory raises chromatic height by 1, organizing principle in study of chromatic localised K-theory. K-theory is a cateogrical invariant, results establish lowerbound of red shift. One cannot expect general red shift, example infinity category of spectra with countable homotopy groups is a small symmetric monoidal infty-category and its K-theory vanishes. K-theory of rigid stability.
+https://arxiv.org/pdf/2604.01863, chromatic noshift, latest paper. Algebraic K-theory of ring spectra and chromatic filtration started by Waldhausen has been transformed by Ausoni and Rognes' redshift. Algebraic K-theory raises chromatic height by 1, organizing principle in study of chromatic localised K-theory. K-theory is a cateogrical invariant, results establish lowerbound of red shift. One cannot expect general red shift, example infinity category of spectra with countable homotopy groups is a small symmetric monoidal infty-category and its K-theory vanishes. K-theory of rigid stability.
 
 https://arxiv.org/pdf/2603.25664, geometric points in tensor triangulated category, Aoki's thesis, working in higher Zariski geometry.
 
@@ -1899,7 +1899,7 @@ https://people.maths.ox.ac.uk/horawa/math_631.pdf  Mustata algebraic geometry
 
 https://weilab.math.msu.edu/CTGG/slides/internal-online-seminar-lect1.pdf  26 slides casual summary of algebraic topology
 
-https://pi.math.cornell.edu/~barbasch/china2024.pdf  Dirac operators, Dirac cohomology in 47 slides must read for physics background. MUST READ.
+https://pi.math.cornell.edu/~barbasch/china2024.pdf  Dirac operators, Dirac cohomology in 47 slides must read for physics background. 
 
 https://www.math.columbia.edu/~ccliu/Seminars/20220124-slides_orginal.pdf  quantum K-theory of flag varieties, nonabelian localisation
 
@@ -3410,7 +3410,7 @@ https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf  45 slides on sl2
 
 https://www.math.stonybrook.edu/~cschnell/mat545/class16.pdf  8 pages of sl2(C) and Kahler
 
-https://www.math.wustl.edu/~matkerr/sl2notes.pdf  36 pages oh Hodge theory, prabolic induction on SL2(R), Eisenstein series, modular forms, automorphic cohomology, MUST READ ALL IMPORTANT TOPICS
+https://www.math.wustl.edu/~matkerr/sl2notes.pdf  36 pages oh Hodge theory, parabolic induction on SL2(R), Eisenstein series, modular forms, automorphic cohomology, MUST READ ALL IMPORTANT TOPICS.
 
 https://www.stat.umn.edu/geyer/f13/8931aster/slides/s4.pdf  asymptotic approximation
 
