@@ -540,7 +540,9 @@ https://www.math.purdue.edu/~arapura/preprints/abelian.pdf  46 page introduction
 
 https://www.math.purdue.edu/~arapura/preprints/delgab.pdf  11 page introduction to purity by Gabber. (1) to construct l-adic sheaves, one endows a scheme with a Grothendieck topology with flat and unramified maps or etale maps, covers are surjective families, descent is equalisier of etale covers; 
 
-https://www.math.purdue.edu/~arapura/algebra/homological.pdf  70 page introduction to Homological Algebra.
+https://www.math.purdue.edu/~arapura/algebra/homological.pdf  70 page introduction to Homological Algebra. Easier case with noncommutative unitary rings for generality. First formula is grov hom?
+
+https://www.math.purdue.edu/~arapura/algebra/homological3.pdf, Ext groups
 
 https://irma.math.unistra.fr/~liu/OFM.pdf  Fourier-Mukai transform for complex tori.
 
@@ -1038,7 +1040,15 @@ https://web.mat.bham.ac.uk/D.A.Craven/docs/lectures/finitegroups2010.pdf best in
 
 https://www.advgrouptheory.com/wrbp2024/Slides/parker.pdf Parker slides on fusion systems, rare that p-subgroup can be Sylow p-subgroup of finite simple groups. Fusion system, p prime, x is a group, S is Sylow p-subgroup, define Hom_X(P,Q) = {c_g | g in X, P^g subgroup of Q}, c_g is conjugation map x -> g'xg, P = Q, write Aut_X(P) = Hom_X(P,P) isomorphic to N_X(P) / C_X(P), know S, info about N_G(P) is lost when we make a fusion system is C_X(P) by quotient. Fusion system has objects all subgroups of S, morphisms from P to Q satisfying the above Hom_X(P,Q) relation, for Q subgroup of X, Aut(Q) is reduced to N_X(Q)/C_X(Q). If S is a Sylow p-subgroup of X, the fusion system is saturated (max sense). Abstractly saturated fusion systems on a p-group S capture the properties of the fusion systems just defined with S a Sylow p-subgroup of G.
 
-https://masaooi.github.io/DL.pdf notes on computations in representation theory.
+https://masaooi.github.io/DL.pdf notes on computations in representation theory. Need to read again, quick review is use Serre's book, rep is homomorphism from G to Aut_C(V) = GL_C(V), homomorphism is commutative diagra, subrep is subobject stable under action of representaton theory.
+
+https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/mat9580v23galois.pdf, Galois extnesions
+
+https://swc-math.github.io/aws/2025/2025ChanNotes.pdf, goal is oto get to character sheaves, 28 page.
+
+https://swc-math.github.io/aws/2025/2025ChanOutline.pdf, p-adic group 3 page outline, G(F_q), related to Delign-Lusztig varieties, variety is overbar F_q, and use l-adic etale cohomology for chromatic.
+
+https://www.math.ucla.edu/~colinni/Lubin-Tate%20and%20Algebraic%20Geometry%20in%20Chromatic%20Homotopy%20Theory.pdf, stacks came from Lubin-Tate theory due to Hopkin.
 
 https://www.math.uchicago.edu/~bloch/albert_lects/cycletalk1.pdf  Spencer Block on cycles, sheaves are powerful tools. Algebraic cycles are traditionally quite crude, moving lemmas and issues of functorality. Voevodsky fixed this with h-topology, A^1 homotopy. Cycles are conjectured to be morphisms in the category of motives. Beilinson conjectures, cycle schizophrenia, tools used to cycles are very removed from the cycles themselves. Define affine n-space and projective space, O_X sheaf of functions on X for Zariski, vector bundles V and coherent sheaves F, classical example is Kahler differential forms take K_0(X) or Grothendieck group of vector bundles, universal additive invariant. Algebraic cycles are finite formal linear combinations of closed subvarieties. Intersection productgiven by tensor product. Chow group, general reference is Fulton's book. Abel's theorem, 0-cycles of degree 0 modulo divisors of functions are k points of abelian variety J_X. Define more general sorts of algebraic cycles, this is the goal of motivic cohomology, interpret J_X and other similar abelian Lie groups J as Ext groups in the category of Hodge structures. Definition of Hodge structures, stuck here. Mixed Hodge structures, J noncompact case, eventually leads to Beilison's conjectures, real numbers rho(Z) related to values of Hasse-Weil L-functions L(s) at integer points. I suspect due to additivity in partition functions? Beilison conjectures, smooth proj variety X over number field <-> Hasse-Weil L-functions. Chern classes, V be rank r vector of X, then Chern classes c_i(V) in CH^i(X) defined for 1 <= i <= r. Start from Hodge or somewhere on top. Compact opertors, diagonal operators are elements of l_infty acting on l^2 ny multiplications, compact operators are sequences which tends to 0, by pigeonhole averageing they are infinitesimally small. Every ideal in a ring can be thought of as a collection of infinitesimally small elements, since they are one step away from bengn zero. Compact operators on Hilbert space can be considered infinitesimal compared to all bounded operators, forming an ideal where elements are small in the sense that they can be closely approximated by finite rank operators, eigenvalues tends oto 0. Ideals correspond to geometric shapes, higher order terms in ideal represent thickness. Quotienting by ideal turns elements in that ideal into an infinitesimal element i.e. not killing off the coefficient entirely. Example <x^2>. Bounded sets are mapped to totally bounded ones by compact operators.
 
@@ -2346,6 +2356,8 @@ https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/quotations2016.pdf  L^p i
 
 https://arxiv.org/pdf/2602.00964v1, random phenomena can be described usign linear object finds foudnation in representation theorems. Expectation, distribution, conditional expectation and the Wiener measure. Every linear functional i.e. inner prod of v^T x can be represented by a vector that act in its direction. This is similar to the logarithmic map in Lie theory. Riesz rep theorem, proved that every continuous linear functional on a hHilbert space can be represented uniquely as an inner product with a vector from the same space. Linear functionals are maps from R^N to R. Riesz-Stieltjes replaces inner product with integral. Duality of L^p spaces, represent as an integral against not a vector, but a function in L^q(a,b) with holder conjugates 1/p + 1/q = 1. Pillars of modern analysis, linear functionals are generalised vectors or projections mediated by an integrable function instead of a vector. Andreevich Markov Jr. changed to locally compact instead of compact. Kakutani, changed it to continuous poitive linear function C(Omega), Omega is compact Hasudorff, represented by regular Borel measure, this is now no longer some integral.
 
+https://arxiv.org/pdf/1908.08125, free probability
+
 https://www.its.caltech.edu/~matilde/ErgoSystemsSlides.pdf  Marcolli on ergosystems, ergobrain, dynamic reduction of neural brain, goal free structure learning. mathematical view point is symmetry, symmetric form specified by fewer information, energy and symmetry, invaraint energy function C, typical local minima over G-symmetric configurations are local minima for all configurations. Hardy-Weinberg principle, allele and genotype frequencies in a ppopulation will remain constant. Hardy-Weinberg equilibrium, complexity and Kolomogrov, Gell-Mann effectiivty, description length of regularities contained in an object. Combinatorial objects, graphs to n-categories, groups and generalsiation, prbability with superimposed probability. Group algebra, discrete group of finitely supported functions f : G -> C, with convolution f_1f_2 = sum f_1(g_1)f_2(g_2) for all g in g_1g_2, it has involution, operator algebras? Semigroup algebra similar but nolonger involutive. GRoupoid algebra also has involution. Invariants are functors from category T of Topological space to another category. Invariants are functors from a topological/shapelike category? I never thought about it that way, so one can have a nerve of a invariant like cohomology and complexes and stuff. Smooth manifold, Riemannian manifold, but Marcolli did not describe the almost complex manifold idea that is necessary for Kahler. Categorical viewpoint on symmetry, need categories with good properties, 6ff, tensor, duality, internal hom, abeliannsess. Fibre functor, this is the Galois view point, fix k in K, study symmetries of it so Gal(K/k) in Aut(K), this gives rise the the fibre functor C -> V to vector spaces preserving all properties and symmetries G = Aut(omega), invertible natural transformations of the fiber functor (C, omega) as above, Tannkain category of Galois group, incldues motives, QFT, Galois theory etc. Formal languages and grammars, alphabet, symbols, words,f ree groups, empty word, concatenation, semigroup, length, subword, prefix, suffix and a rewriting system. Grammar is a quadraple, V_N, V_T with disjoint finite set, S in V_N start symbol, P is finite rewriting system, and P as production rule, language produced by grammar is a set of w in V_T^*, S -> w. Chomsky hierarchy of formal languages, unrestricted, context-sensitive, context free, regular grammars. Turing machines, tape. Automata, also identified by Chomsky hierarchy, Turing machine, linear bounded automaton, non-deterministic pushdown stack automaton. Probabilities and entropy, probabilsistic grammars,measures of entropy to algebraic structures or operations weighted by entropy functionals, information algebras. Any program that produces description of w is an upper bound, lower bounds hard, Kolmogrov complexity is not computable in general. Gell-Mann effective comoplexity, based on regularities, criticised because it requires definition of regularities.
 
 https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/probability-huge-Lecture-Nov-2014.pdf. symmetry enhanced by randomness, classical probability depends on (quasi)invariant Haar like measure such as infinite product measure in binary sequences. Haar symmetry unclear, tensorisation symmetry, decomposition of ways into Cartesian product of several spaces, every partition into infnite subsets induces decompositions. Noticed in Gaussian measures. Brownian Wiener measures, probability equals area somehow? Alternatives, entropy via Grothendieck semigroup, probability spacers as covariant functors, large deviations and nonstandard analysis for classical and quantum entropies, linearised measures, probabilities and entropies. Finite measure space, background or supporting sets. It underlies the Bernoulli approximation theorem and Boltzmann entropy. Haar symmetry is also seen in Gaussian measure, Brownian Weiner measures. Recall that one can do thermodynamics on partition functions, and partition functions also appear in number theory. Boltzmann's statistical mechanics uses nonstandard analysis? Probability of a sentence, linguistic events are weird. Logarithm of space of states is Boltzmann entropies, not a mathematician's set. Finite measure set, has background or supporting set, denoted set(P) or atoms p, with a postiive function set(P) -> R_+ denoted p -> |p| > 0 or weights/masses of atoms. Scaling and renormalisation R^\cross acts on P by lambda scaling if lambda = 1/|P| this is called normalisation. In statistics, probabilities are defined by ratio of numbers. Probability distributions on I reside in PROJECTIVE SPACE (R^I \ 0) / R^x_+, reductions, P -> Q short hand for set(P) -> set(Q) is a reduction if q fibres, preimage of q in P, satisfy |P_q| = |q|, Q is uniquely determined, or Q is aparatus observing P, only see reduced picture. There is some lambda_q scalign or P_q -> lambda_q P_q, this is the conditioning of P associated to f if we pick lambda(q) = 1/|P_q|. J-partitions, condition of P needs maps from probability spaces to bare sets, so category P of finite probabilities of measure spaces and reductions is not sufficient. Additivity of noninteractive systems (this is like semiadditive of categories turning products into coproducts), ent(P_1 x P_2) = ent(P_1) + ent(P_2). Symbolic representation. Subadditivity, we have ent(P_1 cup P_2) <= ent(P_1) + ent(P_2).  Strong subadditivity of entropy is less intuitive is less, we have ent[123] + ent[2] <= ent[12] + ent[23]. ent(P) <= log|set(P)|, links P with category of finite set, there is a morphism to it? Loomis-Whitney Inequality, among all subset Y in R^k with given measures of the projections to the k-coordinate hyperplanes, the maximal measure is obtained by rectangular spaces + subsets obtained from them by measurable transformations of R^k. Okay this does not make sense, but it follows from ent(P) <= log|set(P)|. Open question, Loomis-Whitney is invariatn under S_k of coordinate perm of R^k and of Cartesian power sets, there must be more (open)? Linearised Loomis-Whitney. Ranks of bilinear forms can be used to define this. P is homogenous if the morphisms P -> Q that are invariant under the group of automorphisms of P factor through P -> *, for all termianl objects * in P, all atoms p have equal masses |p|, entropy of a homgenous P is defined by this relation ent(P) = log|set(P)|, in general. Stuck at page 32.
@@ -2472,7 +2484,11 @@ https://www.mn.uio.no/math/personer/vit/rognes/papers/bergen10.pdf  motivic comp
 
 https://www.uio.no/studier/emner/matnat/math/MAT9580/gamle-undervisningsressurser/varen-2017/documents/spectra.pdf  stable homotopy theory by Rognes
 
-https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/chromatic.pdf  Rognes notes on chromatic homotopy theory.
+https://cdn.jsdelivr.net/gh/iblech/talk-homological-algebra@master/notes-derived-functors.pdf, 16 pages quick start guide to derived functors, applied right defunctors on left exact functor F.
+
+https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/chromatic.pdf  Rognes notes on chromatic homotopy theory., study stalle homolotopy theory, study of stable homotopy spectra through its relation to quasicohere sheaves on moduli stack of formal groups, chroma filtration importatnt in stable homootpy theory as compared to height filtration. Quasicoherent sheaves of comodules for the Hopf algebra is associated to complex coborism?
+
+https://jenseberhardt.com/data/sheafcohomology.pdf, sheaf cohomology intro in 6 pages
 
 https://math.uchicago.edu/~may/REU2014/REUPapers/Peng.pdf  Hahn Banach separation theorem
 
@@ -3705,3 +3721,33 @@ https://adebray.github.io/lecture_notes/u19_differential_Galois_theory.pdf  diff
 https://singer.math.ncsu.edu/papers/LMSlectures.pdf  galois theory of linear DE in 82 pages
 
 https://pmb.centre-mersenne.org/item/10.5802/pmb.43.pdf  topics in Tannakian categories
+
+https://arxiv.org/pdf/2205.14578, informal introduction to categorical representation theory
+
+https://www.math.columbia.edu/~okounkov/IPMU_colloq.pdf, Okounkov slides
+
+https://www.math.columbia.edu/~okounkov/33lectures.pdf, quasi maps and elliptic stable envelopes
+
+https://arxiv.org/pdf/1511.04265, poke around Whittaker, summary of representation theory
+
+https://webusers.imj-prg.fr/~jan.nekovar/pu/mot.pdf, Beilinson's conjectures
+
+https://ryomei.com/papers/MotSp.pdf, motivic spectra, motivic spectra notes
+
+https://personal.sc ience.psu.edu/rcv4/INTAN.pdf, Vaughan analysis notes
+
+https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/StandardConjs.pdf, standard conjectures on algebraic cycles
+
+https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/a/189/files/2023/08/Beamer.Coates.2023.07.20.pdf, class field theory notes in 70 slides
+
+https://app.icerm.brown.edu/assets/543/10172/10172_5684_Blasiak_111320250900_Slides.pdf. MAcDonald poly form some basis, pletyhistically modify them, some slides aboue 30 pages.
+
+https://www2.math.upenn.edu/~jhaglund/preprints/Macforms.pdf, combinatorial formula for type A, MAcDonald poly sare symmetric, Hall-Littlewood functions, Jack polys, whole class. ICCM10ntegrality.
+
+http://fpsac23.math.ucdavis.edu/schedule/slides/Monday/M2%20Seelinger%20-%20fpsac23-macdonald-catalanimals.pdf, root ideals or set of positive roots for GL_n. Roots above Dyck path, Weyl symmetrization operator.
+
+https://www2.math.upenn.edu/~jhaglund/preprints/Ch10new.pdf, n! conjecture of Grasia Haiman, Macdonald introduced this as part of the theory of symmetric functions
+
+https://arxiv.org/pdf/2409.09005, Dunkl and Cherdnik Operators, main focusi is for many body systems and double affine Hecke algebra, 25 pages. The Dunkl operators provide an interesting deformation of the partial derivatives, leading to a fruitful interplay with the theory of integrable systems, representation theory, special functions and harmonic analysis.
+
+fuw.edu.pl/~derezins/projekt-sl2r/talk_sl2r.pdf, start with complex reps of sl(2,C) as complexification of SL(2,R), Pauli matrices written in term of i, but still this loses to standard triplet on sl(2,C), 27 slides only.
