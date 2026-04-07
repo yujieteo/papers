@@ -1460,9 +1460,29 @@ https://www.math.columbia.edu/~woit/twistorp1.pdf  remarkably, the twistor P1 oc
 
 https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf  concise algebraic topology.
 
+https://www.math.uni-hamburg.de/home/richter/bookdraft.pdf from categories to homotopy theory 
+
+https://perso.ens-lyon.fr/sophie.morel/2014_Spring_MorelClass.pdf, Sophie Morel global Langlands
+
+https://youtu.be/qlGT6SGCdEc?si=56Ga4UqCM_mJBkHD, Eisenstein spectrum
+
+https://arxiv.org/abs/1103.5628, introduction to Vassiliev knot invariants
+
+https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott Tu Chapter 1 for cohomology
+
+https://arxiv.org/pdf/2604.01024v1, inequalities, Markov decision tree
+
+https://arxiv.org/abs/1011.2462, tropical semifield Langlands
+
+https://arxiv.org/abs/1202.4377 universal thickening of the reals
+
 https://arxiv.org/pdf/math/0212126, formula to compute coordinates of vertices of associahedron;
 
 https://math.mit.edu/~apost/papers/permutohedron.pdf  permutoherdron notes;
+
+https://virtualmath1.stanford.edu/~ralph/math215b/Bredon.pdf, Bredon Topology and Geometry
+
+https://www.kurims.kyoto-u.ac.jp/~piotr/252y_notes.pdf, finite height chromatic homotopy
 
 https://www.claymath.org/library/academy/LectureNotes05/Lodaypaper.pdf  survey of some of the nice properties of the associahedron (also called Stasheff polytope) from several points of views: topological, geometrical, combinatorial and algebraic, this is very good paper worth working out in all concrete details. (1) to define associahedron, it is in one to one correspondence of polytope with parenthesizing of 0 to n+1 words i.e. brackets; (2) to define it as a polytope it is isomorphic to Stasheff polytope; (3) to classify spaces homotopically equivalent to loop spaces, one define partial order on Stasheff polytope then read off the eucldiean realisation; (4) to use algebra, one can endow the vector space of planar binary trees with associative algebra using a partial order with a dendriform algebra structures; (5) to construct the associatehedron one enlarges over conics, the coordinates of the edges are important and gives it its shape; (6) to have Stasheff complex, one consider elementary homotopies of putting brackets; (7) to define the covering order of the partial order of the Stasheff polytope, one puts a Tamari order; (8) to define a vertices with permutations, one defines a permutohedron; (9) to define the order of the permutohedron, one uses the weak bruhat order; (10) to define shuffles, one uses the faces of the permutohedron; (11) to study formal power series by replacing integers n with planar binary trees, one use the dendriform series and the dendriform algebra of a Stasheff polytope; (12) to define a commutative dendriform algebra, one defines the Zinbiel algebras; (13) to correspond to Zinbiel algebras, one correspond this to commutative algebras, to correspond to associative algebras, one looks at Lie algebras; (14) to study the trefoil knot, one can relate it to the associahedron by the path of a centre of a square; (15) to define real points of M_0(R) or moduli space of n labeled puncutres of Riemann spheres, one tiles with associahedrons;
 
