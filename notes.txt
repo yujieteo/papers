@@ -48,7 +48,7 @@ https://arxiv.org/pdf/hep-th/0205002, gerbes and duality in relation to electrom
 
 https://sites.math.washington.edu//~julia/Slides/Evans08.pdf  cohomology and support, varieties for modules, rank varieties
 
-https://math.berkeley.edu/~ltomczak/notes/Lent2023/GrpCohom_Notes.pdf  group cohomology notes in 38 pages
+https://math.berkeley.edu/~ltomczak/notes/Lent2023/GrpCohom_Notes.pdf  group cohomology notes in 38 pages. Integral group ring is free abelian group of elements on G together with multiplication law that is too complicated to put in head written as is. Find a better definition. Modules are treated as left module, trivial module is Z. Homs can be given ZG-module structure, Hom is functorial. Define chain complex. Define exactness by image of d_n+1 (boundary map) is equal to kern d_s (cycles map). Projective resolution is exact sequence from left (inverse limit), with all projective modules i.e. homs into every object out of the projective module.
 
 https://sudo-rushil.github.io/chroma2022/assets/slides/talk5.pdf  Steenrod algebra, stable cohomology operations is a natural transformation functors from Top_* -> GrAb, Hopf algebras
 
@@ -538,11 +538,25 @@ https://www.math.purdue.edu/~arapura/preprints/etale.pdf  60 page introduction t
 
 https://www.math.purdue.edu/~arapura/preprints/abelian.pdf  46 page introduction to abelian varieties and moduli
 
+https://math.sustech.edu.cn/uploads/20200614/a92a231137226a567de67d8660fd0771.pdf, 86 slides on fractional calculus, generalise order of derivatives typical starts with integration operators, take inverse of I^\alpha with shift., as old as calculus, simple interpolation gives alpha ordered derivative. Curve that totaly time is independent of starting point i.e. tautochrone. Abel observes from physics and performs integration and Laplace transform to find cycloid obeys this integration. From this one can define fractional integrals.
+
+https://mathweb.ucsd.edu/~xatian/files/slides_ICERM.pdf, nonlocal operators, MUST READ, differential operator can be performed locally by taking infinitesimal changes of operators, nonlocal operators are operators that are not local. Nonlocally can appear from model reduction i.e. Schur complement, wait why have I not seen this before in linear algebra. Then one can reduce ODEs.
+
+https://seminari-simba.github.io/slides/simba23032018-SergiBaena.pdf, 115 slides on Laplace Fractional operators, Levy process, partial derivative ecuations, scatterintg theory, KAto sqaure root, functional analysis.
+
+https://pabloraulstinga.github.io/Stinga%20-%20PhD%20Thesis.pdf, fractional powers of second order of PDEs.
+
 https://www.math.purdue.edu/~arapura/preprints/delgab.pdf  11 page introduction to purity by Gabber. (1) to construct l-adic sheaves, one endows a scheme with a Grothendieck topology with flat and unramified maps or etale maps, covers are surjective families, descent is equalisier of etale covers; 
 
-https://www.math.purdue.edu/~arapura/algebra/homological.pdf  70 page introduction to Homological Algebra. Easier case with noncommutative unitary rings for generality. First formula is grov hom?
+https://www.math.purdue.edu/~arapura/algebra/homological.pdf  70 page introduction to Homological Algebra. Easier case with noncommutative unitary rings for generality. First formula is grov hom? Projective if Homs into any object is exact. Is there equivalent definitions of hom. Free modules are projective. Free modules have basis, so can lift to another module through surjection. Non-free ideals in Dedekind domains are counterexample. Projective modules corresponds to vector bundles, Free modules correponds to trivial vector bundle. So Mobius band is projective in some sense? Topological vector bundles on affine spaces are trivials because it is contractible, Serre conjectured that projective modules over polynomials rings are free, affirmed by Quillen-Suslin. Need to go Rotman. Module is injective if homs into of it from all fixed objects is exact. So projective and injective already requires internal hom (why not call it inner and outer homs). Tensor products required derivation since only abelian group in general. Define tensor products are something such that the tensor hom adjunction works.
 
-https://www.math.purdue.edu/~arapura/algebra/homological3.pdf, Ext groups
+https://arxiv.org/pdf/2107.02090, good expository paper on horocycle flow, Ravotti on asymptotic horocycle ergodic integrals, parabolic homogenous prime example is arguable the horocycle flow on finite volume quotients of Lie group PSL(2,R), one parameter subgroup of upper triangular unipoitent martix. Geometrically, finite area hyperbolic surface, geodesic flow acts on unit tangent bundle, stable leaf, horocycle flow, study of horocycle flow led to breakthroughs in number theory and physics, intermediate chaotic behaviour. Furstenberg has horocycle flow on Gamma\SPL(2,R) compact, is uniquely ergodic, Haar measure is unique invariant probability measure. Ratner shows that rate of decay of correlations for Holder polynomials is polynomial, optimal exponent is spectral gap.
+
+https://publications.ias.edu/sites/default/files/Mahler%20Colloquium%20%20Lecture%201-%20Horocycle%20Flows%20at%20Prime%20Times.pdf, MUST READ, Sarnak notes on horocycle flows, rotations of circle is simple dynamical systems, autos on R/Z to R/Z via translations n alpha. Restrict to primes, get Vinogradrov, Hardy-Littlewood circle method, new idea is sieve via bilinear sums. Green-Tao theorem works for nilmanifolds. Proof by orbits of nilmanifold reducing it derived central series in torus.
+
+https://arxiv.org/pdf/0712.1300, Ratner's equidistribution theorem introduction
+
+https://www.math.purdue.edu/~arapura/algebra/homological3.pdf, Ext groups, MUST READ, extensions of short exact sequence, form equivalence classes if it can form into a commutative diagram B -> B' via phi as isomorphism, A -> A and C -> C via id. Equivalence of extensions is an equivalence relation. This is isomorphic via 5-lemma, inverse exists. ext(C,A) denote set of equivalence classes of extensions, to comput ethis, form trivial extension sequence by the split exact sequence B = A oplus C, splits iff trivial extension, best definition of split extensions. Compute it for C is projective, ext(C,A) trivial for every A gives definition of C is projective.
 
 https://irma.math.unistra.fr/~liu/OFM.pdf  Fourier-Mukai transform for complex tori.
 
@@ -1456,7 +1470,9 @@ https://arxiv.org/pdf/2209.15039, it naturally generalizes Kirwan’s classical 
 
 https://arxiv.org/pdf/math/9901053, q-deform a construction of Kazhdan and Kostant from 1970's which produces quantum Toda Hamiltonians by considering the action of Casimirs of a simple Lie algebra on Whittaker functions on the corresponding Lie group. We also give the affine analog of this generalization. This is done by extending the notion of a Whittaker function to quantum groups and quantum affine algebras. We compute the q-deformed Toda Hamiltonians for Lie algebras of type A and show that they coincide with those known in the theory of integrable systems.
 
-https://www.math.columbia.edu/~woit/twistorp1.pdf  remarkably, the twistor P1 occurs as a fundamental object in both four-dimensional space-time geometry and in number theory. In Euclidean signature twistor theory it is how one describes space-time points. In recent work by Fargues and Scholze on the local Langlands conjecture using geometric Langlands on the Fargues-Fontaine curve, the twistor P 1 appears as the analog of this curve at the infinite prime
+https://www.math.columbia.edu/~woit/twistorp1.pdf  remarkably, the twistor P1 occurs as a fundamental object in both four-dimensional space-time geometry and in number theory. In Euclidean signature twistor theory it is how one describes space-time points. In recent work by Fargues and Scholze on the local Langlands conjecture using geometric Langlands on the Fargues-Fontaine curve, the twistor P 1 appears as the analog of this curve at the infinite prime.
+
+https://arxiv.org/pdf/2310.09972, new Clifford like construction process for octonions and split octonions.
 
 https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf  concise algebraic topology.
 
@@ -1669,7 +1685,27 @@ https://arxiv.org/pdf/2411.19889, tropical and valuated matroids, good paper but
 
 https://arxiv.org/pdf/2411.19883, representation theory of semifield, good to read as a concrete exercise in working with algebraic geometry, will read later; (1) to study valuated matroids, one can use algebraic geometry of tropical linear varieties; to understand matroids, one may develop representation theory over semifields;
 
-https://arxiv.org/pdf/2508.15971, Deninger foliated dynamical systems, good paper with one of the best introductions, but very hard to read in the middle. (1) to study motivic L-functions, Deninger proposed to attach arithmetic cohomology to arithmetic schemes with the formula playing LEfschetz trace formulas; (2) to do foliations of dynamical systems on arithmetic schemes, Deninger invented the rational Witt space; (3) to do functional analysis of the Riemann zeta function, Connes introduced the adele class space; (4) to define the adele class space, it is the space of leaves of the idele class groups; (5) to do non-commutative geometry, one must come up with a theory of foliations; (6) to connect Deninger's foliated dynamical systems, and Connes-Consani adelic spaces, this paper gives a map of interest with an arithmetic linking homomorphism; (7) to discover the geometric monodromy around the orbit, the idea is to define an arithmetic linking homomorphism with an homomorphism of etale fundamental groups, then class field theory describes how primes are linked with each other in arithmetic topology, the linking number is the Legendre symbol, (8) to define the Connes adele class space, it is a dynamical system equipped with action of idele class group, then it is a noncommutative geometric model for the spectrum of a number ring O_K; (9) to define Deninger systems, one takes a rational Witt vectors as a ring as a functor of commutative rings, then do a lot of work I do not understand; 
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/vogel.pdf, noncommutative localisation can be done with algebraic K-groups and algebraic L-groups. Change of rings functor, relative K-groups and L-groups, universal localisation I
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/work.pdf, nilpotence equals torsion, endomorphisms is nilpotent means v^N = 0.
+
+https://www.mimuw.edu.pl/~rybka/dydaktyka/sem-dygresyjne/2016_Book_EllipticRegularityTheory.pdf, elliptic regularity theory
+
+https://webhomes.maths.ed.ac.uk/~toh/Files/2021SingSPDE/LecNotes21.pdf, pen and paper slides on singular stochastic dispersive PDEs. Gibbs measure. Duhamel formulation, L^2-cylinderical Wiener process.
+
+https://arxiv.org/pdf/2212.02279, fractional derivatives, Leibniz introduction, overlooked definition by Fourier.
+
+https://arxiv.org/pdf/2509.07786, almost diagonal spaces, Calderon-Zygmund
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/bielfeld.pdf, noncommutative localisation in 30 slides. Ore localisation. Construction of noncommutative analogues of classical localisation. Ore localisation is flat. Universal localisation of Cohn.
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/camb.pdf, surgery theory in 62 slides
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/slides/gott.pdf, cobordism in algebra and topology in 25 slides.
+
+https://ebooks.karbust.me/Mathematics/Jean-Pierre%20Escofier%20-%20Galois%20Theory%20(2001)%20[978-1-4613-0191-2].pdf, Escofier Galois Theory
+
+https://arxiv.org/pdf/2508.15971, Deninger foliated dynamical systems, good paper with one of the best introductions, but very hard to read in the middle. (1) to study motivic L-functions, Deninger proposed to attach arithmetic cohomology to arithmetic schemes with the formula playing Lefschetz trace formulas; (2) to do foliations of dynamical systems on arithmetic schemes, Deninger invented the rational Witt space; (3) to do functional analysis of the Riemann zeta function, Connes introduced the adele class space; (4) to define the adele class space, it is the space of leaves of the idele class groups; (5) to do non-commutative geometry, one must come up with a theory of foliations; (6) to connect Deninger's foliated dynamical systems, and Connes-Consani adelic spaces, this paper gives a map of interest with an arithmetic linking homomorphism; (7) to discover the geometric monodromy around the orbit, the idea is to define an arithmetic linking homomorphism with an homomorphism of etale fundamental groups, then class field theory describes how primes are linked with each other in arithmetic topology, the linking number is the Legendre symbol, (8) to define the Connes adele class space, it is a dynamical system equipped with action of idele class group, then it is a noncommutative geometric model for the spectrum of a number ring O_K; (9) to define Deninger systems, one takes a rational Witt vectors as a ring as a functor of commutative rings, then do a lot of work I do not understand; (10) global fields like Q can be categorised as fields that sit discretely and cocompactly in locally compact spaces.
 
 https://arxiv.org/pdf/math-ph/0306023, adelic spaces.
 
@@ -2504,11 +2540,19 @@ https://www.mn.uio.no/math/personer/vit/rognes/papers/bergen10.pdf  motivic comp
 
 https://www.uio.no/studier/emner/matnat/math/MAT9580/gamle-undervisningsressurser/varen-2017/documents/spectra.pdf  stable homotopy theory by Rognes
 
-https://cdn.jsdelivr.net/gh/iblech/talk-homological-algebra@master/notes-derived-functors.pdf, 16 pages quick start guide to derived functors, applied right defunctors on left exact functor F.
+https://cdn.jsdelivr.net/gh/iblech/talk-homological-algebra@master/notes-derived-functors.pdf, 16 pages quick start guide to derived functors, MUST READ, applied right defunctors on left exact functor F. Goal is to make it depend functorially on the given short exact sequence, pick injective resolution 0 -> X -> I*, I* is the placeholder for other stuff, set R^n(F(X)) = H^n(F(I^*)) so one derives the functors on th eright by the injective resolution. Prototype example of abelian category is that of abelian groups. Dangerpus counterexample: free abelian groups as a category is not abelian, sets, topological spaces, groups are not abelian categories, that is why there is the condensed formalism.
 
 https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/chromatic.pdf  Rognes notes on chromatic homotopy theory., study stalle homolotopy theory, study of stable homotopy spectra through its relation to quasicohere sheaves on moduli stack of formal groups, chroma filtration importatnt in stable homootpy theory as compared to height filtration. Quasicoherent sheaves of comodules for the Hopf algebra is associated to complex coborism?
 
-https://jenseberhardt.com/data/sheafcohomology.pdf, sheaf cohomology intro in 6 pages
+https://eddienijholt.nl/Picard-Lindelof.pdf, local existence and uniqueness of ODEs via Picard-Lindelof
+
+https://jenseberhardt.com/data/sheafcohomology.pdf, sheaf cohomology intro in 6 pages. Complexes are good and cohomology is bad, derived ategories via universal properties, example: cohomology factors through derived category. Localising classes of an abelian category, Ore localisation, hard to see localised category is additive. Derived category fails to be abelian, need distinguished triangles to replace short exact sequences. Mention that derived category is triangulated category.
+
+https://stacks.math.columbia.edu/tag/014P, distinguished categories 
+
+https://www.math.lsu.edu/~pramod/tc/14s-7260/dercat.pdf, derived categories, triangulated category is an additive category with translation automorphisms and collection of diagrams known as distinguished triangles satisfying existence, identity, rotation, completion, octahderon. This has very bad combinatorics.
+
+https://mathoverflow.net/questions/3524/distinguished-triangles-and-cohomology, exact triangle, E is another object, one gets long exact sequence of homsets, specific counterexample as follows in nonderived category. Tyler Lawson's answer can be made in to a .PDF. The failure is quite standard.
 
 https://math.uchicago.edu/~may/REU2014/REUPapers/Peng.pdf  Hahn Banach separation theorem
 
