@@ -210,9 +210,19 @@ https://www.math.uni-bonn.de/people/ja/alggeoI/notes.pdf  Scholze's algebraic ge
 
 http://web.archive.org/web/20190513153411/http://www.math.uni-bonn.de/people/ja/alggeoII/notes_II.pdf  Scholze's algebraic geometry_II notes, MUST READ IMPORTANT, family of schemes is a morphism from f: X -> S, this captures the idea of functorality as family of invariants, intuition here is for all points we have Spec k(s), inclusion Spec k(s) into S. Define fibre of f at s as simply the pullback which is a scheme over k(s). Processs forgets information, morphism f is important. But this definition is useless in generality, problem! Therefore you need flatness and smoothness so that you can work with a Hilbert polynomial and preserve everything you want. A-module is flat if tensor product is not just right exact, it is EXACT. Injective map of modules implies tensor product is injective in A-modules. Morphism of schemes is flatif for all open affines Spec A in S mapping to another Spec R in S, R -> A makes A flat R-module, nullestellensatz is used implicitly here. PENANDPAPER, work these examples out. Smoothness is even stronger than flatness. Sheaf cohomology is meant to prove the Riemann Roch formula. g = dim GlobalSections(C, canonical line bundle), k alg closed, C projective smooth (or equivalently proper normal curve). Riemann-Roch is proved in 3 major steps, first step is long exact sequence on sheaf cohomology by snake, next prove for any line bundle on proper normal curve, dimension formula for zeroth and first homology, then prove Serre duality. This is why Serre duality is important. PENANDPAPER.
 
+https://bpb-us-e1.wpmucdn.com/s.wayne.edu/dist/0/60/files/2019/11/Beaudry-PartI-annotated.pdf, chromatic homotopy theory, first part, Beaudry
+
+https://bpb-us-e1.wpmucdn.com/s.wayne.edu/dist/0/60/files/2019/11/Beaudry-PartII-annotated.pdf, chromatic homotopy theory, second part, Beaudry
+
+https://bpb-us-e1.wpmucdn.com/s.wayne.edu/dist/0/60/files/2019/11/Beaudry-PartIII-annotated.pdf, chromatic homotopy theory, third part, Beaudry
+
+https://mathoverflow.net/questions/38856/jokes-in-the-sense-of-littlewood-examples, geometric expansion of projective space, C^n+1 - pt / C - pt = C^n + ... C^1 + pt,
+
 https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf  painless conjugate gradient method to solve sparse linear equations
 
 https://server.mcm.ac.cn/~zheng/slides/compatible_IHES.pdf  local monodromy introduction, slides
+
+http://verbit.ru/MATH/GEOM-2013/pde-en-4.pdf, germ of functions, direct limit of diagram for vector space of sections, each arrow the corresponding restriction map, commutative diagram was originally arrows of inclusions in the category of opens, direct limit of sheaf diagram is the ring of germs of the sheaf F in x, so elements of this rings are the germs? Constant sheaf is sheaf of function which are constant on each connected U in M. Sheaf gluing gives zero sheaf. Sheaf of R-valued function on manifold with stalks isomorphic to R is constant, stalk iso implies every germ [(U,s)] i.e. pairs of sections and opens is determined by unique real number, each section is locally constant, constant on connected components so constant sheaf.
 
 https://server.mcm.ac.cn/~zheng/slides/nearby-slides.pdf  nearby cycles over general bases, slides, 54 slides, very interesting talk but too hard MUST READ, Grothendieck first mentioned vanishing cycles, X -> S over base, complex of vanishing cycles or complex of sheave  measuring singularity of family or difference between H*(X_s) and H*(X_t), dictionary between local systems on D_eta: disk and Spectrum of Henselian discrete valuation ring. Fundamental group, and inertia group. This is the Galois dictionary for Henselian dvrs. Milnor's conjecture? PENANDPAPER slide 42. Find Illusie history.
 
@@ -1496,9 +1506,9 @@ https://arxiv.org/pdf/math/0212126, formula to compute coordinates of vertices o
 
 https://math.mit.edu/~apost/papers/permutohedron.pdf  permutoherdron notes;
 
-https://virtualmath1.stanford.edu/~ralph/math215b/Bredon.pdf, Bredon Topology and Geometry
+https://virtualmath1.stanford.edu/~ralph/math215b/Bredon.pdf, Bredon Topology and Geometry, focus on the cohomology chapter.
 
-https://www.kurims.kyoto-u.ac.jp/~piotr/252y_notes.pdf, finite height chromatic homotopy
+https://www.kurims.kyoto-u.ac.jp/~piotr/252y_notes.pdf, finite height chromatic homotopy, he has more notes, this one is 110 pages, find them. Stable homotopy theory and formal groups relationship from Lubin Tate theory, giving algebraic explanations for classification of thick deals. Detailed study comes from generalising Chern classes. Integral complex chern class assigns singular cohomology class to each complex vector bundle natural respecting pullback of vector bundles. Have equality or commutation f^*p(V) = p(f^* V) in singular cohomology class in integer coefficients. The basic example is the Chern classes, in H^2k(X,Z), introduce total chern class as some sum, then it satisfies, naturality as stated above, Whitney sum is decomposed to unions of Chern classes, normalisation to O(1). Chern classes are uniquely definable by above axioms, generating all integral complex char classes,
 
 https://www.claymath.org/library/academy/LectureNotes05/Lodaypaper.pdf  survey of some of the nice properties of the associahedron (also called Stasheff polytope) from several points of views: topological, geometrical, combinatorial and algebraic, this is very good paper worth working out in all concrete details. (1) to define associahedron, it is in one to one correspondence of polytope with parenthesizing of 0 to n+1 words i.e. brackets; (2) to define it as a polytope it is isomorphic to Stasheff polytope; (3) to classify spaces homotopically equivalent to loop spaces, one define partial order on Stasheff polytope then read off the eucldiean realisation; (4) to use algebra, one can endow the vector space of planar binary trees with associative algebra using a partial order with a dendriform algebra structures; (5) to construct the associatehedron one enlarges over conics, the coordinates of the edges are important and gives it its shape; (6) to have Stasheff complex, one consider elementary homotopies of putting brackets; (7) to define the covering order of the partial order of the Stasheff polytope, one puts a Tamari order; (8) to define a vertices with permutations, one defines a permutohedron; (9) to define the order of the permutohedron, one uses the weak bruhat order; (10) to define shuffles, one uses the faces of the permutohedron; (11) to study formal power series by replacing integers n with planar binary trees, one use the dendriform series and the dendriform algebra of a Stasheff polytope; (12) to define a commutative dendriform algebra, one defines the Zinbiel algebras; (13) to correspond to Zinbiel algebras, one correspond this to commutative algebras, to correspond to associative algebras, one looks at Lie algebras; (14) to study the trefoil knot, one can relate it to the associahedron by the path of a centre of a square; (15) to define real points of M_0(R) or moduli space of n labeled puncutres of Riemann spheres, one tiles with associahedrons;
 
@@ -3826,4 +3836,66 @@ https://www2.math.upenn.edu/~jhaglund/preprints/Ch10new.pdf, n! conjecture of Gr
 
 https://arxiv.org/pdf/2409.09005, Dunkl and Cherdnik Operators, main focusi is for many body systems and double affine Hecke algebra, 25 pages. The Dunkl operators provide an interesting deformation of the partial derivatives, leading to a fruitful interplay with the theory of integrable systems, representation theory, special functions and harmonic analysis.
 
-fuw.edu.pl/~derezins/projekt-sl2r/talk_sl2r.pdf, start with complex reps of sl(2,C) as complexification of SL(2,R), Pauli matrices written in term of i, but still this loses to standard triplet on sl(2,C), 27 slides only.
+fuw.edu.pl/~derezins/projekt-sl2r/talk_sl2r.pdf, start with complex reps of sl(2,C) as complexification of SL(2,R), Pauli matrices written in term of i, but still this loses to standard triplet on sl(2,C), 27 slides only. Computes standard triplet, uses raising, and lowering and Cartan element. Casimir operator, compute in terms of the standard triplet. Equation 13 is important.
+
+https://www.math.uni-hamburg.de/home/richter/bookdraft.pdf from categories to homotopy theory 
+
+https://perso.ens-lyon.fr/sophie.morel/2014_Spring_MorelClass.pdf, Sophie Morel global Langlands, requires definition of the ring of adeles. Space of cusp forms, definition o fHecke algebra. Definition of Langlands parameter, continuous group homomorphism from Gal(F bar/F) -> G(bar Q_l) l-adic, defined over finite extension for Q_l, semisimple i.e. Zariski closure of the image of sigma is reductive subgroup of Ghat, sigma is almost everywhere unramified, i.e. it is the definition that tries to make Galois theory work?
+
+https://www.fuw.edu.pl/~derezins/mat-o.pdf, bounded operators notes in 62 pages, MUST READ, third course in linear algebra. Span A is finite linear combination, set of linear combinations rom X to Y, L(X) is automorphic linear combinatiions from X to X. A in L(X,Y), ker and range, definition of injective iff ker trivial, bijective if inverse is linear (may exist, but not linear)? Factor space x - y to form X/equiv or X/(x-y) or quotient/factor spaces. Direct sum, intersection is trivial and X = X_1 + X_2. Define idempotent. Define unique idempotent theorem X = Ran P oplus Ker P for P idempotent. This was used in commutative algebra. Schur Frobenius decomposition in Theorem 1.1, stuck at proving this. Vector spaces have convex hull i.e. convex combinations satisfying mixing over parameter space [0,1], what if I do convexity analysis for affine line or generalisations of [0,1] like homotopy? Hahn Banach, define supporting functional as infinmum such that eig^-1 x in U for U in vector space X, p_U valued in 0 to infty is supporting functional, absorbing if for lambda > lambda_0, we can scale this infimum x = lambda U. Minkowski functional if admits Holder style inequality p(x_1 + x_2) <= p(x_1) + p(x_2) i.e. convexity? Hahn Banach, X be real vector space with Minkowski functional p, Y be subspace of X, v a functional of Y such that <v|x| <= p(x), exists linear functional i,e. dual such that <\bar{v}|x> <= p(x). Need to amend Minkowski functional to work for seminorm i.e. difference is take norm of eigenvalue.
+
+https://www.fuw.edu.pl/~derezins/mat-u.pdf, unbounded linear operator book in 249 pages, MUST READ, fourth course in linear algebra.
+
+https://www.fuw.edu.pl/~derezins/mat-r.pdf, operators in L^2(R^d), harmonic analysis from a physicists' perspective. Holder's inequality and generalised Minkowski'e inequality is most important.
+
+https://www.fuw.edu.pl/~derezins/mat-m.pdf, measure theory in 59 pages
+
+https://www.fuw.edu.pl/~derezins/mat-c.pdf, C* algebras in 23 pages
+
+https://www.fuw.edu.pl/~derezins/mat-t.pdf, topology in 29 pages
+
+https://youtu.be/qlGT6SGCdEc?si=56Ga4UqCM_mJBkHD, Eisenstein spectrum
+
+https://arxiv.org/abs/1103.5628, introduction to Vassiliev knot invariants
+
+https://www.fuw.edu.pl/~derezins/conf-hyp-slides.pdf, 230 slides on hypergeometric type equations, definiation of hypergeometri cseries as some sort of power series. Top is _j z^j, not sure if using Einsein notation, bottom is j! or permutations?
+
+https://www.fuw.edu.pl/~derezins/geo-slides.pdf, 57 slides on geometric pseudodifferential calculus, psuedo Riemannian manifold, property that every pair in diagonal is joined by unique jeodescis [0,1] where tau belongs mapping to gamma_x,y(\tau). Geodesically conex neighbourhood of the diagonal.
+
+https://www.fuw.edu.pl/~derezins/ren-slides.pdf, 41 slides on renormalisation, to fix this, need local quantum physics.
+
+https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott Tu Chapter 1 for cohomology
+
+https://arxiv.org/pdf/2602.21894, q-de Rham brainrot
+
+https://arxiv.org/pdf/2604.01024v1, inequalities
+
+https://arxiv.org/abs/1011.2462, tropical semifield Langlands
+
+https://arxiv.org/abs/1202.4377 universal thickening of the reals
+
+https://course-repos.math.gatech.edu/math1553/slides/allslides-web.pdf, linear algebra slides
+
+https://jdh.hamkins.org/wp-content/uploads/Slides-Pointwise-Definability-Barcelona-2023.pdf, definable, no automorphisms?
+
+https://arxiv.org/pdf/math/0501515v1
+
+https://www.kurims.kyoto-u.ac.jp/~piotr/291y_notes.pdf, MUST READ p-adic analytic groups
+
+https://msp.org/gt/2010/14-3/gt-v14-n3-p01-s.pdf, monoids of moduli space of manifolds
+
+https://www.maths.usyd.edu.au/u/Asia-Pacific-APDESeminar/slides/Nogayama_slides_July12-2021.pdf, introduction to finction spaces, needs semilinear elliptic parabolic system, classical results  states that we can reduce this to integral equations, do not even understand the background
+
+https://arxiv.org/pdf/2509.14703, fractional Sobolev spaces, interpolation theory in Banach spaces, complete normed vector space X, normX, Y norm Y, compactible, if there exists a Hausdorff topological vector psace subspaces of both of them, can define sum space using sums of vectors, intersection spaces using intersection of vectors.
+
+https://arxiv.org/pdf/2601.01348v2, fractional Besov-Sobolev
+
+https://arxiv.org/pdf/1811.06399, introduction to function spaces with logarithmic smoothness. Limiting interpolation techniques, new characterisations of Besov and Sobolev norms.
+
+https://users.jyu.fi/~salomi/lecturenotes/fsp08_lectures.pdf, 67 pages on function spaces, MUST READ. Japanese brakcet is a thing, equivalence of quasinorms by the following 1/C norm(u)1 <= norm(u)2 <= norm(u)1, can I do homotopy theory or K theory with this, these are arrows. Classical results is the Riesz-Thorin and it forms the basis of complex interpolation, Marcinkiewicz and Zygmunds forms the real interpolation. Both are about interpolation of L^p space, special case, T bounded linear operator (think of eigenvalues and compactness), Lp0 -> Lp0 and Lp1 -> Lp1, p0 < p1, then T is also bounded Lp -> Lp for p0 <= p <= p1, establish two end point values, interpolation gives estimate of intermediate values for free.
+
+https://www.eco.nihon-u.ac.jp/research/economic/publication/journal/pdf/55/55_121-140_C4-Miyazaki.pdf, Morrey spaces in 20 pages.
+
+https://nuhagphp.univie.ac.at/dateien/talks/2304_Vienna(20120917Yuan).pdf, functional spaces of Besov-type and Triebel-Lizorkin type. Function space diagram on page 6. Q-spaces are spaces of holomorphic functions ivnariant under conformal mappings. Hausdorff capacity.
+
+https://www.wias-berlin.de/people/vanzuijlen/docs/LN_theory_of_function_spaces.pdf, 127 pages on the theory of function spaces, define support of f to be set of all x for neighbourhood of x, there exists an element y in that neighbourhood (pullback to y) such that f(y) is nonzero.if F is a set of functions, there exists a subset of compactly supported functions i.e. F_c = {f in F : supp f is compact}. Support means set of all y values via n'hood that gives existence via pullback. Recall that homology and Poincare duality is needed for one of this definition. Take D(omega) to be the vector space of C^\infty(Omega)_c i.e. smooth infinitely differential functions on outcome space with compact support i.e. f(y) is nonzero. An eleemnt of D(Omega) is a test function. A linear function u from D(Omega) -> F is called a distribution (think about probability distribution) for all compact sets in outcome space in D(Omega) or C_c&\infty(Omega), there exists a constant C > 0 and k in N_0 such that |u([hi]| <= C|phi|_C^k), C^k is k-time differentiable, supp phi in K, K compact in Omega, phi in D(Omega) i.e. distributions are defined so that it satisfies a duality statement which I am supposed to remember but I cannot remember. I think it is similar to some of the Tannakian or representation dtheory dualities.
