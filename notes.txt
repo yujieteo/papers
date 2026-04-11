@@ -1788,17 +1788,45 @@ https://hal.science/hal-05492542v1/file/Proc.PrimerOnToric.pdf  18 page toric va
 
 https://web.ma.utexas.edu/users/ikmartin/pages/additional-pages/toric-page/documents/Toric-Varieties_Cox-Little-Schenck.pdf  863 pages Cox Little Schneck
 
-https://oskarhenriksson.io/slides/toric_chapter3c.pdf  from fans to toric varieties, 24 slides
+https://oskarhenriksson.io/slides/toric_chapter3c.pdf  from fans to toric varieties, 24 slides, functors from lattice fans to toric varieties, pointed lattice cones to normal affine toric varieties, lattices and tori, these are equivalence of categories. PENANDPAPER, compute example on slide 7. Gluing of two affine varieties, disjoint union kill of ambiguity in the gluing of the Cech cocycle. Separated variety problem, if diagonal is closed in product. Example gluing of affine line of two origins.
+
+https://www.homepages.ucl.ac.uk/~ucahad0/inaugural_lecture.pdf, phase transitions and graph colourings, chromatic root theory
+
+https://www.homepages.ucl.ac.uk/~ucahad0/, Alan Sokal physics page.
+
+https://drive.google.com/file/d/1MqE75Hwy8t137l0jYyAvwbuBN-fELS-G/view, real nullstellsantz, real spectrum.
+
+https://www.mathematik.hu-berlin.de/~kraemeth/old-stuff/rep-theory/RepTheory.pdf, 119 pages on representation theory
+
+https://drive.google.com/file/d/1hDcVBlubuK8r0wVynC9-5HEDPQKcy6rY/view, Cayley trick
 
 https://arxiv.org/pdf/2203.01690, 79 pages intro to toric varieties
 
-https://www.mn.uio.no/math/personer/vit/johnco/enriques.pdf  enriques surface fibrations visual
+https://arxiv.org/pdf/1708.01842, 41 pages on toric varieties.
+
+https://www.math.uni-konstanz.de/~michalek/NonLinearAlgebra.pdf, nonlinear algebra with toric varieties in 243 pages, AMS book.
+
+https://www.uio.no/studier/emner/matnat/math/MAT4210/data/mastermat4210.pdf, 261 pages on algebraic geometry I.
+
+https://arxiv.org/pdf/2302.08585, numerical nonlinear algebra, Sturmfelsian neologism for computations using algebraic geometry. Polyhderal homotopy algorithm is key here.
+
+https://arxiv.org/pdf/2103.16300, nonlinear algebra and applications
+
+http://mate.dm.uba.ar/~alidick/papers/MCA0215.pdf, algebraic geometry in systems biology in 19 pages
+
+https://www.ihes.fr/~urbanik/work/schemes.pdf, schemes in 16 pages, idea is to consider that manifold and submanifold are different in what sense? Smooth manifold theory is to give a language. Smooth manifold theory requires F be 2-for, electromagnetic field, J a 3-form current density, maxwell equations on smooth 4-d Lorentzian manifold read, dF = 0, d * F = mu0 J, d is exterior derivative, * is Hodge star. Does not privilege any coordinate system. So this is more powerful. Simplicity at the expense of efficiency.
+
+https://www.uio.no/studier/emner/matnat/math/MAT4215/data/masteragbook.pdf, algebraic geometry book in 510 pages.
+
+https://c-keyes.github.io/files/definitions.pdf, list of algebraic geometry definitions in 46 pages, MUST READ everyday.
+
+https://www.mn.uio.no/math/personer/vit/johnco/enriques.pdf  Enriques surface fibrations visual
 
 https://www.math.nagoya-u.ac.jp/~itoken/conference/RK2012/slides/Tanabe.pdf  combinatorial Hodge star
 
 https://www2.math.upenn.edu/~jhaglund/IPAC/Atlas/Lecture1Notes.pdf  log concave poset inequalities
 
-https://www.math.ias.edu/~bhatt/teaching/mat517f25/pHT-notes.pdf?utm_source=chatgpt.com, p-adic Hodge in 138 pages Bhatt
+https://www.math.ias.edu/~bhatt/teaching/mat517f25/pHT-notes.pdf, p-adic Hodge in 138 pages Bhatt
 
 https://arxiv.org/pdf/2407.02256v2, mixed hodge on stacks
 
@@ -1816,13 +1844,13 @@ https://math.uchicago.edu/~amathew/ATnotes.pdf  notes from Mathew and Hopkins on
  
 https://math.uchicago.edu/~amathew/notes.html  general Akhil Mathew notes
 
-https://math.uchicago.edu/~amathew/224.pdf  study of Lie groups. The most centrlal topic in mathematics. GL_n arises. Use classical Lie groups. Somebody objects and say logic is most foundational. Describe all abstract object, given an abstract object gives its representations as a subobject of a concrete thing, thsi is why representation theory is the most central. Existence of adjoint representation with one additional. Groups come with adjoint representations for free. Smooth manifolds have topological space structure and atlases or equivalence class of atlases.
+https://math.uchicago.edu/~amathew/224.pdf  study of Lie groups. The most central topic in mathematics. GL_n arises. Use classical Lie groups. Somebody objects and say logic is most foundational. Describe all abstract object, given an abstract object gives its representations as a subobject of a concrete thing, thsi is why representation theory is the most central. Existence of adjoint representation with one additional. Groups come with adjoint representations for free. Smooth manifolds have topological space structure and atlases or equivalence class of atlases.
 
 https://people.math.harvard.edu/~dafr/M392C-2012/Readings/Hopkins.pdf  algebraic topology and modular forms.
 
 https://wstein.org/books/modform/modform/, Stein’s book on modular forms.
 
-https://arxiv.org/pdf/2509.26392, manifolds and Disc presheaves.
+https://arxiv.org/pdf/2509.26392, manifolds and disc presheaves.
 
 https://otaibi.perso.math.cnrs.fr/oddcohAg.pdf  low degree cohomology compactifications of Ag
 
