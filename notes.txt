@@ -864,6 +864,12 @@ https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/THH%20MFO.pdf  TH
 
 https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/Lectures.pdf  lectures on topological hochschild homology and cyclotomic spectra
 
+https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/ICM_proceedings.pdf, Frobenius homomorphisms in higher algebra
+
+https://web.math.ku.dk/~/trk734/papers/s07/handbook.pdf, TCH Hesselholt and Nikloaus. Cyclic theory of Connes and Tsygan should be developed over the sphere spectrum.
+
+https://people.mpim-bonn.mpg.de/scholze/CyclotomicSpectra.pdf, topological cyclic homology
+
 https://web.math.ku.dk/~larsh/papers/s07/handbook.pdf  topological cyclic homology survey
 
 https://www.math.uni-hamburg.de/home/richter/oberwolfach2016.pdf  higher topological Hochschild homology overview
@@ -2528,7 +2534,9 @@ https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Matroids.pdf  matro
 
 https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Notes/Graph-Theory.pdf  graph theory in 83 slides, set of slides is good for definitions, graphs consists of vertices and edges, digraph hve direction, use vectors instead of edges. Eulerian graphs are graphs where only two vertices have an odd number of edges connecting to it? Bipartite graphs, V = X union Y, every edge is of the form (x,y), this is an easy definition. Vertex colouring, it is a map to valued in a set of colours (recall group action is group hom to permutations), v is in V gets coloured with f(v), colouring is proper if edge (a,b) in E implies f(a) not f(b) i.e. all have different colours, the chromatic number is the minimum number of colours in a proper colouring. Subgraphs are V' in V and E' in E, G' is a spanning subgraph if V' = V. There is also subgraph induced by V' i.e. pick those edges for vertices only in V'. Graph isomorphisms if there is a bijection of vertices such that edges are preserved under the bijection. Complete graph is the graph of n vertices with all edges filled in, K_m,n is the complete bipartitite graph of m+n vertices (you can always form bipartite graph?). Vertex degrees, number of edges incident with v, minimum and maximum degree globally can always be defines. Graphs admit a representation theory of permutation matrices called incidence matrices, can use representation theory to solve problems. Alternative representation is adjacency matrices. Theorem is sum of degrees of vertices is 2 times the number of edges, this is obvious because it goes on or goes out, if you have an edge it must connect two points as the basic property of graphs. The number of vertices of odd degree is even, this is shown since you need to produce 2|E| so consider subtraction by vertices of even degree to prove this. Paths are walsk with distinct vertices. Walk is closed if v_1 = v_k, a cycle is a closed walk in which each vertex is distinct except for the initial/last, closed walk means you can repeat vertex. M_k = A^k, what is this notation for M_k(v,w) in the theorem? Very confusing, slide 19. Conencted components, equivalence class a equivalent to b if there is a walk from a to b. This is the basic idea of simple graph homology, or the zeroth homology group. Breadth first search, stuck at slide 24.
 
-https://www.ias.edu/sites/default/files/video/morse%20lecture%201.pdf, MUST READ graph regularity method by Jacob Fox in 125 slides, definition of graph, Szemeredi's regularity lemma, roughly speaking, every graph can be partitioned into bounded number of roughly equal size part so the graph is random like. Rough structural result. Most powerful tool in cominbatorics. Regularity and density need to be defined essentially.
+https://www.ias.edu/sites/default/files/video/morse%20lecture%201.pdf, MUST READ graph regularity method by Jacob Fox in 125 slides, definition of graph, Szemeredi's regularity lemma, roughly speaking, every graph can be partitioned into bounded number of roughly equal size part so the graph is random like. Rough structural result. Most powerful tool in combinatorics. Regularity and density need to be defined essentially. Vertex subsets of a graph, e(X,Y) is number of pairs that are edges., density is defined as d(X,Y) = e(X,Y)/|X||Y|, so divide by number of vertices. Irregularity is the maximum over A in X and B in Y of |e(A,B) - d(X,Y)|A||B||. One can then define epislon-regularity via a scaling inequality, irreg(X,Y) <= eps|X||Y|. Partition irregularity, define for subsets of vertex parittions irregularities as the sum of irregularities between (X,Y). Why is this a good definition fo regularity? Szemeredi's regularity lemma, for every epsilon > 0, there is a M(epsilon) so that every graph has an epsilon-regular vertex partition, with at most M(epsilon) parts. Why is this a natural definition? Tower function, T(1) = 2, T(n) = 2^T(n-1), so it is towers of 2. Regularity lemma gives M(eps) < T(eps^-2). Gowers proved that it is arbitrary small, -c for some constant c > 0. That is quite crazy. Lovasz and others proved M(eps) = T(O(eps^-2)). The proof idea uses mean square density.
+
+https://web.math.princeton.edu/~naor/homepage%20files/Grothendieck-CPAM.pdf, Grothendieck type inequalities in combinatorial optimisation
 
 https://courses.maths.ox.ac.uk/course/view.php?id=4443, additive combinatorics slides from Oxford
 
@@ -2586,6 +2594,8 @@ https://www.cs.cas.cz/~hladky/slides/DScTalk.pdf, graph limits graphons disserta
 
 https://www.cs.cas.cz/~hladky/slides/BrnoEGT.pdf, extremal graph theory in 15 slides, best summary MUST READ. Bollobas, alternative definition via substructures, three big theorems, Turan's theorem, Erdos-Sos conjecture, and Szemeredi's regularity lemma, G has more than n^2/4, contains a triangle. Extens to other graphs. Triangle density. Erdos-Sos conejcture, if average degree of G is at least K then T_k+1 in G. This was proven. Loebl extended this. Szemeredi's graph can be decomposed into bounded number of quasirandom pieces, key idea in removal lemma, this proves that dense subsets of integers contains AP of arbitrary rank. Regularity lemma free proof was finally done by Fox in Annals. Property testing and Roth's theorem
 
+https://yufeizhao.com/211/graph_theory_notes.pdf, basic graph theory, graph has vertices and edges unordered, loop is edge on same vertex, edge is multiedge if it appears multiple times, simple if no loops or multiple edges, symmetric relation between objects gives a graph, this is why graph theory can be "first isomorphism" identified, take symmetric relation and impose it, the kernel of the map is a graph. Isomorphism of graphs if there is a bijection of vertices and a preserving of graphs in the edge next to it. Isomorphisms are equivlaence relations of graphs, one can form a group/groupoid or whatever of isomorphisms. Representation theory of graphs come in two kinds, adjaency and incidence matrices. Degree of graph is number of neighbours of vertices, vertex is isolated with degree 0. A graph with an isolated vertex can be proven to be disconnected.
+
 https://www.math.tau.ac.il/~asafico/ext-graph-theory/notes.pdf, extremal graph theory in 54 pages
 
 https://arxiv.org/pdf/0909.3271, Fox-Sudarko dependent random choice in 32 pages, main idea in combinatorics.
@@ -2614,7 +2624,7 @@ https://kam.mff.cuni.cz/~tancer/ProbTech/7LovaszLocalLemma.pdf, Lovascz local le
 
 https://ocw.mit.edu/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/mit18_226_f22_lec10-14.pdf, Lovasz local lemma in 28 pages
 
-https://imsc.uni-graz.at/AlgNTh/slides/Slides_Schmitt_030322.pdf  polynomial method in additive combinatorics
+https://imsc.uni-graz.at/AlgNTh/slides/Slides_Schmitt_030322.pdf  polynomial method in additive combinatorics, additive combinatorics marry number theory, harmonic analysis, combinatorics, and ergodic theory to understand very simple systems.
 
 https://www.cirm-math.fr/RepOrga/1947/Slides/shmerkin-luminy1.pdf  additive combinatorics, fractals, Furstenberg's intersection conjecture, consider T_p(X) = px mod 1. Hard to understand. Conjecture the quantifies expansions in incommensurable bases have no common structure. This was proven. The key idea is to use Bernoulli convolutions, sum of (0, 1), choice of signs IID and equiprobable, looks like random walk but 0 is possible and -1 +1. Some sort of Cantor-Lebesgue measure? I got bored of it.
 
@@ -4800,3 +4810,5 @@ https://math.bu.edu/people/jsweinst/AWS/AWSLectureNotes.pdf, modular curves at i
 https://mathoverflow.net/questions/238866/reference-for-the-hodge-polynomial-or-the-hodge-characteristic, hodge polynomial, hodge product decomposition?
 
 https://jeffe.cs.illinois.edu/teaching/algorithms/, book on algorithms
+
+https://arxiv.org/pdf/1502.05585, Segal Gamma-rings
