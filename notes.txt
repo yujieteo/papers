@@ -2018,7 +2018,11 @@ https://github.com/dmzb/dmzb.github.io/tree/main/slides, David Zurich Brown talk
 
 https://math.bu.edu/people/xyz6/intersection.pdf  splitting principle for Chern classes
 
-https://math.mit.edu/classes/18.783/2025/links.html, elliptic curves course MUST READ SLIDES
+https://www.youtube.com/watch?v=VUzCOnZgtvI, Artin reciprocity via spheres
+
+https://math.mit.edu/classes/18.783/2025/links.html, elliptic curves course
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides1.pdf, elliptic curves
 
 https://dummit.cos.northeastern.edu/docs/talk_NTS_elliptic_curves.pdf  7 page talk on elliptic curves
 
@@ -4647,7 +4651,7 @@ https://math.vanderbilt.edu/rolenl/MFHMFNotes.pdf introduction to classical modu
 
 https://math.vanderbilt.edu/rolenl/ModularForms.html, modular forms notes
 
-https://math.vanderbilt.edu/rolenl/VandyColloq.pdf modular forms in 50 slides introductory, MUST READ, modular forms are functions on upper half plane. Modular forms are basic operations. Slash action. Modularity, + growth, + analytic? Algebra of adjectives, S and T, looks like SL_2(Z) = <S,T> i.e. torus i.e. mapping class group of torus. M is translation invariant function with additional symmetry f(-1/tau) = tau^k f(tau) or Frobenius auto. Holomorphic function with growth rate of MF, i.e. f(tau) = q-series, q = exp(2 pi i tau), looks like gamma functions discretely or Gauss sums if q is roots of unity. Combinatorics, partition, physics, statistical mechanics, asymptotics of sequences i.e. ergodic theory? Main example to produce modular forms, peek seed and take average, gives Poincare series. Second method is to do Poisson summation on lattices. Generating functions of generating functions yields function of modular symmetries or Jacobi forms. McKay finds Monster group, reps of monster counted by weight 0 modular form. MFS automatically prove congruences, Euler proved that sum of q-series gives product formula of 1/(1 - q^n). Finite abelian extensions of Q, adjoin values of exp(2 pi i x) to find all finite abelian extensionf of Q. Do this for imaginary quad fields use j(tau).
+https://math.vanderbilt.edu/rolenl/VandyColloq.pdf modular forms in 50 slides introductory, MUST READ, modular forms are functions on upper half plane. Modular forms are basic operations. Slash action. Modularity, + growth, + analytic? Algebra of adjectives, S and T, looks like SL_2(Z) = <S,T> i.e. torus i.e. mapping class group of torus. M is translation invariant function with additional symmetry f(-1/tau) = tau^k f(tau) or Frobenius auto. Holomorphic function with growth rate of MF, i.e. f(tau) = q-series, q = exp(2 pi i tau), looks like gamma functions discretely or Gauss sums if q is roots of unity. Combinatorics, partition, physics, statistical mechanics, asymptotics of sequences i.e. ergodic theory? Main example to produce modular forms, peek seed and take average, gives Poincare series. Second method is to do Poisson summation on lattices. Generating functions of generating functions yields function of modular symmetries or Jacobi forms. McKay finds Monster group, reps of monster counted by weight 0 modular form. MFS automatically prove congruences, Euler proved that sum of q-series gives product formula of 1/(1 - q^n). Finite abelian extensions of Q, adjoin values of exp(2 pi i x) to find all finite abelian extensionf of Q. Do this for imaginary quadratic fields use j(tau).
 
 https://math.vanderbilt.edu/rolenl/Alladi70Talk.pdf integer partitions are possible sums forming the integers. Hardy Ramanujan asymptotic for partitions. This feels very statistical mechanics, exact formula of Rademacher using wild exponential sums. Log concavity. Beautiful congruences by Ramanujan. 5, 7, 11 are only primes with congruences like this. Jensen polynomial.
 
@@ -4671,21 +4675,21 @@ https://web.williams.edu/Mathematics/lg5/RootsInGroups.pdf roots of unity in arb
 
 https://web.williams.edu/Mathematics/lg5/UnPrinciple.pdf Wigderson's approach to uncertainty principle.
 
-https://web.williams.edu/Mathematics/lg5/Fourier.pdf Fourier analysis in 11 slides
+https://web.williams.edu/Mathematics/lg5/Fourier.pdf Fourier analysis in 11 pages, wae can we decompose it to constituent frequency i.e. does it admits a decomposition? This is the idea of a Fourier series. Period 1 finite mass, Fejer's result integral form 0 to 1 of f(x) g(nx) -> f^(0) g^(0).
 
 https://cseweb.ucsd.edu/classes/fa17/cse206A-a/LecGaussian.pdf Gaussian function is equal to fourier transform, genreral statement follows by induction , 1D Gaussian, then do computation using substitution x^2 + 2ixy. Then use Cauchy's theorem.
 
 https://web.williams.edu/Mathematics/lg5/QR.pdf easiest to remember of all elementary proofs encountered by Rosseau. Chinese Remainder theorem gives Z/p x Z/q = Z/pq, split into half, consider a subset that has eactly one of x and -x in it.
 
-https://math.mit.edu/~rbm/Loops2024/Isaac1.pdf spin dirac operator, vector space of complex n spinors is C^2floor(n/2). A Riemannian manifold M^n is spin if tangent bundle has spins tructure. Sections of spinor bundle are called spinors so must define spinor bundle. Okay this does not make much sense and looks like notes from a physicists.
+https://math.mit.edu/~rbm/Loops2024/Isaac1.pdf spin Dirac operator, vector space of complex n spinors is C^2floor(n/2). A Riemannian manifold M^n is spin if tangent bundle has spins tructure. Sections of spinor bundle are called spinors so must define spinor bundle. Okay this does not make much sense and looks like notes from a physicists.
 
 https://math.mit.edu/~rbm/Loops2024/Loops2024.pdf analysis on loop space in 81 pages, learn about manifolds, loop space of manifold are maps from S -> X from the circle to manifold, deliberate ambiguity of regularity. Loop space analysis does not really exist and formalising it is a key problem in math. String is a curve up to reparameterisation. Warning, everything is suppoed to be equivariant up to this action.
 
 https://nyuad.nyu.edu/content/dam/nyuad/research/centers-labs-projects/center-for-quantum-and-topological-systems-/events-conferences/qft-and-cobordisms-2023-presentations/Waldorf.pdf do not understand except for slide 10.
 
-https://ncatlab.org/nlab/files/Saemann-AdjustedHGT.pdf (2,0)-theory is conjecturally a higher gauge theory. Wilson surfacesas observables. Consistency of parallel transport is hard, need G to be abelian. Eckmann-Hilton discovered this, need o and otimes satisfy interchange law. Lie 2-group needed. Cocycles of principal bundles from functors. Chevalley-Eilenberg algebra. Atiyah algebroid. Local connections can be glued together to form global objects. Dictionary of cocycles on page 15, cochains are g_ab valued in G, cocycles, coboundaries, allv ery nasty computations.
+https://ncatlab.org/nlab/files/Saemann-AdjustedHGT.pdf (2,0)-theory is conjecturally a higher gauge theory. Wilson surfacesas observables. Consistency of parallel transport is hard, need G to be abelian. Eckmann-Hilton discovered this, need o and otimes satisfy interchange law. Lie 2-group needed. Cocycles of principal bundles from functors. Chevalley-Eilenberg algebra. Atiyah algebroid. Local connections can be glued together to form global objects. Dictionary of cocycles on page 15, cochains are g_ab valued in G, cocycles, coboundaries, all very nasty computations.
 
-https://www.konradwaldorf.de/docs/singapur.pdf gerbes with connections in 43 pages. n-gerb, Z-valeud function is H^0(M, Z), S^1-gerbe is H^3(M,Z) up to gerbe isomorphism. So gerbes are generalisations of valued functions negative thinking gives classical examples.
+https://www.konradwaldorf.de/docs/singapur.pdf gerbes with connections in 43 pages. n-gerbes, Z-valued function is H^0(M, Z), S^1-gerbe is H^3(M,Z) up to gerbe isomorphism. So gerbes are generalisations of valued functions negative thinking gives classical examples.
 
 https://christiansaemann.de/talksfolder/2.12.2020%20U%20Nottingham.pdf summary of higher gauge theory in literature in slide 12, totaly 44 slides.
 
@@ -4812,3 +4816,37 @@ https://mathoverflow.net/questions/238866/reference-for-the-hodge-polynomial-or-
 https://jeffe.cs.illinois.edu/teaching/algorithms/, book on algorithms
 
 https://arxiv.org/pdf/1502.05585, Segal Gamma-rings
+
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/ra/2023/lecture122023.pdf, Lovasz local two proofs by information theory of Moser and by nonconstructive argument
+
+https://arxiv.org/pdf/2012.14063, Mumford take classification
+
+https://arxiv.org/abs/2603.21852
+
+https://youtu.be/XUE5icUYVUg?si=hy5u0vgp0HTdhFvp, Quillen discovering law for Chern classes universally wrong complex cobordism
+
+https://www2.math.upenn.edu/~siegelch/Notes/canalysis.pdf, complex analysis book
+
+https://ifip-tc7.impan.pl/other/IFIP-lectures-1-slides.pdf, Hadamard semidiferentials
+
+https://math.jhu.edu/~jmb/note/torext.pdf, explicit examples of Ext and Tor, MUST READ, compute all the groups G otimes H, Tor(G,H), Hom(G,H) and Ext(G,H). Definitions not given, For any group H, 0 otime H - 0, pick 0 otimes h  = 0(0 otimes h) = 0. For any H we have Z otimes H isomorphic to H. 
+
+https://www.youtube.com/watch?v=j6lVP_U_WQE, computation of the simplicial torus, use a triangulation, the torus has one vertices, three edges and two faces. Need to know the boundary maps, delta_0 is 0, delta_1 is going to be 0 conveniently. Bilinear pairing, show unique homomorphism, f: Z x H -> K, want to show f': H -> K such that f = f' theta, forces f'h = f' theta(1,h) = f(1,h), define f' by f'h = f(1,h), check that this is a homomorphism. Z/n otimes H isomorphic to H/nH, you can get this by reading off the tensor product in proposition 5. For Tor, this is by examining the kernel of the map, it looks like n_H, nh = 0 of elements H of order, this is the kernel; Corollary: Z/n otimes Q = 0 because you cannot make H/nH, and Tor(Z/n, Q) is also 0 since we cannot make it. We have nZ + mZ = dZ, this is almost the definition of gcd(n,m).
+
+https://math.jhu.edu/~jmb/note/adamrept.pdf, adams operations on groups
+
+https://math.jhu.edu/~jmb/note/alexwhit.pdf, computing with Alexander-Whitney chain maps
+
+https://math.jhu.edu/~jmb/note/attcell.pdf, manually attaching a cell
+
+https://math.jhu.edu/~jmb/note/attach2.pdf, manually attaching 2-cells
+
+https://math.jhu.edu/~jmb/note/gradalg.pdf, basics of cocycles in terms of chain maps of nonzero degree
+
+https://math.jhu.edu/~jmb/note/hpysph.pdf, homotopy groups of spehres tables
+
+https://math.jhu.edu/~jmb/note/laptran.pdf, Laplace transform table
+
+https://math.jhu.edu/~jmb/note/relhgy.pdf, long exact sequence in homology proof with no diagram chasing
+
+https://math.jhu.edu/~jmb/note/torustri.pdf, torus triangulation
