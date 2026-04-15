@@ -3497,15 +3497,15 @@ https://arxiv.org/pdf/2111.15161, introduction to Coxeter groups, Bruhat graphs,
 
 https://www2.math.upenn.edu/~harbater/luxtalks.pdf  patching in algebra, notes from the Luxembourg Winter school. Patching originated S_1 and S_2 agreeing over S_0 are patched to yield S = S_1 union S_2. GAGA means can pass between complex algebraic geometry in which one uses classical metric open sets, to algebraic geometry with the Zariski topology. Nonempty Zariski opens large, problem for patching. View formal power series as functions defined near the origin, view as small neighbourhood of the origin, this is the field fo Laurent series, fraction field is not complete, can consider small n'hood as tubular neighbourhood of the x-axis. Formal schemes and formal patching formed into a theory. Key theorem is GAGA in analogue for formal schemes, this is known as GFGA. Tate's theory of rigid analytic spaces. Actually can patching even work in the modern rigid analytic formalism?
 
-https://www2.math.upenn.edu/~harbater/lggalcohom.pdf  local and global principles for Galois cohomology
+https://www2.math.upenn.edu/~harbater/lggalcohom.pdf  local and global principles for Galois cohomology, this is related to proofs for class field theory eventually, reviewed as higher dimensional generalisations of the classical local-global principles for the Brauer group. Kato generalised this even further to provide local-global principles for Brauer groups of m-torsion part. Derived from Mayer-Vietoris sequences.
 
-https://www.konradwaldorf.de/docs/pittsburgh.pdf  IMPORTANT, lectures of gerbes, loop spaces, and Chern Simons theory. See also Urs Schriber's lectures on the topic.
+https://www.konradwaldorf.de/docs/pittsburgh.pdf  IMPORTANT, lectures of gerbes, loop spaces, and Chern-Simons theory. See also Urs Schriber's lectures on the topic.
 
 https://www.math.ucla.edu/~galashin/slides/qtcat_Stanford.pdf  cluster algebras, quiver miltations
 
 https://www.math.ucla.edu/~galashin/slides/ipam_w2_move_reduced.pdf  more computations on amplituhedron 
 
-https://www.math.ucla.edu/~pak/lectures/Slides/OPAC-talk-UMN-2022-short.pdf combinatorial interp
+https://www.math.ucla.edu/~pak/lectures/Slides/OPAC-talk-UMN-2022-short.pdf combinatorial interpretations
 
 https://www.math.ucla.edu/~pak/lectures/Slides/UIUC-talk-2022-short.pdf  inequalities
 
@@ -3527,13 +3527,13 @@ https://arxiv.org/pdf/1705.02129, monodromy representation of elliptic curve, fi
 
 https://arxiv.org/pdf/1403.5800, read introduction only, hyperplane arrangement perverse sheaves
 
-https://arxiv.org/pdf/1411.2772, read full paper on perverse schobers,
+https://arxiv.org/pdf/1411.2772, read full paper on perverse Schobers
 
 https://arxiv.org/pdf/2512.22718, perverse sheaves and Fourier transforms.
 
 https://arxiv.org/pdf/1506.03642, perverse sheaves and algebraic varieties
 
-https://arxiv.org/pdf/1801.00896, parity sheaves paper, Maschke's theorem, rep of finite group over field of char 0 is semisimple. Write function of one variable as sum of even and odd function. Next is Weyl's theorem, and finite dimension representation of a compact Lie group is semisimple, example write Fourier series for circle grou;. Actually these are easy to remember. Need to understand deeper structure of finite groups. Intersection cohomology and perverse sheaves are very nice to use. Character of simple highest weight module over complex semisimple Lie algebra of Schubert varieties. So study perverse sheaves to do rep theory. Decomposition Theorem, Partity sheaves, and Kodszul duality. Some examples are computed here. Weil conjectures motivat the decompsoition theorem and parity sheaves.
+https://arxiv.org/pdf/1801.00896, parity sheaves paper, Maschke's theorem, rep of finite group over field of char 0 is semisimple. Write function of one variable as sum of even and odd function. Next is Weyl's theorem, and finite dimension representation of a compact Lie group is semisimple, example write Fourier series for circle grou;. Actually these are easy to remember. Need to understand deeper structure of finite groups. Intersection cohomology and perverse sheaves are very nice to use. Character of simple highest weight module over complex semisimple Lie algebra of Schubert varieties. So study perverse sheaves to do rep theory. Decomposition Theorem, Partity sheaves, and Kodszul duality. Some examples are computed here. Weil conjectures motivate the decompsoition theorem and parity sheaves.
 
 https://arxiv.org/pdf/1610.06261, paper on algebraic groups, 38 pages. Representation theory of algebraic group over algebraically closed field k, representation of G is a k-vector space V, and a homomorphism G to GL(V) of algebraic groups, use constructible sheaves remember this is because pushforward of sheaves fail badly even under proper maps. Representation theory of G is harmonic analysis of algebraic geometry. Char 0 is compact Lie groups. Lusztig's formula gives character formulas for certain simple modules. Buidl bridge between reps of G and construcitble sheaves. Geometric Satake equivalence and Finkelberg-Mirkovic conjecture. Hard to compute after the conjecture. Practice, calculate stalks of parity sheaves, intersection cohomology. Root data, character lattice, associate to root datum, a split connected reductive Chevalley group scheme. Steinberg's theorems. Theory of tilting modules.
 
