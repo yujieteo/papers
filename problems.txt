@@ -16,6 +16,16 @@ https://www.jmilne.org/math/CourseNotes/GT.pdf, group theory
     - Why is the computation of Brauer groups of Q and finite extensions in 1930s important?
     - Compute the regular characters of g using the elements of G as basis, see page 115.
     - Compute the decomposition of character chi_V oplus V for all F[G] modules V, see page 116 and page 117.
+
+https://www.jmilne.org/math/CourseNotes/FTe6.pdf, field theory
+
+https://www.jmilne.org/math/Books/tcdraft.pdf, Milne's Tannakian categories
+
+https://www.jmilne.org/math/Books/iAG2022.pdf, Milne's algebraic groups
+
+https://www.jmilne.org/math/CourseNotes/MF.pdf, Milne's modular forms
+
+https://www.jmilne.org/math/Books/ectext6.pdf, Milne's elliptic curves
  
 https://www.jmilne.org/math/CourseNotes/ANTc.pdf
     - Compute the tensor product of K otimes_k Omega, K is finite separable field extension of k, Omega is arbitrary field extension of k, see page 25.
