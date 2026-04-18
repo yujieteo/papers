@@ -88,7 +88,7 @@ https://www.jmilne.org/math/CourseNotes/CFTc.pdf, class field theory
     - Compute the cohomology of the units as per proposition 1.1. in page 106.
     - Compute the local Artin map, and the local fundamental class as per page 110. (To fill in more details).
     - Compute the centre of a matrix ring, see page 132.
-    - Compute the class field theory of a qauaternion algebra as per example 1.12.
+    - Compute the class field theory of a quaternion algebra as per example 1.12.
     - Compute the conductor Q[root(d)]/Q by applying the quadratic reciprocity law to find the smallest m such that i(Q_m,1) is int he kernel of the Artin map.
 
 https://yufeizhao.com/gtacbook/gtacbook.pdf, graph theory and additive combinatorics
