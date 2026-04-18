@@ -888,7 +888,7 @@ https://kclo3-naoh.github.io/files/Trace_Method__Simple_.pdf  trace method in al
 
 https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/THH%20MFO.pdf  THH and cyclic K-theory
 
-https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/Lectures.pdf  lectures on topological hochschild homology and cyclotomic spectra
+https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/Lectures.pdf  lectures on topological Hochschild homology and cyclotomic spectra
 
 https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/Papers/ICM_proceedings.pdf, Frobenius homomorphisms in higher algebra
 
