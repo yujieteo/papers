@@ -143,28 +143,45 @@ https://www.math.ucla.edu/%7Etao/247b.1.07w/notes10.pdf, representation theory f
 
 https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf  functions tend to have infinite degrees of freedom. Tao's note on harmonic analysis.
 
-https://www.jmilne.org/math/Documents/fac.pdf  Serre's sheaf theory, Milne translation. Tao's note on harmonic analysis.
+https://www.jmilne.org/math/Documents/fac.pdf  Serre's sheaf theory, Milne translation.
 
-https://www.math.mcgill.ca/barr/papers/gk.pdf, Grothendieck's Tohoku, homological algebra. Tao's note on harmonic analysis.
+https://www.math.mcgill.ca/barr/papers/gk.pdf, Grothendieck's Tohoku, homological algebra.
 
 https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf, Lang's algebra
 
-https://kerodon.net/kerodon.pdf, Kerodon Lurie
+https://kerodon.net/kerodon.pdf, Kerodon, Lurie
 
 https://arxiv.org/pdf/2310.12456, Adeel Khan's stacks
 
 https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, Scholze's geometric Langlands notes
 
 https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
+    - Compute the duality between compact Hausdorff spaces and commutative C* algebras.
+    - Compute duality between profinite sets and Boolean algebras.
+    - Compute the duality between affine k-varieties and ??? k-algebras.
+    - Compute the duality between affine schemes and commutative rings.
+    - Compute the resulting category from taking affine objects with a Grothendieck topology.
+    - Compute sheaves of sets for elliptic curves, what happens? See page 7.
+    - Compute the category of quasicoherent sheaf of classifying spaces X = */G, G a group scheme using Tannakian reconstruction. What is the importatn structure to remember? See page 7.
+    - Compute the endormorphisms of the structure sheaf in the category of quasicoherent sheaves on a space X. See page 7.
+    - Compute the duality between classifying stacks of affine group schemes using a suitable Grothendieck topology. Describe these Tannakian categories and the conditions for these. 
+    - Compute the dual of symmetric monoidal presentable abelian categories as per Stefanich's thesis. See page 8.
+    - Compute the duality for the category of almost rings in the sense of Faltings. See page 8.
+    - Using Deligne's idea in 1.10, and fix this with allowing non-flat gluing to derive infinity categories of quasicoherent sheaves. Use ? ? ? ? ?-categories to define a categorial version of commutative rings, see pages 9 to 10.
+    - Define Stefanich rings as per definition 1.1.8 using all the ideas discussed.
+    - Compute for M = (M_0, M_1, ...) the deloopings M_1 using M_0 in D(S) and also in the case StRing. Describe Stefanich rings via a slogan of deloopings, see page 13. Then define Gestalten as a result by defining the canonical Grothendieck topology.
+    - Compute using the definition of a (n,m)-category the following things, n-groupoid, n-truncated animas.
+    - Define compactness, kappa-compactness, kappa-presentability and presentability, see page 17.
+    - Consider formal colimits X_i and Y_j in Ind_kappa, Ind_kappa freely adjoints kappa-filtered colimits.
 
-https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6FF
+https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor formalisms
 
-https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geoemtry
+https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geoemetry
 
 https://webusers.imj-prg.fr/~julien.marche/Ref_GL_GT/Bump.pdf, Bump's automorphic forms.
 
 https://www.math.stonybrook.edu/~aknapp/download/Beyond2-clickable.pdf, Knapp's Lie groups
 
-https://stacks.math.columbia.edu/download/algebra.pdf, Stack's Project Commutative algebra
+https://stacks.math.columbia.edu/download/algebra.pdf, Stack Project Commutative algebra
 
 https://math.stanford.edu/~vakil/216blog/FOAGoct2125public.pdf, Vakil's algebraic geometry
