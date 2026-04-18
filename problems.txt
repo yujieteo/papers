@@ -1,0 +1,17 @@
+https://kskedlaya.org/cft/sec_kronweb.html, Notes on the Kronecker-Weber Theorem
+    - Discover abelian extensions?
+    - State and prove Kronecker-Weber, what is the statement?
+    - What is the key example of Kronecker-Weber?
+    - What is quadratic reciprocity, how to prove it? What examples?
+    - Discover conductors?
+    - State and prove local Kronecker-Weber?
+    - Discover inertia aand decomposition groups?
+    - Discover the Artin map?
+    - Discover and state the Artin reciprocity law?
+    - Discover Minkowski's lemma on local Kronecker-Weber?
+    - Prove Q(zeta_m) = Z[zeta_n].
+    - Compute the conductor of Q(sqrt(m)), Z is not a perfect sqaure.
+    - Discover quadratic reciprocity from Artin reciprocity?
+    - Prove that if m, n are coprime in Z, then 1 - zeta_m and n are coprime in Z[zeta_m]
+    - Prove that if m is not a prime power than 1 - zeta_m is a unit in Z[zeta_m].
+    - Let p be an odd prime, Prove that Z[zeta_p]^* is generaetd by zeta_p and Z[zeta_p - 1/zeta_p]^*
