@@ -119,30 +119,50 @@ https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf, prismatic F-gau
 
 https://math.uchicago.edu/~emerton/gl2.pdf, adelic translation for GL2 by Emerton.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes1.pdf, introduction, focusing on Calderon-Zygmund-Stein theory, estimating the size of output functions.
+https://www.math.ucla.edu/~tao/247a.1.06f/notes1.pdf, introduction, focusing on Calderon-Zygmund-Stein theory, estimating the size of output functions. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes2.pdf, complex interpolation method, real interpolation method
+https://www.math.ucla.edu/~tao/247a.1.06f/notes2.pdf, complex interpolation method, real interpolation method Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes3.pdf, Hardy-Littlewood maximal inequality, one cor edefinition is the averaging operators, needs Young's inequality need to bound.
+https://www.math.ucla.edu/~tao/247a.1.06f/notes3.pdf, Hardy-Littlewood maximal inequality, one cor edefinition is the averaging operators, needs Young's inequality need to bound. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes4.pdf, Hilbert transform, main idea that there are singular integral operators, operators that are almost integral operators, but barely fails to be integrals that fail near the diagonal, T f(y) L= integral 1/|x-y|^{d-s} f(x) dx, kernels go to infinity at the diagonal but remain locally integrable.
+https://www.math.ucla.edu/~tao/247a.1.06f/notes4.pdf, Hilbert transform, main idea that there are singular integral operators, operators that are almost integral operators, but barely fails to be integrals that fail near the diagonal, T f(y) L= integral 1/|x-y|^{d-s} f(x) dx, kernels go to infinity at the diagonal but remain locally integrable. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes5.pdf, weighted inequalities, previous notes take linear or sublinear, but now it is time to do weighted L^p estimates and using weighted estimates
+https://www.math.ucla.edu/~tao/247a.1.06f/notes5.pdf, weighted inequalities, previous notes take linear or sublinear, but now it is time to do weighted L^p estimates and using weighted estimates. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf, Fourier summation introduction and its a key example, summation of Fourier series was one of the main motivations for studying hrmonic analysis in the first place.
+https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf, Fourier summation introduction and its a key example, summation of Fourier series was one of the main motivations for studying hrmonic analysis in the first place. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/%7Etao/247b.1.07w/notes6.pdf, paraproducts, consider examples of multilinear and bilinear and nonlinear operators, as well as pointwise nonlinear operators.
+https://www.math.ucla.edu/%7Etao/247b.1.07w/notes6.pdf, paraproducts, consider examples of multilinear and bilinear and nonlinear operators, as well as pointwise nonlinear operators. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/%7Etao/247b.1.07w/notes7.pdf, T(1) theorem, Calderon-Zygmund operators, paraproduct estimates are used to obtain the theorem T(1)
+https://www.math.ucla.edu/%7Etao/247b.1.07w/notes7.pdf, T(1) theorem, Calderon-Zygmund operators, paraproduct estimates are used to obtain the theorem T(1). Tao's note on harmonic analysis.
 
 https://www.math.ucla.edu/%7Etao/247b.1.07w/notes8.pdf, oscillatory integrals, quickly compute and efficienctly estimate some integral, sometimes we need only the order of magnitude, faster, more conceptual.
 
-https://www.math.ucla.edu/%7Etao/247b.1.07w/notes9.pdf, Fourier analysis on finite abelian groups
+https://www.math.ucla.edu/%7Etao/247b.1.07w/notes9.pdf, Fourier analysis on finite abelian groups. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/%7Etao/247b.1.07w/notes10.pdf, representation theory for finite non-abelian groups
+https://www.math.ucla.edu/%7Etao/247b.1.07w/notes10.pdf, representation theory for finite non-abelian groups. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf  functions tend to have infinite degrees of freedom
+https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf  functions tend to have infinite degrees of freedom. Tao's note on harmonic analysis.
 
-https://www.jmilne.org/math/Documents/fac.pdf  Serre's sheaf theory, Milne translation
+https://www.jmilne.org/math/Documents/fac.pdf  Serre's sheaf theory, Milne translation. Tao's note on harmonic analysis.
 
-https://www.math.mcgill.ca/barr/papers/gk.pdf, Grothendieck's Tohoku, homological algebra
+https://www.math.mcgill.ca/barr/papers/gk.pdf, Grothendieck's Tohoku, homological algebra. Tao's note on harmonic analysis.
+
+https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf, Lang's algebra
+
+https://kerodon.net/kerodon.pdf, Kerodon Lurie
+
+https://arxiv.org/pdf/2310.12456, Adeel Khan's stacks
+
+https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, Scholze's geometric Langlands notes
+
+https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
+
+https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6FF
+
+https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geoemtry
+
+https://webusers.imj-prg.fr/~julien.marche/Ref_GL_GT/Bump.pdf, Bump's automorphic forms.
+
+https://www.math.stonybrook.edu/~aknapp/download/Beyond2-clickable.pdf, Knapp's Lie groups
+
+https://stacks.math.columbia.edu/download/algebra.pdf, Stack's Project Commutative algebra
