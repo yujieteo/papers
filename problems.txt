@@ -1,29 +1,66 @@
 https://www.jmilne.org/math/CourseNotes/GT.pdf, group theory
-    - Define groups.
-    - Define additive groups.
-    - Define multiplicative groups.
-    - Define group isomorphisms.
-    - Define order of a group.
-    - Define p-groups. What is your mental image?
-    - Define permutation groups. What is your mental image?
-    - Define symmetric groups. What is your mental image?
-    - Define general linear groups? What is your mental image?
-    - Define torsion subgroups? What is your mental image?
+    - Compute the cardinality of the orbit O = Gx_0 when G acts on X. See corollary 4.8, page 61.
+    - Compute the signature of a permutation of a transposition for a symmetric group of 5 elements.
+    - Compute the number of elements in any conjugacy class S_n, with the example of permutations in S_4. Construct a partition, element, number of conjugacy class and parity table for S_4.
+    - Compute the centre of a matrix ring over a field M_n(F) as per example 7.21 in page 109.
+    - Why is the computation of Brauer groups of Q and finite extensions in 1930s important?
+    - Compute the regular characters of g using the elements of G as basis, see page 115.
+    - Compute the decomposition of character chi_V oplus V for all F[G] modules V, see page 116 and page 117.
+    
+https://ncatlab.org/nlab/show/group, nlab definition of a group.
+    - Compute a groupoid from the delooping of a group.
+ 
+https://www.jmilne.org/math/CourseNotes/ANTc.pdf
+    - Compute the tensor product of K otimes_k Omega, K is finite separable field extension of k, Omega is arbitrary field extension of k, see page 25.
+    - Compute the minimal polynomial of alpha for K = Q[root(d)] and its ring of integers. Then define an algebraic integer that way.
+    - Compute unique factorisation in Z[root(5)] as per the ideas of Dedekind and Kummer in page 11.
+    - Compute the field of fractions of Z and k[X].
+    - Compute the localisations of A under S_p.
+    - Compute the class number of Q[sqrt(2)], hence defining the class number as per page 11.
+    - Compute the prime ideals of A not containing t and the prime ideals of A containing t under an integral domain, see Example 1.13 page 21.
+    - Compute R[s] as a finitely generated R-module, for R a subring of S and s in S integral over R. Then from this mental image and computation, defining integral s over ring R, integral closure. Prove the lemma in the computation.
+    - Compute for an element alpha in Q(root(D)) is integral over Z if and only if its trace and norm both lie in Z. See page 31.
+    - Compute the matrix of x -> beta x relative to a basis, defining the trace and norm for L/K and compute it for beta_i as roots of f(X) for minimal polynomial over beta over K. Compute these formulas. See page 33.
+    - Compute the discriminant of f(X) = X^n + aX + b, irreducible and separable. Compute the norm.
+    - Compute for K = Q[alpha], d = D(1, alpha, ..., alpha^{m-1}).
+    - Compute the discriminant of B/A using basis of B_i/A.
+    - Perform the computation in Proposition 6.2 for a cyclotomic extension.
 
+https://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Ullery.pdf, computation with Minkowski lattice point theorem.
+
+
+https://www.lmfdb.org/NumberField/2.0.4.1, Gaussian rational numbers
+    - Compute the discriminant.
+    - Compute the conductor, and hence define the conductor.
+    - Compute mentally elements of the class number formula.
+    - Compute mentally the spectrum of the ring of integers.
+    - Compute the norm of the integers and visualise the latice.
+
+https://math.uchicago.edu/~may/REU2018/REUPapers/Li,Che.pdf
+    - Compute Gal(L/K) for p = x^2 + 5y^2.
+    - Compute the Minkowski bound for p = x^2 + 5y^2.
+    - Compute the possible norms for p = x^2 + 5y^2.
+    - Compute the order of the class group for p = x^2 + 5y^2.
+    - Compute the lattice diagram for p = x^2 + 5y^2.
+    - Compute the ideal class group C(O_K) for p = x^2 + 5y^2.
+    - Compute the Hilbert class field for p = x^2 + 5y^2.
+    - Compute the h(O) for p = x^2 + 27y^2.
+    - Compute Gal(L/Q)for p = x^2 + 27y^2.
+    - Compute the conductor for p = x^2 + 27y^2.
+    -Show that K contains what sort of primitive root of unity.
+    - Compute the ring class field for p = x^2 + 27y^2.
+    - Compute the cubic extension with Gal(M/Q) = S_3 for p = x^2 + 27y^2.
+    
 https://kskedlaya.org/cft/sec_kronweb.html, Kronecker Weber Theorem
-    - Define abelian extensions?
-    - State and prove Kronecker-Weber, what is the statement?
-    - What is the key example of Kronecker-Weber?
-    - What is quadratic reciprocity, how to prove it? What examples?
-    - Define conductors?
-    - State and prove local Kronecker-Weber?
-    - Define inertia aand decomposition groups?
-    - Define the Artin map?
-    - Define and state the Artin reciprocity law?
-    - Define Minkowski's lemma on local Kronecker-Weber?
-    - Prove Q(zeta_m) = Z[zeta_n].
-    - Compute the conductor of Q(sqrt(m)), Z is not a perfect sqaure.
+    - Compute the key example and its Galois group for abelian extensions, and hence state the Kronecker-Weber theorem.
+    - Compute the example of quadratic extensions of Q contained ina. cyclotomic field.
+    - Compute by stating the example of a conductor of K/Q.
+    - Compute formulas for other primes q' over p a formula under an action of a group. Then inertia aand decomposition groups? (See Remark 1.1.6.). Compute the inertia and decomposition groups of L/K abelian.
+    - Compute a surjetive homomorphism from a Galois group of a prototypical example to K/Q abelian, compute ramification over a prime p not dividing m. Compute the inertia group and its generatorrs for G_p over m. Formally extend the map from p to the generating element, and define the name of the map. Then state the Artin reciprocity law.
+    - Compute with Minkowski's upper bound lemma, and define Minkowski's lemma on local Kronecker-Weber theorem? Then state the proof of global Kronecker Weber theorem from the Minkowski bound.
+    - Work with a cyclotomic polynomial.  Compute with is polynomial for a substitution x - 1.  Prove Q(zeta_m) = Z[zeta_n].
+    - Compute the conductor of Q(sqrt(m)), Z is not a perfect square.
     - Define quadratic reciprocity from Artin reciprocity?
-    - Prove that if m, n are coprime in Z, then 1 - zeta_m and n are coprime in Z[zeta_m]
+    - Prove that if m, n are coprime in Z, then 1 - zeta_m and n are coprime in Z[zeta_m].
     - Prove that if m is not a prime power than 1 - zeta_m is a unit in Z[zeta_m].
     - Let p be an odd prime, Prove that Z[zeta_p]^* is generaetd by zeta_p.
