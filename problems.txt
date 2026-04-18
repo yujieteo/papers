@@ -166,3 +166,5 @@ https://webusers.imj-prg.fr/~julien.marche/Ref_GL_GT/Bump.pdf, Bump's automorphi
 https://www.math.stonybrook.edu/~aknapp/download/Beyond2-clickable.pdf, Knapp's Lie groups
 
 https://stacks.math.columbia.edu/download/algebra.pdf, Stack's Project Commutative algebra
+
+https://math.stanford.edu/~vakil/216blog/FOAGoct2125public.pdf, Vakil's algebraic geometry
