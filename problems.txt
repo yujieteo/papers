@@ -297,6 +297,34 @@ https://stacks.math.columbia.edu/tag/05CU, coherent rings
 
 https://stacks.math.columbia.edu/tag/00N7, Cohen-Macaulay rings
 
+https://www.fuw.edu.pl/~derezins/mat-t.pdf, general topology
+    - Imagine the discrete topology 2^X.
+    - Imagine the indiscrete topology {0,X}.
+    - Imagine a topology as arbitrary unions and finite intersections of open sets. Why must finite intersections take place for opens (hint convergence logic)?
+
+https://www.fuw.edu.pl/~derezins/mat-c.pdf, C^* algebras
+    - Compute an antilinear involution of (aA + bB) and (AB).
+    - Compute the inverse of A* for an invertible A in a *-algebra. Compute it for a *-homomorphism.
+    - Compute the norm of ||A*A|| and ||A*|| for a C*-algebra, then define an inequality to define a C-* algebra.
+    - Compute for normal A, AA* = ???. Compute its spectral radius, see page 2.
+    - Compute for self adjoint A, A*, compare against normal. Show that the spectral radius is in the reals and it is normal.
+    - Compute U^* U for an unitary operator. Compute the spectral radius of a unitary operators.
+    - Compute U^* U for an isometric operator.  Compute the spectral radius of an isometric operator.
+    - Compute for P* = P and P^2 = P^3 and show P is a projection.
+    - Compute for a B a closed subalgebra of a Banach algebra A and 1, a is in B, the spectra radius of a in B is closed and open in the spectral radius of a in A containing a coincident neighbourhood in infinity. Show by construction relative to the complex numbers C and use maps z_0 in rs(a)_A and z_n in rs(a)_B where z_n -> z_0, we have (z_n - A)^-1 -> (z_0 - A)^-1 so rs_B(a) is closed in rs_A(a). See theorem 1.7, page 3.
+    - Compute an equivalence relation of continuous paths connecting z_1 and z_2 in U in C and its family, this is homotopy. 
+    - Compute the extreme points of the unit ball for (A)_1 cap A_h.
+    - Compute the extreme points of the unit ball (A)_1 cap A_+.
+    - Compute the extreme points of the unit ball (A)_1.
+
+https://www.fuw.edu.pl/~derezins/mat-o.pdf, bounded operator algebras
+
+https://www.fuw.edu.pl/~derezins/mat-r.pdf, L^2(R^d) operators
+
+https://www.fuw.edu.pl/~derezins/mat-u.pdf, unbounded operators
+
+https://www.fuw.edu.pl/~derezins/mat-m.pdf, measure theory
+
 https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Basic-Counting.pdf, basic counting
 
 https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Generating-Functions.pdf, generating functions
