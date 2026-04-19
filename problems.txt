@@ -216,3 +216,54 @@ https://stacks.math.columbia.edu/tag/00F2, ring maps of finite type and finite p
 
 https://ncatlab.org/nlab/show/biproduct
     - Prove that a category that has biproducts that is not enriched in Ab is semiadditive.
+
+https://stacks.math.columbia.edu/tag/00CM, localisation
+    - Construct localisation under operations via an equivalence relations. 
+    - (Prop 10.9.3) Prove the definition of the universal property from S^-1 A -> B such that the following diagram commutes.
+    - (Prop 10.9.4) Construct the zero ring from the definition of localisation where 0 is in the multiplicative subset. This is an important proof that motivates construction of fraction fields and non-nilpotent powers.
+    - (Prop 10.9.5.) Construct a ring that every s in S acts as an automorphism on a category of R-modules N, show that this is the localisation. So set S in R multiplicative to be the automorphisms.
+    - (Prop 10.9.7) construct using linear algebra, R-linear maps from alpha(r * m/s + r' m'/s') to prove that the canonical map from localisations on homsets is isomorphism.
+    - Construct localisations A_f with respect to f using multiplicative subet of power of f^n acting as automorphisms
+    - Construct localisation using A \ p, p is prime ideal.
+    - Construct the fraction field of A a domain by constructing a localisation.
+    - Construct a multiplicative set from f not zerodivisor in A, and construct the total ring of fractions of A. Check that this is indeed a localisation.
+    - (Lemma 10.9.11.) Construct S^-1(S'^-1 M) and show that localisations have a canonical isomorphism to the combined (SS')^-1 M via the construction of a map.
+    - (Lemma 10.9.12. and Lemma 10.9.13.) Prove that localisations are exact by construction. Prove that localisation respects quotients by construction of suitable exact sequences.
+    - Show that localisation "reflects" invertibility by choosing a suitalbe defintiion fo reflective subcategories.
+
+https://stacks.math.columbia.edu/tag/00CV, tensor products.
+    - (Lemma 10.12.2) tensor products, explicitly construct from the a basis and prove the universal property of tensor prodcuts.
+    - (Lemma 10.12.3) construct modules from the various bilinear maps (x,y) -> y otimes x, (x + y, z) -> x otiems z + y otimes z, and (r, x) -> rx to induce unique isomorphisms of tensor products.
+    - (Lemma 10.12.4) Define and prove the universal characterisation of the multilinear tensor product.
+    - (Lemma 10.12.5) Prove the associativity of tensor product by constructing explicit bilinear maps, and use induction. The tensor product is associative, commutative and distributive in the category of R-modules.
+    - (Lemma 10.12.7) Construct the cateogyr of (A,B)-bimodules using an explicit example. Compute associatiivty for the category of (A,B)-bimodules.
+    - (Lemma 10.12.8) State and make explicit the tensor hom adjunction through the explicit construction of a map and basis elements. Use the facts that homs are morphisms. The R-linearity of the map is given later.
+    - (Lemma 10.12.9) Construct tensor products as left adjoint to the Hom fucntors and prove that colimits are preserved. Otherwise, construct an explicit commutative diagram to prove that tensor produucts commute with colimits.
+    - (Lemma 10.12.10) prove that tensoring in the second variable is right exact using a suitable left exact hom sequence.
+    - (Example 10.12.12) construct an explicit copmputation of elements to show that the induced map of (2 otimes 1)(x otimes y) is 0 when Z otimes Z/2 is nonzero. Then show taht tensor products are not left exact in general.
+
+https://stacks.math.columbia.edu/tag/05G3, base change
+
+https://stacks.math.columbia.edu/tag/00H9, flat modules and flat ring maps
+
+https://stacks.math.columbia.edu/tag/07BH, local rings
+
+https://stacks.math.columbia.edu/tag/07RC, Nakayama's lemma
+
+https://stacks.math.columbia.edu/tag/00FM, Noetherian rings
+
+https://stacks.math.columbia.edu/tag/0594, Mittag-Leffler systems
+
+https://stacks.math.columbia.edu/tag/00LY, Tor groups and flatness
+
+https://stacks.math.columbia.edu/tag/00LO, Ext groups
+
+https://stacks.math.columbia.edu/tag/00LE, depth of a ideal in a finite R-module
+
+https://stacks.math.columbia.edu/tag/02M4, embedded primes
+
+https://stacks.math.columbia.edu/tag/00L9, associated primes
+
+https://stacks.math.columbia.edu/tag/05CU, coherent rings
+
+https://stacks.math.columbia.edu/tag/00N7, Cohen-Macaulay rings
