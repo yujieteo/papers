@@ -186,12 +186,39 @@ https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf, 
 https://kerodon.net/kerodon.pdf, Kerodon, Lurie
 
 https://arxiv.org/pdf/2310.12456, Adeel Khan's stacks
-    - Imagine the moduli space of 1-dim linear subspaces in C^n+1.
+    - Imagine the moduli space of 1-dim linear subspaces in C^{n+1}.
     - Imagine the moduli space of k-dimensional linear subspaces of vector psace and show that it is equivalently the k-1 linear subspaces of the projectivization of the vector space.
     - Describe a scheme as a family or fibration of sets parametrized by commutative algebras.
+    - Compute the example of a classical moduli stack of vector bundles (resp. coherent sheaves and principal G-bundles). There is a surjective closed immersion into M which is isomorphism iff X is a curve iff M is smooth. What happens when X is dim 2 or higher for M_cl and M? WDescribe hidden smoothness of M.
+    - Describe a contravariant functor on a category whose objects are finite sets [n], n nonnegative with morphisms order preserving maps, have it valued in the category of sets, construct the objects of this functor as sequences of sets X_n := X([n]) with a collection of maps explicitly. Give a name for the elements of this set.
+    - Compute the injective map that skips i and the surjective map that doubles i, then compute the induced maps and recognise them as face or degeneracy maps. then construct a simplical set using appropriate simplicial sets along the face and degeneracy maps.
+    - Construct the standard n-simplex using homs out of k-simplicies.
     - Compute the union of faces excluding the face k, and define the k-th horn. Compute this alternatively using the n-th boundary minus the (k,n)-face.
-    
+    - Construct the union of all delta^k Delta^n and denote it the boundary of the standard n-simplex. See page 8.
+    - Construct the morphism x: Delta^n -> X using the datum of a n-simplex, what lemma is required for this construction? See page 8.
+    - Construct the functor category between [n] ti category. and the suitable composition law of relations for every morphism in the simplicial category. Compute elements of this categories as strings of morphism. Then describe the n-simplicies of the category C. Them, define the nerve of C from all this data.
+    - Take the left Kan extension along the simplicial category valued in category to find the left adjoint of the category of simplicial sets valued in cat. Construct a fully fiathful functor from a category to its nerve. Why is it full and faithful? (Hint: 0-simplicies are objects, 1-simplies are morphisms, ...). Think of categories as special simplicial sets.
+    - Construct the composition of two morphisms either as a horn of a pair of delta^1s or as a cartesian and cocartesian square of simplicial sets. See page 9.
+    - Construct for X a simplicial set that belongs to the essential image of the fully faithful functor as a nerve and show that it is equivalent for n >= 2 and for 0 < k < n, the map of restriction along the inclusion from a horn to a n-simplex is bijective. Then state the Grothendieck-Segal theorem. What requirement is needed for compositions for this theorem to be true (hint: bijective up to ???)? Then define an alternative structure by replacing "unique composition" with "invertibility" See page 10.
+    - Construct a surjective map of Homs out of n-simplex to a simplicial set to Homs out of horns into a simplicial set. What condition do you need for this to be a Kan complex? Compute the nerve of a infty-groupoid. Why is it a Kan complex? Compute the 0-simplicies of the Kan complexes and 1-simplicies of the Kan complexes, then compute compositions? Are compositions canonical? See page 11.
+    - Construct a Kan complex where not all morphisms are requried to be invertible, this is a weak Kan complex. Use a suitable functor of homs to simplicial sets. Construct a diagram describing a homotopy. Define compositions up to coherent homotopy with the notion of a weak Kan complex. Then, define an infinity-category.
+    - Compute the Duskin nerve of a 2-category as a concrete example as a simplicial set of a n-simplex, describe the data (objects, morphisms, and 2-morphisms).
+    - Compute the data of a groupoid as a (2,1)-category by discarding non-invertible 2-morphisms.
+    - Compute the large simplicial set where n-simplicies are given the data of Kan complexes, maps of Kan complexes, and system of coherent chomotopies. Then compute concretely for the case of 2-simplicies (see page 13). Then define coherence informally.
+    - What conditions are required to construct a Grothenideck topology on a category as per construct 2.1.1.? Construct this using the following conditions: (1) admits fibre products, (2) admits finite coproducts; (3) canonical morphism of the fibre product of a coproduct of covers by a another cover Y'; (4) disjoint coproducts; (5) base change belongs to cover; (6) induced coproduct of covers belongs to covers; (7) stable under composition and contains all isomorphisms.
+    - Construct the prototypical example of morphisms under inclusion maps with a Grothendieck topology generated by surjections. See page 14.
+    - Construct the example of a site whose all morphisms are etale morphisms with Grothendieck generated by surjections (equivalently, fiathfully flat morphisms.). What happens if you use etale surjections instead? See page 14 and 15.
+    - Construct the canonical morphism of coproducts to products for finite collection of objects, and construct the Cech nerve of an object. What is the n-th term of this object? What condition should it have. With this construction along with a contravariant functor valued in an infinity category define the sheaf of an infinity category. (Construction 2.1.1.). Let C be a site with a Gorthendeick topology generated by this, construct a basis as a full subcategory which is closed under ??? and generated by the intersection S and C_0, define the basis. See page 17. Then compute the restriction or equivalence of sheaves of a suitable inclusion functor as per Theorem 2.2.4.
+    - Construct the limit of a cosimplicial diagram valued in a 1-category, this cosimplicail diagram is identified with an equaliser. See proposition 2.1.8.
+    - Construct a stack as a functor valued in (?,?)-category of groupoids such that for every finite collections of ??? morphisms which are ???, construct a corresponding diagram as a limit diagram in a particular category. Then show that a stack is a sheaf of groupoids on the category of schemes. (See definition 2.1.10)
+    - Using the fact that stacks can be defined as sheaves of groupoids on Aff, compute the equivalence of infinity categories for a canonical functor given along the restriction of Aff in Sch for Fun(Sch^op, V) -> Fun(Aff^op, V).
+    - Given a scheme X, construct a pullback pushforward adjoint pair of fuctors where left adjoint is inverse image and right adjoint is direct image.
+    - Construct a pi-partesian lift of a morphism C -> D for pi a functor of categories \mathbb{E} to \mathbb{C} and a morphism f: C -> D.
+    - Think about why is there an equivalence of categories between Fun(C^op, Cat) or fibre functors and the category of cartesian fibrations. See page 19.
+
 https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, Scholze's geometric Langlands notes
+
+https://case.edu/artsci/math/mwmeckes/matrix-analysis.pdf, matrix analysis notes
 
 https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
     - Compute the duality between compact Hausdorff spaces and commutative C* algebras.
@@ -281,13 +308,23 @@ https://stacks.math.columbia.edu/tag/00H9, flat modules and flat ring maps
     - Construct a directed system of flat R-modules (think about sequences and compactness) and show that colim_i M_is is flat by composing with tensor products and using a fact on directed colimits.
     - (Lemma 10.39.5) Construct an exact sequence from N_1 -> N_2 -> N_3, with K = Ker(N_2 -> N_3) and Q = Im(N_2 -> N_3), and then eventually a snake for some L in R^oplus n to be inducted upon into several complexes, then show the following are equivalent: M is flat over R, for every injection of R-modules the tensor product is injective, for every ideal in R the map from corresponding tensor product with M is injective, for every finitely generated ideal I in R the map after taking tensor with M is injective. 
     - (Lemma 10.39.10) Construct an equation that if made trivial, shows that a module M over R is flat if and only if every relation is trivial.
-    - (Lemma 10.39.12) Construct a snake diagram suitable to prove that the N otimes M'' -> N otimes M' is injective, that N otimes M'' -> N otimes M' -> N otimes M is exact using a suitable surjection. Then show (Lemma 10.39.13) usign a suitable snake diagram by using flatness to show that if M and M'' is flat then so is M for M' -> M -> M''.
+    - (Lemma 10.39.12) Construct a snake diagram suitable to prove that the N otimes M'' -> N otimes M' is injective, that N otimes M'' -> N otimes M' -> N otimes M is exact using a suitable surjection. Then show (Lemma 10.39.13) using a suitable snake diagram by using flatness to show that if M and M'' is flat then so is M for M' -> M -> M''.
 
 https://stacks.math.columbia.edu/tag/07BH, local rings
 
+https://stacks.math.columbia.edu/tag/00DR, prime avoidance and additional results needed for proofs in other stuff
+
 https://stacks.math.columbia.edu/tag/07RC, Nakayama's lemma
+    - Construct the proof of the following statement, if IM = M, M is finite, then there exists a f in 1 + I such that fM = 0. Construct using a list of generators of M over R which is finite, then construct a y_i using linear algebra with coefficients in I, conclude that this sum is 0. Consider f as the determinant of some matrix, and ... check that f annihilates M.
+    - (Lemma 10.20.2), compute under localisation the existence of f in S + I such that there are generators for M_f as an R_f module for R a ring, M a finitely R-module, S in R a multiplicative subset, I an ideal. Prove the general case.
+    - (Lemma 10.20.3.) Using Nakayama's lemma, construct a local homomorphism of local rings from A -> B, making sense of the following instructions, B is finite as A module, m_B fg ideal, A -> B induces isomorphism of residue field, cotangent space m_A/m_A^2 -> m_B/m_B^2 is surjective, using Nakayama's lemma by viewing it as a map of A-modules using the surjective cotangent map to prove that A -> B is surjective. Describe this result in full and what it means intuitively using the cotangent space.
+
+https://stacks.math.columbia.edu/tag/05K7, meta observation of prime ideals
 
 https://stacks.math.columbia.edu/tag/00FM, Noetherian rings
+    - (Lemma 10.31.1.) Noetherian property is stable under finite type extensions and localisation. Construct a finitely generated ring over a Noetherian ring. Construct its localisation and consider ideals over its localisation. Construct ascending chain of ideals in a finitely generated ring over a Noetherian ring. Compute using the ascending cahin condition in a particular lattice and induction on the degree to prove the Noetherian property. Reduce the case of localisations to R[X].
+    - (Lemma 10.31.2.) Construct an ideal of a power series ring of a Noetherian ring. Show that it is finitely generated.
+    - (Lemma 10.31.3.) Show that finite type algebras over a field are Noetherian. Show that finite type algebras over Z are Noetherian.
 
 https://stacks.math.columbia.edu/tag/0594, Mittag-Leffler systems
 
