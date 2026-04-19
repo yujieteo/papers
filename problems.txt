@@ -162,7 +162,10 @@ https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf, 
 https://kerodon.net/kerodon.pdf, Kerodon, Lurie
 
 https://arxiv.org/pdf/2310.12456, Adeel Khan's stacks
-
+    - Imagine the moduli space of 1-dim linear subspaces in C^n+1.
+    - Imagine the moduli space of k-dimensional linear subspaces of vector psace and show that it is equivalently the k-1 linear subspaces of the projectivization of the vector space.
+    - Describe a scheme as a family or fibration of sets parametrized by commutative algebras.
+    
 https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, Scholze's geometric Langlands notes
 
 https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
@@ -195,3 +198,21 @@ https://www.math.stonybrook.edu/~aknapp/download/Beyond2-clickable.pdf, Knapp's 
 https://stacks.math.columbia.edu/download/algebra.pdf, Stack Project Commutative algebra
 
 https://math.stanford.edu/~vakil/216blog/FOAGoct2125public.pdf, Vakil's algebraic geometry
+
+https://stacks.math.columbia.edu/tag/07JV
+    - Imagine the snake lemma, state the canonical exact sequence, state condition for injective and surjective. Prove the snake lemma by describing how the canonical element travels to th ened of the sequence.
+    - Prove the statement that an abelian category is a category that makes the snake lemma works.
+
+https://stacks.math.columbia.edu/tag/0517, finite modules and finitely presented modules, I understand all these proofs
+    - Prove that a finite presented R-module iff it is finitely generated and the module of relations amongst these generators is finitely generated. Give an example of finitely presented R-module and the corresponding exact sequence.
+    - (Lemma 10.5.2) Compute the linear combinations of basis factors in a(e_i) in R^oplus n -> M and beta(x_i) for beta: N -> M. Prove there exists a canonical factorisation of alpha = beta * gamma for alpha R^oplus n -> M.
+    - (Lemma 10.5.3), given exact sequence of 0 -> M_1 -> M_2 -> M_3 -> 0, prove various assertions of finite and finite presented R-modules exploiting the fact that the category of modules is an abelian category.
+    - (Lemma 10.5.4), construct a filtration of R/I_i using induction of generators for some ideal I_i of R then use induction, then for M finite R-modules, prove this slogan of finite modules have filtrations that are successive quotients of cyclic modules.
+
+https://stacks.math.columbia.edu/tag/00F2, ring maps of finite type and finite presentation.
+    - Imagine a surjection of R-algebras R[x_i, ... x_n] ->  what does this mean, then define R -> S to be of finite type. What does this look like in algebraic geometry?
+    - Imagine a isomorphism of R-algebras R[x_i, ..., x_n]/(f_1, ..., f_m) isomorphic to S, then define R -> S to be of finite presentation. What does this look like in algebraic geometry?
+    - (Lemma 10.6.2) Construct S = S'[x_1, ..., x_n]/(f ???) to build a map S' -> S of finite presentation, given R -> S' -> S finitely presented, R -> S, finitely presented, R -> S' finitely presented.
+
+https://ncatlab.org/nlab/show/biproduct
+    - Prove that a category that has biproducts that is not enriched in Ab is semiadditive.
