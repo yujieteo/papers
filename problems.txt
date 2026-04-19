@@ -140,6 +140,10 @@ https://kskedlaya.org/cft/sec_Kummer_theory.html, Kummer theory.
 https://www.jmilne.org/math/CourseNotes/LECc.pdf, etale cohomology lecture
 
 https://www.jmilne.org/math/Documents/DeligneArcata.pdf, Deligne's Arcata for etale cohomology
+    - Compute using the covering sieve definition the global continuity of a function f given that it is locally continuous for each open in the sieve.
+    - Give a function U-locally in terms of a sieve and compare it to the Cech point of view, where functions are given on cocycle of sieve elements. Then reprove the global continuity of a function f given that it is locally continuous for each open in the sieve. This is the Cech point of view.
+    - Using the sieve point of view, compute a commutative diagram with a suitable restriction map the definition of a vector bundle given for each open in the sieve. Reprove this statement by computing a suitable commutative diagram using fibre products on Cech cocycles. See page 4.
+    - Page 9. Identitfy V -> U for U a covering sieve, an additional sieve as a result of this. Identify locally coverin sieves as coverigns explicitly for families of V -> U, for u a covering sieve on U. Then construct the definition of a Grothendieck topology.
 
 https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf, prismatic F-gauges
     - Page 11, compute the Hodge complex X/S using the algebraic de Rham complex of X/S using a suitable map. Show that it admits a direct sum decomposition.
@@ -185,6 +189,7 @@ https://arxiv.org/pdf/2310.12456, Adeel Khan's stacks
     - Imagine the moduli space of 1-dim linear subspaces in C^n+1.
     - Imagine the moduli space of k-dimensional linear subspaces of vector psace and show that it is equivalently the k-1 linear subspaces of the projectivization of the vector space.
     - Describe a scheme as a family or fibration of sets parametrized by commutative algebras.
+    - Compute the union of faces excluding the face k, and define the k-th horn. Compute this alternatively using the n-th boundary minus the (k,n)-face.
     
 https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, Scholze's geometric Langlands notes
 
@@ -210,9 +215,10 @@ https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
 https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor formalisms
 
 https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
+    - Construct a sheaf O for closed unit disks in the complex numbers of radius r consisting of formal power series with vanishing higher sheaf cohomology groups, construct the commutative diagrams that are compatible with evaluation at points. See page 6 - page 7. Then show that Cauchy's integral formula that allows for computations of Taylor coefficient with a particular exact sequence with good properties of the elliptic operator as well as bump functions to prove that the higher cohomology vanishes.
     - Construct the Banach space of p-summable real numbers with l+p norm, apply the dense image in condensed R-vecctor spaces and prove that the sequence compactified N -> Q where Q is the quotient of l_2/l_1 admits two distinct extensions to the space of summable functions.
-    - On page 14, carve out a full hierarhcy of subcategories on condensed sets using topologies. 
-    - On page 14, construct using the definition of Hausdorff as a closed inclusion, the definition of a quasisepated condensed set using pairs of maps leading to quasicompactness products.  
+    - On page 14, carve out a full hierarchy of subcategories on condensed sets using topologies. 
+    - On page 14, construct using the definition of Hausdorff as a closed inclusion, the definition of a quasiseparated condensed set using pairs of maps leading to quasicompactness products.  
     - On page 13, construct using the free generation of colimits under kappa-small profinite set the cateogry of kappa-small condensed sets. Enforce the sheaf condition using the Yoneda embedding by checking both sheaf conditions.
 
 https://webusers.imj-prg.fr/~julien.marche/Ref_GL_GT/Bump.pdf, Bump's automorphic forms.
