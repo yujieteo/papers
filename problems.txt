@@ -287,6 +287,7 @@ https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
     - On page 14, carve out a full hierarchy of subcategories on condensed sets using topologies. 
     - On page 14, construct using the definition of Hausdorff as a closed inclusion, the definition of a quasiseparated condensed set using pairs of maps leading to quasicompactness products.  
     - On page 13, construct using the free generation of colimits under kappa-small profinite set the cateogry of kappa-small condensed sets. Enforce the sheaf condition using the Yoneda embedding by checking both sheaf conditions.
+    - Work with this argument: discrete implies nuclear and dualizable if and only if nuclear and compact. Also, Solid is a Fredholm analytic ring so dualizables are discrete. Thus any non-discrete nuclear object must be non-compact.
 
 https://webusers.imj-prg.fr/~julien.marche/Ref_GL_GT/Bump.pdf, Bump's automorphic forms.
 
@@ -432,26 +433,48 @@ https://www.fuw.edu.pl/~derezins/mat-m.pdf, measure theory
     - Compute X\((X\A) cup B) and show that fields are rings. Compute a ring containing X and check that A in R implies X - A in R, and A, B in R implies A union B in R. Hence define a field.
     - Compute the largest minorant of a set of two points. Compute the smallest majorant of a set of two points. Then define the largest minorant and smallest majorant. Prove the definition of a lattice as something with a smallest majorant and largest minorant. See page 4.
 
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Basic-Counting.pdf, basic counting
+https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 1, Chernoff's bounds need to be done with more exercises before.
+    - (Exercise 1.1.1) Compute the product of x and the probability function that X = x. What do you get? Do the continuous version of this inequality and compute this it for arbitrary L^p norm. What integration formula is used here?
+    - Compute the expectation of the indicator function what do you geT?
+    - Compute the expected value of the square of the L2 norm of X - expectation of X. What do you get? Is the norm of X - the expected value of X convex? Use the convexity and concavity to compute an alternative definition of variance.
+    - Compute the probability of E and F divided by the probability of F, what is this value?
+    - Compute the product of X and the indicator of F, take the ratio of expectation of the product of X and the indicator of F and divide it by the expected value of the indicator of F. What does this computation give? 
+    - Compute for any positive real r, the product of r and the indicator function that I(X >= r), i.e. r I(X >= r). What inequality do you derive by taking expectations on both sides? When does equality hold in this inequality? 
+    - Take out the coefficients c_i of E(sum c_i X_i):? Why can this be done? There is no restriction on the independence or dependence of X_i. What happens when you take expectation on both sides?
+    - Compute the sum of the indicator function of elements a in B. What is being computed. Now compute the expectation on both sides, what equation do you get?
+    - (Lemma 1.2) Compute the expectation of the indicator function of finitely many events. Compute for any positive real r, the product of r and the indicator function that I(X >= r), i.e. r I(X >= r). What inequality do you derive by taking expectations on both sides? Apply this inequality, then use the monotone convergence theorem to check this for cofinitely many independent events with sum of probabilities < infty. What lemma is proven here? State the lemma.
+    - (Exercise 1.1.3) Compute the inclusion and exclusion of arbitrary sets. Then compute this in terms of an indicator function. Lastly, apply the union bound when appropriate.
+    - (Lemma 1.1, with exponentials) Compute for any positive real r, the product of r and the indicator function that I(X >= r), i.e. r I(X >= r). What inequality do you derive by taking expectations on both sides? When does equality hold in this inequality? Now, take exponentials of all variables. What inequality do you get?
+    - (Theorem 1.8) compute P(X >= lambda sigma) + P(X <= -lambda sigma) for lambda > 0, sigma is square root of Var(X). What is this equal to?
+    Apply Markov's inequality for exponentials onto P(X >= lamdba sigma) <= exp(-t lambda sigma/2), defining t := min(lambda / 2 sigma, 1). Decompose X_i as a product of E(exp(tX_i)), and bound this by something. Use the sum of all variances of jointly independence as a result.
+    - (Lovasz Local Lemma). I copied Wikipedia. Let A be an event that is a bad event in Gamma(A) in a dependency graph. A is not adjacent to events which are mutually independent. Events that are mutually dependent are adjacent to A by contrapositive. What does this mean? Compute x: A valued in [0, 1) as a measurable function. Compute x(A) multiplied by the product of (1 - x(B)) for mutually dependent bad event B in Gamma A. Then the probability of avoiding all bad events mutually dependent in A is positive. In particular, probability of avoiding all bad events is greater than or equal to the probability of 1 - x(A_i), so x is some measurable function. Substitute x(A) = 1/d+1 and obtain the symmetric version using e as a limit. Exercise: find Moser's constructive proof.
 
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Generating-Functions.pdf, generating functions
+https://mathoverflow.net/questions/458703/finding-an-easy-example-applying-the-general-lov%C3%A1sz-local-lemma, Lovasz local lemma application.
+    - Compute Pr(A_i) < 1/2, compute Pr(A_j) <= 1/4 for all i, j, then with positive probability all bad A_i does not occur. Set x_i = 2 Pr(A_i). Compute product (1 - x_j), apply Lovasz to state that 1 - sum x_j >= 1/2.
+ 
+https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 2
+    - (Lemma 2.1.) Compute |nA| <= (|A| + n - 1 ; n) for |A| = 1. Then compute for induction case by taking A = B union {x} (not different from matroid). Compute the set nA using the induction hypothesis considering a particular convex sum and a particular set |B| = |A| - 1. Apply the induction hypothesis and compute (|A| + n - 1 ; n) for case of |A| and |B|. Which inequality ensures that this inequality holds. 
+    - (Lemma 2.1.) |nA| <= (|A| + n - 1 ; n) and compare to cases of max(|A|, |B|) <= |A+B|, |A-B| <= |A||B|.
+    - (Definition 2.5) compute given log (|A-B|)/(|A|^0.5|B|^0.5). Why is log used? Give an interpretation in terms of mixing by computing H(X-Y) - 0.5 H(X) - 0.5(Y) to intuit this as convex. Consequently prove that a triangular inequality holds for this by computing |A-C| <= |A-B||B-C|/|B|. Lastly compute the Ruzsa self distance d(A,A).
 
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Probabilistic-Method.pdf, probabilistic method
+https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 3
 
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Extremal-Problems.pdf, extremal problems
+https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 4
+    - Compute for eps in Z and x in Z for Z an additive group to R/Z eps * x. Thi is a homomrphism, and the map is a bilinear form. Why is it important that for every nonzero eps, map from x -> eps x is nonzero and vice versa. Why is it important for eps x = x eps? 
+    - Compute e(theta) = exp(2 pi i theta). Compute that e_eps, eps in Z using characters c: Z -> C with c(0) = 1 and c(x+y) = c(x) + c(y). Then show that e_eps take values in root of unity (hint: Kronecker-Weber theorem is a theme, the structural theorem of finite abeliang roups apply here).
+    - (Example 4.2) Compute the canonical bilinear form for a cyclic group. Is it symmetric and nondegenerate? Compute the canonical symmetric bilinear form for a standard vector space F^n. What are the conditions for it to be symmetric and nondegenerate. (Hint: torus R/Z?)
+    - (Lemma 4.3), construct a finite additive group using one class of groups. Which theorem is used for this construction? Then admit using example 4.2 a bilinear form on this construction, then compute the direct sum of given the construction you have given.
+    - Interpret the ergodic notation of the following, C^Z be space of complex valued functions. Compute the expectation off, the dnesity or probability of f (using an indicator function perspective). Use ergodic notation.
+    - (Lemma 4.5) Compute the expected value of e(eps x) in the case eps = 0. If eps nonzero, use a property of the bilinear form to perform a shift and perform a computation of the eppectation of e(eps x). Compute the expected value of the product e(eps x) and its complex conjugate. What does one get. Instead of expectation, compute its average for all characters eps in a set Z. 
+    - (Defintiion 4.6), compute the symmetric nondegenerate bilinear form of <f, e_eps> in C^Z. This appears as the expectation of f(x) * conjugate of e(eps x). Since e_eps is a complete orthogonal basis, compute the (expected value of |f|^2)^1/2 and its continuous version. What identity is this? Also compute <f,g> what theorem is this? Also compute f itself. What formula is this? Under what conditions are two functions equal?
+    - Compute a I(eps = eps'). What is this functionc alled?
+    - Compute the Fourier transform of eps = 0 as an inner product, what is this interpreted as. Answer: <f, 1> or expected value of f.
+    - Compute the expected value of f(x-y)g(y). Compute the product of Fourier transforms. Relate this to the following computation, if X + y, where X and Y are random variables, is equal to a constant c, what is the probability that this is the case. Look at all possibility values y, compute X = c - Y.
+    - Compute the sum of |f(eps)|^p and take power 1/p. Compute the supremum of |f(eps)|, what is p in this case?
 
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Ramsey.pdf, Ramsey theory
+https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 6
+    - Give an explicit example of a graph of one cycle of odd length of size 3. And give it a colouring. Therefore, conclude that this graph cannot be bipartitie. Lastly, prove that a graph is bipartitie if and only if all cycles are of even length.
 
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Posets.pdf, posets
+https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 9
 
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/NetworkFlows.pdf, network flows
-
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Combinatorial-Games.pdf, combinatorial games
-
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf, Polya's theory of counting
-
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Matroids.pdf, matroids
-
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Matroids.pdf, graph theory
-
-https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Notes/Discrete-Probability.pdf, discrete probability
+https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 10 and 11, focus on Szemeredi's regularity lemma
