@@ -563,7 +563,7 @@ https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Ha
     - Compute the derivative of x^p in characteristic p.
 
 https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Hartshorne, chapter 1.6
-    - Compute the sum of valuations v(xy)
+    - Compute the sum of valuations v(xy).
     - Determine the inequality of v(x+y) in contrast to min(v(x), v(y)).
     - Compute the value group of a discrete valuation. What ring does this define?
     - Compute the dimension of a Dedekind domain using a definition.
