@@ -278,6 +278,14 @@ https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
     - Consider formal colimits X_i and Y_j in Ind_kappa, Ind_kappa freely adjoints kappa-filtered colimits.
 
 https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor formalisms
+    - Compute a base change isomorphism a Cartesian diagram in a concrete instance in etale cohomology?
+    - What is one possible setting for the category C and finite type maps E? (Hint: p-adic Lie groups)
+    - Compute the right adjoint of the lax symmetric monoidal functor (otimes, ...) in the definition of a 6 functor formalism.
+    - Compute the projection formula in a concrete instance in etale cohmology?
+    - Compute the objects and morphisms in the category of correspondences Corr(C, E)?
+    - Where do the arrows in E below?
+    - Compute for products X x Y and a functor in Corr(C, E)? (Hint: why must we stipulate that it is symmetric monoidal)
+    - Compute the composition of two correspondences. 
 
 https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
     - Construct a sheaf O for closed unit disks in the complex numbers of radius r consisting of formal power series with vanishing higher sheaf cohomology groups, construct the commutative diagrams that are compatible with evaluation at points. See page 6 - page 7. Then show that Cauchy's integral formula that allows for computations of Taylor coefficient with a particular exact sequence with good properties of the elliptic operator as well as bump functions to prove that the higher cohomology vanishes.
@@ -451,7 +459,7 @@ https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf,
     - (Lovasz Local Lemma). I copied Wikipedia. Let A be an event that is a bad event in Gamma(A) in a dependency graph. A is not adjacent to events which are mutually independent. Events that are mutually dependent are adjacent to A by contrapositive. What does this mean? Compute x: A valued in [0, 1) as a measurable function. Compute x(A) multiplied by the product of (1 - x(B)) for mutually dependent bad event B in Gamma A. Then the probability of avoiding all bad events mutually dependent in A is positive. In particular, probability of avoiding all bad events is greater than or equal to the probability of 1 - x(A_i), so x is some measurable function. Substitute x(A) = 1/d+1 and obtain the symmetric version using e as a limit. Exercise: find Moser's constructive proof.
 
 https://mathoverflow.net/questions/458703/finding-an-easy-example-applying-the-general-lov%C3%A1sz-local-lemma, Lovasz local lemma application.
-    - Compute Pr(A_i) < 1/2, compute Pr(A_j) <= 1/4 for all i, j, then with positive probability all bad A_i does not occur. Set x_i = 2 Pr(A_i). Compute product (1 - x_j), apply Lovasz to state that 1 - sum x_j >= 1/2.
+    - Compute Pr(A_i) < 1/2, compute Pr(A_j) <= 1/4 for all i, j, then with positive probability all bad A_i does not occur. Set x_i = 2 Pr(A_i). Compute product (1 - x_j), apply Lovasz's local lemma to state that 1 - sum x_j >= 1/2.
  
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 2
     - (Lemma 2.1.) Compute |nA| <= (|A| + n - 1 ; n) for |A| = 1. Then compute for induction case by taking A = B union {x} (not different from matroid). Compute the set nA using the induction hypothesis considering a particular convex sum and a particular set |B| = |A| - 1. Apply the induction hypothesis and compute (|A| + n - 1 ; n) for case of |A| and |B|. Which inequality ensures that this inequality holds? 
@@ -545,9 +553,11 @@ https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Ha
     - (Exercise 2.10(a)) Consider the affine cone and imagine it glued onto an irreducible curve. An affine cover over a nonempty algebraic set Y is in affine space, and the ideal is equal to I(Y) by noticing that quotients corresponds to gluing.
     - (Exercise 2.10(b)) For an affine cover, the same ideal is used for gluing, so the affine cone over an irreducible prime ideal is irreducible.
     - (Exercise 2.10(c)) Compute the dimension of the affine cone given that for Y a projective variety, a homogenous cooridinate ring S(Y), dim C(Y) = dim Y + 1.
-    - (Exercise 2.11(a)) Compute which hyperplanes or the condition on the hyperplanes so that a linear variety in projective space is an intersection of the hyperplanes.
+    - (Exercise 2.11(a)) Compute which hyperplanes or the condition on the hyperplanes so that a linear variety in projective space is an intersection of the hyperplanes. Compute the dimension of 
     - (Exercise 2.11(b)) Compute the dimension of any hyperplane in P^n. Compute the intersection of any other hyperplane of P^n-1 with this hyperplane. By induction, compute the number of hyperplanes needed to define a r-dim linear variety in P^n (you may use induction but it is kind of obvious). Compute the minimum number of linear polynomials to generate the ideal.
-    - (Exercise 2.16) Compute an example where Y cap Z for varieties Y and Z, Y cap Z is not a variety. Is this intersection an algebraic set?
+    - (Exercise 2.11(c), warm up 1) For vector spaces, if U has dimension r, V has dimension s, they are both contained in a vector space W of dimension n, compute the minimum dimension of U cap V using the inclusion and exclusion principle. What does this have to say for projective varieties (hint: a previous exercise, projective linear varieties are considered)? 
+    - (Exercise 2.11(c)) What can we represent Y as based on 2.11(a)(i)? What can we represent Z as based on 
+    - (Exercise 2.16, warm up) Compute an example where Y cap Z for varieties Y and Z, Y cap Z is not a variety. Is this intersection an algebraic set?
 
 https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Hartshorne, chapter 1.3
     - Is a quasi-affine algebraic variety an open set or an irreducible closed subset of the Zariski topology? Consider a function from Y a quasi-affine algebraic variety.
@@ -571,7 +581,7 @@ https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Ha
     - Recall that a dominant rational map can be represented with equivalence conditions. Let the phi: X -> Y be a dominant rational map, represented by <U, phi_U>. Let f in K(Y) be rational function, this is represented by <V, f>, V is an open set in Y and f is a regular function on V. Compute phi_U(U), why is this dense in Y (hint, check the definition of dominant)? Take the inverse phi_U^-1(V) of so f * phi_U is a regular function on phi^-1_U(V), why is this true (hint: recall what are the properties of a category)? Why is this a homomorphism of k-algebras from K(Y) to K(X)?
 
 https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Hartshorne, chapter 1.5
-    - (Definition), Compute for A an Noetherian REGULAR local ring with maximal ideal m and residue field k = A/m its dimension purely in terms of m, using the definition of a regular local ring.
+    - (Definition) Compute for A an Noetherian REGULAR local ring with maximal ideal m and residue field k = A/m its dimension purely in terms of m, using the definition of a regular local ring.
     - (Definition) Compute, for Y nonsingular at a point, the rank of a matrix ||(del f_i/del x_j)(P)|| x for an affine variety with t (t an integer) many polynomials as generators for the ideal Y with an affine coordinate ring of n many generators, where r is the dimension of Y. This computation is by definition. What is wrong with the definition of this matrix? Instead, compute the local ring at the point where it is nonsingular by using the definition of the Zariski cotangent space. What do you see?
     - (Theorem 5.1, forward), consider the point P in A^n, and let ideal a_P be (x_i - a_i, ...) for point (a_i), define the linear map theta(f) = <del f/del x_i(P)>. Check that theta(x_i - a_i) forms a basis of k^n. Compute the value of theta(a_p^2) using the Jacobian (hint: the Jacobian is a matrix of first derivatives). Using these two computations, check that theta induces a isomorphism of a_P/a_P^2 -> k^n (hint: identity and linearity of the polynomial ring). Let b be the ideal of Y in A, let f_1, ..., f_t be the set of generators of b. Compute the rank of the Jacobian matrix using the isomorphism theta (hint, consider the image of the isomorphism), where does it belong. Using the isomorphism, compute the dimension of (b + a_p)^2/a_p^2 of a_p/a_p^2. At which step is the definition of nonsingularity via tha Jacobian used?
     - (Theorem 5.1, converse). Consider the local ring C_P of P on Y. We construct this local ring first, step 1 is to start with A and divide by the ideal b as an ideal of Y in A = k[x_1, ..., x_n] and divide by b which is an ideal of Y in A. Why must we do this? Then take localisation at maximal ideal a_p. Why can we localise at ideals (hint: ideals have multiplicative closure, and hence are). So suppose m is the maximal ideal of C_p, compute m/m^2. Check the dimensionof vector spaces, compute the sum of dim m/m^2 + rank J. Suppose dim Y = r, then the rank of local ring is of dimension r as per Proposition 3.2. So, C_P is regular iff what conditions (use the definition of regular via computing dim m/m^2). Compute rank J, and using the definition show that P is a nonsingular point of Y.
@@ -585,7 +595,7 @@ https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Ha
     - Check if K[X,Y] is a Dedekind domain. Check if Z[X] is a Dedekind domain? Check if C[X] is a Dedekind domain? Compute the Krull dimension of all these examples.
 
 https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Hartshorne, chapter 1.7
-    - For vector spaces, if U has dimension r, V has dimension s, they are both contained in a vector space W of dimension n, compute the minimum dimension r + s - n. What does this have to say for projective varieties (hint: a previous exercise, projective linear varieties are considered)? 
+    - For vector spaces, if U has dimension r, V has dimension s, they are both contained in a vector space W of dimension n, compute the minimum dimension of U cap V using the inclusion and exclusion principle. What does this have to say for projective varieties (hint: a previous exercise, projective linear varieties are considered)? 
     - Compute the intersection formula for Y, Z of dimensions r and s, and of degrees d and e in projective n-spae. What condition is required for the irreducible components of Y cap Z to have a nice dimension formula r + s - n? What theorem is this related to later? Compute the sum of i(Y, Z; W) * deg W for all W irreducible components of Y cap Z. Compute for the case Z has a hypersurface.
 
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borchersd algebraic variety:
