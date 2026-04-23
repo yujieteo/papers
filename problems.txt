@@ -484,6 +484,19 @@ https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf,
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 6
     - Give an explicit example of a graph of one cycle of odd length of size 3. And give it a colouring. Therefore, conclude that this graph cannot be bipartitie. Lastly, prove that a graph is bipartitie if and only if all cycles are of even length.
 
+https://lawverearchives.com/wp-content/uploads/2024/12/1970-quantifiers-and-sheaves.pdf, Lawvere and Tierney's Quantifiers and Sheaves
+    - Lawvere-Tierney uses this definition of topos: cartesian closed category with finite (colimits) and subobject classifier. No action needed, just take note.
+    - Compute for each object the right adjoint of the cartesian product.
+    - Compute for pullback of true along a unique characteristic map from X to T, T is the subobject classifier. (Hint: injective ???)
+    - Compute the left adjoint and right adjoint for any map in a topos in terms of the subobject classifier T. (Hint: use concrete interpretations of quantifiers)
+    - Compute the subobject classifier for all S-valued sheaves of a topological space.
+    - Compute the right adjoint to pulling back families E -> Y over Y along f to families E x_Y X indexed by X, any f: X -> Y a functor E/X -> E/Y, E is a topos, X and Y are objects in the topos.
+    - Compute the result of the support functor on any family E -> X.
+    - Compute the left adjoint of a geometric morphism. Compute the right adjoint of a geometric morphism.
+    - Compute the left adjoint of the left adjoint of an essential geometric morphism.
+    - Factorise a geometric morphism of a topos using a clear theorem. (Apparently the Godement resolution is an example for this)
+    - Compute given a prime x of A, commutative ring in a topos, using intuitionistic logic, the results of the following formulas: (1) [1 in x]; (2) [fg in x]; (3) [0 in x]; (4) [f+g in x].
+
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 9
 
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 10 and 11, focus on Szemeredi's regularity lemma
@@ -654,9 +667,21 @@ https://www.math.purdue.edu/~jlipman/MA598/Serre-Course%20in%20Arithmetic.pdf, S
 https://www.math.purdue.edu/~jlipman/MA598/Serre-Course%20in%20Arithmetic.pdf, Serre's A Course in Arithmetic, Chapter VI, theorem on arithmetic progressions.
     - Compute the group formed by the homomorphisms of a group G into the multiplicative group of complex numbers (hint: Hom).
     - Compute a cyclic group of operator n with generator s, chi a character of G, compute w^n, for w = chi(s). Conversely, compute for every n-th root of unity w using the map s^a -> s^a. So chi -> chi(s) is an isomorphism on which group?
-    
 
 https://prclare.people.wm.edu/m410f23/Serre_Complex_semisimple_Lie_algebras.pdf, Serre's Complex Semisimple Lie Algebras
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topology from a Differentiable Viewpoint
+    - Check that the direct and inverse of from (x,y) -> (x,y, root(1-x^2-y^2) admits all partial derivatives and serves as covers of S^2.
+    - Compute the number of points of S^0 in R^1.
+    - Compute the deriveative df_x for a smooth map f: U -> V using the definition. Check that it is linear, Compute the entries of the matrix representation of df_x.
+    - Compute d(g * f)_x for f(x) = y, f and g are smooth maps. Draw the commutative triangles in this computation.
+    - Check that the exponential map of the complex plane on itself has every nonsingular df_x, but f is not 1-1 globally by computation. (Hint: form Jacobian of Euler's identity, then compute case of exp(2pi) for global failure of injectivity).
+    - Check if the derivative df_x is nonsingular for a regular point.
+    - Recall that the rank is the dimension of the image of a map. Compute the Lebesgue measure of the image f(C) of a smooth map f: U -> R^n where C is the set of x in U in R^m such that the rank of the differential df_x is less than n. (Hint: use a named theorem) What are these points? What does dropping in the rank of the differential mean. Does this contain any nonvacous open set? Check that R^n - f(C), which is the set of regular values, is dense in R^n.
+    - Compute the boundary of the closed half space H^m which are points (x_1, ... x_m) such that x_m is nonnegative real.
+    - Compute a lower bound inequality of 1 - sum x_i^2 for a unit disk that is used in its definition. Compute the boundary of a unit disk D^m. 
+    - (Problem 1) Compute the degree of the composition gf.
+    - State the classification of smooth connected 1-dim manifolds.
 
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
