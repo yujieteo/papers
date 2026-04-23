@@ -683,5 +683,18 @@ https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topolog
     - (Problem 1) Compute the degree of the composition gf.
     - State the classification of smooth connected 1-dim manifolds.
 
+https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis.
+    - (Page 16) Compute the external meaning of [X,Y] or the set of all maps from X to Y.
+    - (Page 17) Compute the separator of the category of Sets.
+    - (Page 19) Compute the external meaning of sheaf F has s = t to hold over U.
+    - (Page 19) Compute the external meaning of s in subsheaf G to hold over U.
+    - (Page 19) Compute the external meaning of True to hold over U.
+    - (Page 19) Compute the external meaning of False to hold over U.
+    - (Page 19) Compute the internal meaning of Cap_j in J phi_j, J is an indexing set.
+    - (Page 19) Compute the external meaning of phi holds over U over U_i for U being the union of U_i covered by open on subsets.
+    - (Page 20) Compute the external meaning of sheaf F is finite free to hold over X.
+    - (Page 20) Compute the external meaning of sheaf F is not not finite free to hold over X.
+    - (Page 21) Compute the external mean ing of for s in sheaf F, for all t in sheaf T, phi(s,t). See proposition 2.6.
+
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
