@@ -683,6 +683,8 @@ https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topolog
     - (Problem 1) Compute the degree of the composition gf.
     - State the classification of smooth connected 1-dim manifolds.
 
+https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott and Tu, differential topology
+
 https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis.
     - (Page 16) Compute the external meaning of [X,Y] or the set of all maps from X to Y.
     - (Page 17) Compute the separator of the category of Sets.
