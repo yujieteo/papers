@@ -604,5 +604,38 @@ https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Ha
     - For vector spaces, if U has dimension r, V has dimension s, they are both contained in a vector space W of dimension n, compute the minimum dimension of U cap V using the inclusion and exclusion principle. What does this have to say for projective varieties (hint: a previous exercise, projective linear varieties are considered)? 
     - Compute the intersection formula for Y, Z of dimensions r and s, and of degrees d and e in projective n-spae. What condition is required for the irreducible components of Y cap Z to have a nice dimension formula r + s - n? What theorem is this related to later? Compute the sum of i(Y, Z; W) * deg W for all W irreducible components of Y cap Z. Compute for the case Z has a hypersurface.
 
-https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borchersd algebraic variety:
+https://www.math.purdue.edu/~jlipman/MA598/Serre-Course%20in%20Arithmetic.pdf, Serre's A Course in Arithmetic
+    - Compute the image of Z in a field K. What is it isomorphic to? Use a theorem from algebra (hint: Ostrowski's).
+    - (Lemma) Compute the value of the binomial coefficient (p ; k), hence, prove that the Frobenius automorphism in a field of characteristic K is indeed an isomorphism of a field K onto a finite field. This is the classification of finite fields.
+    - Compute the number of elements of a field extension of K from a field, where f = [K:F_p], using the fact that f is the degree of the extension K/F_p. How does one rule out the case of Q (hint: computation with Q means field is not a finite field).
+    - Compute the derivative of the polynomial X^q - X in a finite field, for q = p^f or a prime power of p under the degree of a polynomial f.
+    - (Theorem 2) Compute the vvalue of the Euler phi-functions, number of integers x with 1 <= x <= d which are prime to d. Compute the order of a mulitplicative group of a finite field F_q using the Euler theta function.
+    - (Lemma 1) Compute the sum of the Euler phi function for all d that divides n. Compute the unique subgroup C_d of order d if d divides n. Compute what elements generate one of the C_d, then compute Z/nZ as the disjoint union of all the Phi_d. Use a function from group theory to show that this indeed is the sum of the Euler phi function for all d that divides n.
+    - (Lemma 2) I do not understand this proof. Compute for an x in H of order d, x a divisor of a finite group of order N, compute the subgroup (x) up to x^{d-1}. What sort of group is this?  Compute for an arbitrary elements of H of order (d) as generators of (x). How many are there (Hint: use the Euler phi function)?  Compute the number of elements if we assume that the number of elements of H of order d is 0 by computing the sum of the Euler phi function (where we use the hypothesis that for all divisors d of n, the set of x in H is such that x^d = 1 has at most d elements).
+    - Compute the maximum number of solutions of the equation x^d - 1 - 0 in a finite field F_q.
+    - Work in GF(q), q prime power of p. Let u be nonnegative. Compute S(X^u) = sum of x^u, if it is divisible by q - 1 and u is positive, then it is equal to -1, otherwise it is equal to 0. Part of the computation involves u >= 1 and divisible by q-1, then 0^u = 0, x^u = 1 if x nonzero, then S(X^u) reduces to the case of (q-1)1 = -1 n characteristic q by computation.
+    - Work in GF(q), q prime power of p. Let u be nonnegative. Compute S(X^u) = sum of x^u, if it is NOT divisible by q - 1 and u is positive then it is equal to 0. Use the fact that K^* is cyclic of order q-1, deduce there exists y^u != 1. Reduce this to the case of S(X^u) = y^u S(X^u), and then compute (1 - y^u) S(X^u). 
+    - Compute the sum of d-th roots of unity for d >= 2, coprime to p, while working in GF(q), q a prime power of p.
+    - (Theorem 3 - Chevalley-Warning), [CASE REDUCTION 1, CHAR FUNCTION] let f_a be in polynomial ring of n-variables such that sum deg f_a < n, let V be the set of common zeroes. The cardinality of V must be 0 mod p. Compute the characteristic function of their set of common zeroes i.e. for P = product of (1 - f^q-1), compute the values of f_a(x) for the case x in V, and also for the case x not in V. Then compute P for the case x in V and x not in V, then show that this is a characteristic function. 
+    - (Theorem 3 - Chevalley-Warning) [CASE REDUCTION 2: S(P)] Now for every polynomial f, define S(f) sum of f(x) for x in K^n, compute the cardinality of V by taking a sum. The result of this computation is Card(P) = S(P) (mod p), so reduce the case fo S(P) = 0. Compute using the hypothesis sum deg f_a < n for a finite field in K^n, get n(q-1), recall q is p-prime power, so multiplicative wise deg P < n(q-1). 
+    - (Theorem 3 - Chevalley-Warning) [CASE REDUCTION 3, REDUCE TO MONOMIALS] Compute P as a linear combination of monomials, sum of monomoal degrees < n(q-1), so just need to check S(X^u) = 0 for one monomial, use the lemma on power sums since at least one of them is < q-1.
+    - Compute using the Chevalley-Warning theorem for sum deg f_a, and f_a have no constant term, then f_a have a nontrivial COMMON ZERO. This can be used to prove that all quadratic forms in at least 3 variables have a nontrivial zero, or that every conic over a finite field has a rational point.
+    - (Theorem 4a). Let q be a power of prime power p. Pick p = 2, then compute and show that all elements of F_q are squares by checkin that x -> x^2 is an automorphism of F_q. 
+    - (Theorem 4b, Legendre symbol). Compute the exact sequence for p != 2, compute the index of the squares of F_q^* in F_q^*. Compute the kernel of the homorphism x -> x^((q-1)/2) with values in {+-1}. Compute for an arbitrary algebraic closure, x in F_q^*, y in the algebraic closure so that y^2 = x, compute the value of y^{q-1]. Hint: check x^{(q-1)/2} = +-1 using x^{q-1} = 1. For x to be a square in F^q, therefore we just need y to belong fto F^{q-1}. Compute the value of y^{q-1}. Then check that indeed, the kernel of the homomorphism is what using element y. Compute the order of F_q^*. Then compute the index of F_q^* x F_q^*. This proves that the Legendre symbol works as a definition. Let p be a prime number not 2, x in F_p^*, Legendre symbol (x/p) is the integer x^((p-1)/2) = +- 1.
+    - (Legendre Symbol 1) By conventions, compute (0/p).
+    - (Legendre Symbol 2) By conventions, compute for x in Z with image x' in F_p, compute (x/p)
+    - (Legendre Symbol 3) Compute (x/p)(y/p).
+    - (Legendre Symbol 4) Compute (x/p) for x in F_p*^2.
+    - (Legendre Symbol 5) If x in F_p^* has y a square root in an (not selected) algebraic closure of F_p, compute (x/p).
+    - (Legendre Symbol 6) Compute (x/p) for x = 1.
+    - (Legendre Symbol 7) Compute eps(n) = (n-1)/2 mod 2 for n being 1 mod 4, and n being -1 mod 4. With this result, hence compute (x/p) for x = -1.
+    - (Legendre Symbol 8) Compute omega(n) = (n^2 -1)/8 mod 2 for case where n being +-1 mod 8, and case where +-5 mod 8.
+    - When is -1 a square mod p? When is 2 a square mod p?
+
+
+https://d-nb.info/950187526/04, Serre's Galois Cohomology
+
+https://prclare.people.wm.edu/m410f23/Serre_Complex_semisimple_Lie_algebras.pdf, Serre's Complex Semisimple Lie Algebras
+
+https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
