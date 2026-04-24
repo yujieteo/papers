@@ -681,22 +681,29 @@ https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topolog
     - Compute the boundary of the closed half space H^m which are points (x_1, ... x_m) such that x_m is nonnegative real.
     - Compute a lower bound inequality of 1 - sum x_i^2 for a unit disk that is used in its definition. Compute the boundary of a unit disk D^m. 
     - (Problem 1) Compute the degree of the composition gf.
-    - State the classification of smooth connected 1-dim manifolds.
+    - State the classification of smooth connected 1-dimensional manifolds.
 
 https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott and Tu, differential topology
 
 https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis.
+    - (Page 11) Compute the internal meaning of a sheaf of O_x modules to be of finite type.
+    - (Page 11) Compute using commutative algebra, if a short exact sequence of modules where two outer ones are finitely generated, then the middle one is finitely generated. Then use this fact that short exact sequences of sheaves of O_X modules, the two outer ones are of finite type then the middle one is too.
+    - (Page 11) Compute the external meaning of the following: a plain ring internal to Sh(X).
+    - (Page 12) Compute the internal meaning of Grothendieck's generic freeness lemma: F is locally free on some dense open subset. (Hint: any finitely generated vector space is not not free.)
+    - (Page 12) Compute the modal translation of a statement phi, denoted as phi^block.
+    - (Page 12) Compute the modal translation of the statement block phi, which means phi holds on some ...
+    - (Warm Up) Compute the hierarchy of points, infinitesimals, formals, germs/local functions/stalkwise, open neighbourhood of finite.
     - (Page 16) Compute the external meaning of [X,Y] or the set of all maps from X to Y.
     - (Page 17) Compute the separator of the category of Sets.
     - (Page 19) Compute the external meaning of sheaf F has s = t to hold over U.
     - (Page 19) Compute the external meaning of s in subsheaf G to hold over U.
     - (Page 19) Compute the external meaning of True to hold over U.
     - (Page 19) Compute the external meaning of False to hold over U.
-    - (Page 19) Compute the internal meaning of Cap_j in J phi_j, J is an indexing set.
+    - (Page 19) Compute the internal meaning of Wedge_{j in J} phi_j, J is an indexing set.
     - (Page 19) Compute the external meaning of phi holds over U over U_i for U being the union of U_i covered by open on subsets.
     - (Page 20) Compute the external meaning of sheaf F is finite free to hold over X.
     - (Page 20) Compute the external meaning of sheaf F is not not finite free to hold over X.
-    - (Page 21) Compute the external mean ing of for s in sheaf F, for all t in sheaf T, phi(s,t). See proposition 2.6.
+    - (Page 21) Compute the external meaning of for s in sheaf F, for all t in sheaf T, phi(s,t). See proposition 2.6.
 
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
