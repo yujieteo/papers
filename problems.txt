@@ -753,6 +753,35 @@ https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmid
     - (Page 28) Compute the externalisation of for all s in R, for all Global Vee s^n = 0 => s = 0. Check that this is a geometric implication.
     - (Page 28) Compute the externalisation of the geometric morphism x+y invertible implies x invertible or y invertible.
 
+https://www.mimuw.edu.pl/~gael/xxi/files/slides_posters/Blechschmidt.pdf, Blechschmidt's slides on his thesis, best set of slides of what reduces to commutative algebra:
+    - (Slide 5) Determine the existence of a local hom, finite limits and finite colimits with Heyting duality using the definition of a topos.
+    - (Slide 5) Compute the existence of coproducts stable under pullback given the proper adjective describing a topos.
+    - (Slide 5) Compute the existence of a first isomorphism theorem given the proper adjective describing a topos.
+    - (Slide 10) Compute the externalisation of injective ring maps.
+    - (Slide 11) Compute the extenralisation of surjective ring maps.
+    - (Slide 14) Compute the externalisation of f = 0 to hold over U.
+    - (Slide 14) Compute the externalisation of f = 0 or g = 0 over U.
+    - (Slide 14) Compute the extenralisation of not not(f = 0).
+    - (Slide 19) Compute the externalisation of finitely free modules.
+    - (Slide 19) Compute the externalisation of finitely presentable modules.
+    - (Slide 19) Compute the externalisation of finite type modules.
+    - (Slide 20) Compute the externalisation of the following: the fomula F is finitely generated and for all f : O^n_X -> F, f is O_X linear implies ker f is finitely generated.
+    - (Slide 21) Compute the extenralisation of the proposition of the following: let there be a short exact sequence, if outers are fg, so is the middle.
+    - (Slide 23) Compute the externalisation of the total quotient ring O_X.
+    - (Slide 24) Compute the externaalisation of the usual tensor product of ordinary modules.
+    - (Slide 26) Compute the externalisation of local rings, almost being a field as a local ring, internally reduced ring over a field.
+    - (Slide 27) Compute the externalisation of the following, let M be finitely generated module over a field, M is free iff number above is an ordinary natural number. M is always not not free. 
+    - (Slide 34) A scheme can be covered by quasicompact opens but is not itself quasicompact, what does this imply?
+    - (Slide 34) Compute for any directed set I and monotone family of formulas, the implication Wedge phi_i holding over Sh(X) implies there exists an i in I such that phi_i holdes over Sh(X).
+    - (Slide 35) Compute the externalisation of the fact: I be directed set (M_i)_i in I be directed family of O_X modules, if M := colim_i M_i is finitely generated it holds that Vee F_i -> F is surjective.
+    - (Slide 36) Compute the externalisation of the affine line A^1_s working over Zar(S).
+    - (Slide 40) Compute the externalisation of A_s^1 as an additive group and its functor of points working internally over Zar(S).
+    - (Slide 40) Compute the externalisation of A_s^1 where x in it is invertible and its functor of points working internally over Zar(S).
+    - (Slide 40) Compute the externalisation of A_s^1 where x in it is x^n  =1 and its functor of points working internally over Zar(S).
+    - (Slide 40) Compute the externalisation of A_s^1^{n x n} where M in it is invertibe and its functor of points working internally over Zar(S).
+    - (Slide 41) Compute the externalisation of the following, p : Y -> X isn injective, x in image(p) is open holding over Zar(S).
+    - (Slide 42) compute the externalisation of the following, set of all maps from X to A_S^1.
+
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
 
