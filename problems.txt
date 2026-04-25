@@ -501,6 +501,22 @@ https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf,
 
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 10 and 11, focus on Szemeredi's regularity lemma
 
+https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Basic-Counting.pdf,
+    - Compute the number of mappings from [n] to [m] via induction.
+    - Compute the number of subsets of [n]
+    - Compute the number of choices for the characteristic function f_A for a set.
+    - Compute the number of odd subsets of a set. Compute the number of even subsets of set.
+    - Compute the number of 1-1 mappings from [n] to [m].
+    - Compute the number of permutations of [n].
+    - Compute the binomial coefficient of (X k).
+    - Compute the cardinality of the collection of k-subsets of X.
+    - (Separated 1s on a cycle) Computing the number of ways are there of placing k 1s and n-k 0s in the vertices of a polygon with n vertices so that no two 1s are adjacent. Choose a vertex v of the polygon in how many ways? For the remainder, choose a_1, ... a_k such that a_1 + ... + a_k = n - k, go round the cycle clockwise putting a_1 0s followed by a 1, then a_2 0s followed by a 1, ... fill in the rest of the details.
+    - Compute (n k) given (n n-r). 
+    - Compute (n k) + (n k+1)
+    - Compute sum of (k k) to (k+1 k) to ... (n k).
+    - Compute the sum from r = 0 to k of the product (m r)(n k-r).
+    - Compute the expansion of (1 + x)^n.
+
 https://www.math.stonybrook.edu/~kamenova/homepage_files/Hartshorne_engl.pdf, Hartshorne, chapter 1.1
     - (Preface) Compute (or state) the dimension of a compact Riemann surface, a ring of integers in an algebraic number field and an algebraic curve. What is the key adjective that is in common for all of them?
     - Translate k[x_1, ... x_n] into functions from affine n-space to k. Why does this translation work?
@@ -671,7 +687,7 @@ https://www.math.purdue.edu/~jlipman/MA598/Serre-Course%20in%20Arithmetic.pdf, S
 https://prclare.people.wm.edu/m410f23/Serre_Complex_semisimple_Lie_algebras.pdf, Serre's Complex Semisimple Lie Algebras
 
 https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topology from a Differentiable Viewpoint
-    - Check that the direct and inverse of from (x,y) -> (x,y, root(1-x^2-y^2) admits all partial derivatives and serves as covers of S^2.
+    - Check that the direct and inverse of from (x,y) -> (x,y, root(1-x^2-y^2)) admits all partial derivatives and serves as covers of S^2.
     - Compute the number of points of S^0 in R^1.
     - Compute the deriveative df_x for a smooth map f: U -> V using the definition. Check that it is linear, Compute the entries of the matrix representation of df_x.
     - Compute d(g * f)_x for f(x) = y, f and g are smooth maps. Draw the commutative triangles in this computation.
@@ -687,12 +703,15 @@ https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott and Tu, differen
 
 https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis.
     - (Page 11) Compute the internal meaning of a sheaf of O_x modules to be of finite type.
-    - (Page 11) Compute using commutative algebra, if a short exact sequence of modules where two outer ones are finitely generated, then the middle one is finitely generated. Then use this fact that short exact sequences of sheaves of O_X modules, the two outer ones are of finite type then the middle one is too.
+    - (Page 11) Compute using commutative algebra fact, if a short exact sequence of modules where two outer ones are finitely generated, then the middle one is finitely generated. Then use this fact that short exact sequences of sheaves of O_X modules, the two outer ones are of finite type then the middle one is too.
     - (Page 11) Compute the external meaning of the following: a plain ring internal to Sh(X).
+    - (Page 12) Compute the Fermat functor of points from A to the category of Sets.
     - (Page 12) Compute the internal meaning of Grothendieck's generic freeness lemma: F is locally free on some dense open subset. (Hint: any finitely generated vector space is not not free.)
     - (Page 12) Compute the modal translation of a statement phi, denoted as phi^block.
     - (Page 12) Compute the modal translation of the statement block phi, which means phi holds on some ...
     - (Warm Up) Compute the hierarchy of points, infinitesimals, formals, germs/local functions/stalkwise, open neighbourhood of finite.
+    - (Page 13) Compute the internalisation of an affine line.
+    - (Page 13) Compute the equaliser diagram of a cover via a functor as the external logic.
     - (Page 16) Compute the external meaning of [X,Y] or the set of all maps from X to Y.
     - (Page 17) Compute the separator of the category of Sets.
     - (Page 19) Compute the external meaning of sheaf F has s = t to hold over U.
@@ -707,3 +726,7 @@ https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmid
 
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
+
+https://alainconnes.org/wp-content/uploads/segals-GammaRings.pdf, Segal's Gamma rings 
+    - Compute the extension of F_1 to Z as per Borger's 2009 paper. 
+
