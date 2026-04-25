@@ -701,7 +701,7 @@ https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topolog
 
 https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott and Tu, differential topology
 
-https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis.
+https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis. Note that if you read the limitations section these are all properties that can only go from local to global.
     - (Page 11) Compute the internal meaning of a sheaf of O_x modules to be of finite type.
     - (Page 11) Compute using commutative algebra fact, if a short exact sequence of modules where two outer ones are finitely generated, then the middle one is finitely generated. Then use this fact that short exact sequences of sheaves of O_X modules, the two outer ones are of finite type then the middle one is too.
     - (Page 11) Compute the external meaning of the following: a plain ring internal to Sh(X).
@@ -718,11 +718,40 @@ https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmid
     - (Page 19) Compute the external meaning of s in subsheaf G to hold over U.
     - (Page 19) Compute the external meaning of True to hold over U.
     - (Page 19) Compute the external meaning of False to hold over U.
-    - (Page 19) Compute the internal meaning of Wedge_{j in J} phi_j, J is an indexing set.
-    - (Page 19) Compute the external meaning of phi holds over U over U_i for U being the union of U_i covered by open on subsets.
+    - (Page 19) Compute the internal meaning of Wedge_{j in J} phi_j, J is an indexing set to hold over U.
+    - (Page 19) Compute the external meaning of phi holds over U over U_i for U being the union of U_i covered by open on subsets to hold over U.
+    - (Page 19) Compute the extenral meaning of Vee phi_j over indexing set j in J to hold over U.
+    - (Page 19) Compute the extenral meaning of there exists phi => psi to hold over open U.
+    - (Page 19) Compute the meaning of for all in sections s in F, formula phi(s) holds over U.
+    - (Page 19) Compute the meaning of ther exists in section s in F, formula phi(s) holds over U.
+    - (Page 19) Compute the meaning of for all sheaves F, formula phi(F) holds over U. Hint: for all means it must work on V in U.
+    - (Page 19) Compute the meaning of there exists a sheave F, formula phi(F) holds over U. Hint: there exists means U is an open cover, then for all U_i, exists sheaf F_i.
     - (Page 20) Compute the external meaning of sheaf F is finite free to hold over X.
     - (Page 20) Compute the external meaning of sheaf F is not not finite free to hold over X.
-    - (Page 21) Compute the external meaning of for s in sheaf F, for all t in sheaf T, phi(s,t). See proposition 2.6.
+    - (Page 21) Compute the external meaning of for s in sheaf F, for all t in sheaf T, phi(s,t) to hold over U. See proposition 2.6, important worked examples to show how adding for all subsets V in U, for all sections s in global sections Gamma(s, F) for sheaf F. What is the firs computation, it is for V to be a sbset of U, then for all sections s in Gamma(V,F), sections t in Gamma(V,G), V holds over phi(s,t). So step 1 is to convert add for all open V in U. Then add for all sections s in Gamma(V, F)...
+    - (Page 21) Compute the external meaning of phi(s) implies psi(s) for all s in sheaf F, to hold over U. 
+    - (Page 21) Compute the external meaning of there exists one section s in sheaf F, phi(s) holds over U.
+    - (Page 22) Compare the relative strength of Sh(X) have not phi holds versus Sh(X) has phi does not hold. Compute the statement in which this other statement is always true. 
+    - (Page 22) Compute the isomorphism under X being the one point space and take constant sheaves.
+    - (Page 22) Compute the extenral meaning of categorical products and coproducts. What must one do for the corpoduct that is not present in the product? (Hint: take sheafification of which presheaf?)
+    - (Page 23) Compute the power set construction of a sheaf, hint: sections on an open set U are subsheaves of F_u for U in X open i..e isomorphism classes of arbitrary monomorphisms.
+    - (Page 23) Compute for F a sheaf, phi(s) having a fomrula containing a free variable, U in X opens implies which statements. Check using internal language whether this presheaf is a sheaf.
+    - (Page 23) Compute the prinicple of unique choice, what do you get when one assumes for all section s in F there exists t in G such that the formula phi(s,t) holds over Sh(X)? Apply this to identiy one and only one morphism of sheaves alpha from F to G. Then compute the conditions for two sheaves to be isomorphic (hint: local to global principle).
+    - (Page 23) Compute why geometric morphisms are named as such consisting of (there exists, true, false, and, or, global Vee, exists, but not global Wedge, implies, or for all, and not). Hint: preserved under what conditions.
+    - (Page 24) Infer a well known sheaf theory fact from the idea that injective and surjectivity are geometry implications.
+    - (Page 24) Why are arbitrary products, power sets, and internal homs not geometric.
+    - (Page 24) Compute the definition of finite product. Is this geometric?
+    - (Page 24) Compute the definition of finite coproduct. Is this geometric?
+    - (Page 24) Compute the definition of arbitrary coproduct.  Is this geometric?
+    - (Page 24) Compute the definition of set comprehension usinga geometric formula. Is this geometric?
+    - (Page 24) Compute the definition of a free modules. Is this geometric?
+    - (Page 24) Compute the definition of a localisation of a free module. Is this geometric?
+    - (Page 25) IMPORTANT EXERCISE. Compute what happens if we add the additional assumption that for any open subset U in X, it holds that U is the only dense open subset of U. Compute what happens if the internal language of an irreducible or locally Noetherian scheme of dimension 0. Particularly, compute the meaning of existential statements, and disjunctions ("or") for this case.
+    - (Page 26) Use Barr's theorem to check whether the Nullstellensatz works for intuitionistic logic knowing a proof holds using some form of the axiom of choice.
+    - (Page 28) Compute the externalisation for all x and y in R, x+y = y+x holds over Sh(X). What does this imply? See proposition 3.1.
+    - (Page 28) Compute the externalisation there exists g in R such that fg = 1 to hold over Sh(X).
+    - (Page 28) Compute the externalisation of for all s in R, for all Global Vee s^n = 0 => s = 0. Check that this is a geometric implication.
+    - (Page 28) Compute the externalisation of the geometric morphism x+y invertible implies x invertible or y invertible.
 
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
