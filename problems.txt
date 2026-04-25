@@ -1,5 +1,5 @@
 https://www.jmilne.org/math/CourseNotes/GT.pdf, group theory
-    - Compute the group from automorphisms of symmetric forms versus skew-symmetric forms. What happens if there you use a Lie bracket instead? Compute its basis.
+    - Compute the group from automorphisms of symmetric forms versus skew-symmetric forms. What happens if there you use a Lie bracket instead? Compute its basis. 
     - Compute the group of rotational symmetries about the centre of a regular polygon with n for n a positive sides. Therefore, show that up to isomorphism there is only one such group.
     - Compute the full group of symmetries of a regular polygon with n-sides.
     - Compute a basis for the quaternion group, compute it as a subgroup of GL_2(C), compute the direct sum decomposition of the quaternion algebra. See page 14.
