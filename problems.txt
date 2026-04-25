@@ -703,13 +703,13 @@ https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott and Tu, differen
 
 https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis. Note that if you read the limitations section these are all properties that can only go from local to global.
     - (Page 11) Compute the internal meaning of a sheaf of O_x modules to be of finite type.
-    - (Page 11) Compute using commutative algebra fact, if a short exact sequence of modules where two outer ones are finitely generated, then the middle one is finitely generated. Then use this fact that short exact sequences of sheaves of O_X modules, the two outer ones are of finite type then the middle one is too.
+    - (Page 11) Compute using commutative algebra fact, if a short exact sequence of modules where two outer ones are finitely generated, then the middle one is finitely generated. Then use this fact that prove that short exact sequences of sheaves of O_X modules, if the two outer sheaves of O_X modules are of finite type then the middle sheaf of O_X modules is too.
     - (Page 11) Compute the external meaning of the following: a plain ring internal to Sh(X).
     - (Page 12) Compute the Fermat functor of points from A to the category of Sets.
     - (Page 12) Compute the internal meaning of Grothendieck's generic freeness lemma: F is locally free on some dense open subset. (Hint: any finitely generated vector space is not not free.)
     - (Page 12) Compute the modal translation of a statement phi, denoted as phi^block.
     - (Page 12) Compute the modal translation of the statement block phi, which means phi holds on some ...
-    - (Warm Up) Compute the hierarchy of points, infinitesimals, formals, germs/local functions/stalkwise, open neighbourhood of finite.
+    - (Warm Up) Compute the hierarchy of points, infinitesimals, formals, germs/local functions/stalkwise, open neighbourhood of finite sets. Hint: look at n-lab's dictionary entry of "formal groups".
     - (Page 13) Compute the internalisation of an affine line.
     - (Page 13) Compute the equaliser diagram of a cover via a functor as the external logic.
     - (Page 16) Compute the external meaning of [X,Y] or the set of all maps from X to Y.
@@ -720,67 +720,106 @@ https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmid
     - (Page 19) Compute the external meaning of False to hold over U.
     - (Page 19) Compute the internal meaning of Wedge_{j in J} phi_j, J is an indexing set to hold over U.
     - (Page 19) Compute the external meaning of phi holds over U over U_i for U being the union of U_i covered by open on subsets to hold over U.
-    - (Page 19) Compute the extenral meaning of Vee phi_j over indexing set j in J to hold over U.
-    - (Page 19) Compute the extenral meaning of there exists phi => psi to hold over open U.
+    - (Page 19) Compute the external meaning of Vee phi_j over indexing set j in J to hold over U.
+    - (Page 19) Compute the external meaning of there exists phi => psi to hold over open U.
     - (Page 19) Compute the meaning of for all in sections s in F, formula phi(s) holds over U.
     - (Page 19) Compute the meaning of ther exists in section s in F, formula phi(s) holds over U.
     - (Page 19) Compute the meaning of for all sheaves F, formula phi(F) holds over U. Hint: for all means it must work on V in U.
     - (Page 19) Compute the meaning of there exists a sheave F, formula phi(F) holds over U. Hint: there exists means U is an open cover, then for all U_i, exists sheaf F_i.
     - (Page 20) Compute the external meaning of sheaf F is finite free to hold over X.
     - (Page 20) Compute the external meaning of sheaf F is not not finite free to hold over X.
-    - (Page 21) Compute the external meaning of for s in sheaf F, for all t in sheaf T, phi(s,t) to hold over U. See proposition 2.6, important worked examples to show how adding for all subsets V in U, for all sections s in global sections Gamma(s, F) for sheaf F. What is the firs computation, it is for V to be a sbset of U, then for all sections s in Gamma(V,F), sections t in Gamma(V,G), V holds over phi(s,t). So step 1 is to convert add for all open V in U. Then add for all sections s in Gamma(V, F)...
+    - (Page 21) Compute the external meaning of for s in sheaf F, for all t in sheaf T, phi(s,t) to hold over U. See proposition 2.6, important worked examples to show how adding for all subsets V in U, for all sections s in global sections Gamma(s, F) for sheaf F. What is the firts computation? It is for V to be a subset of U, then for all sections s in Gamma(V,F), sections t in Gamma(V,G), V holds over phi(s,t). So Step 1 is to enforce the "definition of the same germ" to convert add for all open V in U. Then add for all sections s in Gamma(V, F)...
     - (Page 21) Compute the external meaning of phi(s) implies psi(s) for all s in sheaf F, to hold over U. 
     - (Page 21) Compute the external meaning of there exists one section s in sheaf F, phi(s) holds over U.
-    - (Page 22) Compare the relative strength of Sh(X) have not phi holds versus Sh(X) has phi does not hold. Compute the statement in which this other statement is always true. 
+    - (Page 22) Compare the relative strength of Sh(X) have not phi holds versus Sh(X) has phi does not hold. Identify the conditions such that this is an equivalence of statements is always true.
     - (Page 22) Compute the isomorphism under X being the one point space and take constant sheaves.
-    - (Page 22) Compute the extenral meaning of categorical products and coproducts. What must one do for the corpoduct that is not present in the product? (Hint: take sheafification of which presheaf?)
-    - (Page 23) Compute the power set construction of a sheaf, hint: sections on an open set U are subsheaves of F_u for U in X open i..e isomorphism classes of arbitrary monomorphisms.
-    - (Page 23) Compute for F a sheaf, phi(s) having a fomrula containing a free variable, U in X opens implies which statements. Check using internal language whether this presheaf is a sheaf.
-    - (Page 23) Compute the prinicple of unique choice, what do you get when one assumes for all section s in F there exists t in G such that the formula phi(s,t) holds over Sh(X)? Apply this to identiy one and only one morphism of sheaves alpha from F to G. Then compute the conditions for two sheaves to be isomorphic (hint: local to global principle).
+    - (Page 22) Compute the external meaning of categorical products and coproducts. What must one do for the coproduct that is not present in the product? (Hint: take sheafification of which presheaf?)
+    - (Page 23) Compute the power set construction of a sheaf, hint: sections on an open set U are subsheaves of F_u for U in X open i.e. isomorphism classes of arbitrary monomorphisms.
+    - (Page 23) Compute for F a sheaf, phi(s) having a formula containing a free variable, U in X opens implies which statements. Check using internal language whether this presheaf is a sheaf.
+    - (Page 23) Compute the prinicple of unique choice, what do you get when one assumes for all section s in F there exists t in G such that the formula phi(s,t) holds over Sh(X)? Apply this to identify one and only one morphism of sheaves alpha from F to G. Then compute the conditions for two sheaves to be isomorphic (hint: local to global principle).
     - (Page 23) Compute why geometric morphisms are named as such consisting of (there exists, true, false, and, or, global Vee, exists, but not global Wedge, implies, or for all, and not). Hint: preserved under what conditions.
-    - (Page 24) Infer a well known sheaf theory fact from the idea that injective and surjectivity are geometry implications.
-    - (Page 24) Why are arbitrary products, power sets, and internal homs not geometric.
+    - (Page 24) Infer a well known sheaf theory fact from the idea that injective and surjectivity are geometric implications.
+    - (Page 24) Why are arbitrary products, power sets, and internal homs not geometric?
     - (Page 24) Compute the definition of finite product. Is this geometric?
     - (Page 24) Compute the definition of finite coproduct. Is this geometric?
     - (Page 24) Compute the definition of arbitrary coproduct.  Is this geometric?
-    - (Page 24) Compute the definition of set comprehension usinga geometric formula. Is this geometric?
-    - (Page 24) Compute the definition of a free modules. Is this geometric?
+    - (Page 24) Compute the definition of set comprehension using a geometric formula. Is this geometric?
+    - (Page 24) Compute the definition of a free module. Is this geometric?
     - (Page 24) Compute the definition of a localisation of a free module. Is this geometric?
-    - (Page 25) IMPORTANT EXERCISE. Compute what happens if we add the additional assumption that for any open subset U in X, it holds that U is the only dense open subset of U. Compute what happens if the internal language of an irreducible or locally Noetherian scheme of dimension 0. Particularly, compute the meaning of existential statements, and disjunctions ("or") for this case.
+    - (Page 25) IMPORTANT EXERCISE. Compute what happens if we add the additional assumption that for any open subset U in X, it holds that U is the only dense open subset of U? Compute what happens if the internal language of an irreducible or locally Noetherian scheme of dimension 0 is used in computations. Particularly, compute the meaning of existential statements, and disjunctions ("or") for this case?
     - (Page 26) Use Barr's theorem to check whether the Nullstellensatz works for intuitionistic logic knowing a proof holds using some form of the axiom of choice.
     - (Page 28) Compute the externalisation for all x and y in R, x+y = y+x holds over Sh(X). What does this imply? See proposition 3.1.
     - (Page 28) Compute the externalisation there exists g in R such that fg = 1 to hold over Sh(X).
     - (Page 28) Compute the externalisation of for all s in R, for all Global Vee s^n = 0 => s = 0. Check that this is a geometric implication.
     - (Page 28) Compute the externalisation of the geometric morphism x+y invertible implies x invertible or y invertible.
+    - (Page 28) Compute the internalisation of O_X(U) or sets of sections. Then, infer that stalks are the correct definition for local rings, not sets of sections. See also the Nlab entry.
+    - (Page 28) Where does the structure sheaf of a scheme is fail to be a field? Compute for noninvertible elements s what happens for arbitrary high powers s^n, n large. What is so special about this property?
+    - (Page 28/29) Compute the externalisation of the following: for all s in structure sheaf ringO_X, not(S invertible) geometrically implies s nilpotent. Compute the standard open subset D(s), and infer from this that s is an element of any prime ideal of A. Why use not invertible implies nilpotent instead of any element is invertible or nilpotent?
+    - (Page 29) Compute the externalisation of for all section s in the structure sheaf ring O_X, not(S invertible) implies s = 0 (WARNING: not s nilpotent!).
+    - (Page 29) Quasicoherence exercise: compute the externalisation of the following: for all f in structure sheaf ring O_X, for all s in structure sheaf ring O_X, (f invertible implies s = 0) also implies that OR f^n s = 0. What is the special case of s := 1 give?
+    - (Page 30) Compute the complementary sequence of radical ideals of (a_0 up to a_n) elements of R. Compute the Krull dimension given a complementary sequence of up to (a_n). Compute the case of Krull dimension -1.
+    - (Page 31) Construct an open cover from D(a_0) and D(b_0) for Spec R using a condition.
+    - (Page 32) Compute the externalisation of the following statement, let X be a scheme, and the structure sheaf ring O_X is of Krull dimension <= n. Compute the extenralisation of there exists a and b in the structure sheaf ring O_x such that OR f^m = ag + bh.
+    - (Page 33) Compute the externalisation of the following statement, let X be a scheme, then for all elements s in the structure sheaf ring O_X, s invertible or s nilpotent. Compute the same externalisation in the case that X is 0. 
+    - (Page 33) Compute the externalisation for the case where Sh(X) is Boolean. What additional conditions one must have on the scheme X to give an internalisation of X to Boolean logic.
+    - (Page 34). Compute the externalisation of a integral domain i.e. for all x,y in ring R, xy = 0 implies x = 0 or y = 0 to hold over R. Solution in proposition 3.17.
+    - (Page 34) Compute the externalisation of a integral domain in a strong sense i.e. for all x in R, x = 0 or x is regular, where regular means xy = 0 implies y = 0. Solution in proposition 3.17.
+    - (Page 34) Compute the externalisation of the following, f is a regular element A if and only if f is a regular element of the structure sheaf ring O_X.
+    - (Page 34) Compute from the geometric implications of the following statements: for all f and g in a structure sheaf O_X, True => there exists d in structure sheaf O_X, such that (for all a and b in structure sheaf, d = af + bg) AND [(for all u in structure sheaf, f = ud) AND (for all g in structure sheaf, g = vd)]. (Hint: identity in GCD).
+    - (Page 34) Compute the internalisation of a X a Dedekind scheme, a locally Noetherian normal scheme of dimension <= 1, what happens to matrices over the structure sheaf ring O_X?
+    - (Page 35) Which properties pass over from rings to associated sheaves of locally constant R-valued functions on a topological space.
+    - (Page 36) Compare and contrast a processly Noetherian ring versus a Noetherian ring. (Hint: collection of results but not CHOOSING...)
+    - (Page 36) What alternative is constructed since we cannot constructively proof that every ideal of Z is principal.
+    - (Page 37) Compute the externalisation of the following statement: the ring O_X is processly Noetherian.
+    - (Page 38) Compute the externalisation of the following statement, the set of all quasicoherent ideals fulfill the ascending processed condition.
+    - (Page 38) Compute the externalisation of the following statement: any ascending chain of finitely generated ideals stabilises.
+    - (Page 38) Compute using a not not finitely generated to show that Z is anonymoisly Noetherian.
+    - (Page 39) Compute the externalisation of the following statement, for all sections s in the structure sheaf ring O_X, not not (S = 0) implies s = 0.
+    - (Page 39) Translate Hilbert's basis theorem into a theorem on anynomously Noetherian ring.
+    - (Page 40) Compute the externalisation of the following statement: If M' and M'' are anonymously Noetherian then M''' is in the canonical short exact sequence of modules.
+    - (Page 40) Compute the externalisation of the following: OR F is isomorphic to powers of structure sheaf rings (O_X)^n for all n >= 0 i.e. F is a finite free module. This holds over Sh(X).
+    - (Page 41) Compute the externalisation of the following facts: phi is O_X-linear holding over U, phi is bijective holding over U, use this to prove the existence of a cover.
+    - (Page 41) Compute the externalisation of a exact sequence of locally finite free modules of structure sheaf rings of neighbourhoods (not stalkwise!) (O_X|U)^n -> finite free module F|U -> 0.
+    - (Page 41) Compute the externalisation of the following statement, (O_X|U)^m ->(O_X|U)^n -> finite free module F|U -> 0.
+    - (Page 42) What is the condition associated with this statement? If F is a finite type and the kernel of O_X|U-linear morphisms (O_X|U)^n -> finite free module F|U where U in X is open is of finite type.
+    - (Page 42) Compute the externalisation of this statement: F as ??? module i.e. F is finitely generated as module and for all phi in Hom_O_X(O^n_X, F), the kernel of phi is finitely generated.
+    - (Page 53) Compute the modeal operator mod phi topologically. This talks about sheaves on subspaces and sublocales.
+    - (Page 54) Compute the set of truth values in classical logic using a formal symbol.
+    - (Page 55) Compute the Lawvere Tierney topology using the definition for all phi, psi in truth values the following: (1) phi implies ; (2) mod mod phi implies ; (3) mod(phi and psi) iff. Intuition: mod phi weakens phi.
+    - (Page 56) Let mod be the modal operator for algebraic geometry in a Lawvere-Tierney topology. Compute the geometric interpretation of mod phi is equivalent to alpha => phi, alpha is fixed. Compute the geometric interpretation of mod phi is equivalent to alpha => phi or alpha is fixed. Compute the geometric interpretation of mod phi is equivalent to not not phi. Compute the geometric interpretation of (mod phi implies alpha) implies alpha, alpha is a fixed proposition.
+    - (Page 56) Translate this Proposition 6.5 to topology, to hold over any open V in X. (1) U imples phi; (2) phi or A^c; (3) not not phi; (4) (phi implies !x) implies !x for x in X. A in X fixed closed subset, U in X fixed open.
+    - (Page 56) Compute the subspace induced by a modal operator.
+    - (Page 57) Compute the condition for modal-separated and modal-sheaf by translating the sheaf condition from classical algebraic geometry.
+    - (Page 58) Compute the externalisation of the condition: for all S in F for set F, modal(S is a singleton) geometrically implies there exists a x in set F such that modal(x in S). Read mod phi as locally phi. Then compute the + construction by forming an equivalence class, hence forming a mod-sheafification.
 
 https://www.mimuw.edu.pl/~gael/xxi/files/slides_posters/Blechschmidt.pdf, Blechschmidt's slides on his thesis, best set of slides of what reduces to commutative algebra:
     - (Slide 5) Determine the existence of a local hom, finite limits and finite colimits with Heyting duality using the definition of a topos.
     - (Slide 5) Compute the existence of coproducts stable under pullback given the proper adjective describing a topos.
     - (Slide 5) Compute the existence of a first isomorphism theorem given the proper adjective describing a topos.
     - (Slide 10) Compute the externalisation of injective ring maps.
-    - (Slide 11) Compute the extenralisation of surjective ring maps.
+    - (Slide 11) Compute the externalisation of surjective ring maps.
     - (Slide 14) Compute the externalisation of f = 0 to hold over U.
     - (Slide 14) Compute the externalisation of f = 0 or g = 0 over U.
-    - (Slide 14) Compute the extenralisation of not not(f = 0).
+    - (Slide 14) Compute the externalisation of not not(f = 0).
     - (Slide 19) Compute the externalisation of finitely free modules.
     - (Slide 19) Compute the externalisation of finitely presentable modules.
     - (Slide 19) Compute the externalisation of finite type modules.
-    - (Slide 20) Compute the externalisation of the following: the fomula F is finitely generated and for all f : O^n_X -> F, f is O_X linear implies ker f is finitely generated.
-    - (Slide 21) Compute the extenralisation of the proposition of the following: let there be a short exact sequence, if outers are fg, so is the middle.
+    - (Slide 20) Compute the externalisation of the following: the formula F is finitely generated and for all f : O^n_X -> F, f is O_X linear implies ker f is finitely generated.
+    - (Slide 21) Compute the externalisation of the proposition of the following: let there be a short exact sequence of modules, if outer modules are finitely generated, then so is the middle module.
     - (Slide 23) Compute the externalisation of the total quotient ring O_X.
-    - (Slide 24) Compute the externaalisation of the usual tensor product of ordinary modules.
+    - (Slide 24) Compute the externalisation of the usual tensor product of ordinary modules.
     - (Slide 26) Compute the externalisation of local rings, almost being a field as a local ring, internally reduced ring over a field.
-    - (Slide 27) Compute the externalisation of the following, let M be finitely generated module over a field, M is free iff number above is an ordinary natural number. M is always not not free. 
+    - (Slide 27) Compute the externalisation of the following, let M be finitely generated module over a field, M is free if and only if number above is an ordinary natural number. Furthermore, externalise the following statement: M, as a finitely generated module over a field, is always not not free. 
     - (Slide 34) A scheme can be covered by quasicompact opens but is not itself quasicompact, what does this imply?
-    - (Slide 34) Compute for any directed set I and monotone family of formulas, the implication Wedge phi_i holding over Sh(X) implies there exists an i in I such that phi_i holdes over Sh(X).
-    - (Slide 35) Compute the externalisation of the fact: I be directed set (M_i)_i in I be directed family of O_X modules, if M := colim_i M_i is finitely generated it holds that Vee F_i -> F is surjective.
+    - (Slide 34) Compute for any directed set I and monotone family of formulas, the property such that the implication statement holds: Wedge phi_i holding over Sh(X) implies there exists an i in I such that phi_i holds over Sh(X).
+    - (Slide 35) Compute the externalisation of the fact: I be directed set (M_i)_i in I be directed family of O_X modules, if M := colim_i M_i is finitely generated it holds that Vee F_i -> F is surjective for i in an indexing set.
     - (Slide 36) Compute the externalisation of the affine line A^1_s working over Zar(S).
     - (Slide 40) Compute the externalisation of A_s^1 as an additive group and its functor of points working internally over Zar(S).
     - (Slide 40) Compute the externalisation of A_s^1 where x in it is invertible and its functor of points working internally over Zar(S).
     - (Slide 40) Compute the externalisation of A_s^1 where x in it is x^n  =1 and its functor of points working internally over Zar(S).
     - (Slide 40) Compute the externalisation of A_s^1^{n x n} where M in it is invertibe and its functor of points working internally over Zar(S).
-    - (Slide 41) Compute the externalisation of the following, p : Y -> X isn injective, x in image(p) is open holding over Zar(S).
-    - (Slide 42) compute the externalisation of the following, set of all maps from X to A_S^1.
+    - (Slide 41) Compute the externalisation of the following, p : Y -> X is injective, and x in image(p) is open holding over Zar(S).
+    - (Slide 42) Compute the externalisation of the following, set of all maps from X to A_S^1.
 
 https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geometry notes:
     - Compute x^2 + y^2 = z^2 in Z. Factor x^2 as product of coprime factors, then make an appropriate substitution. Compute x^2 = (z - y)(z + y).
