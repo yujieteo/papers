@@ -851,3 +851,51 @@ https://www.math.ias.edu/~bhatt/math/etalestcksproj.pdf, Bhatt's notes on etale 
     - (Page 2) Compute the first Kahler differential of rings Omega_X/Y^1 given a morphism of local rings locally of finite type and unramified. Compute by Nakayama's lemma what to check when considering the sheaf of Kahler differentials.
 
 https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Morel
+    - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition. 
+    - (Page 6) Compute the vector space of functions f: I -> K, comput ef + g and af. What happens if you pick I = natural numbers or nonnegative integers?
+    - (Page 7) Compute the following formulas of the support, supp(0), supp(f+g) and supp(af).
+    - (Page 7) Compute, for the vector space over F2, A + B and 0 x A, and 1 x A. compute the characteristic function over Z/2Z.
+    - (Page 7) Compute the addition and scalar multiplication of M_nm(K), A+B and xA. 
+    - (Page 8) Compute the equivalent K-vector space of M_mn(K).
+    - (Page 8) Compute the following, T being transpose. (A^T)^T, (A+B)^T, (aA)^T.
+    - (Page 9) Compute the matrix product (AB)_ij.
+    - (Page 9) Compute the following (A+B)C, A(C+D), (AC)E = A(CE).
+    - (Page 9) Compute I_n A in terms of I_m for A in M_nm(K).
+    - (Page 10) Compute the inverse of A = (0 1 ; 0 0).
+    - (Page 10) Compute the scalars lambda_i of sum lambda_i v_i = 0 for an linearly independent set of vectors.
+    - (Page 10/16) Compute a linear combination of v_i given some scalars. Amend the computation using Definition 7.1 for arbitrary vector spaces.
+    - (Page 10/16) Compute the span of the family given a family (v_i). Amend the computation using Definition 7.1 for arbitrary vector spaces.
+    - (Page 10/16) Compute the subset of K^n denoting the image. Compute it in terms of the span of a family of vectors using the definition. Amend the computation using Definition 7.1 for arbitrary vector spaces.
+    - (Page 12) Compute the value of A lambda_i for the kernel of A.
+    - (Page 13) Give formulas for the three elementary row operations, switching roles, multiplying roles, and adding multiples of rows to another row.
+    - (Page 14) Compute the infinite family (X^n)_n>=0 for V = K[X]. Compute the span of this.
+    - (Page 14) Compute the span of R^2 and R^3.
+    - (Page 15) Compute the span of the basis of V for V a K-vector space.
+    - (Page 19) Compute the canonical basis of K^n.
+    - (Page 19) Compute the canonical basis of K[X].
+    - (Page 19) Compute the canonical basis of K^(I) using the Yoneda lemma.
+    - (Page 20) Compute the dimension of a vector space using the cardinalities of the generating families of a vector space. Compute the cardinality of the basis of a family.
+    - (Page 22) Compute the dimension of C-vector spaces, or C as R-vectors, what does this show about the dimension? What is the dimension of R as a R-vector space? What about it as a Q vector space?
+    - (Page 23) Compute the dimension of the R-vector space of infinitely differentiable functions from R to R, using a suitable basis.
+    - (Page 24) Compute the intersection and sum of two lines, a line and a plane and 2 planes in R^2 or R&3.
+    - (Page 25) Compute the convex inequality of the dimension of W_1 and W_2 as two subspaces of V where W_1 + W_2 = V. What happens if this sum is a direct sum? Derive an inclusion and exclusion principle from this calculation. 
+    - (Page 29) Compute the sum of the rank of a matrix and the dimension of the kernel of a matrix.
+    - (Page 30) Compute the rank of an invertible matrix. 
+    - (Page 30) Compute the rank of the transpose of an invertible matrix.
+    - (Page 30) Compute the kernel of an invertible matrix.
+    - (Page 30) Compute using an invertible matrix A, a basis of the K^n.
+    - (Page 30) Compute using an invertible matrix A, a span of the K^n.
+    - (Page 30) Compute using an invertible matrix A, a free family of the K^n.
+    - (Page 31) Compute the values of K-linear transformations of f(v + v') and f(lambda v).
+    - (Page 32) Compute End(V) in terms of a homset. These are the endomorphisms of V.
+    - (Page 32) Compute the trace of a matrix.
+    - (Page 32) Compute the Frobenius map of a matrix. Under what conditions do the Frobenius become a linear transformation.
+    - (Page 32) Compute a canonical endomorphism of the R-vector space of infinitely differentiable functions. 
+    - (Page 35/37) Compute Hom(V,W) as a mtrix. Compute f as a isomorphism class. What happens if this isomorphism class matrix in Remark 14.6 is invertible? This gives an isomorphism of K-vector spaces.
+    - (Page 36) Compute dim(Hom(V,W)) using a canonical isomorphism in terms of V and W.
+    - (Page 37) Compute the A in M_mn(K) correspodnign to the matrix, the values of Ker(f), Im(f), and rank(f) in terms of A.
+    - (Page 38) Compute dim(Ker(f)) + rank(f) in terms of V for f: V -> W a linear trnasformation.
+    - (Page 39) Compute for dim(V) = dim(W), map from f: V -> W a linear transformation a canonical isomorphism. Use Corllary 16.2. What is required in the proof?
+    - (Page 41) Compute the dual space of V using linear forms.
+    - (Page 41) Compute the dimension of the space of linear forms on V.
+    - (Page 41) Compute the bidual V^** in terms of V using a theorem.
