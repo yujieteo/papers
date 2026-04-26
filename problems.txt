@@ -992,3 +992,5 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
     - (Page 114) Using a formula for A an Hermitian matrix in M_n(C), compute SAS^-1, S is unitary matrix.
 
 https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann's commutative algebra
+
+https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra
