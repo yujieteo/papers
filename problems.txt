@@ -285,7 +285,25 @@ https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor
     - Compute the objects and morphisms in the category of correspondences Corr(C, E)?
     - Where do the arrows in E below?
     - Compute for products X x Y and a functor in Corr(C, E)? (Hint: why must we stipulate that it is symmetric monoidal)
-    - Compute the composition of two correspondences. 
+    - Compute the composition of two correspondences.
+    - Compute the right derived functor of the global sections functor, and the result when one applies the coefficient system of the constant sheaf.
+    - Compute the functor required for functorial composition in the derived category of abelian groups, and its corresponding right adjoint.
+    - (Theorem, Proper Base Change) Let f be a proper map from X to Y. Compute the fibre X_y in terms of a fibre product. Compute the inclusions into X and Y. Then, using a special case of the proper base change formula, compute the proper base change of the stalk of f_*A at y using an appropriate isomorphism.
+    - (Theorem, Proper Base Change) Compute the result of the natural isomorphism of g^* f_*.
+    - Compute the natural isomorphism of the right derived functors of a tensor product in the coefficient system Z using a particular formula.
+    - Compute the right adjoint of the derived tensor product.
+    - Compute using the projection formula the natural isomorphism of f^* A tensor B.
+    - Compute, using Poincare duality, the value of the dual of the right derived functors of the global sections functor under the coefficient system Z.
+    - Compute the right adjoint of the pushforward of a proper map of X to Y for the manifold bundle using Verdier duality. Then, perform this computation purely locally.
+    - For X in C a finite dimensional locally compact Hausdorff space, compute the D(X, Z) in terms of Betti cohomology.
+    - Identify the conditions captured by the functor C^op to CMon(Cat_infty).
+    - What is the central difficulty in defining a six functor formalism?
+    - State the objects and morphisms of a simplex category using Scholze's definition.
+    - Compute the equivalent objects of C^2 or the set of two simplicies.
+    - Compute the value or the coproduct of a 1 simplex and a 1 simplex. What is this object naturally embedded in?
+    - Compute the arrow needed for the trivial Kan fibration to work as a definition using the diagram in the definition or a trivial Kan fibration. What is the prototypical example of a trivial Kan fibration?
+    - Define the category mapping any simplicial category D to an infinity category C.
+    - Compute for the homotopy category of a Kan complex C, the condition for any horn to be filled.
 
 https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
     - Construct a sheaf O for closed unit disks in the complex numbers of radius r consisting of formal power series with vanishing higher sheaf cohomology groups, construct the commutative diagrams that are compatible with evaluation at points. See page 6 - page 7. Then show that Cauchy's integral formula that allows for computations of Taylor coefficient with a particular exact sequence with good properties of the elliptic operator as well as bump functions to prove that the higher cohomology vanishes.
@@ -754,7 +772,7 @@ https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmid
     - (Page 28) Compute the externalisation of the geometric morphism x+y invertible implies x invertible or y invertible.
     - (Page 28) Compute the internalisation of O_X(U) or sets of sections. Then, infer that stalks are the correct definition for local rings, not sets of sections. See also the Nlab entry.
     - (Page 28) Where does the structure sheaf of a scheme is fail to be a field? Compute for noninvertible elements s what happens for arbitrary high powers s^n, n large. What is so special about this property?
-    - (Page 28/29) Compute the externalisation of the following: for all s in structure sheaf ringO_X, not(S invertible) geometrically implies s nilpotent. Compute the standard open subset D(s), and infer from this that s is an element of any prime ideal of A. Why use not invertible implies nilpotent instead of any element is invertible or nilpotent?
+    - (Page 28/29) Compute the externalisation of the following: for all s in structure sheaf ring O_X, not(S invertible) geometrically implies s nilpotent. Compute the standard open subset D(s), and infer from this that s is an element of any prime ideal of A. Why use not invertible implies nilpotent instead of any element is invertible or nilpotent?
     - (Page 29) Compute the externalisation of for all section s in the structure sheaf ring O_X, not(S invertible) implies s = 0 (WARNING: not s nilpotent!).
     - (Page 29) Quasicoherence exercise: compute the externalisation of the following: for all f in structure sheaf ring O_X, for all s in structure sheaf ring O_X, (f invertible implies s = 0) also implies that OR f^n s = 0. What is the special case of s := 1 give?
     - (Page 30) Compute the complementary sequence of radical ideals of (a_0 up to a_n) elements of R. Compute the Krull dimension given a complementary sequence of up to (a_n). Compute the case of Krull dimension -1.
@@ -827,3 +845,9 @@ https://math.berkeley.edu/~reb/courses/256A/256A.pdf, Borcherds algebraic geomet
 https://alainconnes.org/wp-content/uploads/segals-GammaRings.pdf, Segal's Gamma rings 
     - Compute the extension of F_1 to Z as per Borger's 2009 paper. 
 
+https://www.math.ias.edu/~bhatt/math/etalestcksproj.pdf, Bhatt's notes on etale topology
+    - (Page 1) Compute the value if f(r(A))(s) using the definition of unramified given a local ring map from A to B where k(B) is a finite separable extension of k(A). Check these conditions? 
+    - (Page 1) Compute the externalisation of morphisms of unramified local rings at all points in the petit Zariski topos.
+    - (Page 2) Compute the first Kahler differential of rings Omega_X/Y^1 given a morphism of local rings locally of finite type and unramified. Compute by Nakayama's lemma what to check when considering the sheaf of Kahler differentials.
+
+https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Morel

@@ -376,7 +376,7 @@ https://arxiv.org/pdf/1309.1968, Grothendieck-Teichmuller. Equivalence of catego
 
 https://arxiv.org/pdf/0903.4067, Drinfeld associators, idea is they define braided monoidal categories, and there is a universal way to construct braided monoidal categories out of Lie algebra, and it can be used to build quasi-Hopf algebras, then one can show that associators over Q exits, using the Grothendieck-Teichmuller group. This can be used to solve the Kashiwara-Vergne conjecture b showing solutions of a pair of equations exist for the Camper-Baker-Hausdorff series, which is useful to solve for Lie algebras exp(X) exp(Y) = exp(Z)
 
-https://qchu.wordpress.com/2020/11/01/meditation-on-the-sylow-theorems-i/, story of Sylow theory. Idea is to construct Sylow p-subgroups of the symmetric group and partition blocks, then into p^2 block and cyclically computing these, exponent is p^floor(n/p^k) then this is a Sylow p-subgroup.
+https://qchu.wordpress.com/2020/11/01/meditation-on-the-sylow-theorems-i/, story of Sylow theory. Idea is to construct Sylow p-subgroups of the symmetric group and partition blocks, then into p^2 block and cyclically computing these, exponent is p^floor(n/p^k) then this is a Sylow p-subgroup. You can get it fairly short with a simple fact about group actions of p-groups: If a p-group acts on a set, then the number of fixed points is congruent to the size of the set mod p. **Theorem 1** Now for a p-subgroup P < G, let P act on G/P by left multiplication. Then the fixed points are N(P)/P, so [N(P):P] = [G:P] (mod p). Induction (which can be done since p-groups are nilpotent) and Cauchy's theorem applied to N(P)/P then gives existence of Sylow p-subgroups. **Theorem 3** If P is a Sylow p-subgroup, then [N(P):P] = [G:P] mod p means that [G:N(P)] is 1 mod p, so the number of conjugates of P is 1 modulo p. **Theorem 2** Let P and P' be two different sylow subgroups. Then P acts on G/P' by left multiplication. Since the number of fixed points is not 0 mod p, it is nonzero. So there is a g with PgP' = gP' In other words g^- P g = P'
 
 https://arxiv.org/pdf/2003.06521, on shuffle relations for hodge and motivic correlators: (1) page 3 give definition 1.2 to compute hodge correlators. The simplest example of weight 2 Hodge correlators are computed. Then this integral can be worked out by the dilogarithm or the Block-Wigner function. This is very good, I finally understand what they are about and how to work with them. Recall that the Fargues-Fontaine curve which has played such a central role in p-adic Hodge theory, the twistor approach is the Archimedean version of that. So basically the Fargues-Fontaine curve is the non-archimedean version of Hodge correlators.
 
@@ -406,7 +406,7 @@ https://arxiv.org/pdf/1410.3870, matroids and simplicial complex: (1) page 4 giv
 
 https://arxiv.org/pdf/2005.07395, binary geometry of generalised permutohedra. This is a physics paper though: (1) page 9 gives associahedron and the calculations required to construct them.
 
-https://www.math.kyoto-u.ac.jp/~iritani/iritani_algsymp2021.pdf  tropical geometry and mirror symmetry. (1) on page 6, section 4, a computation of the asymptotics of a period is provided ussing tropical geometry.
+https://www.math.kyoto-u.ac.jp/~iritani/iritani_algsymp2021.pdf  tropical geometry and mirror symmetry. (1) on page 6, section 4, a computation of the asymptotics of a period is provided using tropical geometry.
 
 https://www.kwlan.org/articles/intro-sh-ex.pdf  Lan Kai Wen's introduction to Shimura varieties. (1) page 4 to page 5 gives the standard example of SL2(R); (2) page 9 gives the idea of a Shimura data.
 
@@ -5125,3 +5125,35 @@ https://web.ma.utexas.edu/users/slaoui/notes/recoltes_et_semailles.pdf, Recoltes
 https://www.jmilne.org/math/Documents/GrothendieckandMe.html, Grothendieck and me, two topology may give the same sheaf theory, so call them Grothendieck pretopology, then focus on topos theory. But Grothendieck pretopologies are actually sufficient for etale cohomology. Also, topos theory eventually do not (in comparison) lead to any concrete or easy to work with examples unlike etale cohomology. Crystals and D-modules longest, four operations in 70 notes or 400 pages of topos theory. Spiritual stagnation. Page 26. 12 great ideas: topological tensor products and nuclear spaces, continuous and discrete duality, derived cats and six ops, Riemann-Roch-Grothendieck yoga, K theory and intersection theory, schemes, topos, etale and l-adic cohomology, motivic Galois, crystals, infty-stacks, tame topology, Galois-Teichmuller theory or nonabelian algebraic geometry, arithmetic point of view fo polyhedra. Deepest is Galois-Teichmuller theory. Arithmetic, metric, geometric. Quality of his attention to listen to the voices of things, page 34. Innocence, scorn and deepest fears. Etale, and crystalline, quasi-occult. Base motive algebraic K-theory.
 
 https://inference-review.com/article/a-truncated-manuscript, Schapira's article, ordinary functions with three operation (besides addition). Product. Integration sending functions on X to functions on Y. Composition of functions sending functions on Y to functions on X. In sheaf theory, tensor product is analogue of product (comultiplication of group schemes), direct image of commpact support is integration, and inverse image is analogue of composition by F. Admit exceptional pullback that only exists in derived framework, construcvted by Verdier, provided Poincare duality i.e. homology and cohomology are dual.
+
+https://sites.pitt.edu/~abk134/slides_minkowski.pdf, Minkowski's lemma for the Kronecker Weber theorem
+
+https://math.mit.edu/classes/18.785/2017fa/LectureNotes14.pdf, Minkowski
+
+https://www.math.uni-bonn.de/people/ja/alggeoI/notes.pdf, Scholze notes website
+
+https://virtualmath1.stanford.edu/~ralph/math215b/Bredon.pdf, Bredon's Geometry and Topology
+
+https://jdh.hamkins.org/wp-content/uploads/Slides-Pointwise-Definability-Barcelona-2023.pdf, Hamkin's notes on definability
+
+https://jdh.hamkins.org/wp-content/uploads/Slides-Ultrafinitism-Columbia-2025-Hamkins-handout-format-1.pdf, survey on ultrafinitism
+
+https://jdh.hamkins.org/wp-content/uploads/Slides-Multiverse-view-on-VL-Hamkins-Konstanz-2022.pdf, multiverse view on constructibility
+
+https://jdh.hamkins.org/wp-content/uploads/Slides-Potentialist-conceptions-of-infinity-Hamkins-Peking-University-June-2025.pdf, potentialist conceptions of infinity
+
+https://www.kurims.kyoto-u.ac.jp/~piotr/291y_notes.pdf, notes on p-analytic groups
+
+https://msp.org/gt/2010/14-3/gt-v14-n3-p01-s.pdf, monoids on moduli spaces of manifolds
+
+https://dec41.user.srcf.net/notes/III_M/algebraic_topology_iii.pdf, algebraic geometry leaning towards vector bundles and intersection theory
+
+https://perso.crans.org/lecomte/Math/WeakTopologies.pdf, notes on weak topologies
+
+https://www.cis.upenn.edu/~cis6100/sharon-mumford.pdf, Mumford computing vision paper
+
+https://impan.pl/images/Notatki-z-wykadw/Geometria%20Niekomutatywna%20i%20Grupy%20Kwantowe/connes_ncgp.pdf, Connes slides
+
+https://simons.berkeley.edu/sites/default/files/docs/2696/infcomb.pdf, information theory in combinatorics
+
+https://www.math.toronto.edu/swastik/homdom.pdf, homomorphism domination exponent
