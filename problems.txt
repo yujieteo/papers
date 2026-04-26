@@ -889,17 +889,18 @@ https://www.math.ias.edu/~bhatt/math/etalestcksproj.pdf, Bhatt's notes on etale 
     - (Page 2) Compute the first Kahler differential of rings Omega_X/Y^1 given a morphism of local rings locally of finite type and unramified. Compute by Nakayama's lemma what to check when considering the sheaf of Kahler differentials.
 
 https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Morel
-    - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition. 
-    - (Page 6) Compute the vector space of functions f: I -> K, comput ef + g and af. What happens if you pick I = natural numbers or nonnegative integers?
+    - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition.
+    - (Page 6) Compute the vector space of functions f: I -> K, compute f + g and af. What happens if you pick I = natural numbers or nonnegative integers?
     - (Page 7) Compute the following formulas of the support, supp(0), supp(f+g) and supp(af).
-    - (Page 7) Compute, for the vector space over F2, A + B and 0 x A, and 1 x A. compute the characteristic function over Z/2Z.
-    - (Page 7) Compute the addition and scalar multiplication of M_nm(K), A+B and xA. 
+    - (Page 7) Compute, for the vector space over GF(2), A + B and 0 x A, and 1 x A. Compute the characteristic function over Z/2Z.
+    - (Page 7) Compute the entrywise addition and scalar multiplication of M_nm(K), A+B and xA. 
     - (Page 8) Compute the equivalent K-vector space of M_mn(K).
     - (Page 8) Compute the following, T being transpose operations. (A^T)^T, (A+B)^T, (aA)^T.
     - (Page 9) Compute the matrix product (AB)_ij.
     - (Page 9) Compute the following (A+B)C, A(C+D), (AC)E = A(CE).
+    - (Page 9) Remark on the commutator and its relation to quantum mechanics and noncommutative geometry. Any nontrivial commutator gives rises to a Fourier theory apparently.
     - (Page 9) Compute I_n A in terms of I_m for A in M_nm(K).
-    - (Page 10) Compute the inverse of A = (0 1 ; 0 0).
+    - (Page 10) Compute the inverse of A = (0 1 ; 0 0) in the matrix M_2(Q).
     - (Page 10) Compute the scalars lambda_i of sum lambda_i v_i = 0 for an linearly independent set of vectors.
     - (Page 10/16) Compute a linear combination of v_i given some scalars. Amend the computation using Definition 7.1 for arbitrary vector spaces.
     - (Page 10/16) Compute the span of the family given a family (v_i). Amend the computation using Definition 7.1 for arbitrary vector spaces.
@@ -929,9 +930,9 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
     - (Page 32) Compute the trace of a square matrix using a suitable formula.
     - (Page 32) Compute the Frobenius map of a matrix. Under what conditions does the Frobenius become a linear transformation?
     - (Page 32) Compute a canonical endomorphism of the R-vector space of infinitely differentiable functions. 
-    - (Page 35/37) Compute Hom(V,W) as a mtrix. Compute f as a isomorphism class. What happens if this isomorphism class matrix in Remark 14.6 is invertible? This gives an isomorphism of K-vector spaces.
+    - (Page 35/37) Compute Hom(V,W) as a matrix. Compute f as a isomorphism class. What happens if this isomorphism class matrix in Remark 14.6 is invertible? This gives an isomorphism of K-vector spaces.
     - (Page 36) Compute dim(Hom(V,W)) using a canonical isomorphism in terms of V and W.
-    - (Page 37) Compute the A in M_mn(K) correspodning to the matrix, the values of Ker(f), Im(f), and rank(f) in terms of A.
+    - (Page 37) Compute the A in M_mn(K) corresponding to the matrix, the values of Ker(f), Im(f), and rank(f) in terms of A.
     - (Page 38) Compute dim(Ker(f)) + rank(f) in terms of V for f: V -> W a linear transformation.
     - (Page 39) Compute for dim(V) = dim(W), map from f: V -> W a linear transformation a canonical isomorphism. Use Corllary 16.2. What is required in the proof?
     - (Page 41) Compute the dual space of V using linear forms.
@@ -949,10 +950,11 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
     - (Page 51) Compute for f((x_i),(y_j),(z_k)) for i,j,k in {1,2,3} the alternating 3-linear form equation.
     - (Page 52) Compute f(v_{sigma(i)}) in terms of f(v_(i)) knowing that f is in the space of alternating n-linear forms.
     - (Page 54) Compute the determinant of an endomorphism u in End(V) when applied to f(u(v_1, ... v_n)).
-    - (Page 56) Compute the formula det(lambda A) in terms of det(A).
-    - (Page 56) Compute the formuula for det(A) in using the sign of a permutation.
+    - (Page 56) Compute the formula det(lambda A) in terms of det(A). Why does this formula work? (Hint: diagonal matrix.)
+    - (Page 56) Compute the formula for det(A) in using the sign of a permutation.
     - (Page 58) Compute the formulas for the determinant using expansions along the i-th row and expansions along the j-th column.
-    - (Page 60) Compute the Vandermode determinant of the Vandermode matrix.
+    - (Page 60) Compute the Vandermode determinant of the Vandermode matrix. Compute the case of the Vandermode matrix being the n-th roots of unity. Note that the fast Fourier transform is the product of this matrix with a vector.
+    - (Page 60) Compute the generator of alternating polynomials that related Schur polynomials to Specht modules (hint: Vandermode determinant)
     - (Page 62) Compute the comatrix or matrix of cofactors given the determinant.
     - (Page 62) Compute the adjoint matrix using the matrix of cofactors or from using the determinant.
     - (Page 62) Compute the inverse of a matrix given the adjoint matrix and the determinant.
@@ -965,25 +967,28 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
     - (Page 70) Produce a counterexample to statement that a diagonalisable matrix has the characteristic function with all simple roots.
     - (Page 71) Compute the diagonalisation of a upper triangular matrix with all different diagonal entries using similarity. Then construct a counterexample if the diagonal entries are not all distinct.
     - (Page 73) Compute the characteristic equation of A = (0 1; -1 0). Show that it cannot be similar to an upper triangular matrix in M_2(R).
-    - (Page 75) Check that sets of multiples of A in K[X] is an ideal of K[X].
+    - (Page 75) Check that sets of multiples of A in K[X] is an ideal of K[X] using the definition of an ideal. Compute the elements of this ideal.
     - (Page 77) Compute the decomposition of vector spaces for P in K[X] and P admits a pairwise coprime decomposition.
     - (Page 78) Compute the case for X^2 - X the decomposition of V into eigenspaces.
     - (Page 81) Compute the repeated factorisation of f_T(T)(W_n) into ((T - lambda_i id_V))(W_n) to ...(W_n-1) and so on to {0}, then pick W_n = V, and finally realise f_T(T) = 0 i.e. the Cayley-Hamilton theorem.
     - (Page 84) Compute the characteristic space of T by computing a quotient. Hint: definition is (x - l)^r P(x). Compute the algebraic multiplicity. Compute the geometric multiplicity.
-    - (Page 85) Compute the characteristic space decomposition of a vector space.
+    - (Page 85) Compute the characteristic space decomposition of a vector space. Hint: Compute C_lambda_i using the definition of a characteristic space. This is reminsicent of Schur's lemma.
+    - (Page 86) Compute the T = T_d and T_n using a suitable definition derived from T(v) - lambda v + lambda v.
     - (Page 86) Compute the Jordan-Chevalley decomposition with a condition on the roots of f_T(X) in K into T_d and T_n.
     - (Page 87) State the Jordan normal form of a matrix. What does it look like?
     - (Page 91) State the matrix representation of a bilinear form as per Lemma 34.3.
-    - (Page 92) Compute f(v,w) for symmetric, antisymmetric endomorphisms and matrices. COmpute the definition of a quadratic form q(v). Compute q(lv) for a quadratic form.
+    - (Page 92) Compute f(v,w) for symmetric, antisymmetric endomorphisms and matrices. Compute the definition of a quadratic form q(v). Compute q(lv) for a quadratic form.
     - (Page 93) Compute the uniqueness of the quadratic form for char(K) != 2 i.e. compute f(v,w) = 0.5(q(v+w) - q(v) - q(w)).
     - (Page 94) Compute the orthogonal of A a subset of V in terms fo set builder notation in terms of an intersection. Compute the kernel of a symmetric bilinear form on a vector space. Compute the orthogonal subset of A in terms of the span of A.
     - (Page 95) Compute the sum of dimensions of dim(W) and dim(W^orth), for V finite dimensional, for every subspace W, fixing a symmetric bilinear form f.
-    - (Page 95) Compute the decomposition of double orth of W.
-    - (Page 95) Compute the decomposition of dim(W) using the rank Nullity theorem into two components for W a subspace of finite dimensional V.
-    - (Page 95) What conditions is required on the symmetric bilinear form for the orthogonal operator to be Boolean i.e. W = double orth of W.
-    - (Page 100) Control the bound of f(v,w) using f(v,v) and f(w,w) for f a symmetric bilinear form which is nonnegative. Reduce this to the inner product case to obtain bounds control the sums of vectors and the inner products of vectors. What about the special case of orthogonal vectors.
-    - (Page 101) Compute the sum of <v,v_i>v_i from i = 1 to i = n. where the v_i form an orthonormal basis.
+    - (Page 95) Compute the decomposition of double orthogonal of W.
+    - (Page 95) Compute the decomposition of dim(W) using the rank-nullity theorem into two components for W a subspace of finite dimensional V. Firstly, compute the kernel of the linear transformation from V to V*. Use a fact about the Yoneda lemma to compute the Ker(u_f), let T be a subspace resrtcition of u_f|W: W -> V^*. Then compute Ker(T). Once this is computed, use the rank nullity theorem on dim(W).
+    - (Page 95) What condition(s) are required on the symmetric bilinear form for the orthogonal operator to be Boolean i.e. W = double orthogonal of W?
+    - (Page 100) Control the bound of f(v,w) using f(v,v) and f(w,w) for f a symmetric bilinear form which is nonnegative. Reduce this to the inner product case to obtain bounds control the sums of vectors and the inner products of vectors. What about the special case of orthogonal vectors?
+    - (Page 101) Compute the sum of <v,v_i>v_i from i = 1 to i = n. where the v_i form an orthonormal basis. What is this computation called broadly?
     - (Page 106) Compute the inner product of (T(V), T(W)) using the fact that T is an isometry and applying the polar form decomposition of symmetric bilinear forms.
     - (Page 106) Compute the determinant det(AA^T) of an orthgonal vector A.
-    - (Page 114) Check that a self adjoint endormorphism of V is diagonalisable in orthonormal basis and that all eigenvalues are real using a theorem.
+    - (Page 114) Check that a self adjoint endomorphism of V is diagonalisable in orthonormal basis and that all eigenvalues are real using a theorem.
     - (Page 114) Using a formula for A an Hermitian matrix in M_n(C), compute SAS^-1, S is unitary matrix.
+
+https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann's commutative algebra
