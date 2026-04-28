@@ -5157,3 +5157,50 @@ https://impan.pl/images/Notatki-z-wykadw/Geometria%20Niekomutatywna%20i%20Grupy%
 https://simons.berkeley.edu/sites/default/files/docs/2696/infcomb.pdf, information theory in combinatorics
 
 https://www.math.toronto.edu/swastik/homdom.pdf, homomorphism domination exponent
+
+https://homepage.sns.it/vistoli/descent.pdf, Vistoli notes
+
+https://arxiv.org/pdf/2604.15193, rational 
+syntomic cohomology
+
+https://mreid.warwick.ac.uk/surf/more/DuVal.pdf, Du Val singularities
+
+https://sivakumarsai.github.io/writing/rtnotes.pdf, rep theory Sivakumar Sai
+
+https://runegha.folk.ntnu.no/iopd.pdf, introduction to operads
+
+https://www.andrew.cmu.edu/user/awodey/students/jackson.pdf
+
+https://math.berkeley.edu/~frenkel/houches.pdf
+
+https://math.uchicago.edu/~amathew/doldkan.pdf
+
+https://web.ma.utexas.edu/SMC/2019/Local%20Class%20Field%20Theory.pdf
+
+https://sites.math.rutgers.edu/~sz446/GARTS/slides/GL2_Nick.pdf
+
+https://arxiv.org/pdf/1605.04832, constructive commutative algebra
+
+https://people.brandeis.edu/~igusa/Math101aF07/Math101a_notesD3.pdf
+
+https://janschuetz.perso.math.cnrs.fr/lehre/lecture_notes_topcond.pdf, condensed math in 53 pages
+
+https://lebras.perso.math.cnrs.fr/Notes_workshop_all.pdf, Arakelov geometry and condensed mathematics workshop
+
+https://guests.mpim-bonn.mpg.de/ferdinand/q-Hodge.pdf, Wagner's thesis on q-de Rham cohomology
+
+https://www.ams.org/notices/200409/what-is-illusie.pdf, what is a topos by Luc Illusie, must read! Very short
+
+https://unimath.github.io/SymmetryBook/book.pdf, book on homotopy type theory and symmetry
+
+https://math.jhu.edu/~jmb/note/torext.pdf, examples on Tor and Ext functors
+
+https://arxiv.org/pdf/2205.06104, the localisation theorem for the K theory of stable infinity categories
+
+https://pi.math.cornell.edu/~dmehrle/notes/conferences/cht/cht-notes.pdf, chromatic homotopy theory, to the frontier
+
+https://www.math.ias.edu/~akshay/research/CFT.pdf, global CFT
+
+https://math.bu.edu/people/jsweinst/FRGLecture.pdf, geoemtry of Lubin-Tate
+
+https://math.stanford.edu/~conrad/papers/luminysga3.pdf, reductive group schemes

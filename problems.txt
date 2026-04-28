@@ -933,6 +933,10 @@ https://www.math.ias.edu/~bhatt/math/etalestcksproj.pdf, Bhatt's notes on etale 
     - (Page 1) Compute the externalisation of morphisms of unramified local rings at all points in the petit Zariski topos.
     - (Page 2) Compute the first Kahler differential of rings Omega_X/Y^1 given a morphism of local rings locally of finite type and unramified. Compute by Nakayama's lemma what to check when considering the sheaf of Kahler differentials.
 
+https://math.mit.edu/classes/18.783/2025/LectureSlides4.pdf
+    - Compute addition and multiplication under the elliptic curve group law.
+    - Compute the equivalence relation between g and h and give the formula for its image in (f)
+
 https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Morel
     - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition.
     - (Page 6) Compute the vector space of functions f: I -> K, compute f + g and af. What happens if you pick I = natural numbers or nonnegative integers?
