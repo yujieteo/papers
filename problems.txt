@@ -1045,3 +1045,4 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
 https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann's commutative algebra
 
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra
+    - (Page 240) Compute the polynomial associated with (a_1 + a_2)^e. Then compute that (a_1 + a_2)^e = a_1^e + a_2^e.
