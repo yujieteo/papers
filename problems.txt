@@ -720,7 +720,7 @@ https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topolog
 https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf, Bott and Tu, differential topology
 
 https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmidt's thesis. Note that if you read the limitations section these are all properties that can only go from local to global.
-    - (Page 11) Compute the internal meaning of a sheaf of O_x modules to be of finite type.
+    - (Page 11) Compute the internal meaning of a sheaf of O_x-modules to be of finite type.
     - (Page 11) Compute using commutative algebra fact, if a short exact sequence of modules where two outer ones are finitely generated, then the middle one is finitely generated. Then use this fact that prove that short exact sequences of sheaves of O_X modules, if the two outer sheaves of O_X modules are of finite type then the middle sheaf of O_X modules is too.
     - (Page 11) Compute the external meaning of the following: a plain ring internal to Sh(X). (Important, the answer to this is the structure sheaf O_X)
     - (Page 12) Compute the Fermat functor of points from A to the category of Sets.
@@ -774,7 +774,7 @@ https://opus.bibliothek.uni-augsburg.de/opus4/files/42513/notes.pdf, Blechschmid
     - (Page 24) Compute the definition of a free module. Is this geometric?
     - (Page 24) Compute the definition of a localisation of a free module. Is this geometric?
     - (Page 24) Is the computation that both p and q fail sufficient to determine if we know which of p and q holds?
-    - (Page 25) Important exercise, compute the geometric meaning of double negation in Kripke-Joyal semantics.
+    - (Page 25) IMPORTANT EXERCISE, compute the geometric meaning of double negation in Kripke-Joyal semantics.
     - (Page 25) IMPORTANT EXERCISE. Compute what happens if we add the additional assumption that for any open subset U in X, it holds that U is the only dense open subset of U? Compute what happens if the internal language of an irreducible or locally Noetherian scheme of dimension 0 is used in computations. Particularly, compute the meaning of existential statements, and disjunctions ("or") for this case?
     - (Page 25) Use Barr's theorem to check whether the Nullstellensatz works for intuitionistic logic knowing a proof holds using some form of the axiom of choice.
     - (Page 28) Compute the externalisation for all x and y in R, x+y = y+x holds over Sh(X). What does this imply? See proposition 3.1.
