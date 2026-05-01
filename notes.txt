@@ -5204,3 +5204,17 @@ https://www.math.ias.edu/~akshay/research/CFT.pdf, global CFT
 https://math.bu.edu/people/jsweinst/FRGLecture.pdf, geoemtry of Lubin-Tate
 
 https://math.stanford.edu/~conrad/papers/luminysga3.pdf, reductive group schemes
+
+https://www.math.ens.psl.eu/~benoist/refs/Oxley.pdf, Oxley's Matroid theory
+
+https://www.math.ens.psl.eu/~benoist/refs/Mukai.pdf, Mukai Invariants and Moduli
+
+https://www.math.ens.psl.eu/~benoist/refs/Perrin.pdf, Perrin's introduction to algebraic geometry
+
+https://www.math.ens.psl.eu/~benoist/refs/GunningRossi.pdf, Gunning-Rossi SCV Algebraic Geometry
+
+https://www.math.ens.psl.eu/~benoist/refs/Gille-Szamuely.pdf, Gille-Szamuely, Galois cohomology
+
+https://www.math.ens.psl.eu/~benoist/refs/Sturmfels.pdf, Sturmfels algebraic geometry
+
+https://www.math.toronto.edu/~ila/Lang%20--%20Algebraic%20number%20theory.pdf, Lang's algebraic number theory
