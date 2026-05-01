@@ -1167,3 +1167,13 @@ https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann
 
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra
     - (Page 240) Compute the polynomial associated with (a_1 + a_2)^e. Then compute that (a_1 + a_2)^e = a_1^e + a_2^e.
+
+https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
+    - (Page 4) Compute the coefficient for heat diffusion and vibrating strings, and the sum of the Fourier series.
+    - (Page 4) Compute an non-periodic arbitrary functions function, the integral form of f(x).
+    - (Page 5) Compute tau_x(f)(y).
+    - (Page 5) Compute the nature of the coefficients in a differential operator that is time invaiant.
+    - (Page 5) Compute for chi(x+y) knowing that tau_x tau_y = tau_{x+y}.
+    - (Page 6) Compute the image of a complex character.
+    - (Page 6) Compute the image of a bounded character.
+    - (Page 7) Compute the characters of a group as eigenvectors of?
