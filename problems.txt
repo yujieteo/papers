@@ -1159,9 +1159,15 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
     - (Page 100) Control the bound of f(v,w) using f(v,v) and f(w,w) for f a symmetric bilinear form which is nonnegative. Reduce this to the inner product case to obtain bounds control the sums of vectors and the inner products of vectors. What about the special case of orthogonal vectors?
     - (Page 101) Compute the sum of <v,v_i>v_i from i = 1 to i = n. where the v_i form an orthonormal basis. What is this computation called broadly?
     - (Page 106) Compute the inner product of (T(V), T(W)) using the fact that T is an isometry and applying the polar form decomposition of symmetric bilinear forms.
-    - (Page 106) Compute the determinant det(AA^T) of an orthgonal vector A.
+    - (Page 106) Compute the determinant det(AA^T) of an orthogonal vector A.
     - (Page 114) Check that a self adjoint endomorphism of V is diagonalisable in orthonormal basis and that all eigenvalues are real using a theorem.
     - (Page 114) Using a formula for A an Hermitian matrix in M_n(C), compute SAS^-1, S is unitary matrix.
+
+https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf
+    - (Page 22) Compute the product of x - (zeta)^{2i+1}y. What does this have to do with Fermat's last theorem?
+    - (Page 22) Compute the representative of the ideal (2). Determine the representative up to what sort of numbers in the ring?
+    - (Page 23) Compute the desired ring for k[x] in an indeterminate x over k, f(x) = 0. The ideal of a polynomial ring is called a modular system or modules.
+    - (Page 25) Conpute the group associated with invariance of coordinates acting on GL_n(k).
 
 https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann's commutative algebra
 
@@ -1169,11 +1175,11 @@ https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAl
     - (Page 240) Compute the polynomial associated with (a_1 + a_2)^e. Then compute that (a_1 + a_2)^e = a_1^e + a_2^e.
 
 https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
-    - (Page 4) Compute the coefficient for heat diffusion and vibrating strings, and the sum of the Fourier series.
-    - (Page 4) Compute an non-periodic arbitrary functions function, the integral form of f(x).
-    - (Page 5) Compute tau_x(f)(y), tau a translation operator.
-    - (Page 5) Compute tau_x(Tf) for a translation invariant operator.
-    - (Page 5) Compute the nature of the coefficients in a differential operator that is time invaiant.
+    - (Page 4) Compute the coefficients used in the typical Fourier series. Note that it is an integral in [0,1] in this case, why? This equation is typically used to solve for string vibration and heat diffusion.
+    - (Page 4) Compute an non-periodic arbitrary function, the integral form of f(x) that appears in the coefficients.
+    - (Page 5) Compute tau_x(f)(y), where tau a translation operator.
+    - (Page 5) Compute tau_x(Tf) for a translation invariant operator. Hint, one can factor out chi(-x) from the expression.
+    - (Page 5) Compute the coefficients in a differential operator that is time invaiant.
     - (Page 5) Compute for chi(x+y) knowing that tau_x tau_y = tau_{x+y}.
     - (Page 6) Compute the image of a complex character.
     - (Page 6) Compute the image of a bounded character.
@@ -1181,19 +1187,19 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
     - (Page 7) Simplify (T chi)(y - x) by having T commute with translations. Then, set y = 0 and get the eigenvector equation by choosing a particular value for lambda.
     - (Page 8) Compute the integral of chi(z) from x to x+h. Then infer from this chi(x) integral chi(y) dy and use this fact to determine the derivative of y. Hence, compute chi(x) in terms of a familar function. 
     - (Page 8) Impose the bounded condition to substitute an alpha to get a basis vector e_eps(x). 
-    - (Page 8) Compute hte dual group of R^d. Compute the dual group of T^d.
-    - (Page 9) Compute for map n to z^n, z in C^d, the character of bounded characters chi_z(n) = z^n.
+    - (Page 8) Compute the dual group of R^d. Compute the dual group of T^d.
+    - (Page 9) Compute for map n to z^n, z in C^d, the character denoting bounded characters chi_z(n) = z^n.
     - (Page 9) Compute the functions associated with the cyclic group of Z_N.
     - (Page 9) Compute the dual group for omega_N exp(2 pi i/N).
-    - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0.
-    - (Page 10) Compute <f, chi> as an integral for f in L^1.
+    - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0. (Hint: linear algebra)
+    - (Page 10) Compute <f, chi> as an integral for f in L^1 space, chi a character.
     - (Page 10) Compute f in terms of an integral with its Fourier transform and its characters over the Haar measure, and in temrs of an inner product with chi.
     - (Page 10) Compute f(x) using an inversion formula and the Fourier transform over the Haar measure.
     - (Page 10) Compute for T(chi) = m(chi) chi (i.e. chi an eigenvector of T), an integral form for Tf. Hence compute the multiplier of T for T commuting with infinite sums.
     - (Page 10) Compute Tf given that f is integral of delta_x f(x) d mu(x) over G, T as kernel of a linear operator. Then determine Tf(y).
     - (Page 13) Compute the Fourier transform of a conbolution. Then pick m = Fourier transform of the impulse repsonse.
     - (Page 14) Take the convolution of f * g and express it as an infinite linear combination of translates of g.
-    - (Page 14) Compute f * g, f * (g * h).
+    - (Page 14) Compute f * g, f * (g * h) where * is the convolution operator.
     - (Page 14) Compute for the case of g = 1_B / mu(B), the convolution of f * g(y). What does g represent?
     - (Page 15) Compute Tf(y) for bounded operators.
     - (Page 16) Compute a bound of |Tf(y)| using Holder's inequality using the hypothesis for Holder's inequality.
@@ -1216,7 +1222,7 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
     - (Page 34) Compute the partial sums of S_N(f) = sum of c_n(f) exp(2 pi i x) from -N to N.
     - (Page 35) Compute the Fejer kernel or (S_0(f) + ... S_N(f))/N+1 which is the Fejer kernel sigma_N(f).
     - (Page 36) Compute the solution of the Dirichlet problem for f(t) = exp(2 pi i n x).
-    - (Page 37) Compute the full expression of the Poisson Kernel P_r.
+    - (Page 37) Compute the full expression of the Poisson kernel P_r.
     - (Page 41) Check that a bounded operator for case p = 1 and p = 2.
-    - (Page 42) Compute the Foruier series of a function on T^d as a sum of Sf(T) using compactness.
+    - (Page 42) Compute the Fourier series of a function on T^d as a sum of Sf(T) using compactness.
     - (Page 46) Compute the conjugate of D_lambda f(eps).
