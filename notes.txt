@@ -698,7 +698,7 @@ https://people.math.harvard.edu/~lurie/papers/Conceptual.pdf  Jacob Lurie on Mak
 
 https://golem.ph.utexas.edu/category/2011/07/definitions_of_ultrafilter.html, ultrafilter is a set with property for all partitions (remember thermodynamics), finite number of subsets, precisely one i such that X_i is in U. This means it is some sort of selection. It works for n = 3, so X = X_1 coprod X_2 coprod X_3, one i such that X_i is in U, U is a set of subsets in P(X). Hadwiger's theorem, measure the size of subset, ultrafilter is a function P(X) to {0,1} such that phi is a valuation.
 
-https://aareyanmanzoor.github.io/assets/matsumura-CA.pdf  Matsmura's Commutative Algebra.
+https://aareyanmanzoor.github.io/assets/matsumura-CA.pdf  Matsumura's Commutative Algebra.
 
 https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM1986.1/ICM1986.1.ocr.pdf  Drinfeld on quantum groups.
 

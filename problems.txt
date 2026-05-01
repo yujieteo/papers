@@ -936,8 +936,129 @@ https://www.math.ias.edu/~bhatt/math/etalestcksproj.pdf, Bhatt's notes on etale 
     - (Page 2) Compute the first Kahler differential of rings Omega_X/Y^1 given a morphism of local rings locally of finite type and unramified. Compute by Nakayama's lemma what to check when considering the sheaf of Kahler differentials.
 
 https://math.mit.edu/classes/18.783/2025/LectureSlides4.pdf
-    - Compute addition and multiplication under the elliptic curve group law.
-    - Compute the equivalence relation between g and h and give the formula for its image in (f)
+    - (Page 3) Compute addition and multiplication under the elliptic curve group law.
+    - (Page 3) Compute the equivalence relation between g and h and give the formula for its image in (f)
+    - (Page 4) Compute for the example zy^2 - x^3 - z^2x, P = (0:0:1), alpha = 3xz/y^2, compute alpha(P) by substituting P. Hint: substitute (0:0:1) once the numerator is free and there is only z^2.
+    - (Page 5) Compute the possible values for lambda phi_x (as well as for y and z) for a rational map to be defined based on the definitions.
+    - (Page 6) What can be computed for C_1 a smooth projective curve, coordinate ring k[C_1] as a Dedekind domain? (Hint: not just rational maps).
+    - (Page 6) If projective varieties are complete/proper, what does this imply for morphisms of projective curves?
+    - (Page 7) Compute the composition of p_1: E_1 -> E_2 and p_2: E_2 -> E_1 if both are isomorphisms.
+    - (Page 8) Compute p_1(O_1) for an endomorphism.
+    - (Page 9) Compute the negation map of (x:y:z) in general. Compute it for O_1 as well.
+    - (Page 10) Compute the image of element (x:y:z) under the Frobenius endomorphism. Compute the image of the Frobenius endomorphism of y^2 = x^3 + Ax + B. Can you find an inverse isomorphism for the Frobenius endomorphism?
+    - (Page 13) Given a standard form  alpha(u/v, s/t * y), compute the degree of a, compute the possible values of (u/v)' if alpha is separable. Compute alpha as a degree of a field extension of elliptic curves for alpha an isogeny, alpha a corresponding embedding of function fields.
+    - (Page 14) Compute the image of the standard form under the negation map i.e. [-1](x,y).
+    - (Page 14) Compute the standard form of the Frobenius endomorphism of E/F_q.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides5.pdf,
+    - (Page 2) Compute the image of zero under an isogeny.
+    - (Page 2) Given a standard form  alpha(u/v, s/t * y), compute the degree of a, compute the possible values of (u/v)' if alpha is separable. Compute alpha as a degree of a field extension of elliptic curves for alpha an isogeny, alpha a corresponding embedding of function fields.
+    - (Page 3) Compute for a coprime u, v in k[x], the value of u' and v' given that (u/v)' = 0, and consequently the values of u and v. Compute the value of the quotient rule. What is the denominator of the quotient rule? Compute the value of u', v', deg u, deg v in characteristic 0. Then prove the definition of isogenies so that this case does not happen in characteristic zero.
+    - (Page 4) Compute the short Weierstrass form of isogenies for alpha(x,y). Compute the canonical decomposition of alpha an inseparable isogeny over a field of positive characteristic.
+    - (Page 5) Compute the order of the kernel of an isogeny. 
+    - (Page 5) Compute the kernel of a purely inseparable isogeny. 
+    - (Page 5) Compute the degree of a composition of isogenies for the following cases, separable degree, inseparable degree, full degree.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides6.pdf
+    - (Page 2) Compute the canonical decomposition of a isogeny in positive degree.
+    - (Page 2) Compute the separable degree in terms of alpha_sep.
+    - (Page 2) Compute the inseparable degree of an isogeny.
+    - (Page 3) Compute the result of an multiplication by n map in terms of standard form for E: y^2 = x^3 + Ax + B.
+    - (Page 3) Compute the degree of a multiplication by n map for n orthogonal to p.
+    - (Page 3) Compute the canonical decomposition of an elliptic curve over a field of characteristic p over each prime l, for l != p, and for the case of l = p.
+    - (Page 3) Compute a canonical form of a finite subgroup E(\bar(k)) for E(bar k).
+    - (Page 4) Compute Hom(E_1, E_2) for E_1/k. and E_2/k elliptic curves and determine the operation. Check that it is defined over k.
+    - (Page 5) Compute morphism beta given morphism alpha, and alpha(P) = beta(P) for all P in E_1(bar k), alpha nd beta are in Hom(E_1, E_2) by computing ker(alpha - beta) to compute alpha - beta.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides7.pdf,
+    - (Page 2) Compute the trace of the isogeny alpha in terms of the dual isogeny of alpha, and then in terms of the degree ofthe isogeny alpha.
+    - (Page 3) Compute the Hasse interval of an elliptic curve over q.
+    - (Page 4) Compute the Legendre symbol for y^2 having two solutions mod p, one solution mod p, and no solution mod p. Intuitively why is the the Legendre symbol for no solutions mod p the way it is.
+    - (Page 6) Given all elements g in G, compute the exponent of a finite group.
+    - (Page 6) Compute the canonical decomposition of a finite abelian group. Then show that there exists an element of the order the exponent of the finite group.
+    - (Page 7) Comnpute Pr[lcm[|g|, |h|] = lambda G] by computing product of p|lambda(G) (1 - p^2) and computing the value of the zeta function. Then get a lower bound for this value (hint: Basel's problem).
+    
+https://math.mit.edu/classes/18.783/2025/LectureSlides8.pdf,
+    - (Page 3) Compute the x in terms of the primes less than x via the prime number theorem.
+    - (Page 3) Compute the growth of the largest prime l_max less than x.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides9.pdf
+    - (Page 2) Compute the logarithm of beta in <alpha> for alpha in G using the definition.
+    - (Page 4) Compute the order of beta^y in <alpha> for alpha in G using the definition.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides10.pdf
+    - Compute the bound for deterministic generic algorithm for the discrete logarithm problem in G.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides11.pdf
+    - (Page 4) Compute a^N as a residue class mod N for N prime.
+    - (Page 4) Check whether 91 is prime using the fact that 2^91 being congruent to 37 mod 91.
+    - (Page 4) Compute a^N as a residue class mod N for N a Carmichael number.
+    - (Page 5) Compute the Euler function as an order of a group given a definition.
+    - (Page 5) Compute phi(N) for Euler function phi for a positive prime. 
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides12.pdf
+    - (Page 2) Compute the number of zero divisors for an endomorphism ring of an elliptic curve.
+    - (Page 2) Compute the decomposition of the degree map from End(E) to nonnegative integers. Compute the valeu of deg 0.
+    - (Page 2) Compute a formula for deg n for all n in Z in the End(E).
+    - Compute the degree of the dual isogeny in End(E).
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides13.pdf
+    - (Page 2) Compute E[p] for an ordinary elliptic curve for E/k, positive characteristic.
+    - (Page 3) Compute deg_s alpha in terms of alpha_sep.
+    - (Page 3) Compute deg_i alpha in terms of p for an elliptic curve.
+    - (Page 3) Compute the decomposition of deg alpha.
+    - (Page 3) Compute the order of the kernel of alpha.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides14.pdf
+    - (Page 3) Compute the R-span of a lattice [omega_1, omega_2] in C as a Z-module.
+    - (Page 3) Compute for a root x^2 - bx + c denoted by tau and b^2 - 4ac, the imaginary quadratic order of Z[tau].
+    - (Page 3) Compute the topology of a lattice L. Hence check for the compactnesss of C/L given, C the complex numbers.
+    - (Page 3) Compute the set builder notation for a fundamenatal parallelogram in a lattice. Imagine it.
+    - (Page 4) Compute the differential equation satisfied by the Weierstrass p-function, and the values of g_2(L) and g_3(L).
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides16.pdf
+    - (Page 4) Compute the elementwise image of a holomorphic group homomorphism induced by an anlytic endomorphism of C for alpha L_1 in L_2, for the image z + L_1.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides17.pdf
+    - (Page 2) Compute the image of the isomorphism of End(C/L) to that of E_L.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides18.pdf
+    - (Page 2) Compute the action of a torsor of the ideal class group alpha E_b using the definition.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides16.pdf
+    - (Page 2) Compute for L in C a lattice, compute C(L), compute C(L)^even given the Weierstrass p-function.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides17.pdf
+    - (Page 2) Compute the ideal class group of the ring O(L) given the proper O-idealss alpha and a suitable equivalence.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides18.pdf
+    - (Page 3) Compute the action of a modular group SL_2(Z) on the upper half plane.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides19.pdf,
+    - (Page 2) Compute the principal congurence subgroup of N.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides20.pdf
+    - (Page 2) Compute an expression of the modular polynomial in terms of j_N over C(j).
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides21.pdf
+    - (Page 2) Compute the residue fields of the maximal ideals p and q over O_K and O_L.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides22.pdf,
+    - (Page 2) Compute the k-rational roots of an ellliptic curve given the j-invariants of the elliptic curves E_2/k that are l-isogeneous to E_1.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides23.pdf
+    - (Page 3) Compute the image of the rational map (g:h) for g/h from a smooth plane curve C. Check that this is a morphism using a suitable assumption on the curve.
+
+https://math.mit.edu/classes/18.783/2025/LectureSlides24.pdf
+    - Compute f(gamma tau) for gamma being (a b; c d) in congruence subgroup Gamma for a weak modular form of weight k.
+
+https://aareyanmanzoor.github.io/assets/matsumura-CA.pdf, Matsumura's Commutative Algebra
+
+https://aareyanmanzoor.github.io/assets/hicks.pdf, Hick's Differential Geometry
+
+https://aareyanmanzoor.github.io/assets/books/homotopical-algebra.pdf, Quillen's homotopical algebra
+
+https://aareyanmanzoor.github.io/assets/books/characteristic-classes.pdf, Milnor's Characteristic Classes
 
 https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Morel
     - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition.
