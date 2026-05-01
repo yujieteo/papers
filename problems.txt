@@ -1171,9 +1171,52 @@ https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAl
 https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
     - (Page 4) Compute the coefficient for heat diffusion and vibrating strings, and the sum of the Fourier series.
     - (Page 4) Compute an non-periodic arbitrary functions function, the integral form of f(x).
-    - (Page 5) Compute tau_x(f)(y).
+    - (Page 5) Compute tau_x(f)(y), tau a translation operator.
+    - (Page 5) Compute tau_x(Tf) for a translation invariant operator.
     - (Page 5) Compute the nature of the coefficients in a differential operator that is time invaiant.
     - (Page 5) Compute for chi(x+y) knowing that tau_x tau_y = tau_{x+y}.
     - (Page 6) Compute the image of a complex character.
     - (Page 6) Compute the image of a bounded character.
-    - (Page 7) Compute the characters of a group as eigenvectors of?
+    - (Page 7) Compute the characters of a group as eigenvectors.
+    - (Page 7) Simplify (T chi)(y - x) by having T commute with translations. Then, set y = 0 and get the eigenvector equation by choosing a particular value for lambda.
+    - (Page 8) Compute the integral of chi(z) from x to x+h. Then infer from this chi(x) integral chi(y) dy and use this fact to determine the derivative of y. Hence, compute chi(x) in terms of a familar function. 
+    - (Page 8) Impose the bounded condition to substitute an alpha to get a basis vector e_eps(x). 
+    - (Page 8) Compute hte dual group of R^d. Compute the dual group of T^d.
+    - (Page 9) Compute for map n to z^n, z in C^d, the character of bounded characters chi_z(n) = z^n.
+    - (Page 9) Compute the functions associated with the cyclic group of Z_N.
+    - (Page 9) Compute the dual group for omega_N exp(2 pi i/N).
+    - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0.
+    - (Page 10) Compute <f, chi> as an integral for f in L^1.
+    - (Page 10) Compute f in terms of an integral with its Fourier transform and its characters over the Haar measure, and in temrs of an inner product with chi.
+    - (Page 10) Compute f(x) using an inversion formula and the Fourier transform over the Haar measure.
+    - (Page 10) Compute for T(chi) = m(chi) chi (i.e. chi an eigenvector of T), an integral form for Tf. Hence compute the multiplier of T for T commuting with infinite sums.
+    - (Page 10) Compute Tf given that f is integral of delta_x f(x) d mu(x) over G, T as kernel of a linear operator. Then determine Tf(y).
+    - (Page 13) Compute the Fourier transform of a conbolution. Then pick m = Fourier transform of the impulse repsonse.
+    - (Page 14) Take the convolution of f * g and express it as an infinite linear combination of translates of g.
+    - (Page 14) Compute f * g, f * (g * h).
+    - (Page 14) Compute for the case of g = 1_B / mu(B), the convolution of f * g(y). What does g represent?
+    - (Page 15) Compute Tf(y) for bounded operators.
+    - (Page 16) Compute a bound of |Tf(y)| using Holder's inequality using the hypothesis for Holder's inequality.
+    - (Page 18) Compute f * g(y) for the case G = R^d.
+    - (Page 19) Compute D^\alpha(f * g) in terms of g by understanding that f * g inherits regularity.
+    - (Page 20) Compute all translation invariant operators for the group Z using Minkowski's inequality.
+    - (Page 21) Compute the integral fof k_eps where k_eps belongs to an approximate identity. Compute the bound on the integral of |k_eps|. Compute the limit of this for |x| > delta for delta > 0.
+    - (Page 22) Compute the f * k_eps(x) using topology, where k_eps is an approximate identity in terms of a ball.
+    - (Page 23) Compute the proper form of the Poisson family in terms of a Gamma function.
+    - (Page 24) Compute f - f * k_eps and a bound for it using the continuous Minkoski's inequality, where k_eps is an approximation of the identity and f is in L^p space.
+    - (Page 25) Compute T(f * f) for a bounded operator T from L^p(R^d) to L^q(R_d) that is a translation invariant operator, 1 <= p,q < +infty.
+    - (Page 26) Compute T(f * g) for f * g convergent in L^p and commuting with translations. Compute T(tau_x g) if T also commutes with convolutions.
+    - (Page 27) Take an approximation of the identity k_eps with a C^\infty with compact support and check the convolution, what does it tend to in L^p. Now do this computation for an open set U in R^d. Then prove that the space of infinitely differentiable functions C^\infty(T^d) is dense in all L^p(T^d) spaces.
+    - (Page 28) Compute f, for all psi in compactly supported in infinitely differentiable functions if integral of f(x) psi(x) dx is equal to 0. (Hint: think about linear independence.) Perform the same computations for a ball.
+    - (Page 29) Compute (g * Tk_eps_n)(x) to prove that the general form of a translation linear operator is convolution with finite complex Borel measure.
+    - (Page 30) Compute Fourier series of a periodic function f.
+    - (Page 31) Compute the dot product as an integral of two orthonormal basis vectors of L^2(T). Which theorem implies that their finite linear combinations are dense. Compute the sum of |c_n(f)|^2. Compute the sum of c_n(f) * conjugate of c_n(g).
+    - (Page 32) Compute the decomposition of the Fourier coefficients of f * g, * is convolution.
+    - (Page 33) compute the sum of exp(2 pi i n t) from -N to N, this is the Dirichlet kernel.
+    - (Page 34) Compute the partial sums of S_N(f) = sum of c_n(f) exp(2 pi i x) from -N to N.
+    - (Page 35) Compute the Fejer kernel or (S_0(f) + ... S_N(f))/N+1 which is the Fejer kernel sigma_N(f).
+    - (Page 36) Compute the solution of the Dirichlet problem for f(t) = exp(2 pi i n x).
+    - (Page 37) Compute the full expression of the Poisson Kernel P_r.
+    - (Page 41) Check that a bounded operator for case p = 1 and p = 2.
+    - (Page 42) Compute the Foruier series of a function on T^d as a sum of Sf(T) using compactness.
+    - (Page 46) Compute the conjugate of D_lambda f(eps).
