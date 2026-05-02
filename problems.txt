@@ -1183,9 +1183,9 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
     - (Page 5) Compute for chi(x+y) knowing that tau_x tau_y = tau_{x+y}.
     - (Page 6) Compute the image of a complex character.
     - (Page 6) Compute the image of a bounded character.
-    - (Page 7) Compute the characters of a group as eigenvectors.
+    - (Page 7) Compute the characters of a group as eigenvectors, under what conditions can be set for translation invariant operators for this to happen?
     - (Page 7) Simplify (T chi)(y - x) by having T commute with translations. Then, set y = 0 and get the eigenvector equation by choosing a particular value for lambda.
-    - (Page 8) Compute the integral of chi(z) from x to x+h. Then infer from this chi(x) integral chi(y) dy and use this fact to determine the derivative of y. Hence, compute chi(x) in terms of a familar function. 
+    - (Page 8) Compute the integral of chi(z) from x to x+h. Then infer from this chi(x) integral chi(y) dy and use this fact to determine the derivative of y. Hence, compute chi(x) in terms of a familiar function. 
     - (Page 8) Impose the bounded condition to substitute an alpha to get a basis vector e_eps(x). 
     - (Page 8) Compute the dual group of R^d. Compute the dual group of T^d.
     - (Page 9) Compute for map n to z^n, z in C^d, the character denoting bounded characters chi_z(n) = z^n.
@@ -1218,7 +1218,7 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
     - (Page 30) Compute Fourier series of a periodic function f.
     - (Page 31) Compute the dot product as an integral of two orthonormal basis vectors of L^2(T). Which theorem implies that their finite linear combinations are dense. Compute the sum of |c_n(f)|^2. Compute the sum of c_n(f) * conjugate of c_n(g).
     - (Page 32) Compute the decomposition of the Fourier coefficients of f * g, * is convolution.
-    - (Page 33) compute the sum of exp(2 pi i n t) from -N to N, this is the Dirichlet kernel.
+    - (Page 33) Compute the sum of exp(2 pi i n t) from -N to N, this is the Dirichlet kernel.
     - (Page 34) Compute the partial sums of S_N(f) = sum of c_n(f) exp(2 pi i x) from -N to N.
     - (Page 35) Compute the Fejer kernel or (S_0(f) + ... S_N(f))/N+1 which is the Fejer kernel sigma_N(f).
     - (Page 36) Compute the solution of the Dirichlet problem for f(t) = exp(2 pi i n x).
@@ -1226,3 +1226,66 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, Fourier analysis
     - (Page 41) Check that a bounded operator for case p = 1 and p = 2.
     - (Page 42) Compute the Fourier series of a function on T^d as a sum of Sf(T) using compactness.
     - (Page 46) Compute the conjugate of D_lambda f(eps).
+    - (Page 47) Compute the coefficients of P(D) for P(D) a differential operator with constant coefficients, what are its basic elements.
+    - (Page 47) Compute the multiplier of P(D), it must exist because ti is translation invariant. Substitute this into the expression for P(D)^ f(eta) to compute the Fourier transform.
+    - (Page 48) Compute for T invariant by rigid motions an alternative expression for T(f_A) for orthogonal matrices. Compute the multiplier for instance. 
+    - (Page 48) Compute the multiplier of the Laplace operator. Compute the basis element of radial polynomials for differential operators invariant by rigid motions. What polynomial can be computed if a differential operator is invariant by rigid motions.
+    - (Page 49) Compute the typical shape of the Dirchlet kernel.
+    - (Page 49) Compute f, and hence f(x) using a suitable inner product for the Dirichlet Kernel.
+    - (Page 49) Compute (S_R^c f)(x) for a Dirichlet kernel. This can be expressed in tersm of a convolution, and ultimately a product. Is this integrable?
+    - (Page 49) Compute (S_R^v f)(x) for a Dirichlet kernel. 
+    - (Page 50) Compute the means of a Dirichlet kernel D_R as an approximation of the identiy, this can be given in terms of a convolution. Hence convutes F(x) as a product.
+    - (Page 51) Compute f_phi(eps, x) for a Poisson mean.
+    - (Page 51) Compute the Fourier transform of Phi(Eps psi). And also compute the Fourier transform of exp(2 pi i x eta) Phi(eps Psi) so that you can compute f_Phi(eps, x) to be some sort of convolution.
+    - (Page 51) Choose a condition for Phi so that there is an approximation of the identity.
+    - (Page 52) Make a selection for phi(x) for the heat diffusion, compute its Fourier transform so  that it is equal. Then compute f_phi(Eps x) so that it is equal to its convolution (f * phi_eps)(x), then with your choice of phi so that it becomes an approximation of the identity, compute the Fourier transform at 0, then prove the unicity theorem and the inversion theorem. Hence, compute an expression for the Fourier co-transform.
+    - (Page 52) Compute an expression for the solution to the heat equation using the Fourier co-transform and heat diffusion.
+    - (Page 53) Compute for any continuous function, a suitale choice of phi(0).
+    - (Page 53) Compute for phi(x) = exp(- 2 pi |x|), the Abel means, the Fourier transform, and hence determine an expression for the Dirichlet problem in half space.
+    - (Page 54) Compute the Schwarz class of of C^\infty functions in terms of a limit that is dense in all L^p spaces and contains C_c^\infty(R^d). Compute its Fourier transform, and check what convolutions transform to.
+    - (Page 54) Prove Plancherel's identity by using the fact that Fourier transform is an isometry of the Schwarz class that is extended through whole of L^2 as an integral.
+    - (Page 55) Compute an integral basis for f, e_psi not in L^2(R^d) and hence define the true orthonormal basis.
+    - (Page 55) Compute the kernel K(x, eta), and its modulus. Hence compute the integral of the modulus sqaured of the Fourier transform. Hence compute the integral of exp(2 pi i eta x) as a Dirac delta.
+    - (Page 56) Compute the diagonalisation in the Fourier basis of a bunded operator T^ f(psi)
+    - (Page 56) Compute the general form of T, for p = 1, Tf = ?, for p = 2 T^hat f(eta) = ?. 
+    - (Page 57) Compute the value of P^2 a projection operator onto E, and also check which space is f - Pf orthogonal to for Pf in E.
+    - (Page 57) Compute P^2 = P and determine which values can be used for this.
+    - (Page 57) Compute using Beurling's theorem the span of L^2(R^d) for a nonzero Fourier transform f^.
+    - (Page 59) Compute the integrlal of f(x) phi(x) = g(x) phi(x) for all phi in D(U) dense in all L^p(U) space and draw a conclusion of injection.
+    - (Page 59) Compute the codomain of a distribution on U.
+    - (Page 59) Compute the support when phi_n tends to 0, and hence compute u(phi_n for this case). Compute u(phi) as an inner product.
+    - (Page 60) Compute the combination of Dirac measures at a for discrete sets.
+    - (Page 61) Comptue <p.v. 1/x, phi> and check that this is not a function or a measure. Check that the limit exists for this.
+    - (Page 62) Compute for phi a distribution, the integral of tau_x f(y) phi(y) recalling that tau_x is a translation. Then, one obtains a definition as an adjoint inner product.
+    - (Page 62) Compute the derivative of a distribution <D^\alpha u, phi>.
+    - (Page 62) Compute the derivative of a heaviside step function in temrs of an integral using an inner product formula i.e. - integral phi'(x) dx from 0 to infty.
+    - (Page 62) Compute (u_f)'.
+    - (Page 63) Compute the derivative of log |x| using distribution theory.
+    - (Page 64) Compute u_n -> u in terms of distribution theory. Check that therefore differentiation is contionuous.
+    - (Page 64) Compute the aprtial sum of a trigonometric series with inner product the distribution.
+    - (Page 65) Compute the domain and codomain of a distribution with compact support. Compute the class of functions that it is able to act against for a operator T with compact support. Compute the limit of <T, phi_n> for a continuous distribution with compact support.
+    - (Page 66) Compute the derivative of f(X) = 0.5 + i/(2 pi) sum exp(2 pi i n/a x)/n.
+    - (Page 67) Compute the definign equation for the Fourier transform of distribution. Pick a space that is invariant by Fourier transform. Hence define a tempered distribution using an image and coimage.
+    - (Page 67) Compute the supremum of |x|^|beta| |D^\alpha phi_n(x)| as n -> infty and hence compute the limit of <u, phi_n> for a continuous temperatre distribution.
+    - (Page 68) Compute |f(x)| in order of magnitude operation for those with slow growth.
+    - (Page 70) Compute the Fourier transform of a Dirac delta.
+    - (Page 70) Compute the Dirac transform of a sum of Dirac deltas for n many Dirac deltas. Compute for the case of Delta_1 its Fourier transform.
+    - (Page 70) Compute the Fourier transform of p.v. 1/x.
+    - (Page 71) Compute f^(z) as an integral, an entire function in C^d. Check whether it has compact support in R^d.
+    - (Page 72) Compute <u, phi^> and hence determine u^ as a restriction to R^d o an entire function and where does it belong to. What theorems characterise the class of entire functions.
+    - (Page 73) Compute the convolution expression of distributions u, i.e. compute (g * u)(x), where * is convolution.
+    - (Page 73) Compute D^\alpha(g * u), where * is convolution.
+    - (Page 73) Compute the Fourier transform of phi * u, where * is convolution.
+    - (Page 73) Compute the Fourier transform of phi u as a product.
+    - (Page 74) Compute <g * f, phi> as an integral form. And hence produce a definition.
+    - (Page 74) Compute delta * u, delta is Dirac delta, u is distribution.
+    - (Page 74) Compute D^alpha(u * v). What does one get? (Hint: product rule)
+    - (Page 75) Compute T(phi) for T a translation linear operator and compute this using translation invariance.
+    - (Page 76) Compute omega(u) in terms of an inner product for D'(R^d) -> C using the fact that the space is reflexive.
+    - (Page 76) Compute by testing phi on every continuous linear functional on Eps'(R^d). What property is used in this computation?
+    - (Page 77) Compute using Hormander's theorem T(phi * psi) using convolution as a product rule and commutation, hence compute phi^ * (T psi)^, where* is convolutionb. Hence compute (T psi)^ in terms of m. What kernel can be chosen to restrict where m belongs?
+    - (Page 78) Compute T(E) for E a fundamental solution and T a translation invariant operator. Hence compute T(E * f) when E * f make sense. Hence state Malgrange-Ehrenpreis theorem.
+    - (Page 78) Compute the fundamental solution and m(eta) for the Laplacian for cases d > 2 and d = 2. Hence compute the Laplacian of E * f.
+    - (Page 78) Compute using Laplacian u = f, and f = C^\infty, where does u belong and an equation using Weyl's lemma.
+    - (Page 79) Compute sum of phi(na), sum of  phi(x-na) and its Fourier transform using the Poisson's summation formula.
+    - (Page 80) Compute for f a a-periodic function as a sum of c_n(F) exp(2 pi n/a x), its Fourier trasnform, with phi if it is viewed as a tempered distribution.
