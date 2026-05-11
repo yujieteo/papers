@@ -1194,23 +1194,26 @@ https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAl
     - (Page 240) Compute the polynomial associated with (a_1 + a_2)^e. Then compute that (a_1 + a_2)^e = a_1^e + a_2^e.
 
 https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysis
-    - (Page 4) Compute the coefficients used in the typical Fourier series. Note that it is an integral in [0,1] in this case, why? This equation is typically used to solve for string vibration and heat diffusion.
-    - (Page 4) Compute an non-periodic arbitrary function, the integral form of f(x) that appears in the coefficients.
+    - (Page 4) Compute the coefficients used in the typical Fourier series (HINT: you need to compute an inverse Fourier transform of a functional, what is the kernel of this integral?). Note that it is an integral in [0,1] in this case, why? This equation is typically used to solve for string vibration and heat diffusion.
+    - (Page 4) Compute an non-periodic arbitrary function, the integral form of f(x) that appears in the coefficients. (Hint: the domain is different)
     - (Page 5) Compute tau_x(f)(y), where tau a translation operator.
-    - (Page 5) Compute tau_x(Tf) for a translation invariant operator. Hint, one can factor out chi(-x) from the expression.
-    - (Page 5) Compute the coefficients in a differential operator that is time invariant. The operator can be expressed as a polynomial in D, compute the characteristic polynomial. (Hint: time invariant means it does not vary with time)
-    - (Page 5) Compute for chi(x+y) knowing that tau_x tau_y = tau_{x+y}.
-    - (Page 6) Compute the superset of all images of a complex characters using the definition.
-    - (Page 6) Compute the superset of all images of a bounded characters using the definition.
-    - (Page 7) Compute the characters of a group as eigenvectors, under what conditions can be set for translation invariant operators for this to happen?
+    - (Page 5) Compute tau_(Tf) in terms of T where T is a translation invariant operator (tip) that is a endomap from E to E, where E is a translation invariant space. Hint: what operators can be factored out as coefficients.
+    - (Page 6) Compute the coefficients in a TIME INVARIANT differential operator. The operator can be expressed as a polynomial in D, compute the characteristic polynomial. (Hint: time invariant means it does not vary with time)
+    - (Page 6) Compute tau_x(Tf) for a translation invariant operator. Hint, one can factor out chi(-x) from the expression.
+    - (Page 6) Compute for chi(x+y) knowing that tau_x tau_y = tau_{x+y}.
+    - (Page 6) Compute for chi(x+y) knowing that tau_x tau_y = tau_{x+y}. and tau_f in terms of chi(-x). Substitute y = 0, then compute f(-x) and hence realise f is a scalar multiple of chi.
+    - (Page 6) Compute the superset of all images of a complex character using the definition.
+    - (Page 6) Compute the superset of all images of a bounded character using the definition.
+    - (Page 7) Compute the characters of a group as eigenvectors, under what conditions can be set for translation invariant operators for this to happen? (Hint: compute the major example on page 6, substitute y = 0).
     - (Page 7) Simplify (T chi)(y - x) by having T commute with translations. Then, set y = 0 and get the eigenvector equation by choosing a particular value for lambda.
-    - (Page 8) Compute the integral of character chi(z) from x to x+h using a linear shift on x. One obtains an integral from 0 to h Then infer from this chi(x) integral chi(y) dy and use this fact to determine the derivative of chi with respect to y, where y takes the role of dx. Hence, compute chi(x) in terms of a familiar function using the computation that chi'(x) = chi'(0) chi(x) using calculus 
-    - (Page 8) Impose the bounded condition (what does this mean on the torus?) to substitute an alpha to get a basis vector e_eps(x). 
+    - (Page 8) Compute the integral of character chi(z) from x to x+h using a linear shift on x. One obtains an integral from 0 to h Then infer from this chi(x) integral chi(y) dy and use this fact to determine the derivative of chi with respect to y, where y takes the role of dx. Hence, compute chi(x) in terms of a familiar function using the computation that chi'(x) = chi'(0) chi(x) using calculus, what sort of antiderivative fits here?
+    - (Page 8) Impose the non-bounded condition for chi(x) = exp(alpha x) on alpha to get a formula for alpha * x.
+    - (Page 8) Impose the bounded condition (what does this mean on the torus?) to substitute an alpha to get a basis vector e_eps(x). (Hint: there is periodicity due to the bounded condition, so it appears as 2 pi i n).
     - (Page 8) Compute the dual group of R^d. Compute the dual group of T^d.
-    - (Page 9) Compute for map n to z^n, z in C^d, the character denoting bounded characters chi_z(n) = z^n.
-    - (Page 9) Compute the functions associated with the cyclic group of Z_N.
+    - (Page 9) Compute for map n to z^n, z in C^d, the character denoting bounded characters chi_z(n) = z^n. (Hint: we hav concluded that alpha appears as 2 pi i n, therefore one just substitutes it into the expression.)
+    - (Page 9) Compute the functions associated with the cyclic group of Z_N. (Hint: you will need a definition of the roots of unity).
     - (Page 9) Compute the dual group for omega_N exp(2 pi i/N).
-    - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0. (Hint: linear algebra)
+    - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0. (Hint: linear algebra, and the definition of independence)
     - (Page 10) Compute <f, chi> as an integral for f in L^1 space, chi a character. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers)
     - (Page 10) Compute f in terms of an integral with its Fourier transform and its characters over the Haar measure, and in terms of an inner product with chi. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers)
     - (Page 10) Compute f(x) using an inversion formula and the Fourier transform over the Haar measure.
