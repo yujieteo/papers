@@ -1169,6 +1169,25 @@ https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf
     - (Page 23) Compute the desired ring for k[x] in an indeterminate x over k, f(x) = 0. The ideal of a polynomial ring is called a modular system or modules.
     - (Page 25) Conpute the group associated with invariance of coordinates acting on GL_n(k).
 
+https://www.math.toronto.edu/~ila/Lang%20--%20Algebraic%20number%20theory.pdf, Lang's algebraic number theory
+    - (Page 3) Compute the localisation of A by defining M as a set of nonunits.
+    - (Page 4) Compute S^-1(a' cap A), a' as an ideal of S^-1 A. 
+    - (Page 4) Compute that sx is in a' cap A by checking that x = a/s for a' in S^-1A for some a in A and s in S.
+    - (Page 5) Compute the equation for xM in M or x is integral over A, for M an A-module. Work over commmutative rings.
+    - (Page 5) Compute the existence of nonzero elements for cx integral over A for x algebraic over K, where K is the quotient field over A.
+    - (Page 6) Compute the product of two A-modules fg, then show that the integral closure is a ring. What are the ring operations? Use the definition that xM in M, yN in N, then show that MN is finitely generated with automorphic maps by multiplication with x +- y and xy.
+    - (Page 6) Compute fror each isomorphism sigma of L over K, L to K integral over A, for element x of L as finite separable extension of K quotient field integral over A, the norm and trace. Check that the norm and trace are all integral over A. What are they? (Hint: these are coefficients of the irreducible polynomial that are obtained from the elementary symmetric functions of the sigma x).
+    - (Page 6) Compute the kernel of (x,y) -> Tr(xy), and vice versa. Therefore, conclude that for L a finite separable extension of its quotient field, L is isomorphic to its dual under bilinear form.
+    - (Page 7) Construct, for z in L, a finite separable extension over L, an element zcw' integrable over A, using a suitable definition of z. Hence compute Tr(czw), then construct a module for integrtable closure to be contained in it.
+    - (Page 8) Construct the commutative diagram used to demonstrate lying over.
+    - (Page 9) Compute the equation needed for induction for Nakayama's lemma.
+    - (Page 10) Compute, for B containing A and B being integral over A< the construction M cap B for local rings.
+    - (Page 10) Compute an element of b cap A, b an ideal of B lying over A, nonzero.
+    - (Page 10) Let p be a amximal ideal, A a field, compute A/p, and compute tis field.
+    - (Page 11) Construct an appropriate definition of residue classes for use with the Chinese Remainder Theorem.
+    - (Page 12) Compute an appropriate sum of a_i^v_i for sum of a_i = A such that a_i + a_j = A. Hint: this is related to the Chinese Remainder Theorem.
+    - (Page 12) Draw the Chinese Remainder Theorem in terms of Zariski opens.
+
 https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann's commutative algebra
 
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra
