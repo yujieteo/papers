@@ -702,7 +702,39 @@ https://www.math.purdue.edu/~jlipman/MA598/Serre-Course%20in%20Arithmetic.pdf, S
     - Compute the group formed by the homomorphisms of a group G into the multiplicative group of complex numbers (hint: Hom).
     - Compute a cyclic group of operator n with generator s, chi a character of G, compute w^n, for w = chi(s). Conversely, compute for every n-th root of unity w using the map s^a -> s^a. So chi -> chi(s) is an isomorphism on which group?
 
-https://prclare.people.wm.edu/m410f23/Serre_Complex_semisimple_Lie_algebras.pdf, Serre's Complex Semisimple Lie Algebras
+https://prclare.people.wm.edu/m410f23/Serre_Complex_semisimple_Lie_algebras.pdf, Serre's Complex Semisimple Lie Algebras Chapter 1
+    - (Page 1) Compute C^2 g for a lower central series.
+    - (Page 1) Compute C^n g for a nilpotent Lie algebra.
+    - (Page 1) Compute C^2 g for an abelian Lie algebra.
+    - (Page 1) Compute C^n g which is the lower central series of g in terms of a commutator bracket.
+    - (Page 1) Compute for g nilpotent of class less than r, C^{r+1}.
+    - (Page 2) Compute the end of a descending series of ideals from a_0 containing a_1, ..., to a_r for g = a_0 and g is nilpotent of class r.
+    - (Page 2) Compute [x_0, [x_1, [..., x_r]...]] = (ad x_0)(ad x_1)...(ad x_{r-1})(x_r) = 0.
+    - (Page 2) Compute the end of a flag D = D_i of a finite dimensional vector space. Compute the codim D_i = i.
+    - (Page 2) Compute C^n (g/a) for g a nilpotent Lie algebra, and a an ideal contained in the center of g. Warning, nilpotent algebras are those that can form from abelian algebras by central extensions, however an extension of nilpotent Lie algebras is not in general nilpotent.
+    - (Page 3) Compute C^n (ad x) for each x in g for a nilpotent Lie algebra by applying Engel's Theorem 1.
+    - (Page 3) Compute the derived series D^1 g in terms of the Lie bracket.
+    - (Page 3) Compute the derived series D^2 g in terms of the Lie bracket.
+    - (Page 3) Compute [D^{n-1} g, D^{n-1} g] in terms of the Lie bracket.
+    - (Page 3) Compute D^n g for g a solvable Lie algebra.
+    - (Page 3) Compute D^r+1 g for a Lie algebra g solvable of derived lenth r.
+    - (Page 3) Compute D^n g for a nilpotent Lie algebra.
+    - (Page 3) Compute D^n g for a subalgebra of a solvable algebra.
+    - (Page 3) Compute D^n g for a quotient of a solvable algebras.
+    - (Page 3) Compute D^n g for a extension of solvable algebras.
+    - (Page 3) Compute D^n b(D) for b(D) subalgebra of End(V) consisting of the x in End(V) such that x(D_i) in D_i, for a flag D of a vector space V.
+    - (Page 4) Compute g = a_0 in a_1 all the way to a_r for a solvable Lie algebra g of derived length <= r. Then compute the superset containing the commutator [a_i, a_i]. What can one conclude that a_i/a_i+1? What does this say about solvable Lie algebras?
+    - (Page 4) Compute the dimension of finite dimensional g-modules for g a solvable Lie algebra using Lie's theorem
+    - (Page 4) Compute the Tr(x, y) for x in g, y in [g,g] for a solvable Lie algebra.
+
+https://prclare.people.wm.edu/m410f23/Serre_Complex_semisimple_Lie_algebras.pdf, Serre's Complex Semisimple Lie Algebras, Chapter 2
+    - (Page 5) Compute the largest solvable ideal r of g, what is it called?
+    - (Page 5) Let g be a Lie algebra, if a and b are solvable ideals of g, compute the value of D^n(a + b) for n large. Prove this.
+    - (Page 5) Compute the radical of a semisimple Lie algebra. Compute the radical of a Lie algebra with nondegenerate Killing form.
+    - (Page 5) Compute the value of the radical of g/r, g a Lie algebra and r is its radical.
+    - (Page 5) Compute using the fact that s of g is a complete of r, a Lie subalgebra s. The, use the projection s -> g/r being an isomorphism to compute the radical of s. Lastly, compute that g is a semidirect product (of what?) using the Levi decomposition.
+    - (Page 5) Compute B([x,y],z) + B(y, [x,z]) for an invariant bilinear form B: g x g -> k. Hence, compute Tr(ad x * ad y) for an invariant bilinear form.
+    - (Page 5) Compute the Killing form B(x,y) of orthogonal space a' of a with respect to an invariant bilinear form using Corollary 3.
 
 https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnortop.pdf, Milnor's Topology from a Differentiable Viewpoint
     - Check that the direct and inverse of from (x,y) -> (x,y, root(1-x^2-y^2)) admits all partial derivatives and serves as covers of S^2.
