@@ -1210,14 +1210,14 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysi
     - (Page 8) Impose the non-bounded condition for chi(x) = exp(alpha x) on alpha to get a formula for alpha * x.
     - (Page 8) Impose the bounded condition (what does this mean on the torus?) to substitute an alpha to get a basis vector e_eps(x). (Hint: there is periodicity due to the bounded condition, so it appears as 2 pi i n).
     - (Page 8) Compute the dual group of R^d. Compute the dual group of T^d.
-    - (Page 9) Compute for map n to z^n, z in C^d, the character denoting bounded characters chi_z(n) = z^n. (Hint: we hav concluded that alpha appears as 2 pi i n, therefore one just substitutes it into the expression.)
+    - (Page 9) Compute for map n to z^n, z in C^d, the character denoting bounded characters chi_z(n) = z^n. (Hint: we have concluded that alpha appears as 2 pi i n, therefore one just substitutes it into the expression.)
     - (Page 9) Compute the functions associated with the cyclic group of Z_N. (Hint: you will need a definition of the roots of unity).
-    - (Page 9) Compute the dual group for omega_N exp(2 pi i/N).
+    - (Page 9) Compute the dual group for omega_N = exp(2 pi i/N).
     - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0. (Hint: linear algebra, and the definition of independence)
     - (Page 10) Compute <f, chi> as an integral for f in L^1 space, chi a character. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers)
     - (Page 10) Compute f in terms of an integral with its Fourier transform and its characters over the Haar measure, and in terms of an inner product with chi. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers)
     - (Page 10) Compute f(x) using an inversion formula and the Fourier transform over the Haar measure.
-    - (Page 10) Compute for T(chi) = m(chi) chi (i.e. chi an eigenvector of T), an integral form for Tf. Hence compute the multiplier of T for T commuting with infinite sums.
+    - (Page 10) Compute for T(chi) = m(chi) chi (i.e. chi an eigenvector of T), an integral form for Tf. Hence, compute the multiplier of T for T commuting with infinite sums.
     - (Page 10) Compute Tf given that f is integral of delta_x f(x) d mu(x) over G, T as kernel of a linear operator. Then determine Tf(y).
     - (Page 11) Convert the kernel of the integral of the Fourier transform of chi multiplied by chi into a inner product, and hence draw a conclusion on chi as a orthonormal basis. Then, derive the inversion formula of the Fourier transformation i.e. the value of f(x).
     - (Page 11) Compute using the fact that T commute with infinite sums, and using chi as an eigenvector of T i.e. T(chi) = m(chi) chi, an expression for Tf, and then Tf(x). Therefore, conclude that m as a multiplier of T makes sense and can be defined.
