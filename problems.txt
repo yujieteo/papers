@@ -1224,6 +1224,8 @@ https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann
 
 https://stacks.math.columbia.edu/download/chow.pdf, Chow homology and Chern classes in Stacks. 198 pages.
 
+https://www.mit.edu/~9.520/fall16/slides/mathcamp/mathcamp2016-fa-slides.pdf, functional analysis review
+
 https://stacks.math.columbia.edu/download/intersection.pdf, intersection theory in Stacks.
     - (Page 2) Compute the minimum dimension of any irreducible component of V cap W for two irreducible closed subvarieties in nonsingular projective X.
     - (Page 2) Compute the intersection multiplicity using length of O_X,Z and Tor_i^O_{X,Z}(O_W,Z, O_V,Z) for e_Z = e(X, V * W, Z) for the case where V and W are Cohen-Macaulay in the generic point of Z. What does this mean for Tor_0?
