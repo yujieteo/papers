@@ -1195,7 +1195,7 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
     - (Page 114) Check that a self adjoint endomorphism of V is diagonalisable in orthonormal basis and that all eigenvalues are real using a theorem.
     - (Page 114) Using a formula for A an Hermitian matrix in M_n(C), compute SAS^-1, S is unitary matrix.
 
-https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf
+https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf, Eisenbud's commutative Algebra
     - (Page 22) Compute the product of x - (zeta)^{2i+1}y. What does this have to do with Fermat's last theorem?
     - (Page 22) Compute the representative of the ideal (2). Determine the representative up to what sort of numbers in the ring?
     - (Page 23) Compute the desired ring for k[x] in an indeterminate x over k, f(x) = 0. The ideal of a polynomial ring is called a modular system or modules.
@@ -1210,7 +1210,7 @@ https://www.math.toronto.edu/~ila/Lang%20--%20Algebraic%20number%20theory.pdf, L
     - (Page 6) Compute the product of two A-modules fg, then show that the integral closure is a ring. What are the ring operations? Use the definition that xM in M, yN in N, then show that MN is finitely generated with automorphic maps by multiplication with x +- y and xy.
     - (Page 6) Compute fror each isomorphism sigma of L over K, L to K integral over A, for element x of L as finite separable extension of K quotient field integral over A, the norm and trace. Check that the norm and trace are all integral over A. What are they? (Hint: these are coefficients of the irreducible polynomial that are obtained from the elementary symmetric functions of the sigma x).
     - (Page 6) Compute the kernel of (x,y) -> Tr(xy), and vice versa. Therefore, conclude that for L a finite separable extension of its quotient field, L is isomorphic to its dual under bilinear form.
-    - (Page 7) Construct, for z in L, a finite separable extension over L, an element zcw' integrable over A, using a suitable definition of z. Hence compute Tr(czw), then construct a module for integrtable closure to be contained in it.
+    - (Page 7) Construct, for z in L, a finite separable extension over L, an element zcw' integrable over A, using a suitable definition of z. Hence compute Tr(czw), then construct a module for integrable closure to be contained in it.
     - (Page 8) Construct the commutative diagram used to demonstrate lying over.
     - (Page 9) Compute the equation needed for induction for Nakayama's lemma.
     - (Page 10) Compute, for B containing A and B being integral over A< the construction M cap B for local rings.
