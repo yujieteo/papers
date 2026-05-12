@@ -1384,40 +1384,70 @@ https://websites.umich.edu/~viktorb/etale_summer2020/Notes/cohomology-of-number-
     - (Page 2) Compute the etale cohomology of H^r(K_v, F) for K_v = Frac(O^h_K,v) where O^h_K,v is the henselisation of O_K,v, for v COMPLEX, for both cases of r even and r odd. Why?
     - (Page 2) Compute the direct sum decomposition of ths sheaf of Weil divisors Div_U.
 
+https://arxiv.org/pdf/1703.02325, homological algebra for characteristic one.
+
 https://people.brandeis.edu/~igusa/Math131b2021/A-SlidesComplete.pdf, homological algebra slides
-    - (Page 2) Compute the commutative diagram with unique morphism defining products in a category. Compute products in the category of sets and the caetgory of R-modules.
+    - (Page 2) Compute the commutative diagram with unique morphism defining products in a category. Compute products in the category of sets and the category of R-modules.
     - (Page 3) Compute the commutative diagram with unique morphism defining coproducts in a category. Compute products in the category of sets and R-modules.
     - (Page 4) Compute (f_1 + f_2) * g in a additive category.
     - (Page 4) Compute Hom_C(X,0) in an additive category.
-    - (Page 5) Compute a canonical isomorphism A oplus B, oplus being direct sum in a semiadditive category.
+    - (Page 5) Compute a canonical isomorphism A oplus B, oplus being direct sum in a semiadditive category. See Conne's notes on semiadditive categories.
     - (Page 7) Compute the commutative diagram associated with the kernel of a morphism from f: A -> B.
-    - (Page 8) Compute the kernels in finitely generated right R-modules.
+    - (Page 8) Compute the kernels in finitely generated right R-modules. (Hint: it is empty, why?)
     - (Page 9) Compute the commutative diagram associated with the cokernel of a morphism from f: A -> B.
     - (Page 10) Compute the commutative diagram associated with any epimorphism from A to B.
     - (Page 11) Compute the projective objects in the power set of Z.
     - (Page 12) Compute the commutative diagram associated with injective objects.
     - (Page 13) Compute the injective envelope E(M) for any R-module M over any ring that contains M. Start by computing the dual as a hom-set from M to ? (Hint: what is the injective cogenerator in the category of abelian groups? For every abelian group A and non-zero element a in A, there is a homomorphism A -> ? that maps a to something non-zero.). Use duality to compute a canonical image of direct sums under duality.
-    - (Page 15/16/17) Using the tensor-hom adjunction, compute Hom_R(M_R, Hom_Z(R^N, T)) as a tensor product. Then substitute N = R and use an isomorphism of M otimes_R R by computing the element x otimes r using the adjunction formula. Compute the result of an evaluation map taking m to ??, then compute an embedding of M to its double dual. Hence using the fact that for F a free left R-module mapping into M^, p: F ->> M^, since Hom is left exact, then p^sharp: M^^ injects into F^ has a monomorphism, then compose these morphisms to show that M embeds in an injective module. Note that this constructs an injective hull, which is useful for injective resolutions. However, it is easier to construct projective resolutions. Given a module ove ra ring, find a projective module that surjects onto it by taking gnerators, and computing a map from a free module and resolving the relations.
-    - (Page 18) Compute a formula for the factorisation of x in terms of y for any integer n in a divisible additive group. Knowing that every quotient of a divisible group is divisible, and that every module M embeds in its injective envelop, infer that an abelian group is divisible iff it is an injective Z-module.
+    - (Page 15/16/17) Using the tensor-hom adjunction, compute Hom_R(M_R, Hom_Z(R^N, T)) as a tensor product. Then substitute N = R and use an isomorphism of M otimes_R R by computing the element x otimes r using the adjunction formula. Compute the result of an evaluation map taking m to ??, then compute an embedding of M to its double dual. Hence using the fact that for F a free left R-module mapping into M^, p: F ->> M^, since Hom is left exact, then p^sharp: M^^ injects into F^ has a monomorphism, then compose these morphisms to show that M embeds in an injective module. Note that this constructs an injective hull, which is useful for injective resolutions. However, it is easier to construct projective resolutions. Given a module over a ring, find a projective module that surjects onto it by taking gnerators, and computing a map from a free module and resolving the relations.
+    - (Page 18) Compute a formula for the factorisation of x in terms of y for any integer n in a divisible additive group. Knowing that every quotient of a divisible group is divisible, and that every module M embeds in its injective envelope, infer that an abelian group is divisible iff it is an injective Z-module.
     - (Page 19) Check that for essential embeddings A into B, the intersection between nonzero submodule C in B that meets A is nonzero.
     - (Page 19) Compute what is E(M) if there is an essential embedding into E(M) and E(M) is injective.
-    - (Page 20) Compute the imge of the epimmorphism for each object in the chain associated with a projective resolution which terminates at M -> 0, check that every morphism is an epimorphism on the kernel onto its next morphism.
-    - (Page 21) Compute the composition of two maps in a chin complex.
+    - (Page 20) Compute the image of the epimmorphism for each object in the chain associated with a projective resolution which terminates at M -> 0, check that every morphism is an epimorphism on the kernel onto its next morphism.
+    - (Page 21) Compute the composition of two maps in a chain complex.
     - (Page 21) Compute the commutative diagram associated with morphisms of chain complexes.
     - (Page 21) Compute the rule of maps associated with chain maps as morphisms of chain complexes.
     - (Page 22) Compute the commutative diagram associated with two homotopic chain maps. (Hint: g_n - f_n: C_n -> D_n).
     - (Page 23) Compute the factorisation of every morphism of A to B for I the image of f in the morphism f from A to B in an abelian category. Check that A is the kernel of the epimorphism and C is the cokernel of the monomorphism in a short exact sequence A and B.
-    - (Page 24) Compute the n-th homology of C_* for C_* d_* a chain complex. Compute the short exact sequence associated with this in terms of Z_n, C_n and B_n-1
+    - (Page 24) Compute the n-th homology of C_* for C_* d_* a chain complex. Compute the short exact sequence associated with this in terms of Z_n, C_n and B_{n-1}.
     - (Page 25) Compute the homology of two homotopy equivalent chain complexes C_* and D_*, i.e. compute H_*(D*) in terms of H_*(C_*) using the definition of a functor. Prove this fact on the level of maps. using the definition of a functor.
-    - (Page 26) Compute the special maps associated with two homotopy equivalent change complexes: C_* iso D_*
+    - (Page 26) Compute the special maps associated with two homotopy equivalent change complexes: C_* isomorphic to D_*
     - (Page 27) Compute the projective reoslution associated with the ring of dual numbers and hence its projective dimension.
     - (Page 28) Compute the exact sequence associated with the snake lemma for kernels and cokernels indicating the connectng homomrorphism. Draw the long exact sequence from the short exact sequence for A_*, B_* and C_*.
-    - (Page 33) Compute the number of inejctives if right derived functors exist. Compute the coommutative diagram associated with a tensor product.
-    - (Page 34) Compute the adjoint mapping for a billinear map A x B to C using f(a, -): B -> C.
+    - (Page 33) Compute the number of injectives if right derived functors exist. Compute the coommutative diagram associated with a tensor product.
+    - (Page 34) Compute the adjoint mapping for a bilinear map A x B to C using f(a, -): B -> C.
     - (Page 36) Compute the exact sequence associated with a right exact functor, and a left derived functor using the tensor product as an example and compute these left derived functors to form the long exact sequence. Construct the long exact sequences and hence the left derived functors.
     - (Page 37) Compute left derived functors by applying it to a projective resolution and take homology.
     - (Page 38) Compute B(fa, b) given f: A -> B, g: B->A are functors. Compute A(a, gb) given g: B -> A. For the case f is left adjoint of g and g is right adjoint of f.
     - (Page 39) Compute the hom group associated with Ext^i_R(A,B), compute the cohomology of this hom group and lastly compute Ext as right derived functors. Note that B -> E_* is a projective resolution.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect1.pdf, homological algebra lecture 1.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect2.pdf, homological algebra lecture 2.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect3.pdf, homological algebra lecture 3.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect4.pdf, homological algebra lecture 4.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect5.pdf, homological algebra lecture 5.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect6.pdf, homological algebra lecture 6.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect7.pdf, homological algebra lecture 7.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect8.pdf, homological algebra lecture 8.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect9.pdf, homological algebra lecture 9.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect10.pdf, homological algebra lecture 10.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect11.pdf, homological algebra lecture 11.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect12.pdf, homological algebra lecture 12.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect13.pdf, homological algebra lecture 13.
+
+https://people.clas.ufl.edu/rcrew/files/homology-lect14.pdf, homological algebra lecture 14.
 
 https://stacks.math.columbia.edu/download/dualizing.pdf, dualizing complexes in commutative algebra.
 
@@ -1437,3 +1467,70 @@ https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesB1-6.pdf, commutative al
 https://people.brandeis.edu/~igusa/Math131b2021/C-SlidesComplete.pdf, Wedderburn structure theorem summary
 
 https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesD2.pdf, Wedderburn structure theorem summary
+
+https://ctta.igrothendieck.org/wp-content/uploads/2024/09/Slides_ConnesAlain-1.pdf, primes, knots, and the adele class space
+    - (Slide 4) Grothendieck-Galois theory statement. Let X be a connected scheme, compute a group P that enforces a equivalence of categories between the category of finite etale coverings and the another category related to P.
+    - (Slide 5) Compute for B an A-algebra, B finitely generated and free as A-module, Tr_B/A: B -> A, an A-linear map Tr_B/A(b) := Tr(m_b), compute m_b(x).
+    - (Slide 5) If B is separable over A, B finitely generated and free as A-module, then phi: B -> Hom_B(B,A), compute what is (phi(x))(y) for all x and y in B.
+    - (Slide 6) Compute the inverse image f^-1(U_i) for U_i = Spec A_i as a covering of X for a finite etale morphism of schemes from f: Y -> X. This inverse image is to be compute in terms of certain A_i-algebras.
+    - (Slide 7) Compute for a finite field extension L/K, with ring of integers O_L as integral closure o fO_K in L, and pO_L of O_L which may or may not be prime, a prime factorisation. Compute the exponents of the prime factorisation if there is ramification. Finally, construct calculations describing ramification with analogy to the integers.
+    - (Slide 8) Compute the etale fundamental group of X a normal integral scheme, with function field K, with algebraic closure K bar, with M the composite of all finite separable field extensions L of K with L in K bar for which X is unramified in L.
+    - (Slide 9) Compute the fundamental group of a 3 sphere.
+    - (Slide 9) Compute the etale fundamental group of Spec Z. What is this result? This is highly nontrivial, this is equivalent to the Kronecker-Minkowski theorem. If you watch Connes' talks of the adele class space, this means Spec Z is simply connected etale-wise. Finite algebraic extension of the rationals, ramify somewhere, will have double root for extensions defined by polynomials. This is enough to prove that Kronecker-Weber theorem from the local Kronecker-Weber theorem. See Kedlaya's CFT, theorem 1.1.9.
+    - (Slide 9) Compute the third cohomology group of the 3-sphere with integer coefficients.
+    - (Slide 9) Compute the third etale cohomology group of Spec Z with coefficients in the multiplicative group scheme G_m.
+    - (Slide 10) Finish the analogy, what are knots, what are inclusions of knots in the three sphere, what are knot complements.
+    - (Slide 10) Compute the fundmaental group of the abelianisation of a knot complement.
+    - (Slide 10) Compute the first etale fundamental group of the abelianisation Spec Z[1/p].
+    - (Slide 10) Compute an analogy for the linking number of knots in the knots and primes analogy.
+    - (Slide 11) Using the main theorem of class field theory, compute the Galois group of abelian extensions of K.
+    - (Slide 12) compute the integral of K_v^x in the explicit formula integral k(x,x) dx.
+    - (Slide 14) Compute an expression for the adele class space as a double coset space.
+    - (Slide 16) Compute the rank 1 subgroups by considering a map of the ring of finite adeles of Q for A^f under the action the profinite group Z^*.
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-1.pdf, differential geometry tutorial, geometry of manifolds
+    - (Slide 3) Compute the image of the canonical local homemomorphism of a topological manifold.
+    - (Slide 3) Compute the transitive action fo a group of homeomorphisms acting on a connected manifold.
+    - (Slide 3) Compute the canonical domain of a isometry to a manifold for a geodesic in metric space.
+    - (Slide 6) Compute using a family of open sets {U_i} an open cover of a topological space using a set operation. Then, compute refinements, again using a set operation. Then, compute a common refinement using a set operation.
+    - (Slide 6) Compute the canonical codomain of a cover that is also an atlas for each open subset in the covering family (hint: local homemorphism with R^n). Then, compute the domain and codomain defining transition maps on common refinements. Remark, differentiability class C^i if i-th times differentiable, i-th derivative continuous for all coordinate component, smooth means intersection of all differentiability class i.e. C^\infty or some sort of projective limit. Smooth if all transition functions are smooth, smooth of class C^i if all transitions are differentiability class C^i, and real analytic if admits Taylor's expansion at each point.
+    - (Slide 7) Compute a refinement of an atlas by taking the composition of two maps to construct a restriction. (Hint: compose the canonical injection with the atlas map)
+    - (Slide 7) Compute the elements in C^i that are constructed to test equivalences of atlases. Hence, using an equivalence relation, construct a smooth structure. And hence, define a smooth manifold. Then, define a smooth function using this canonical computation of elements (hint: f composed with preimage of atlas map, mapping to R for each open subset phi_i(U_i) in R^n).
+    - (Slide 8) Compute a smooth map by constructing canonical restrictions onto basis elements U_i and putting a requirement on them.
+    - (Slide 8) Compute a map of smooth manifolds from f: M -> N by constructing again, a construction for any chart V_i on M.
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-2.pdf, differential geometry tutorial, manifolds and ringed spaces
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-3.pdf, differential geometry tutorial, partitions of unity
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-4.pdf, differential geometry tutorial, Hausdorff measure and Whitney's theorem
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-5.pdf, differential geometry tutorial, derivations in rings
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-6.pdf, differential geometry tutorial, germs and duality
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-7.pdf, differential geometry tutorial, category theory and locally trivial fibrations
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-8.pdf, differential geometry tutorial, vector bundles and locally trivial fibrations
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-9.pdf, differential geometry tutorial, Serre-Swan
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-10.pdf, differential geometry tutorial, de Rham algebra
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-11.pdf, differential geometry tutorial, Lie derivative
+
+http://verbit.ru/MATH/GEOM-2013/slides-pde-en-12.pdf, differential geometry tutorial, Poincare lemma
+
+https://webee.technion.ac.il/people/sason/raginsky_sason_ISIT_2015_tutorial_part_1.pdf, concentration of measure
+
+https://webee.technion.ac.il/people/sason/raginsky_sason_ISIT_2015_tutorial_part_2.pdf, concentration of measure by Chernoff bound
+
+https://www.its.caltech.edu/~matilde/InformationAlgebras2021Ma148.pdf, thermodynamic semirings and information algebras, Marcolli, in 111 slides
+
+https://www.andrej.com/assets/slides/laughable-theorems.pdf, Lawvere's fixed point theorem 
+    - (Slide 9) Let e: A -> B^A be surjective, we want to compute a fixed point for every f: B -> B. This is the statement on Lawvere's fixed point theorem. Compute e(x) in terms of a lambda function. Hence compute the value of f(e(x)e(x)), and compute the fixed point in the theorem. Now consider the contrapositive, and show that there is no surjection from A to the power set of A.
+    - (Slide 21) Compute the canonical domain and codomain for the canonical map forall_X in a compact space X (Hint: using OX the lattice of opens with some topology, and S being some space.)
+
+https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/weibel-homv2.pdf, Weibel's Homological Algebra
+
+https://stacks.math.columbia.edu/download/homology.pdf, Stack's Homological Algebra
