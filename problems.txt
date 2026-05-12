@@ -504,7 +504,7 @@ https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf,
 
 https://lawverearchives.com/wp-content/uploads/2024/12/1970-quantifiers-and-sheaves.pdf, Lawvere and Tierney's Quantifiers and Sheaves
     - Lawvere-Tierney uses this definition of topos: cartesian closed category with finite (colimits) and subobject classifier. No action needed, just take note.
-    - Compute for each object the right adjoint of the cartesian product.
+    - Compute for each object the right adjoint of the cartesian product. (Hint: tensor hom adjunction).
     - Compute for pullback of true along a unique characteristic map from X to T, T is the subobject classifier. (Hint: injective ???)
     - Compute the left adjoint and right adjoint for any map in a topos in terms of the subobject classifier T. (Hint: use concrete interpretations of quantifiers)
     - Compute the subobject classifier for all S-valued sheaves of a topological space.
@@ -520,10 +520,10 @@ https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf,
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao and Vu book pdf, chapter 10 and 11, focus on Szemeredi's regularity lemma
 
 https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Basic-Counting.pdf,
-    - Compute the number of mappings from [n] to [m] via induction.
-    - Compute the number of subsets of [n]
-    - Compute the number of choices for the characteristic function f_A for a set.
-    - Compute the number of odd subsets of a set. Compute the number of even subsets of set.
+    - (Page 2) Compute the number of mappings from [n] to [m] via induction. (Hint: think about the appropriate power notation. Then, prove by induction)
+    - (Page 3) Compute the number of subsets of [n]. (Hint: think about the condition of being in the subset or not, then prove by induction)
+    - (Page 4) Compute the number of choices for the characteristic function f_A for a set.
+    - (Page 5) Compute the number of odd subsets of a set. Compute the number of even subsets of set. (Hint: use the sign permutation on the previous exercise)
     - Compute the number of 1-1 mappings from [n] to [m].
     - Compute the number of permutations of [n].
     - Compute the binomial coefficient of (X k).
@@ -1222,6 +1222,21 @@ https://www.math.toronto.edu/~ila/Lang%20--%20Algebraic%20number%20theory.pdf, L
 
 https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann's commutative algebra
 
+https://stacks.math.columbia.edu/download/chow.pdf, Chow homology and Chern classes in Stacks. 198 pages.
+
+https://stacks.math.columbia.edu/download/intersection.pdf, intersection theory in Stacks.
+    - (Page 2) Compute the minimum dimension of any irreducible component of V cap W for two irreducible closed subvarieties in nonsingular projective X.
+    - (Page 2) Compute the intersection multiplicity using length of O_X,Z and Tor_i^O_{X,Z}(O_W,Z, O_V,Z) for e_Z = e(X, V * W, Z) for the case where V and W are Cohen-Macaulay in the generic point of Z. What does this mean for Tor_0?
+    - (Page 2) Compute the intersection multiplicity using length of O_X,Z and Tor_i^O_{X,Z}(O_W,Z, O_V,Z) for e_Z = e(X, V * W, Z) for the case where W is cut out by a regular sequence in O_X,Z which also defines a regular sequence on O_V,Z. What does this mean for Tor0?
+    - (Page 2) Compute the intersection multiplicity using length of O_X,Z and Tor_i^O_{X,Z}(O_W,Z, O_V,Z) for e_Z = e(X, V * W, Z) in general.
+    - (Page 2) Compute, using the moving lemma, a subvariety C in P^N intersecting X properly given closed subvarieties Z in X in P^N.
+    - (Page 3) Compute the finite formal sum n_i[Z_o] for classes [Z_i] and Z_i a closed subvariety of dimension k. This is the definition of a k-cycle.
+    - (Page 3) Compute the support for a k-cycle in X a variety. Compute its dimension.
+    - (Page 3) Compute the multiplicity of Z_i being irreducible components of Z of dimension k, Z a closed subscheme of X with dim(Z) <= k using local rings O_X,Z_i and O_Z,Z_i.
+    - (Page 3) Compute the k-cycle associated to Z, for Z_i being irreducible components of Z of dimension k, Z a closed subscheme of X.
+
+https://www.its.caltech.edu/~matilde/IntroNCGCaltech1.pdf, Marcolli's summary of differential geometry in 33 slides.
+
 https://math.gmu.edu/~rallen2/slides/gmu/lie%20algebra.pdf, Lie algebra in 81 slides
 
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra
@@ -1254,7 +1269,7 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysi
     - (Page 11) Compute for T(chi) = m(chi) chi (i.e. chi an eigenvector of T), an integral form for Tf. Hence, compute the multiplier of T for T commuting with infinite sums.
     - (Page 11) Compute Tf given that f is integral of delta_x f(x) d mu(x) over G, T as kernel of a linear operator. Then determine Tf(y).
     - (Page 11) Convert the kernel of the integral of the Fourier transform of chi multiplied by chi into a inner product, and hence draw a conclusion on chi as a orthonormal basis. Then, derive the inversion formula of the Fourier transform i.e. the value of f(x).
-    - (Page 11) Compute using the fact that T commute with infinite sums, and using chi as an eigenvector of T i.e. T(chi) = m(chi) chi, an expression for Tf, and then Tf(x). Therefore, conclude that m as a multiplier of T makes sense and can be defined. (Hint: apply T onto the inversion formula obtained in the previous exercise.
+    - (Page 11) Compute using the fact that T commute with infinite sums, and using chi as an eigenvector of T i.e. T(chi) = m(chi) chi, an expression for Tf, and then Tf(x). Therefore, conclude that m as a multiplier of T makes sense and can be defined. (Hint: apply T onto the inversion formula obtained in the previous exercise.)
     - (Page 12) Consider f has a Schwartz kernel of a linear operator, f = integral delta_x f(x) d mu(x). Then, apply the linear operator T to it to derive the kernel of a linear operator. Then compute Tf(y). Have this T commute with translations, then compute the kernel of an operator. Therefore, prove that all translation invariant operators are given by convolution with a fixed object called an impulse response.
     - (Page 13) Compute the Fourier transform of a convolution. Then pick m = Fourier transform of the impulse repsonse.
     - (Page 13) Compute the Fourier transform of the impulse response. Important: this is the multiplier!
@@ -1353,7 +1368,7 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysi
     - (Page 78) Compute T(E) for E a fundamental solution and T a translation invariant operator. Hence compute T(E * f) when E * f make sense. Hence state Malgrange-Ehrenpreis theorem.
     - (Page 78) Compute the fundamental solution and m(eta) for the Laplacian for cases d > 2 and d = 2. Hence compute the Laplacian of E * f.
     - (Page 78) Compute using Laplacian u = f, and f = C^\infty, where does u belong and an equation using Weyl's lemma.
-    - (Page 79) Compute sum of phi(na), sum of  phi(x-na) and its Fourier transform using the Poisson's summation formula.
+    - (Page 79) Compute the sum of phi(na), sum of phi(x-na) and its Fourier transform using the Poisson's summation formula.
     - (Page 80) Compute for f a a-periodic function as a sum of c_n(F) exp(2 pi n/a x), its Fourier transform, with phi if it is viewed as a tempered distribution.
 
 https://websites.umich.edu/~viktorb/etale_summer2020/Notes/cohomology-of-number-fields.pdf, etale cohomology with coefficients in G_m.

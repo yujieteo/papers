@@ -152,7 +152,7 @@ https://jpascale.web.illinois.edu/lecture3.pdf  Fukaya category lecture 3
 
 https://jpascale.web.illinois.edu/courses/2018/595/, homological mirror symmetry introduction
 
-https://arxiv.org/pdf/math/9910179, A-infty algebras introduction in 30 slides
+https://arxiv.org/pdf/math/9910179, A-infty algebras introduction in 30 pages
 
 https://categorified.net/ASQC4.pdf  SPT phases and generalised cohomology
 
@@ -1235,6 +1235,8 @@ https://web.mat.bham.ac.uk/D.A.Craven/docs/lectures/finitegroups2010.pdf best in
 https://www.advgrouptheory.com/wrbp2024/Slides/parker.pdf Parker slides on fusion systems, rare that p-subgroup can be Sylow p-subgroup of finite simple groups. Fusion system, p prime, x is a group, S is Sylow p-subgroup, define Hom_X(P,Q) = {c_g | g in X, P^g subgroup of Q}, c_g is conjugation map x -> g'xg, P = Q, write Aut_X(P) = Hom_X(P,P) isomorphic to N_X(P) / C_X(P), know S, info about N_G(P) is lost when we make a fusion system is C_X(P) by quotient. Fusion system has objects all subgroups of S, morphisms from P to Q satisfying the above Hom_X(P,Q) relation, for Q subgroup of X, Aut(Q) is reduced to N_X(Q)/C_X(Q). If S is a Sylow p-subgroup of X, the fusion system is saturated (max sense). Abstractly saturated fusion systems on a p-group S capture the properties of the fusion systems just defined with S a Sylow p-subgroup of G.
 
 https://masaooi.github.io/DL.pdf, MUST READ notes on computations in representation theory. Need to read again, quick review is use Serre's book, rep is homomorphism from G to Aut_C(V) = GL_C(V), homomorphism is commutative diagra, subrep is subobject stable under action of representaton theory.
+
+https://users.monash.edu/~normd/documents/Completion-Talk.pdf, intersection theory of moduli spaces in 31 slides.
 
 https://www.uio.no/studier/emner/matnat/math/MAT9580/v23/documents/mat9580v23galois.pdf Galois extnesions
 
