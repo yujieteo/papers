@@ -1214,7 +1214,7 @@ https://maths-people.anu.edu.au/~plyung/math6081/Lecture7.pdf  slides on parapro
 
 https://maths-people.anu.edu.au/~plyung/math6081/Lecture8.pdf  slides on interpolation. Interpolation extends operator continuously in a bounded sense.
 
-https://mathoverflow.net/questions/67228/where-do-all-these-projection-formulas-come-from, projection formulasa origin. Tensor product is intersection in this case for set theory, derived categories is the most obvious one.
+https://mathoverflow.net/questions/67228/where-do-all-these-projection-formulas-come-from, projection formulas origin. Tensor product is intersection in this case for set theory, derived categories is the most obvious one.
 
 https://static.ias.edu/pitp/2018/sites/pitp/files/witten_lecture_2.pdf entanglement in QFT Witten
 
@@ -1318,7 +1318,7 @@ https://www.its.caltech.edu/~matilde/QSMQlattLesHouches.pdf  dictionary of quant
 
 https://aimath.org/wp-content/uploads/bristol-2018-slides/Connes-talk.pdf  Connes Riemann Roch strategy in 56 slides
 
-https://www.noncommutativegeometry.nl/wp-content/uploads/2013/10/ConnesLeiden.pdf  Alain Connes spectral slides 79 slides, MUST READ, dictionary on page 9
+https://www.noncommutativegeometry.nl/wp-content/uploads/2013/10/ConnesLeiden.pdf  Alain Connes spectral slides 79 slides
 
 https://www.dropbox.com/scl/fi/kbyt00egm9dam2wau9489/ConnesSlides.pdf?rlkey=wduowpnbijta804wnr2qtp3al&e=1&dl=0, Connes slides on BC system
 
@@ -2252,7 +2252,7 @@ https://pi.math.cornell.edu/~barbasch/china2024.pdf  Dirac operators, Dirac coho
 
 https://www.math.columbia.edu/~ccliu/Seminars/20220124-slides_orginal.pdf  quantum K-theory of flag varieties, nonabelian localisation
 
-https://math.mit.edu/nt/Zhang2020-11-16.pdf  must read, 10 line proof of Weil conjectures, summary of etale cohomology, have poly, find or count f_i(x) = 0 over Z or Q, try mod p or p-adic method, count solutions over finite fields to reveal topology by Galois theory. P^n(F_q^m) = sum of 1 + q^mn, from n = 0 to n. Weil conjecture, X_0 be n-dim smooth proj variety over finite field, exists algebnraic integers in clsoure of Z, such that there is a trace formula, Poincare duality and purity. Higher dim X, proof of purity in standard conjectures. Rankin-Selberg method or theory of weights. Lefschetz pencil and vanishing cycles in SGA 7. This is Weil II. 
+https://math.mit.edu/nt/Zhang2020-11-16.pdf  must read, 10 line proof of Weil conjectures, summary of etale cohomology, have poly, find or count f_i(x) = 0 over Z or Q, try mod p or p-adic method, count solutions over finite fields to reveal topology by Galois theory. P^n(F_q^m) = sum of 1 + q^mn, from n = 0 to n. Weil conjecture, X_0 be n-dim smooth proj variety over finite field, exists algebnraic integers in closure of Z, such that there is a trace formula, Poincare duality and purity. Higher dim X, proof of purity in standard conjectures. Rankin-Selberg method or theory of weights. Lefschetz pencil and vanishing cycles in SGA 7. This is Weil II. 
 
 https://nyuad.nyu.edu/content/dam/nyuad/research/centers-labs-projects/center-for-quantum-and-topological-systems-/events-conferences/m-theory-presentations/mathai.tduality-beamertalk-loopspace6-NYUAD.pdf. summary sldies for Gerbes in 30 slides
 
@@ -5059,7 +5059,7 @@ https://nyuad.nyu.edu/content/dam/nyuad/research/centers-labs-projects/center-fo
 
 https://ncatlab.org/nlab/files/Saemann-AdjustedHGT.pdf, adjusted higher gauge theory slides, representation theory suggests string theory predicts superconformal field theory ins ix dimehnsions. Conjecture: (2.0)-theory is higher gauge theory.
 
-https://sites.math.rutgers.edu/~sz446/GARTS/slides/GL2_Nick.pdf, MUST READ, representation theory of GL_2(F_q), fintie group, irreducible dimensions equal conjugacy classes, sums of squares reps_i = |G|, prove using Schur's lemma and via definition of irreducible representations The number of characters = (G:G'), reps can be decomposed into dirrect sum of irreducibles and have complements. Bilinear form on rep, rho rep, V_rho can be given structure of C[G] module i.e. map from G to V_rho? Define symmetric bilinear form (this is like Hodge theory), (rho, rho') = dim Hom_C[G] (Vrho, Vho'), Schur's if irreducible, this is indicator function for irreducible reps. Induced representations, let s and g in G, define action of G on V = {f: GG -> V_tau | f(hg) = tauh(h) f(g) for all h in H, g in G, H < G, tau representing H}. This definition does not make much sense. (sf)(g) = f(gs), it looks like some sort of associative law on the representation? It has transitivity. Basically one enforces the transitivity law? Frobenius rciprocity is the statement that over inner hom of group algebras Hom(Ind^G_H V_tau, V_rho) is isomorphic to Hom(V_tau, Res^G_H V_rho). Embed V_tau into V = Ind^G_H, using this. I do not understand this dimension. OK now comes the concrete computation, GL_2(k) = G, k = F_q has following subgroups. U, A, B, P, D, Z. These looks quite random. Jacquet modules are used to identify irreducibles.
+https://sites.math.rutgers.edu/~sz446/GARTS/slides/GL2_Nick.pdf, MUST READ, representation theory of GL_2(F_q), finite group, irreducible dimensions equal conjugacy classes, sums of squares reps_i = |G|, prove using Schur's lemma and via definition of irreducible representations The number of characters = (G:G'), reps can be decomposed into dirrect sum of irreducibles and have complements. Bilinear form on rep, rho rep, V_rho can be given structure of C[G] module i.e. map from G to V_rho? Define symmetric bilinear form (this is like Hodge theory), (rho, rho') = dim Hom_C[G] (Vrho, Vho'), Schur's if irreducible, this is indicator function for irreducible reps. Induced representations, let s and g in G, define action of G on V = {f: GG -> V_tau | f(hg) = tauh(h) f(g) for all h in H, g in G, H < G, tau representing H}. This definition does not make much sense. (sf)(g) = f(gs), it looks like some sort of associative law on the representation? It has transitivity. Basically one enforces the transitivity law? Frobenius rciprocity is the statement that over inner hom of group algebras Hom(Ind^G_H V_tau, V_rho) is isomorphic to Hom(V_tau, Res^G_H V_rho). Embed V_tau into V = Ind^G_H, using this. I do not understand this dimension. OK now comes the concrete computation, GL_2(k) = G, k = F_q has following subgroups. U, A, B, P, D, Z. These looks quite random. Jacquet modules are used to identify irreducibles.
 
 http://www2.math.ou.edu/~kmartin/repthy/gl2q.pdf, 4 page summary of representations of GL(2,Fq)
 
