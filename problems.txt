@@ -1222,6 +1222,8 @@ https://www.math.toronto.edu/~ila/Lang%20--%20Algebraic%20number%20theory.pdf, L
 
 https://agag-gathmann.math.rptu.de/class/commalg-2013/commalg-2013.pdf, Gathmann's commutative algebra
 
+https://math.gmu.edu/~rallen2/slides/gmu/lie%20algebra.pdf, Lie algebra in 81 slides
+
 https://dspace.mit.edu/bitstream/handle/1721.1/116075.2/WWCM.pdf?sequence=6&isAllowed=y, A Term of Commutative Algebra
     - (Page 240) Compute the polynomial associated with (a_1 + a_2)^e. Then compute that (a_1 + a_2)^e = a_1^e + a_2^e.
 
@@ -1352,4 +1354,47 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysi
     - (Page 78) Compute the fundamental solution and m(eta) for the Laplacian for cases d > 2 and d = 2. Hence compute the Laplacian of E * f.
     - (Page 78) Compute using Laplacian u = f, and f = C^\infty, where does u belong and an equation using Weyl's lemma.
     - (Page 79) Compute sum of phi(na), sum of  phi(x-na) and its Fourier transform using the Poisson's summation formula.
-    - (Page 80) Compute for f a a-periodic function as a sum of c_n(F) exp(2 pi n/a x), its Fourier trasnform, with phi if it is viewed as a tempered distribution.
+    - (Page 80) Compute for f a a-periodic function as a sum of c_n(F) exp(2 pi n/a x), its Fourier transform, with phi if it is viewed as a tempered distribution.
+
+https://people.brandeis.edu/~igusa/Math131b2021/A-SlidesComplete.pdf, homological algebra slides
+    - (Page 2) Compute the commutative diagram with unique morphism defining products in a category. Compute products in the category of sets and the caetgory of R-modules.
+    - (Page 3) Compute the commutative diagram with unique morphism defining coproducts in a category. Compute products in the category of sets and R-modules.
+    - (Page 4) Compute (f_1 + f_2) * g in a additive category.
+    - (Page 4) Compute Hom_C(X,0) in an additive category.
+    - (Page 5) Compute a canonical isomorphism A oplus B in a semiadditive category.
+    - (Page 7) Compute the commutative diagram associated with the kernel of a morphism from f: A -> B.
+    - (Page 8) Compute the kernels in finitely generated right R-modules.
+    - (Page 9) Compute the commutative diagram associated with the cokernel of a morphism from f: A -> B.
+    - (Page 10) Compute the commutative diagram associated with any epimorphism from A to B.
+    - (Page 11) Compute the projective objects in the power set of Z.
+    - (Page 12) Compute the commutative diagram associated with injective objects.
+    - (Page 13) Compute the injective envelope E(M) for any R-module M over any ring that contains M. Start by computing the dual as a hom set from M to ?. Use duality to compute a canonical image of direct sums under duality.
+    - (Page 15/16/17) Using the tensor hom adjunction, compute Hom_R(M_R, Hom_Z(R^N, T)) as a tensor product. Then substitute N = R and use an isomorphism of M otimes_R R by compute there x otimes r is computed  by the adjunction formula. Compute the result of an evaluation map taking m to ??, then compute an embedding of M to its double dual. Hence using the fact that for F a free left R-module mapping into M^, p: F ->> M^, since Hom is left exact, then p^sharp: M^^ injects into F^ has a monomorphism, then compose these morphisms to show that M embeds in an injective module.
+    - (Page 18) Compute a formula for the factorisation of x in terms of y for any integer n in a divisible additive group. Knowing that every quotient of a divisible group is divisible, and that every module M embeds in its injective envelop, infer that an abelian group is divisible iff it is an injective Z-module.
+    - (Page 19) Check that for essential embeddings A into B, the intersection between nonzero submodule C in B that meets A is nonzero.
+    - (Page 19) Compute what is E(M) if there is an essential embedding into E(M) and E(M) is injective.
+    - (Page 20) Compute the imge of the epimmorphism for each object in the chain associated with a projective resolution which terminates at M -> 0, check that every morphism is an eimorphism on the kernel onto its next morphism.
+    - (Page 21) Compute the composition of two maps in a chin complex.
+    - (Page 21) Compute the commutative diagram associated with morphisms of chain complexes.
+    - (Page 21) Compute the rule of maps associated with chain maps as morphisms of chain complexes.
+    - (Page 22) Compute the commutative diagram associated with two homotopic chain maps. (Hint: g_n - f_n: C_n -> D_n).
+    - (Page 23) Compute the factorisation of every morphism of A to B for I the image of f in the morphism f from A to B in an abelian category. Check that A is the kernel of the epimorphism and C is the cokernel of the monomorphism in a short exact sequence A and B.
+    - (Page 24) Compute the n-th homology of C_* for C_* d_* a chain complex. Compute the short exact sequence associated with this in terms of Z_n, C_n and B_n-1
+    - (Page 25) Compute the homology of two homotopy equivalent chain complexes C_* and D_*, i.e. compute H_*(D*) in terms of H_*(C_*) using the definition of a functor. Prove this fact on the level of maps. using the definition of a functor.
+    - (Page 26) Compute the special maps associated with two homotopy equivalent change complexes: C_* iso D_*
+    - (Page 27) Compute the projective reoslution associated with the ring of dual numbers and hence its projective dimension.
+    - (Page 28) Compute the exact sequence associated with the snake lemma for kernels and cokernels indicating the connectng homomrorphism. Draw the long exact sequence from the short exact sequence for A_*, B_* and C_*.
+    - (Page 33) Compute the number of inejctives if right derived functors exist. Compute the coommutative diagram associated with a tensor product.
+    - (Page 34) Compute the adjoint mapping for a billinear map A x B to C using f(a, -): B -> C.
+    - (Page 36) Compute the exact sequence associated with a right exact functor, and a left derived functor using the tensor product as an example and compute these left derived functors to form the long exact sequence. Construct the long exact sequences and hence the left derived functors.
+    - (Page 37) Compute left derived functors by applying it to a projective resolution and take homology.
+    - (Page 38) Compute B(fa, b) given f: A -> B, g: B->A are functors. Compute A(a, gb) given g: B -> A. For the case f is left adjoint of g and g is right adjoint of f.
+    - (Page 39) Compute the hom group associated with Ext^i_R(A,B), compute the cohomology of this hom group and lastly compute Ext as right derived functors. Note that B -> E_* is a projective resolution.
+
+https://people.brandeis.edu/~igusa/Math131b2021/B-SlidesComplete.pdf, commutative algebra summary
+
+https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesB1-6.pdf, commutative algebra summary 2
+
+https://people.brandeis.edu/~igusa/Math131b2021/C-SlidesComplete.pdf, Wedderburn structure theorem summary
+
+https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesD2.pdf, Wedderburn structure theorem summary
