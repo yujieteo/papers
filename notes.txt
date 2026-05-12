@@ -1158,7 +1158,7 @@ https://wstein.org/books/ribet-stein/main.pdf  Ribet and Stein modular forms in 
 
 https://wstein.org/books/sagebook/sagebook.pdf  SAGE for Power Users, in 147 pages;
 
-https://wstein.org/books/ant/ant.pdf  algebraic number theory, computational approach in 215 pages;
+https://wstein.org/books//ant.pdf  algebraic number theory, computational approach in 215 pages;
 
 https://www.math.ucla.edu/~balmer/Pubfile/PmMfAm.pdf  permutation modules, mackey functors and artin motives introduction in 31 pages;
 
@@ -3404,7 +3404,6 @@ https://www.math.uchicago.edu/~bloch/graph_sums081005.pdf  Motives, sums of grap
 https://banica.u-cergy.fr/pdf/ioa.pdf  intro to spectral theory and operator algebra in 80 slides, good definition of C* and Von Neumann algebras, and also intuition of spectrum as zero divisors, determinant is signed volume of associated parallelpiped, + for standard basis, - otherwise, integral of continuous is signed area below graph, diag matrix, if have basis of eigenvectors aka can dilate in all directions. Matrices with distinct eigenvalues are dense. Hilbert spae, complex vector space satisfyin linear in x, antilinear in y for <x,y>, then <x,y>^T = <y,x> <x,x> > 0, complete with respect to Cauchy-Schwarz, my image example is L^2(X) with inner norm being integral. Bounded in the sense of sup ||Tx||. C^* algebra is norm closed (T_n in A, T_n -> T, so T in A), and stable under involution, von Neumann is weakly closed (t_n in A, T_n x -> Tx, gives T in A) and stable under involution. Norm closed gives topology, weakly closed gives measure theory. Actually I realised if T_n convergence of norms, give C*-algebra or topology, T_n x -> Tx gives measure theory, then what about full power series closure with stability under involution. C(X) and L^\infty(X) act on L^2(X), if T in B(H) is normal, algebras it generates are of this form, spectral theorem. Good definition of C* and Von-Neumann algebras in terms of convergence properties. Involutive hard to remember. Abstract C* algebra makes it into Banach algebra. Can make many more examples, spectrum of element such that a - lambda not in A^-1 or invertible elements i.e. the "zeroes" of a polynomial, no nonzero divisors. Compare to algebraic geometry. Involution just means it gives Pontraygin duality or dualising duality, norm ||aa^*|| = ||a||^2.
 
 https://math.arizona.edu/~cakeller/VertexOperatorAlgebras.pdf  vertex operator algebras introduction, in 36 pages.
-
 
 https://stacks.math.columbia.edu/tag/07JV, 10.4 commutative algebra, snake lemma, the basic idea is to  take y existing in Ker(gamma) which exists due to surjection of Y -> Z, beta(y) which is unique due to the difference in the kernel of X to Y, so it maps to 0 through U, and beta(y) maps to 0 so it is in the kernel of U to V so it exists in U, and it maps to 0, so this is the canonical element to map to Coker(alpha). Once one proves it, take from Ker(gamma) to send it to Coker(gamma). Need to relate it to the axioms of an abelian category somehow. The conencting hommorphism is defined by i' beta s', where i' and s' are the obvious inclusions and surjections, and beta is the central map for the exact sequence.
 
