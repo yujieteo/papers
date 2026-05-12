@@ -142,7 +142,7 @@ https://www.jmilne.org/math/CourseNotes/CFTc.pdf, class field theory
 https://yufeizhao.com/gtacbook/gtacbook.pdf, graph theory and additive combinatorics
 
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao-Vu additive combinatorics.
-    - Compute the expectation of an indicator function to prove Markov's inequality.
+    - Compute the expectation of an indicator function to prove Markov's inequality. (Hint: it is a matter of notation E(I_x >= a] = P(x >= a), then get E[X] >= a P(x >= a).
 
 https://www.math.cmu.edu/~ttkocz/teaching/1819/read-sem-notes.pdf
     - Identify the key example to look at for lattice points in number theory, then prove Minkowski's theorem. Suppose C is a symmetric, convex, bounded subset R^d, if vol(C) > @^d, then C contains one other lattice point other than 0.
@@ -1098,7 +1098,7 @@ https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Mor
     - (Page 7) Compute the following formulas of the support, supp(0), supp(f+g) and supp(af).
     - (Page 7) Compute, for the vector space over GF(2), A + B and 0 x A, and 1 x A. Compute the characteristic function over Z/2Z.
     - (Page 7) Compute the entrywise addition and scalar multiplication of M_nm(K), A+B and xA. 
-    - (Page 8) Compute the equivalent K-vector space of M_mn(K).
+    - (Page 8) Compute the equivalent K-vector space of m by n matrices M_mn(K).
     - (Page 8) Compute the following, T being transpose operations. (A^T)^T, (A+B)^T, (aA)^T.
     - (Page 9) Compute the matrix product (AB)_ij.
     - (Page 9) Compute the following (A+B)C, A(C+D), (AC)E = A(CE).
@@ -1237,27 +1237,27 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysi
     - (Page 6) Compute the superset of all images of a complex character using the definition.
     - (Page 6) Compute the superset of all images of a bounded character using the definition.
     - (Page 7) Compute the characters of a group as eigenvectors, under what conditions can be set for translation invariant operators for this to happen? (Hint: compute the major example on page 6, substitute y = 0).
-    - (Page 7) Simplify (T chi)(y - x) by having T commute with translations. Then, set y = 0 and get the eigenvector equation by choosing a particular value for lambda.
+    - (Page 7) Simplify (T chi)(y - x) by having T commute with translations. Then, set y = 0 and get the eigenvector equation by choosing a particular value for lambda. (Hint: apply (T chi)(y - x) to factor chi(-x) out, this yields chi(-x) T(chi)(y), now lambda is when you pick y = 0 so T(chi)(0) = lambda). Therefore, characters are useful because they are eigenvectors of all translation invariant operators.
     - (Page 8) Compute the integral of character chi(z) from x to x+h using a linear shift on x. One obtains an integral from 0 to h Then infer from this chi(x) integral chi(y) dy and use this fact to determine the derivative of chi with respect to y, where y takes the role of dx. Hence, compute chi(x) in terms of a familiar function using the computation that chi'(x) = chi'(0) chi(x) using calculus, what sort of antiderivative fits here?
-    - (Page 8) Impose the non-bounded condition for chi(x) = exp(alpha x) on alpha to get a formula for alpha * x.
-    - (Page 8) Impose the bounded condition (what does this mean on the torus?) to substitute an alpha to get a basis vector e_eps(x). (Hint: there is periodicity due to the bounded condition, so it appears as 2 pi i n).
+    - (Page 8) Impose the non-bounded condition for chi(x) = exp(alpha x) on alpha to get a formula for alpha * x. (Hint: nonbounded means you can use whatever alpha in C^d, and then alpha * x is a linear combination). This give rises to perfect duality.
+    - (Page 8) Impose the bounded condition (what does this mean on the torus?) to substitute an alpha to get a basis vector e_eps(x). (Hint: there is periodicity due to the bounded condition, so it appears as 2 pi i n). This gives rises to duality with a lattice due to periodicity. This is a result of linear algebra.
     - (Page 8) Compute the dual group of R^d. Compute the dual group of T^d.
     - (Page 9) Compute for map n to z^n, z in C^d, the character denoting bounded characters chi_z(n) = z^n. (Hint: we have concluded that alpha appears as 2 pi i n, therefore one just substitutes it into the expression.)
     - (Page 9) Compute the functions associated with the cyclic group of Z_N. (Hint: you will need a definition of the roots of unity).
-    - (Page 9) Compute the dual group for omega_N = exp(2 pi i/N).
-    - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0. (Hint: linear algebra, and the definition of independence)
-    - (Page 10) Compute <f, chi> as an integral for f in L^1 space, chi a character. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers)
-    - (Page 10) Compute f in terms of an integral with its Fourier transform and its characters over the Haar measure, and in terms of an inner product with chi. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers)
-    - (Page 10) Compute f(x) using an inversion formula and the Fourier transform over the Haar measure.
-    - (Page 10) Compute for T(chi) = m(chi) chi (i.e. chi an eigenvector of T), an integral form for Tf. Hence, compute the multiplier of T for T commuting with infinite sums.
-    - (Page 10) Compute Tf given that f is integral of delta_x f(x) d mu(x) over G, T as kernel of a linear operator. Then determine Tf(y).
-    - (Page 11) Convert the kernel of the integral of the Fourier transform of chi multiplied by chi into a inner product, and hence draw a conclusion on chi as a orthonormal basis. Then, derive the inversion formula of the Fourier transformation i.e. the value of f(x).
-    - (Page 11) Compute using the fact that T commute with infinite sums, and using chi as an eigenvector of T i.e. T(chi) = m(chi) chi, an expression for Tf, and then Tf(x). Therefore, conclude that m as a multiplier of T makes sense and can be defined.
+    - (Page 9) Compute the dual group for omega_N = exp(2 pi i/N), the roots of unity.
+    - (Page 10) Compute the value of c_k for sums of c_k exp(2 pi i eta_k x) = 0. (Hint: linear algebra, and the definition of linear independence)
+    - (Page 10) Compute <f, chi> as an integral for f in L^1 space, chi a character by correlating with bounded characters over a measure mu. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers)
+    - (Page 11) Let G^ be the dual group when one computes the Fourier transform of f, denoted f^. Compute f in terms of an integral with its Fourier transform and its characters over the Haar measure nu associated with the dual group G^, and in terms of an inner product with chi. (Tip: use the fact that the superset of the image of chi is valued in the complex numbers, also note that the Haar measure depends on the characters, and behaves like orthonormal basis)
+    - (Page 11) Compute f(x) using an inversion formula and the Fourier transform over the Haar measure. (Hint: use the previous exercise, now just evaluate at value x).
+    - (Page 11) Compute for T(chi) = m(chi) chi (i.e. chi an eigenvector of T), an integral form for Tf. Hence, compute the multiplier of T for T commuting with infinite sums.
+    - (Page 11) Compute Tf given that f is integral of delta_x f(x) d mu(x) over G, T as kernel of a linear operator. Then determine Tf(y).
+    - (Page 11) Convert the kernel of the integral of the Fourier transform of chi multiplied by chi into a inner product, and hence draw a conclusion on chi as a orthonormal basis. Then, derive the inversion formula of the Fourier transform i.e. the value of f(x).
+    - (Page 11) Compute using the fact that T commute with infinite sums, and using chi as an eigenvector of T i.e. T(chi) = m(chi) chi, an expression for Tf, and then Tf(x). Therefore, conclude that m as a multiplier of T makes sense and can be defined. (Hint: apply T onto the inversion formula obtained in the previous exercise.
     - (Page 12) Consider f has a Schwartz kernel of a linear operator, f = integral delta_x f(x) d mu(x). Then, apply the linear operator T to it to derive the kernel of a linear operator. Then compute Tf(y). Have this T commute with translations, then compute the kernel of an operator. Therefore, prove that all translation invariant operators are given by convolution with a fixed object called an impulse response.
     - (Page 13) Compute the Fourier transform of a convolution. Then pick m = Fourier transform of the impulse repsonse.
     - (Page 13) Compute the Fourier transform of the impulse response. Important: this is the multiplier!
     - (Page 14) Take the convolution of f * g and express it as an infinite linear combination of translates of g.
-    - (Page 14) Compute f * g, f * (g * h) where * is the convolution operator.
+    - (Page 14) Compute f * g using commutativity, f * (g * h) using associativity where * is the convolution operator.
     - (Page 14) Compute for the case of g = 1_B / mu(B), the convolution of f * g(y). What does g represent? Note that g is therefore an impulse response, but what does it represent on the level of random variables?
     - (Page 15) Compute Tf(y) for bounded operators using the perspective of the kernel matrix. The kernel is also known as the Schwartz kernel.
     - (Page 16) Compute a bound of |Tf(y)| using Holder's inequality using an amended expression for Holder conjugates.
@@ -1294,10 +1294,10 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysi
     - (Page 47) Compute the multiplier of P(D), it must exist because ti is translation invariant. Substitute this into the expression for P(D)^ f(eta) to compute the Fourier transform.
     - (Page 48) Compute for T invariant by rigid motions an alternative expression for T(f_A) for orthogonal matrices. Compute the multiplier for instance. 
     - (Page 48) Compute the multiplier of the Laplace operator. Compute the basis elements of radial polynomials for differential operators invariant by rigid motions. What polynomial can be computed if a differential operator is invariant by rigid motions?
-    - (Page 49) Compute the typical shape of the Dirichlet kernel.
+    - (Page 49) Describe the typical shape of the Dirichlet kernel.
     - (Page 49) Compute f, and hence f(x) using a suitable inner product for the Dirichlet Kernel.
     - (Page 49) Compute (S_R^c f)(x) for a Dirichlet kernel. This can be expressed in terms of a convolution, and ultimately a product. Is this integrable?
-    - (Page 49) Compute (S_R^v f)(x) for a Dirichlet kernel. 
+    - (Page 49) Compute (S_R^v f)(x) for a Dirichlet kernel.
     - (Page 50) Compute the means of a Dirichlet kernel D_R as an approximation of the identity, this can be given in terms of a convolution. Hence, compute F(x) as a product.
     - (Page 51) Compute f_phi(eps, x) for a Poisson mean.
     - (Page 51) Compute the Fourier transform of Phi(Eps psi). And also compute the Fourier transform of exp(2 pi i x eta) Phi(eps Psi) so that you can compute f_Phi(eps, x) to be some sort of convolution.
