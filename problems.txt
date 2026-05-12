@@ -1356,24 +1356,37 @@ https://www.maths.ox.ac.uk/system/files/media/HarmAnSlides.pdf, harmonic analysi
     - (Page 79) Compute sum of phi(na), sum of  phi(x-na) and its Fourier transform using the Poisson's summation formula.
     - (Page 80) Compute for f a a-periodic function as a sum of c_n(F) exp(2 pi n/a x), its Fourier transform, with phi if it is viewed as a tempered distribution.
 
+https://websites.umich.edu/~viktorb/etale_summer2020/Notes/cohomology-of-number-fields.pdf, etale cohomology with coefficients in G_m.
+    - (Page 1) Let G be a finite group, and M a G-module, let N_G be the sum of all g in g, and I_G be the sum of all n_g g such that the sum of all n_g = 0 or the augmentation ideal. Double check these computations first before one continues.
+    - (Page 1) Compute the zeroth Tate cohomology group of H^^r(G, M) using the definition, in terms of M^G, N_G and M a G-module.
+    - (Page 1) Compute the -1-th Tate cohomology group, in terms of M^G, N_G and M a G-module and the augumentation ideal I_G M. Explain why.
+    - (Page 1) Compute the -2-th Tate cohomology group in terms of etale cohomology of Spec O_K, where O_K is the ring of integers and G_m which is the algebraic group scheme, multiplicative group. Explain why.
+    - (Page 1) Compute the 1-th Tate cohomology group in terms of etale cohomology of Spec O_K, where O_K is the ring of integers and G_m which is the algebraic group scheme, multiplicative group. Explain why.
+    - (Page 1) Compute the Tate cohomology of all r for G the trivial group.
+    - (Page 1) Compute the 0-th Tate cohomology using the definition where C_2 acts on C^cross of the miltiplicative group of the integers by complex conjugation.
+    - (Page 1) Compute the 1-st Tate cohomology using the definition where C_2 acts on C^cross of the miltiplicative group of the integers by complex conjugation. (Hint: use Galois theory to reduce C_2 to etale cohomology, and compute).
+    - (Page 2) Compute the etale cohomology of H^r(K_v, F) for K_v = Frac(O^h_K,v) where O^h_K,v is the henselisation of O_K,v, for v REAL, for both cases of r even and r odd. Why?
+    - (Page 2) Compute the etale cohomology of H^r(K_v, F) for K_v = Frac(O^h_K,v) where O^h_K,v is the henselisation of O_K,v, for v COMPLEX, for both cases of r even and r odd. Why?
+    - (Page 2) Compute the direct sum decomposition of ths sheaf of Weil divisors Div_U.
+
 https://people.brandeis.edu/~igusa/Math131b2021/A-SlidesComplete.pdf, homological algebra slides
     - (Page 2) Compute the commutative diagram with unique morphism defining products in a category. Compute products in the category of sets and the caetgory of R-modules.
     - (Page 3) Compute the commutative diagram with unique morphism defining coproducts in a category. Compute products in the category of sets and R-modules.
     - (Page 4) Compute (f_1 + f_2) * g in a additive category.
     - (Page 4) Compute Hom_C(X,0) in an additive category.
-    - (Page 5) Compute a canonical isomorphism A oplus B in a semiadditive category.
+    - (Page 5) Compute a canonical isomorphism A oplus B, oplus being direct sum in a semiadditive category.
     - (Page 7) Compute the commutative diagram associated with the kernel of a morphism from f: A -> B.
     - (Page 8) Compute the kernels in finitely generated right R-modules.
     - (Page 9) Compute the commutative diagram associated with the cokernel of a morphism from f: A -> B.
     - (Page 10) Compute the commutative diagram associated with any epimorphism from A to B.
     - (Page 11) Compute the projective objects in the power set of Z.
     - (Page 12) Compute the commutative diagram associated with injective objects.
-    - (Page 13) Compute the injective envelope E(M) for any R-module M over any ring that contains M. Start by computing the dual as a hom set from M to ?. Use duality to compute a canonical image of direct sums under duality.
-    - (Page 15/16/17) Using the tensor hom adjunction, compute Hom_R(M_R, Hom_Z(R^N, T)) as a tensor product. Then substitute N = R and use an isomorphism of M otimes_R R by compute there x otimes r is computed  by the adjunction formula. Compute the result of an evaluation map taking m to ??, then compute an embedding of M to its double dual. Hence using the fact that for F a free left R-module mapping into M^, p: F ->> M^, since Hom is left exact, then p^sharp: M^^ injects into F^ has a monomorphism, then compose these morphisms to show that M embeds in an injective module.
+    - (Page 13) Compute the injective envelope E(M) for any R-module M over any ring that contains M. Start by computing the dual as a hom-set from M to ? (Hint: what is the injective cogenerator in the category of abelian groups? For every abelian group A and non-zero element a in A, there is a homomorphism A -> ? that maps a to something non-zero.). Use duality to compute a canonical image of direct sums under duality.
+    - (Page 15/16/17) Using the tensor-hom adjunction, compute Hom_R(M_R, Hom_Z(R^N, T)) as a tensor product. Then substitute N = R and use an isomorphism of M otimes_R R by computing the element x otimes r using the adjunction formula. Compute the result of an evaluation map taking m to ??, then compute an embedding of M to its double dual. Hence using the fact that for F a free left R-module mapping into M^, p: F ->> M^, since Hom is left exact, then p^sharp: M^^ injects into F^ has a monomorphism, then compose these morphisms to show that M embeds in an injective module. Note that this constructs an injective hull, which is useful for injective resolutions. However, it is easier to construct projective resolutions. Given a module ove ra ring, find a projective module that surjects onto it by taking gnerators, and computing a map from a free module and resolving the relations.
     - (Page 18) Compute a formula for the factorisation of x in terms of y for any integer n in a divisible additive group. Knowing that every quotient of a divisible group is divisible, and that every module M embeds in its injective envelop, infer that an abelian group is divisible iff it is an injective Z-module.
     - (Page 19) Check that for essential embeddings A into B, the intersection between nonzero submodule C in B that meets A is nonzero.
     - (Page 19) Compute what is E(M) if there is an essential embedding into E(M) and E(M) is injective.
-    - (Page 20) Compute the imge of the epimmorphism for each object in the chain associated with a projective resolution which terminates at M -> 0, check that every morphism is an eimorphism on the kernel onto its next morphism.
+    - (Page 20) Compute the imge of the epimmorphism for each object in the chain associated with a projective resolution which terminates at M -> 0, check that every morphism is an epimorphism on the kernel onto its next morphism.
     - (Page 21) Compute the composition of two maps in a chin complex.
     - (Page 21) Compute the commutative diagram associated with morphisms of chain complexes.
     - (Page 21) Compute the rule of maps associated with chain maps as morphisms of chain complexes.
@@ -1391,7 +1404,18 @@ https://people.brandeis.edu/~igusa/Math131b2021/A-SlidesComplete.pdf, homologica
     - (Page 38) Compute B(fa, b) given f: A -> B, g: B->A are functors. Compute A(a, gb) given g: B -> A. For the case f is left adjoint of g and g is right adjoint of f.
     - (Page 39) Compute the hom group associated with Ext^i_R(A,B), compute the cohomology of this hom group and lastly compute Ext as right derived functors. Note that B -> E_* is a projective resolution.
 
+https://stacks.math.columbia.edu/download/dualizing.pdf, dualizing complexes in commutative algebra.
+
 https://people.brandeis.edu/~igusa/Math131b2021/B-SlidesComplete.pdf, commutative algebra summary
+    - (Page 2) Compute elements of a polynomial ring.
+    - (Page 2) Compute the elements of R[alpha] in set builder notation.
+    - (Page 2) Compute in set builder notation Z[i].
+    - (Page 3) Compute K[alpha] in terms of K(alpha) if alpha is algebraic over K. K(alpha) is the smallest field in L, L field extension, alpha in L by adjoining alpha to K.
+    - (Page 3) Compute Q(i) in terms of Q[i] and in set builder notation. Compute the degree of this field extension of Q.
+    - (Page 4) Compute the dimension of a finite field extension as a vector space over field K in terms of the degree of the extension.
+    - (Page 4) Compute the basis of a minimal polynomial f(X) of alpha given that [K(alpha):K] = n. Compute, assuming for contradiction, that this basis is not linearly independent, the degree of the minimal polynomial g(alpha) = 0.
+    - (Page 5) Compute the number of field embeddings L -> K bar (the algebraic closure of K) which are the identity of K for a finite separable extension L of K. (Hint: definition of separable).
+    - (Page 5) Compute the characteristic of a field for a field with all finite field extensions of K being separable. (Hint: perfect fields, need condition when K has characteristic prime)
 
 https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesB1-6.pdf, commutative algebra summary 2
 
