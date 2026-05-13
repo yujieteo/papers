@@ -1093,6 +1093,7 @@ https://aareyanmanzoor.github.io/assets/books/homotopical-algebra.pdf, Quillen's
 https://aareyanmanzoor.github.io/assets/books/characteristic-classes.pdf, Milnor's Characteristic Classes
 
 https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Morel
+    - (Page 2) Compute the distributive law a(b+c).
     - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition.
     - (Page 6) Compute the vector space of functions f: I -> K, compute f + g and af. What happens if you pick I = natural numbers or nonnegative integers?
     - (Page 7) Compute the following formulas of the support, supp(0), supp(f+g) and supp(af).
