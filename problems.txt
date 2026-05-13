@@ -47,6 +47,8 @@ https://www.jmilne.org/math/CourseNotes/GT.pdf, group theory
 
 https://www.jmilne.org/math/CourseNotes/FTe6.pdf, field theory
 
+https://www.math.uchicago.edu/~fcale/papers/blog.pdf, Calegari blog posts
+
 https://www.jmilne.org/math/Books/tcdraft.pdf, Milne's Tannakian categories
 
 https://www.jmilne.org/math/Books/iAG2022.pdf, Milne's algebraic groups
@@ -161,6 +163,8 @@ https://kskedlaya.org/cft/sec_Kummer_theory.html, Kummer theory.
 
 https://www.jmilne.org/math/CourseNotes/LECc.pdf, etale cohomology lecture
 
+https://www.jmilne.org/math/xnotes/svi.pdf, Milne's Shimura varieties notes
+
 https://www.jmilne.org/math/Documents/DeligneArcata.pdf, Deligne's Arcata for etale cohomology
     - Compute using the covering sieve definition the global continuity of a function f given that it is locally continuous for each open in the sieve.
     - Give a function U-locally in terms of a sieve and compare it to the Cech point of view, where functions are given on cocycle of sieve elements. Then reprove the global continuity of a function f given that it is locally continuous for each open in the sieve. This is the Cech point of view.
@@ -200,6 +204,8 @@ https://www.math.ucla.edu/%7Etao/247b.1.07w/notes10.pdf, representation theory f
 https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf  functions tend to have infinite degrees of freedom. Tao's note on harmonic analysis.
 
 https://www.jmilne.org/math/Documents/fac.pdf  Serre's sheaf theory, Milne translation.
+
+https://www.ms.uky.edu/~sohum/ma561/notes/workspace/books/serre_galois_theory.pdf, Serre's Galois Theory topics
 
 https://www.math.mcgill.ca/barr/papers/gk.pdf, Grothendieck's Tohoku, homological algebra.
 
@@ -1466,12 +1472,18 @@ https://people.brandeis.edu/~igusa/Math131b2021/A-SlidesComplete.pdf, homologica
     - (Page 26) Compute the special maps associated with two homotopy equivalent change complexes: C_* isomorphic to D_*
     - (Page 27) Compute the projective reoslution associated with the ring of dual numbers and hence its projective dimension.
     - (Page 28) Compute the exact sequence associated with the snake lemma for kernels and cokernels indicating the connectng homomrorphism. Draw the long exact sequence from the short exact sequence for A_*, B_* and C_*.
-    - (Page 33) Compute the number of injectives if right derived functors exist. Compute the coommutative diagram associated with a tensor product.
+    - (Page 33) Compute the "number" of injectives if right derived functors exist. Compute the commutative diagram associated with a tensor product.
     - (Page 34) Compute the adjoint mapping for a bilinear map A x B to C using f(a, -): B -> C.
     - (Page 36) Compute the exact sequence associated with a right exact functor, and a left derived functor using the tensor product as an example and compute these left derived functors to form the long exact sequence. Construct the long exact sequences and hence the left derived functors.
     - (Page 37) Compute left derived functors by applying it to a projective resolution and take homology.
     - (Page 38) Compute B(fa, b) given f: A -> B, g: B->A are functors. Compute A(a, gb) given g: B -> A. For the case f is left adjoint of g and g is right adjoint of f.
     - (Page 39) Compute the hom group associated with Ext^i_R(A,B), compute the cohomology of this hom group and lastly compute Ext as right derived functors. Note that B -> E_* is a projective resolution.
+
+https://www.andrew.cmu.edu/user/avigad/Talks/fields_hott.pdf, Homotopy Type Theory summary in 39 slides
+
+https://www.andrew.cmu.edu/user/avigad/Talks/survey1.pdf, subsystems of second order arithmetic in 29 slides
+
+https://www.andrew.cmu.edu/user/avigad/Talks/semantic.pdf, semantics of proof theory in 27 slides
 
 https://people.clas.ufl.edu/rcrew/files/homology-lect1.pdf, homological algebra lecture 1.
 
@@ -1519,6 +1531,41 @@ https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesB1-6.pdf, commutative al
 https://people.brandeis.edu/~igusa/Math131b2021/C-SlidesComplete.pdf, Wedderburn structure theorem summary
 
 https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesD2.pdf, Wedderburn structure theorem summary
+
+https://websites.umich.edu/~jchw//CopenhagenMasterclass2021-WilsonReview.pdf, homological algebra review
+
+https://wstein.org/edu/2010/582e/lectures/all/galois_cohomology.pdf, Galois cohomology in 75 pages
+
+https://pages.uoregon.edu/ncp/Courses/KThyReading_W24_Web/IntroLectureSlides/Talk_slides.pdf, summary of algebraic K theory in 33 slides
+
+http://mat.msgsu.edu.tr/~aad/2012/Slides/paganin.pdf, class field theory in 33 slides
+    - (Slide 2) Compute the category of abelian groups A endowed with G-action, what category do you get?
+    - (Slide 2) Compute the canonical image of the fixed point functor from the category of abelian gorups A-endowed with G-action to A^G. Compute the value of ga in under this functor for a in abelian group A for all g in G. Hence compute this functor as a hom functor. Why is this a hom functor?(hint: the integers Z is a canonical "abelian" group or ring).
+    - (Slide 3) Compute the extension associated with the absolute Galois group of K.
+    - (Slide 3) Compute the group associated with the action for K^s, +. Note that s means separable algebraic closure. (Hint: use Galois theory, and use separable closures with a suitable quotient)
+    - (Slide 3) Compute the group associated with the action for K^s,cross, *. (Hint: use Galois theory, and use separable closures with a suitable quotient)
+    - (Slide 3) Compute K using the action of the absolute Galois group G_K.
+    - (Slide 3) Compute Kcross using the action of the absolute Galois group G_K. 
+    - (Slide 4) Compute the canonical image of the fixed point functor from the category of abelian groups A-endowed with G-action to A^G. Compute the value of ga in under this functor for a in abelian group A for all g in G. Hence compute this functor as a hom functor. Now compute what sort of group algebra module is this? Compute the right derived functors. What does one get?
+    - (Slide 5) Compute the zeroth group cohomology of G acting on abelian group A.
+    - (Slide 5) Give an explicit formula for the first group cohomology of group G acting on abelian group A.
+    - (Slide 5) Compute the zeroth group cohomology of G acting on abelian group A. Specialise to the case of A being a trivial G-module.
+    - (Slide 5) Compute explicitly the cocycles of G and A. Hint: cocycles, means f(gh) = h f(g) + f(h), looking like some sort of Hochschild cohomology formal sum.
+    - (Slide 5) Compute explicitly the coboundaries of G and A. Hint: take differences between ga and a.
+    - (Slide 5) Give an explicit formula for the first group cohomology of group G acting on abelian group A. Specialise to the case of A being a trivial G-module.
+    - (Slide 6) Compute the diagram associated with the canonical decomposition fixing a subgroup H of G and compute its group cohomology.
+    - (Slide 7) Compute the Lyndon-Hochschild-Serre spectral sequence, E_2^pq, for G a group, H a normal subgroup, G-module A. Group G acting on abelian group A in terms of cohomology, and what it converges to in group cohomology.
+    - (Slide 8) Compute by description elements of Q^s/Q.
+    - (Slide 8) Compute, for G a profinite group, G module A a discrete topological space, G-modules with continuous action of profinite group G, the associated category of abelian groups endowed with an action of G profinite. Compute the group cohomology (hint: torsion groups).
+    - (Slide 9) Compute the G_K-module of interest in Galois cohomology.
+    - (Slide 9) Compute the torsion G-modules associated with G_K in class field theory for any discrete G-module A. (Hint: Galois cohomology)
+    - (Slide 9) Compute the zeroth Galois cohomology of the absolute Galois group of K acting on the multiplicative group of the algebraic clsoure of K.
+    - (Slide 9) Compute the first Galois cohomology of the absolute Galois group of K acting on the multiplicative group of the algebraic clsoure of K. Use Hilbert Satz 90.
+    - (Slide 9) Compute the second Galois cohomology of hthe absolute Galois group of K acting on the multiplicative group of the algebraic clsoure of K. Use fact on the classification of Azumaya algebras.
+    - (Slide 11) Compute the q-th Galois cohomology of G acting on A for every torsion G-module A for every q > n, for G cohomological dimension smaller than n.
+    - (Slide 11) Compute the q-th Galois cohomology of G acting on A for every G-module A for every q > n, for G strict cohomological dimension smaller than n.
+    - (Slide 27) Let E/F be a finite extension of local fields Absolute Galois group G(F^s/F) of F by G_F, absolute Galois group of E by G_E, Gal(E/F) be finite Galois group. Then compute the first group cohomology by having G_E act on algebraic closure F^s.
+    - (Slide 27) Compute both F_G and subgroup G_F the cohomological and strict cohomological dimension. Let this value be q. Hence compute H^q(G_E, F^s^cross) for which values of q. Hence compute E^_2^pq. For case q = 0 and q = 2. Then compute the Tate cohomology for these special cases.
 
 https://ctta.igrothendieck.org/wp-content/uploads/2024/09/Slides_ConnesAlain-1.pdf, primes, knots, and the adele class space
     - (Slide 4) Grothendieck-Galois theory statement. Let X be a connected scheme, compute a group P that enforces a equivalence of categories between the category of finite etale coverings and the another category related to P.
@@ -1586,3 +1633,13 @@ https://www.andrej.com/assets/slides/laughable-theorems.pdf, Lawvere's fixed poi
 https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/weibel-homv2.pdf, Weibel's Homological Algebra
 
 https://stacks.math.columbia.edu/download/homology.pdf, Stack's Homological Algebra
+
+https://www.imo.universite-paris-saclay.fr/~francois.charles/TLDR9.pdf, local class field theory in 3 pages
+    - Compute the central simple algebras over K, for K a local field, usually assumed to be characteristic zero.
+    - Compute the domain and codomain of the Hasse invariant. Check its functorality in K.
+    - Compute, using a duality and Hasse invariant, the domain and codomain of the Artin reciprocity map.
+    - Compute the limit of all abelian finite quotients of an absolute Galois group of K. 
+    - Compute the Hasse invariant inv_K(chi, a) for chi in X(K), a in K^*.
+    - Compute the canonical decomposition of the Artin reciprocity map by restricting to the maximal unramified abelian extension. This should give the valuation map.
+    - Compute the restriction of the Artin map to the ring of integers O^*_K, and its image. What must be computed to porve injectivity? Compute for K = Q_p, what sort of extensions is enough to prove this existence theorem. Then, state the Kronecker Weber theorem. How else can one construct the other extensions for the general case?
+    - Compute K* in general as a p-adic Lie group, and compute how many extensions worth are cyclotomic extensions. 
