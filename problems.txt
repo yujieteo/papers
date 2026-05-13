@@ -1094,17 +1094,28 @@ https://aareyanmanzoor.github.io/assets/books/characteristic-classes.pdf, Milnor
 
 https://morel.perso.math.cnrs.fr/MAT_217_notes.pdf, linear algebra by Sophie Morel
     - (Page 2) Compute the distributive law a(b+c).
-    - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition.
-    - (Page 6) Compute the vector space of functions f: I -> K, compute f + g and af. What happens if you pick I = natural numbers or nonnegative integers?
-    - (Page 7) Compute the following formulas of the support, supp(0), supp(f+g) and supp(af).
+    - (Page 3) Compute multiplication a * e and a * (1/a) in a group.
+    - (Page 3) Compute (a * b) * c using the associative law in a group.
+    - (Page 3) Compute equality using e and e' both identity elements.
+    - (Page 3) Compute using (1/a) and (1/a') and multiply it with a to determine uniqueness of inverses.
+    - (Page 4) Compute the multiplicative group of a field by subtracting away one element.
+    - (Page 4) Compute the group associated with the set of bijections of finite sets of cardinality n.
+    - (Page 5) Check that for vector spaces you cannot multiply two elements of V by looking at the definition. Hint: need to define some sort of matrix product.
+    - (Page 6) Compute the vector space of functions f: I -> K, compute f + g and af. What happens if you pick I = natural numbers or nonnegative integers? Compute the function associated with the additive identity.
+    - (Page 6) Check that x_1 + x_2 + x_3 = 1 is not a subspace for K = R and V = R^3. Why? Perform a computation on its elements and check.
+    - (Page 7) Compute the minimum value of |f(i)| for a norm attached to the support supp(f) for f in K^I a normed vector space.
+    - (Page 7) Compute the zero element of K^(I) the subspace of functions with finite support. (Hint: what is supp(0), what is the sum operation homomorphic to? How does one check for closure under scalars.)
+    - (Page 7) Compute the following formulas of the support, supp(0), supp(f+g) and supp(af). (Hint: see the previous exercise.)
     - (Page 7) Compute, for the vector space over GF(2), A + B and 0 x A, and 1 x A. Compute the characteristic function over Z/2Z.
-    - (Page 7) Compute the entrywise addition and scalar multiplication of M_nm(K), A+B and xA. 
+    - (Page 7) Compute the value of the characteristic function associated with F_2^I, or the vector space of compact support for I a nonempty set, and V the set of subsets of I.
+    - (Page 7) Compute the entrywise addition and scalar multiplication of M_nm(K), A+B and xA.
     - (Page 8) Compute the equivalent K-vector space of m by n matrices M_mn(K).
-    - (Page 8) Compute the following, T being transpose operations. (A^T)^T, (A+B)^T, (aA)^T.
-    - (Page 9) Compute the matrix product (AB)_ij.
+    - (Page 8) Compute the following, T being transpose operations. (A^T)^T (hint: double dual), (A+B)^T  (hint: this splits), (aA)^T (hint: scalars are not affected by transpose).
+    - (Page 9) Compute the matrix product (AB)_ij. 
     - (Page 9) Compute the following (A+B)C, A(C+D), (AC)E = A(CE).
     - (Page 9) Remark on the commutator and its relation to quantum mechanics and noncommutative geometry. Any nontrivial commutator gives rises to a Fourier theory apparently.
     - (Page 9) Compute I_n A in terms of I_m for A in M_nm(K).
+    - (Page 10) Compute the product AB and BA of A = (0 1; 0 0) and B = (0 0; 0 1) in matrices.
     - (Page 10) Compute the inverse of A = (0 1 ; 0 0) in the matrix M_2(Q).
     - (Page 10) Compute the scalars lambda_i of sum lambda_i v_i = 0 for an linearly independent set of vectors.
     - (Page 10/16) Compute a linear combination of v_i given some scalars. Amend the computation using Definition 7.1 for arbitrary vector spaces.
