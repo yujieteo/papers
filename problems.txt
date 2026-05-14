@@ -1713,14 +1713,35 @@ https://webee.technion.ac.il/people/sason/raginsky_sason_ISIT_2015_tutorial_part
 
 https://www.its.caltech.edu/~matilde/InformationAlgebras2021Ma148.pdf, thermodynamic semirings and information algebras, Marcolli, in 111 slides
 
+https://math.mit.edu/~drew/vantage/ShinSlides.pdf, Shimura varieties PowerPoint slides.
+
+https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Shimura varieties, Lan Kai Wen
+    - (Page 4) Compute the inverse limit of Z/NZ. What is this defined? 
+    - (Page 4) Compute the tensor product of the inverse limit of the profinite completion of the integers with Q. This is A^\infty.
+    - (Page 4) Compute the ring of adeles using a product.
+    - (Page 4) Compute the topological groups G(R), G(A^\infty) and G(A) as a product of topological groups. What are the two ways to compute this? (hint: Weil's restricted product, or affine sche,e over the topological ring of adeles).
+    - (Page 4) Compute the elements of GL_n(R). Compute the elements of SL_n(R). Compute R^\times as GL or G_m.
+    - (Page 4) Compute the R-points of the affine group schemes GL_n and SL_n over Z.
+    - (Page 4) Compute the pullbacks of affine group schemes to Q.
+    - (Page 5) Compute the skyew symmetric matrix representation J_n of size 2_n, then with this construct SP_2n(R). (Hint: t_g J_n g = J_n, but why?)
+    - (Page 5) Compute GSP_2n.
+    - Compute the closed subgroup schemes of GSp_2n and SP_2n of GL_2n and GL_2n+1 respectively.
+    - (Page 5) Compute the alternating pair <x,y> associated with R^2n for each g in GL_2n(R).
+    - (Page 5) Compute the alternating pair <gx,gy> associated with R^2n for each g in GL_2n(R). Hence when compute <gx,gy> so that the conjugation condition t_g J_n g = J_n is satisfied. (Hint: <x,y> is a fixed point under g, g preserves the above pairing.) What about g is used in the computation?
+    - (Page 5) Compute the alternating pair <gx,gy> associated with R^2n for each g in GL_2n(R). Hence when compute <gx,gy> so that the conjugation condition t_g J_n g = r J_n is satisfied. (Hint: r <x,y> is a fixed point under g, g preserves the above pairing.) What about g is used in the computation?
+    - (Page 5) Compute the domain and codomain of the homomorphism for the similitude character of GSp_2n(R).
+    - (Page 5) Compute the kernel of the homomorphism for the similitude character of GSp_2n(R). 
+    - (Page 5) Compute the elementwise image of r of the homomorphism for the similitude character of GSp_2n(R).
+
+
 https://www.its.caltech.edu/~matilde/ICMtalkMarcolliSlides.pdf, noncommutative geometry in arithmetic
-    - (Slide 3). Consider imaginary quadratic fields, compte C^2/(Z + tauZ) what doe shtis represent. Also compute it in terms of C^*.
-    - (Slide 3) Compute the endormorphism ring of elliptic curves under tau and K, for K = Q(tau). Compute this in the case of complex multiplication. (Hint: you will need to define f an integer, what is this integer?).
+    - (Slide 3). Consider imaginary quadratic fields, compte C^2/(Z + tauZ) what does this represent. Also compute it in terms of C^*.
+    - (Slide 3) Compute the endomorphism ring of elliptic curves under tau and K, for K = Q(tau). Compute this in the case of complex multiplication. (Hint: you will need to define f an integer, what is this integer?).
     - (Slide 3) Compute E_tau/Aut(E_tau). (Hint: what sort of geometry is used in the chord and tangent process for elliptic curves over imaginary quadratic fields).
     - (Slide 3) Compute abelian extensions of imaginary quadratic fields using the coordinate on quotient E_tau/Aut(E_tau) and the j invariant on E_tau,K. (Hint: some version of Mordell's theorem is used here).
     - (Slide 4) Compute the quotient associated with X_Gamma(C).
     - (Slide 4) Compute the quotient associated with the level structure of a modular curve X_G(C).
-    - (Slide 4) Compute the sheaf of modular functions on the tower for field F, Sh(GL_2, H^pm). (Hint: you will need the adelic formulation.
+    - (Slide 4) Compute the sheaf of modular functions on the tower for field F, Sh(GL_2, H^pm). (Hint: you will need the adelic formulation.)
     - (Slide 4) Compute an abelian extension of imaginary quadratic fields in set builder notation, for f in field of modular functions on the tower.
     - (Slide 4) Compute the automorphism group that induces the Galois action Gal(K^ab/K) using class field theory.
     - (Slide 5) Compute Q^ab for the case of the Kronecker Weber theorem. Compute the relations of these pooints with respect to the multiplicative group scheme.

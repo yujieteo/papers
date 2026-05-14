@@ -912,6 +912,10 @@ https://pages.uoregon.edu/ncp/Courses/KThyReading_W24_Web/IntroLectureSlides/Tal
 
 https://leanprover-community.github.io/mathematics_in_lean/, MUST READ< math in Lean
 
+https://www.math.uchicago.edu/~ngo/Shimura.pdf, introduction to Shimura varieties in 52 pages
+
+https://amihatsch.github.io/ref/SV.pdf, introduction to Shimura varieties in 118 pages
+
 https://awodey.github.io/talks/AwodeyHIM2024.pdf, Awodey's Hott summary.
 
 https://leanprover-community.github.io/logic_and_proof/, MUST READ, logic and prof in Lean
