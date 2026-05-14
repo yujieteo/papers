@@ -243,7 +243,7 @@ https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf, elliptic
     - (Slide 43) E(Q) is a subgroup of E(R). Compute the canonical decomposition of each point using the Mordell theorem. 
     - (Slide 43/45) Compute the canonical decomposition of E(Q) as groups. Hence from this canonical decomposition, compute the rank of E(Q).
     - (Slide 45) Using Mazur's results in 1977, compute the classification of all torsion subgroups of E(Q). There are 15 groups in total. C_N for N of which values, and C_2 x C_2N for which N? Compute the upper bound of E(Q)_tors.
-    - (Slide 46) Comput ethe upper bound of the rank of E(F_p(T)).
+    - (Slide 46) Compute the upper bound of the rank of E(F_p(T)).
     - (Slide 47) Compute a counterexample to E(Z) being a subgroup of E(Q).
     - (Slide 47) Compute the cardinality of points of E(Z) using Siegel's theorem in 1928.
     - (Slide 48) Compute the limit of log|a(P)|/log|b(P)| intuitively when one writes x(P) in E(Q) as a(P)/b(P).
