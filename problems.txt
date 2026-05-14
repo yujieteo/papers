@@ -207,6 +207,93 @@ https://www.jmilne.org/math/Documents/fac.pdf  Serre's sheaf theory, Milne trans
 
 https://www.ms.uky.edu/~sohum/ma561/notes/workspace/books/serre_galois_theory.pdf, Serre's Galois Theory topics
 
+https://web.stanford.edu/~bvchurch/assets/files/talks/Galois-Reps.pdf, Galois representations summary
+
+https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf, elliptic curves Silverman slides
+    - (Slide 3) Compute the minimum integer satsifying h = g^m, for h in subgroup enerated by g in group G using the definition of the index.
+    - (Slide 9) Compute the discriminant of an elliptic curve y^2 = x^3 + Ax + B.
+    - (Slide 9) Compute using the definition the set of points on an elliptic curves including the requirement on the discriminant.
+    - (Slide 16) Visualise the direct sum of two points of an elliptic curve.
+    - (Slide 20) Visualise the self addition of a point of an elliptic curve.
+    - (Slide 22) Compute the point that exists on every vertical line of an elliptic curve.
+    - (Slide 24) Note that associativity is compute via explicit formulas or algebraic/analytic number theory.
+    - (Slide 26) Compute explicit formulas for the gradient for the line connecting two points P_1 and P_2 to Q, for the case of P_1 - P_2 nonzero.
+    - (Slide 26) Compute explicit formulas for the gradient for the line connecting two points P_1 and P_2 to Q, for the case of P_1 - P_2 zero.
+    - (Slide 27) Compute the substitution of the line formula y = lambda x + nu into the elliptic curve.
+    - (Slide 27) Compute the expansion of three roots of x^3 + Ax + B - (lambda x + nu)^2.
+    - (Slide 27) Using this expansion of roots by equating coefficients of x^2, compute lambda^2, and then compute x_3 in terms of this.
+    - (Slide 28) Compute for case P_1 neq P_2 and x_1 neq x_2, the equation of a line as per coordinates. (Hint: simple equation of line)
+    - (Slide 28) Compute for case P_1 neq P_2 and y_= neq 0, the values of lambda and nu of the equation of the line in terms of A and B, x_1 and y_1.
+    - (Slide 29) Compute the general equation for addition of two points using the coordinates of x_1 and x_2, as well as lambda and nu.
+    - (Slide 30) Compute the field that contains the coordinates of sums and double of points in field K. 
+    - (Slide 31) Compute the group axioms that lead to the observation that points with coordinates in a particular group form a subgroup of a full set of points of an elliptic curve.
+    - (Slide 33) Compute for E: y^2 = x^3 - 5x + 8 the decomposition of E(F_37) working over square modulo 37. Then, compute the canonical decomposition of E(F^p). 
+    - (Slide 34) Compute the expansion of mP in terms of the Frobenius in the case of l = 2.
+    - (Slide 35) Compute the ternary expansion for large multiples of a point.
+    - (Slide 38) Compute the analytic decomposition of E(R) via case analysis. (Hint: use an isomorphism and geometrical picture, what is the image of this isomorphism)
+    - (Slide 39) Compute the geometric picture of the points of an elliptic curve with coordinates in the complex numbers. 
+    - (Slide 39) Form a torus using two points omega_1 and omega_2 in a lattice. Describe this computation. These are the periods of E.
+    - (Slide 40) Construct the lattice spanned by the periods of E(C) as a mental picture.
+    - (Slide 41) Compute the Laurent series associated with the Weierstrass p-function WP for omega in L.
+    - (Slide 41) Compute WP(z + omega) using the fact that WP(z) is the Weierstrass p function. Which function does it generalise since there are now two periods instead of 1.
+    - (Slide 41) Compute the period of the classical function exp(z).
+    - (Slide 42) Compute E(C), elliptic curves with coefficients over the complex numbers as a product.
+    - (Slide 42) Compute the product of NP for P in E(C) and N an integer greater than or equal to 1, for theset E(C)_N or the set of elements of E(C) of order dividing N. 
+    - (Slide 42) Compute the canonical decomposition of E(C)_N or the set of elements of E(C) of order dividing N.
+    - (Slide 43) E(Q) is a subgroup of E(R). Compute the canonical decomposition of each point using the Mordell theorem. 
+    - (Slide 43/45) Compute the canonical decomposition of E(Q) as groups. Hence from this canonical decomposition, compute the rank of E(Q).
+    - (Slide 45) Using Mazur's results in 1977, compute the classification of all torsion subgroups of E(Q). There are 15 groups in total. C_N for N of which values, and C_2 x C_2N for which N? Compute the upper bound of E(Q)_tors.
+    - (Slide 46) Comput ethe upper bound of the rank of E(F_p(T)).
+    - (Slide 47) Compute a counterexample to E(Z) being a subgroup of E(Q).
+    - (Slide 47) Compute the cardinality of points of E(Z) using Siegel's theorem in 1928.
+    - (Slide 48) Compute the limit of log|a(P)|/log|b(P)| intuitively when one writes x(P) in E(Q) as a(P)/b(P).
+    - (Slide 49) Compute an upper bound on the number of points in E(F_p) using the theory of finite fields.
+    - (Slide 49) Compute an approximation for the number of points for the number of points in E(F_p). First, check the probability that f(x) = x^3 + Ax + B is a square in F_p^*. Check that f(x) is a square, how many points does one get in E(F_p). Then, consider O. Lastly with this computation, compute the number of points.
+    - (Slide 49) Using Hasse's theorem, compute the upper bound cardinality of E(F_p) - (p+1), geq sign.
+    - (Slide 51) Compute the results of the Frobenius map on points.
+    - (Slide 51) Compute a formula for the trace of Frobenius. (Hint: it is related to Hasse's theorem mysteriously.) Then compute an upper bound for the trace of Frobenius.
+    - (Slide 52) Compute the number of groups E/F_p with a_p(E) between interval [alpha, beta] using a theorem of Birch. This is the Sato-Tate distribution.
+    - (Slide 53) Compute the equation for a Koblitz curve.
+    - (Slide 53) Compute the number of points on a Koblitz curves with an explicit formula.
+    - (Slide 54) Compute tau(P,Q) for group homomorphism x^2, y^2. Then compute the point associated with tau^2(P) + tau(P) + 2P. Then compute mP using Linear algebra.
+    - (Slide 64) Recall the product of NP in E_N. Then recall the computation of zeta^N in mu_N. Lastly compute the domain and codomain of teh Weil pairing as a nondegenerate alternating bilinear form.
+    - (Slide 64) Compute the superset containing E_N to ensure mu_N is in F_q.
+    - (Slide 65) Compute the divisor of f for f(x,y) on an elliptic curve as a sum and give conditions for the divisor.
+    - (Slide 65) Compute for P, Q in E_N, and choosing any two points R, S in E, find divisors for f_P and f_Q to compute e_N(P,Q).
+    - (Slide 66) Compute the domain and codomain of the Tate pairing as a nondegenerate symmetric bilinear form, taking (P,Q) to <P,Q>_Tate. Then compute the condition of the divisor of f_P to determine a formula for the Tate pairing. 
+    - (Slide 70) Compute the discriminant of an elliptic curve. Hence assume it is nonzero for a nonsingular elliptic curve with coefficients in F_p. Compute the greatest common divisor of the discriminant and a prime p for E with good reduction at p. Compute the greatest common divisor of the discriminant and a prime p for E with bad reduction at p.
+    - (Slide 71) Compute for x = a/b in Q, and p does not divide q, an expression of coordinate x^t for (x,y) in E(Q). Compute similarly for y. What about the case where p divides both the denominator of x and y, and compute x^t, y^t. Hence describe this map RMp with its canonical domain and codomain taking P to P^t. ^t means in finite field F_p. Hence compute RMp(AB) for A, B in E(Q). 
+    - (Slide 73) Compute for x = a/b in Q, and p does not divide q, an expression of coordinate x^t for (x,y) in E(Q). Compute similarly for y. What about the case where p divides both the denominator of x and y, and compute x^t, y^t. Hence describe this map RMp with its canonical domain and codomain taking P to P^t. ^t means in finite field F_p. Hence compute RMp(AB) for A, B in E(Q). For this map, compute the gcd(N,p) required for E(Q)_N -> E^t(F_p) to be one to one when E has good reduction. This is sa very important theorem, and works replacing Q with a number field.
+    - (Slide 76) Compute the height of a rational number a/b, for a/b in Q, gcd(a,b) = 1. 
+    - (Slide 76) Compute the height of a point on an elliptic curve. (Hint:P need to take log).
+    - (Slide 76) Compute the height of point O i.e. the identity of the elliptic curve.
+    - (Slide 76) Compute the number of bits to store point P for an elliptic curve.
+    - (Slide 77) Compute an upper bound for |h(nP) - n^2 h(P)| in terms of complexity notation.
+    - (Slide 77) Compute an upper bound for |h(P+Q) + h(P-Q) - 2h(P) - 2h(Q)| in terms of complexity notation.
+    - (Slide 77) Compute the number of points h(P) <= c. 
+    - (Slide 77) Compute an approximation for the number of digits of x_nP.
+    - (Slide 78) Compute the Neron-Tate canonical height of an elliptic curve.
+    - (Slide 78) Compute the Neron-Tate canonical height in terms of the ordinary height in complexity notati8on.
+    - (Slide 78) Compute h^(P+Q) + h^(P-Q).
+    - (Slide 78) Compute h^(P) if P in torsion subgroup of E(Q).
+    - (Slide 78) Compute the vector space in which the canonical Neron-Tate canonical height induces a positive definite quadratic form.
+    - (Slide 79) Compute the inner product associated with the canonical height.
+    - (Slide 79) Compute the structure endowed on the vector space in which the canonical Neron-Tate canonical height induces a positive definite quadratic form. 
+    - (Slide 79) Compute the volume  of a fundmaentla domain of this lattice in terms of a eterminant on a canonical form.
+    - (Slide 84) Compute the canonical linear combination on elements in the group of rational points.
+    - (Slide 84) Compute the cardinality of the group E(Q)/mE(Q) for m >= 2. This the weak Mordell-Weil theorem.
+    - (Slide 85) Compute the finite set used to generate E(Q) in terms of set builder notation using representatives of the finite set E(Q)/mE(Q). Hence compute for P = mQ + P_j, m^2 h^(Q) and derivae an upper bound. Use the fact that m >= 2 to prove another bound.
+    - (Slide 91) Compute a formula for the trace of Frobenius. (Hint: it is related to Hasse's theorem mysteriously.) Then using the trace of Frobenius, compute the L-series of E in a single function. Use Hasse's estimate, show the converge of the real part of the variable s of Re(s) > 3/2.
+    - (Slide 92) Thinking about Wiles's theorem, compute an expression for f(E, tau) and L(E,s) for f(E, tau) a weight 2 cusp form for Gamma_0(N), N the conductor of the elliptic curve.
+    - (Slide 93) Compute L(E,1) as per the Birch Swinnerton-Dyer conjecture.
+    - (Slide 94) Compute the order of vanishing of L(E,s) using the rank of an elliptic curve E(Q) and the Birch-Swinnerton-Dyer conjecture. 
+    - (Slide 97) Compute NP for the the points in the N-torsion subgroup of an elliptic curve over Q. Where does it has coordinates in.
+    - (Slide 97) Compute the group of homomorphisms from the canonical decomposition of E_N . Then compute the domain and codomain of the mod N representation attached to E. This is the Galois representations attached to E.
+
+https://static1.squarespace.com/static/57bf2a6de3df281593b7f57d/t/600db4f1676f6519410f71e9/1611511026377/serre_1972_translation.pdf, Serre's Galois representations of elliptic curves
+    - (Page 5) Let E be an elliptic curve, v be finite place, for E having a good reduction at v, compute where the coefficients of the Weierstrass equation f for E_v is (Hint: recall that O_v is a local ring, m_v maximal ideal, k_v the residue field.)
+    - (Page 5) Let E be an elliptic curve, v be finite place, for E having a good reduction at v, compute the number of singularities of the cubic associated with its reduction over the residue field. This cubic curve is the reduction of E at v, and it does not depend on the choice of f in computing the discriminant (Hint: recall that O_v is a local ring, m_v maximal ideal, k_v the residue field.)
+
 https://www.math.mcgill.ca/barr/papers/gk.pdf, Grothendieck's Tohoku, homological algebra.
 
 https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf, Lang's algebra
@@ -1085,7 +1172,7 @@ https://math.mit.edu/classes/18.783/2025/LectureSlides14.pdf
     - (Page 4) Compute the differential equation satisfied by the Weierstrass p-function, and the values of g_2(L) and g_3(L).
 
 https://math.mit.edu/classes/18.783/2025/LectureSlides16.pdf
-    - (Page 4) Compute the elementwise image of a holomorphic group homomorphism induced by an anlytic endomorphism of C for alpha L_1 in L_2, for the image z + L_1.
+    - (Page 4) Compute the elementwise image of a holomorphic group homomorphism induced by an analytic endomorphism of C for alpha L_1 in L_2, for the image z + L_1.
 
 https://math.mit.edu/classes/18.783/2025/LectureSlides17.pdf
     - (Page 2) Compute the image of the isomorphism of End(C/L) to that of E_L.
