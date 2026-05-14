@@ -1841,3 +1841,5 @@ https://www.jmilne.org/math/xnotes/svn.pdf, Shimura varieties in 3 pages. Shimur
     - (Page 3) Compute Deligne's definition of a reductive group and the domain and codomain of the G(R)-conjugacy class of homomorphisms as a double coset space, where G is a reductive group over Q. What is this used for?
 
 https://www.jmilne.org/math/xnotes/AVs.pdf, abelian varieties in 49 pages as a summary
+
+https://academicweb.nd.edu/~andyp/teaching/2020FallMath10850/ClarkNotes.pdf, Pete L Clark's calculus course.
