@@ -262,10 +262,10 @@ https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf, elliptic
     - (Slide 65) Compute for P, Q in E_N, and choosing any two points R, S in E, find divisors for f_P and f_Q to compute e_N(P,Q).
     - (Slide 66) Compute the domain and codomain of the Tate pairing as a nondegenerate symmetric bilinear form, taking (P,Q) to <P,Q>_Tate. Then compute the condition of the divisor of f_P to determine a formula for the Tate pairing. 
     - (Slide 70) Compute the discriminant of an elliptic curve. Hence assume it is nonzero for a nonsingular elliptic curve with coefficients in F_p. Compute the greatest common divisor of the discriminant and a prime p for E with good reduction at p. Compute the greatest common divisor of the discriminant and a prime p for E with bad reduction at p.
-    - (Slide 71) Compute for x = a/b in Q, and p does not divide q, an expression of coordinate x^t for (x,y) in E(Q). Compute similarly for y. What about the case where p divides both the denominator of x and y, and compute x^t, y^t. Hence describe this map RMp with its canonical domain and codomain taking P to P^t. ^t means in finite field F_p. Hence compute RMp(AB) for A, B in E(Q). 
+    - (Slide 71) Compute for x = a/b in Q, and p does not divide q, an expression of coordinate x^t for (x,y) in E(Q). Compute similarly for y. What about the case where p divides both the denominator of x and y, and compute x^t, y^t? Hence describe this map RMp with its canonical domain and codomain taking P to P^t. ^t means in finite field F_p. Hence compute RMp(AB) for A, B in E(Q). 
     - (Slide 73) Compute for x = a/b in Q, and p does not divide q, an expression of coordinate x^t for (x,y) in E(Q). Compute similarly for y. What about the case where p divides both the denominator of x and y, and compute x^t, y^t. Hence describe this map RMp with its canonical domain and codomain taking P to P^t. ^t means in finite field F_p. Hence compute RMp(AB) for A, B in E(Q). For this map, compute the gcd(N,p) required for E(Q)_N -> E^t(F_p) to be one to one when E has good reduction. This is sa very important theorem, and works replacing Q with a number field.
     - (Slide 76) Compute the height of a rational number a/b, for a/b in Q, gcd(a,b) = 1. 
-    - (Slide 76) Compute the height of a point on an elliptic curve. (Hint:P need to take log).
+    - (Slide 76) Compute the height of a point on an elliptic curve. (Hint: P need to take log).
     - (Slide 76) Compute the height of point O i.e. the identity of the elliptic curve.
     - (Slide 76) Compute the number of bits to store point P for an elliptic curve.
     - (Slide 77) Compute an upper bound for |h(nP) - n^2 h(P)| in terms of complexity notation.
@@ -273,13 +273,13 @@ https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf, elliptic
     - (Slide 77) Compute the number of points h(P) <= c. 
     - (Slide 77) Compute an approximation for the number of digits of x_nP.
     - (Slide 78) Compute the Neron-Tate canonical height of an elliptic curve.
-    - (Slide 78) Compute the Neron-Tate canonical height in terms of the ordinary height in complexity notati8on.
+    - (Slide 78) Compute the Neron-Tate canonical height in terms of the ordinary height in complexity notation.
     - (Slide 78) Compute h^(P+Q) + h^(P-Q).
     - (Slide 78) Compute h^(P) if P in torsion subgroup of E(Q).
     - (Slide 78) Compute the vector space in which the canonical Neron-Tate canonical height induces a positive definite quadratic form.
     - (Slide 79) Compute the inner product associated with the canonical height.
     - (Slide 79) Compute the structure endowed on the vector space in which the canonical Neron-Tate canonical height induces a positive definite quadratic form. 
-    - (Slide 79) Compute the volume  of a fundmaentla domain of this lattice in terms of a eterminant on a canonical form.
+    - (Slide 79) Compute the volume of a fundamental domain of this lattice in terms of a eterminant on a canonical form.
     - (Slide 84) Compute the canonical linear combination on elements in the group of rational points.
     - (Slide 84) Compute the cardinality of the group E(Q)/mE(Q) for m >= 2. This the weak Mordell-Weil theorem.
     - (Slide 85) Compute the finite set used to generate E(Q) in terms of set builder notation using representatives of the finite set E(Q)/mE(Q). Hence compute for P = mQ + P_j, m^2 h^(Q) and derivae an upper bound. Use the fact that m >= 2 to prove another bound.
