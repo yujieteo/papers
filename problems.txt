@@ -1627,7 +1627,7 @@ https://pages.uoregon.edu/ncp/Courses/KThyReading_W24_Web/IntroLectureSlides/Tal
 
 http://mat.msgsu.edu.tr/~aad/2012/Slides/paganin.pdf, class field theory in 33 slides
     - (Slide 2) Compute the category of abelian groups A endowed with G-action, what category do you get?
-    - (Slide 2) Compute the canonical image of the fixed point functor from the category of abelian gorups A-endowed with G-action to A^G. Compute the value of ga in under this functor for a in abelian group A for all g in G. Hence compute this functor as a hom functor. Why is this a hom functor?(hint: the integers Z is a canonical "abelian" group or ring).
+    - (Slide 2) Compute the canonical image of the fixed point functor from the category of abelian groups A-endowed with G-action to A^G. Compute the value of ga in under this functor for a in abelian group A for all g in G. Hence compute this functor as a hom functor. Why is this a hom functor? (Hint: the integers Z is a canonical "abelian" group or ring).
     - (Slide 3) Compute the extension associated with the absolute Galois group of K.
     - (Slide 3) Compute the group associated with the action for K^s, +. Note that s means separable algebraic closure. (Hint: use Galois theory, and use separable closures with a suitable quotient)
     - (Slide 3) Compute the group associated with the action for K^s,cross, *. (Hint: use Galois theory, and use separable closures with a suitable quotient)
@@ -1641,9 +1641,9 @@ http://mat.msgsu.edu.tr/~aad/2012/Slides/paganin.pdf, class field theory in 33 s
     - (Slide 5) Compute explicitly the coboundaries of G and A. Hint: take differences between ga and a.
     - (Slide 5) Give an explicit formula for the first group cohomology of group G acting on abelian group A. Specialise to the case of A being a trivial G-module.
     - (Slide 6) Compute the diagram associated with the canonical decomposition fixing a subgroup H of G and compute its group cohomology.
-    - (Slide 7) Compute the Lyndon-Hochschild-Serre spectral sequence, E_2^pq, for G a group, H a normal subgroup, G-module A. Group G acting on abelian group A in terms of cohomology, and what it converges to in group cohomology.
+    - (Slide 7) Compute the Lyndon-Hochschild-Serre spectral sequence, E_2^pq, for G a group, H a normal subgroup, G-module A. Group G acting on abelian group A in terms of cohomology. Compute what it converges to in group cohomology.
     - (Slide 8) Compute by description elements of Q^s/Q.
-    - (Slide 8) Compute, for G a profinite group, G module A a discrete topological space, G-modules with continuous action of profinite group G, the associated category of abelian groups endowed with an action of G profinite. Compute the group cohomology (hint: torsion groups).
+    - (Slide 8) Compute, for G a profinite group, G module A a discrete topological space, G-modules with continuous action of profinite group G, the associated category of abelian groups endowed with an action of G being a profinite group. Compute the group cohomology (hint: torsion groups).
     - (Slide 9) Compute the G_K-module of interest in Galois cohomology.
     - (Slide 9) Compute the torsion G-modules associated with G_K in class field theory for any discrete G-module A. (Hint: Galois cohomology)
     - (Slide 9) Compute the zeroth Galois cohomology of the absolute Galois group of K acting on the multiplicative group of the algebraic clsoure of K.
@@ -1676,7 +1676,7 @@ https://ctta.igrothendieck.org/wp-content/uploads/2024/09/Slides_ConnesAlain-1.p
 
 http://verbit.ru/MATH/GEOM-2013/slides-pde-en-1.pdf, differential geometry tutorial, geometry of manifolds
     - (Slide 3) Compute the image of the canonical local homemomorphism of a topological manifold.
-    - (Slide 3) Compute the transitive action fo a group of homeomorphisms acting on a connected manifold.
+    - (Slide 3) Compute the transitive action for a group of homeomorphisms acting on a connected manifold.
     - (Slide 3) Compute the canonical domain of a isometry to a manifold for a geodesic in metric space.
     - (Slide 6) Compute using a family of open sets {U_i} an open cover of a topological space using a set operation. Then, compute refinements, again using a set operation. Then, compute a common refinement using a set operation.
     - (Slide 6) Compute the canonical codomain of a cover that is also an atlas for each open subset in the covering family (hint: local homemorphism with R^n). Then, compute the domain and codomain defining transition maps on common refinements. Remark, differentiability class C^i if i-th times differentiable, i-th derivative continuous for all coordinate component, smooth means intersection of all differentiability class i.e. C^\infty or some sort of projective limit. Smooth if all transition functions are smooth, smooth of class C^i if all transitions are differentiability class C^i, and real analytic if admits Taylor's expansion at each point.
@@ -1712,6 +1712,24 @@ https://webee.technion.ac.il/people/sason/raginsky_sason_ISIT_2015_tutorial_part
 https://webee.technion.ac.il/people/sason/raginsky_sason_ISIT_2015_tutorial_part_2.pdf, concentration of measure by Chernoff bound
 
 https://www.its.caltech.edu/~matilde/InformationAlgebras2021Ma148.pdf, thermodynamic semirings and information algebras, Marcolli, in 111 slides
+
+https://www.its.caltech.edu/~matilde/ICMtalkMarcolliSlides.pdf, noncommutative geometry in arithmetic
+    - (Slide 3). Consider imaginary quadratic fields, compte C^2/(Z + tauZ) what doe shtis represent. Also compute it in terms of C^*.
+    - (Slide 3) Compute the endormorphism ring of elliptic curves under tau and K, for K = Q(tau). Compute this in the case of complex multiplication. (Hint: you will need to define f an integer, what is this integer?).
+    - (Slide 3) Compute E_tau/Aut(E_tau). (Hint: what sort of geometry is used in the chord and tangent process for elliptic curves over imaginary quadratic fields).
+    - (Slide 3) Compute abelian extensions of imaginary quadratic fields using the coordinate on quotient E_tau/Aut(E_tau) and the j invariant on E_tau,K. (Hint: some version of Mordell's theorem is used here).
+    - (Slide 4) Compute the quotient associated with X_Gamma(C).
+    - (Slide 4) Compute the quotient associated with the level structure of a modular curve X_G(C).
+    - (Slide 4) Compute the sheaf of modular functions on the tower for field F, Sh(GL_2, H^pm). (Hint: you will need the adelic formulation.
+    - (Slide 4) Compute an abelian extension of imaginary quadratic fields in set builder notation, for f in field of modular functions on the tower.
+    - (Slide 4) Compute the automorphism group that induces the Galois action Gal(K^ab/K) using class field theory.
+    - (Slide 5) Compute Q^ab for the case of the Kronecker Weber theorem. Compute the relations of these pooints with respect to the multiplicative group scheme.
+    - (Slide 5) Compute the cyclotomic extensions tower Sh(GL1, pm1) using class field theory.
+    - (Slide 5) Compute the image of q for C* = GM(C) as a degenerate elliptic curve. Where is q taken to? How does one compute quotients using NCG?
+    - (Slide 6) Compute the semidirect product associated with noncommutative tori.
+    - (Slide 6) Compute the basic noncommutative relation for a unitary relation.
+
+https://www.math.fsu.edu/~marcolli/NCGNTslides.pdf, noncommutative geometry in arithmetic focusing on Shimura varieties.
 
 https://www.andrej.com/assets/slides/laughable-theorems.pdf, Lawvere's fixed point theorem 
     - (Slide 9) Let e: A -> B^A be surjective, we want to compute a fixed point for every f: B -> B. This is the statement on Lawvere's fixed point theorem. Compute e(x) in terms of a lambda function. Hence compute the value of f(e(x)e(x)), and compute the fixed point in the theorem. Now consider the contrapositive, and show that there is no surjection from A to the power set of A.
