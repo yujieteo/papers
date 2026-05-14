@@ -396,7 +396,13 @@ https://arxiv.org/pdf/2506.18174, Clausen's thesis cleaned up. (1) page 2 give s
 
 https://www.math.columbia.edu/~chaoli/IHES.pdf  geometric and arithmetic theta correspondences, introduction focusing on the example of unitary groups and highlight recent advances in the arithmetic theory (also known as the Kudla program) and their applications.
 
+https://math.dartmouth.edu/~lesen/notes/talk_slides.pdf, Shimura varieties in 17 slides, MUST READ because it is short.
+
+https://hal.science/hal-04275698/document, Shimura varieties, Sophie Morel in 65 pages, MUST READ because it is by Sophie Morel
+
 https://www.math.columbia.edu/~chaoli/slides/LeiZhang.pdf  Twisted Automorphic Descent and Gan-Gross-Prasad Conjecture, Chao Li, F number field, A ring of adeles, G is classical group defined over F, g is Lie lgebra, G in SO(V_n), U(V_n), Sp_2n, bar Sp_2n. PENANDPAPER slide 5.
+
+https://arxiv.org/pdf/1306.2070, perfectoid Siegel space, existence of Galois representatiosn associated with mod p cohomology of locally symmetrisc spaces i.e. Shimura varieties.
 
 https://arxiv.org/pdf/2410.13038, Mann's six functor guide, 196 pages of full detail: Definition of the geometric set up on page 18 for the category of correspondences. Straightening and unstraightening correspondence means that stacks corresponds to (2,1)-functors from C^op -> Grpd. Now I get why straightening and unstraightening is important, it is literally funcotr of points. Descent reduces questions about sheaves of the space to questions about nice coverings of the space. Every abelian category is enriched in the category of abelian groups, so enrichment gives an immediate definition, it is something that the snake lemma and the first isomorphism theorem works exceptionally well. Poincare duality is proven in example 1.0.2 through alculations with the 6 functor formalism. Kunneth can also be computed as well. The two most fundamental formulas are the proper base change and the projection formula.
 

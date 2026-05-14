@@ -1732,6 +1732,13 @@ https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Sh
     - (Page 5) Compute the domain and codomain of the homomorphism for the similitude character of GSp_2n(R).
     - (Page 5) Compute the kernel of the homomorphism for the similitude character of GSp_2n(R). 
     - (Page 5) Compute the elementwise image of r of the homomorphism for the similitude character of GSp_2n(R).
+    - (Page 6) Compute the matrix 1_a,b.
+    - (Page 6) Compute the orthogonal group O_n(R) in terms of elements of GL_n(R) and a suitable relation.
+    - (Page 6) Compute SO_n(R) as an intersection.
+    - (Page 6) Compute the orthogonal group O_a,b(R) in terms of elements of GL_n(R) and a suitable relation.
+    - (Page 6) Compute SO_a,b(R) as an intersection.
+    - (Page 6) Compute the signatures of the symmetric bilinear pairings associated with O_n(R) and O_a+b(R).
+    - (Page 6) Determine a suitable topology for algebraic groups G(Q) to be in G(R).
 
 https://www.its.caltech.edu/~matilde/ICMtalkMarcolliSlides.pdf, noncommutative geometry in arithmetic
     - (Slide 3). Consider imaginary quadratic fields, compte C^2/(Z + tauZ) what does this represent. Also compute it in terms of C^*.
