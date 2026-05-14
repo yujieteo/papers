@@ -1733,7 +1733,6 @@ https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Sh
     - (Page 5) Compute the kernel of the homomorphism for the similitude character of GSp_2n(R). 
     - (Page 5) Compute the elementwise image of r of the homomorphism for the similitude character of GSp_2n(R).
 
-
 https://www.its.caltech.edu/~matilde/ICMtalkMarcolliSlides.pdf, noncommutative geometry in arithmetic
     - (Slide 3). Consider imaginary quadratic fields, compte C^2/(Z + tauZ) what does this represent. Also compute it in terms of C^*.
     - (Slide 3) Compute the endomorphism ring of elliptic curves under tau and K, for K = Q(tau). Compute this in the case of complex multiplication. (Hint: you will need to define f an integer, what is this integer?).
