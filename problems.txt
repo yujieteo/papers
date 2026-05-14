@@ -1719,14 +1719,14 @@ https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Sh
     - (Page 4) Compute the inverse limit of Z/NZ. What is this defined? 
     - (Page 4) Compute the tensor product of the inverse limit of the profinite completion of the integers with Q. This is A^\infty.
     - (Page 4) Compute the ring of adeles using a product.
-    - (Page 4) Compute the topological groups G(R), G(A^\infty) and G(A) as a product of topological groups. What are the two ways to compute this? (hint: Weil's restricted product, or affine sche,e over the topological ring of adeles).
+    - (Page 4) Compute the topological groups G(R), G(A^\infty) and G(A) as a product of topological groups. What are the two ways to compute this? (hint: Weil's restricted product, or affine scheme over the topological ring of adeles).
     - (Page 4) Compute the elements of GL_n(R). Compute the elements of SL_n(R). Compute R^\times as GL or G_m.
     - (Page 4) Compute the R-points of the affine group schemes GL_n and SL_n over Z.
     - (Page 4) Compute the pullbacks of affine group schemes to Q.
-    - (Page 5) Compute the skyew symmetric matrix representation J_n of size 2_n, then with this construct SP_2n(R). (Hint: t_g J_n g = J_n, but why?)
-    - (Page 5) Compute GSP_2n.
+    - (Page 5) Compute the skew symmetric matrix representation J_n of size 2_n, then with this construct Sp_2n(R). (Hint: t_g J_n g = J_n, but why?)
+    - (Page 5) Compute GSp_2n.
     - Compute the closed subgroup schemes of GSp_2n and SP_2n of GL_2n and GL_2n+1 respectively.
-    - (Page 5) Compute the alternating pair <x,y> associated with R^2n for each g in GL_2n(R).
+    - (Page 5) Compute the alternating pair <x,y> associated with R^2n for each g in GL_2n(R). (Hint: just compute <gx, gy> in the next exericse or this)
     - (Page 5) Compute the alternating pair <gx,gy> associated with R^2n for each g in GL_2n(R). Hence when compute <gx,gy> so that the conjugation condition t_g J_n g = J_n is satisfied. (Hint: <x,y> is a fixed point under g, g preserves the above pairing.) What about g is used in the computation?
     - (Page 5) Compute the alternating pair <gx,gy> associated with R^2n for each g in GL_2n(R). Hence when compute <gx,gy> so that the conjugation condition t_g J_n g = r J_n is satisfied. (Hint: r <x,y> is a fixed point under g, g preserves the above pairing.) What about g is used in the computation?
     - (Page 5) Compute the domain and codomain of the homomorphism for the similitude character of GSp_2n(R).
