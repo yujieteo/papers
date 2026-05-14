@@ -5327,3 +5327,27 @@ https://arxiv.org/pdf/0802.4458, topometric spaces
 https://korzynski.cft.edu.pl/gr-course.html, general relativity courses with slides, MUST READ
 
 https://swc-math.github.io/aws/2020/2020KimLecture1Slides.pdf, Selmer scheme slides
+
+http://www.davidrenshawhansen.net/localshim2023.pdf, local Shimura varieties in 16 slides
+
+https://ymsc.tsinghua.edu.cn/__local/0/48/96/9767270DA3456B5F453B4EA2AA3_BF19822A_856EE.pdf, Hodge-Tate period map, must read 15 pages
+
+https://arxiv.org/pdf/2105.12604, proetale unifromisation of abelian varieties
+
+https://math.bu.edu/people/jsweinst/Moduli/Moduli.pdf, must read introduction to adic spaces in 93 pages.
+
+https://www.math.uni-bonn.de/people/scholze/Torsion.pdf, torsion in cohomology of locally symmetric varieties
+
+https://web.math.princeton.edu/~lhamann/Thesis.pdf, local Langlands correspondence thesis.
+
+https://arxiv.org/pdf/2512.13649v2, Igusa stack for exceptional Shimura varieties
+
+https://math.mit.edu/~drew/vantage/ShinSlides.pdf, Shimura varieties slides
+
+https://websites.umich.edu/~jchw/WOMPtalk-Manifolds.pdf, exercises based introduction to manifolds in 11 pages
+
+https://websites.umich.edu/~jchw/OberwolfachTalk-IntroductionToRepStability.pdf, representation stability in 11 pages
+
+https://websites.umich.edu/~jchw/RTG-Braids.pdf, braid groups introduction in 30 pages
+
+https://websites.umich.edu/~jchw//CopenhagenMasterclass2021-WilsonReview.pdf, homological algebra review, MUST READ exercises

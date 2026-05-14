@@ -1613,15 +1613,13 @@ https://people.brandeis.edu/~igusa/Math131b2021/B-SlidesComplete.pdf, commutativ
     - (Page 5) Compute the number of field embeddings L -> K bar (the algebraic closure of K) which are the identity of K for a finite separable extension L of K. (Hint: definition of separable).
     - (Page 5) Compute the characteristic of a field for a field with all finite field extensions of K being separable. (Hint: perfect fields, need condition when K has characteristic prime)
 
-https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesB1-6.pdf, commutative algebra summary 2
-
 https://people.brandeis.edu/~igusa/Math131b2021/C-SlidesComplete.pdf, Wedderburn structure theorem summary
 
-https://people.brandeis.edu/~igusa/Math131b/ReviewSlidesD2.pdf, Wedderburn structure theorem summary
-
-https://websites.umich.edu/~jchw//CopenhagenMasterclass2021-WilsonReview.pdf, homological algebra review
-
 https://wstein.org/edu/2010/582e/lectures/all/galois_cohomology.pdf, Galois cohomology in 75 pages
+    - (Page 5) Compute the extensions of G for a group acting on an abelian group in the form of an exact sequence.
+    - (Page 5) Compute s(a + a') as elements of the abelian group of formal finite sums of the elements of G.
+    - (Page 5) Compute Im(f) in terms of g for exact sequences A -> B -> C given by the composition g f that is exact at B.
+    - (Page 5) Compute ga for the elements of the G-invariant subgroup of A, given by A^G. then compute the 0-th group cohomology.
 
 https://pages.uoregon.edu/ncp/Courses/KThyReading_W24_Web/IntroLectureSlides/Talk_slides.pdf, summary of algebraic K theory in 33 slides
 
@@ -1716,18 +1714,18 @@ https://www.its.caltech.edu/~matilde/InformationAlgebras2021Ma148.pdf, thermodyn
 https://math.mit.edu/~drew/vantage/ShinSlides.pdf, Shimura varieties PowerPoint slides.
 
 https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Shimura varieties, Lan Kai Wen
-    - (Page 4) Compute the inverse limit of Z/NZ. What is this defined? 
+    - (Page 4) Compute the inverse limit of Z/NZ. What is this defined as? (Hint: profinite completion of the integers)
     - (Page 4) Compute the tensor product of the inverse limit of the profinite completion of the integers with Q. This is A^\infty.
     - (Page 4) Compute the ring of adeles using a product.
-    - (Page 4) Compute the topological groups G(R), G(A^\infty) and G(A) as a product of topological groups. What are the two ways to compute this? (hint: Weil's restricted product, or affine scheme over the topological ring of adeles).
-    - (Page 4) Compute the elements of GL_n(R). Compute the elements of SL_n(R). Compute R^\times as GL or G_m.
-    - (Page 4) Compute the R-points of the affine group schemes GL_n and SL_n over Z.
+    - (Page 4) Compute the topological groups G(R), G(A^\infty) and G(A) as a product of topological groups. What are the two ways to compute this? (Jint: Weil's restricted product as per the adelic theory, or affine scheme over the topological ring of adeles, as per Grothendieck).
+    - (Page 4) Compute the elements of GL_n(R). Compute the elements of SL_n(R) (hint: matrices). Compute R^\times as GL or G_m.
+    - (Page 4) Compute the R-points of the affine group schemes GL_n and SL_n over Z. (Hint: use functorality, R does not matter.)
     - (Page 4) Compute the pullbacks of affine group schemes to Q.
     - (Page 5) Compute the skew symmetric matrix representation J_n of size 2_n, then with this construct Sp_2n(R). (Hint: t_g J_n g = J_n, but why?)
-    - (Page 5) Compute GSp_2n.
-    - Compute the closed subgroup schemes of GSp_2n and SP_2n of GL_2n and GL_2n+1 respectively.
-    - (Page 5) Compute the alternating pair <x,y> associated with R^2n for each g in GL_2n(R). (Hint: just compute <gx, gy> in the next exericse or this)
-    - (Page 5) Compute the alternating pair <gx,gy> associated with R^2n for each g in GL_2n(R). Hence when compute <gx,gy> so that the conjugation condition t_g J_n g = J_n is satisfied. (Hint: <x,y> is a fixed point under g, g preserves the above pairing.) What about g is used in the computation?
+    - (Page 5) Compute GSp_2n in set builder notation.
+    - (Page 5) Compute the closed subgroup schemes of GSp_2n and SP_2n of GL_2n and GL_{2n+1} respectively.
+    - (Page 5) Compute the alternating pair (as an inner product) <x,y> associated with R^2n for each g in GL_2n(R). (Hint: just compute <gx, gy> in the next exericse or this exercise to understand what is going on)
+    - (Page 5) Compute the alternating pair <gx,gy> associated with R^{2n} for each g in GL_2n(R). Hence when compute <gx,gy> so that the conjugation condition t_g J_n g = J_n is satisfied. (Hint: <x,y> is a fixed point under g, g preserves the above pairing.) What about g is used in the computation?
     - (Page 5) Compute the alternating pair <gx,gy> associated with R^2n for each g in GL_2n(R). Hence when compute <gx,gy> so that the conjugation condition t_g J_n g = r J_n is satisfied. (Hint: r <x,y> is a fixed point under g, g preserves the above pairing.) What about g is used in the computation?
     - (Page 5) Compute the domain and codomain of the homomorphism for the similitude character of GSp_2n(R).
     - (Page 5) Compute the kernel of the homomorphism for the similitude character of GSp_2n(R). 
@@ -1740,13 +1738,19 @@ https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Sh
     - (Page 6) Compute the signatures of the symmetric bilinear pairings associated with O_n(R) and O_a+b(R).
     - (Page 6) Determine a suitable topology for algebraic groups G(Q) to be in G(R).
     = (Page 6) Compute the manifold associated with S_n, for X in M_n(R). Compute the determinant of X in this group. Compute the value of the transpose of X. Compute the value of X being positive definite using a suitable norm. Compute the action of g in SL_n(R) on S_n, and the elmentwise image of X.
-    - (Page 6) Compute S_n as a quotient of two groups. - - (Page 6) Compute the real dimension of S_n.
-    - (Page 7) Compute the elements g in SL_2^R and the space it naturally acts on via the Mobius transformation. Hence, compute the image of z under the Mobius transformation. Compute the space that induces this action as well as the group action on this space.
+    - (Page 6) Compute S_n as a quotient of two groups. 
+    - (Page 6) Compute the real dimension of S_n.
+    - (Page 7) Compute the elements g in SL_2^R and the space it naturally acts on via the Mobius transformation. Hence, compute the image of z under the Mobius transformation. Compute the space that induces this action as well as the group action on this space. (Hint: projective geometry)
     - (Page 7) Compute the factor (this is also the automorphy factor in the definition of holonomorphic modular forms) involved in the identification of projective coordinates.
+    - (Page 7) Compute the similarity of (a b;c d)^t(z 1).
     - (Page 7) Compute the stabiliser of the action of SL_2(R) on the Poincare upper half plane Im > 0. Hence, compute H which is the Poincare upper half plane.
+    - (Page 7) Compute the Poincare upper half plane as a quotient of two groups.
     - (Page 7) Compute the Poincare upper half plane as a special case of S_n.
-    - (Page 7) Compute the dimension of dim_R(S_n) using the dimension for s = 1, s = 2.
-    - (Page 7) Compute the double coset space associated with any compact subgroup U of G(A^\infty). Which two groups are killed off in this double coset space.
+    - (Page 7) Compute the dimension of dim_R(S_n) using the dimension for s = 1, s = 2. (Hint: use the fact that it is a special case of S_n)
+    - (Page 7) Compute the matrices involved in SO_2(R) in terms of trigonometry in R or in terms of matrices in SL_2(R).
+    - (Page 7) Compute the double coset space associated with any compact subgroup U of G(A^\infty). Which two groups are killed off in this double coset space? Hint, consider what subgroups of interest are there on G(A^\infty).
+    - (Page 7) Compute the natural right action on the X_U = G(Q) \ (D x G(A^\infty)) / U. What elements does ti take to from (x,h) for each g in G(A^\infty). Compute the map X_{gU(1/g)}. This is the Hecke symmetry of the Shimura variety, relating the geometry of double coset spaces to the theory of automorphic representations.
+    - (Page 7) Compute the natural Hecke actions on the limit of cohomology groups H^*(X_U, C).
 
 https://www.its.caltech.edu/~matilde/ICMtalkMarcolliSlides.pdf, noncommutative geometry in arithmetic
     - (Slide 3). Consider imaginary quadratic fields, compte C^2/(Z + tauZ) what does this represent. Also compute it in terms of C^*.
