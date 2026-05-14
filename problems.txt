@@ -163,7 +163,7 @@ https://kskedlaya.org/cft/sec_Kummer_theory.html, Kummer theory.
 
 https://www.jmilne.org/math/CourseNotes/LECc.pdf, etale cohomology lecture
 
-https://www.jmilne.org/math/xnotes/svi.pdf, Milne's Shimura varieties notes
+https://www.jmilne.org/math/xnotes/svi.pdf, Milne's Shimura varieties notes in 172 pages
 
 https://www.jmilne.org/math/Documents/DeligneArcata.pdf, Deligne's Arcata for etale cohomology
     - Compute using the covering sieve definition the global continuity of a function f given that it is locally continuous for each open in the sieve.
@@ -1778,6 +1778,15 @@ https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/weibel-homv2.pd
 
 https://stacks.math.columbia.edu/download/homology.pdf, Stack's Homological Algebra
 
+https://www.jmilne.org/math/xnotes/EOM95.pdf, Milne's definition of a Shimura variety in 2 pages.
+    - Let A_f be the ring of finite adeles of Q, K running through the compact open subgroups G(A_f) Compute for a reductive algebraic group G over Q and a G(R)-conjugacy class X of homomorphisms from C^\times to G(R) satisfying axioms to ensure X is a finite union of bounded symmetric domains, the double coset space associated with a Shimura varieties. 
+    - Compute using a theorem of Bailey-Borel a structure to endow the Shimura variety G(Q) \ X x G(A_f) / K with a structure.
+    - Compute the weight of a Shimura variety over the restrictions of maps from C&\times -> G(R) in X to R^\times.
+    - Compute the group that acts on special points of the Shimura variety that characterises the canonical model over a number field in C known as a reflex field.
+    - Compute what do holomorphic automorphic forms mean over Shimura varieties?
+    - Compute the equivalent form in the theory of holomorphic automorphic forms for mixed Shimura varieties.
+    - Compute the canonical decomposition of the zeta function of a Shimura variety if the Langlands program works out.
+
 https://www.imo.universite-paris-saclay.fr/~francois.charles/TLDR9.pdf, local class field theory in 3 pages
     - Compute the central simple algebras over K, for K a local field, usually assumed to be characteristic zero.
     - Compute the domain and codomain of the Hasse invariant. Check its functorality in K.
@@ -1787,3 +1796,48 @@ https://www.imo.universite-paris-saclay.fr/~francois.charles/TLDR9.pdf, local cl
     - Compute the canonical decomposition of the Artin reciprocity map by restricting to the maximal unramified abelian extension. This should give the valuation map.
     - Compute the restriction of the Artin map to the ring of integers O^*_K, and its image. What must be computed to porve injectivity? Compute for K = Q_p, what sort of extensions is enough to prove this existence theorem. Then, state the Kronecker Weber theorem. How else can one construct the other extensions for the general case?
     - Compute K* in general as a p-adic Lie group, and compute how many extensions worth are cyclotomic extensions. 
+
+https://arxiv.org/pdf/1211.6357, Scholze's and Weinstein's notes of moduli of p-divisible groups
+
+https://www.jmilne.org/math/xnotes/1995IAS.pdf, Milne's expository articles on Shimura varieties. I realised I need to read more about complex semisimple Lie groups.
+    - (Page 2) Let k(v) be a residue field, compute [k(v)_m : k(v)] for the definition of k(v).
+    - (Page 2) Compute N_m, this is the number of rational points k(v)_m on the smooth projective variety Y.
+    - (Page 2) Compute Z_v(Y,T) for Y a smooth projective variety over a number field E, and formal parmeter T. And N_m being the number of Y(k(v)_m) for index k(v). Z_v is the local zeta function. In practice, what is the formal variable t equal to?
+    - (Page 2) Compute the global zeta function zeta(Y,S) for places of good reduction, places of bad reduction, q_v, and Gamma-factors for infinite primes.
+    - (Page 3) Compute the global zeta function for a curve of genus 0 over Q with a rational point (what is this? Please compute this as well).
+    - (Page 3) Compute the global zeta function for a curve of genus 1 over Q with a rational point (what is this? Please compute this as well).
+    - (Page 3) Compute the Mellin transform of a modular form of weight 2.
+    - (Page 3) Compute Z_v(Y, T) in terms of the etale cohomology of Y i.e. using P_i(T) which is to be computed as a determinant. Compute P_i(T) first, then compute Z_v(Y, T). 
+    - (Page 3) Compute, for a noncomplete variety like the Zariski open subset of a projective variety, what compactification is needed to compute the zeta function.
+    - (Page 4) Compute the order of the automorphism s_x of a bounded symmetric domain with x an isolated fixed points. Compute the isolate fixed points for unit balls.
+    - (Page 4) Compute the canonical isomorphic image in the definition of a symmetric hermitian domain for the complex upper half plane H^+ using a suitable isomorphism for H^+ to be z in C such that Im(z) > 0.
+    - (Page 4) Compute the automorphism group of a symmetric hermitain domain as a Lie grou;. Compute the action of the identity component of the Lie group on the symmetric hermitian domain, Compute the stabiliser o any pint. Then compute every symmetric hermtiain domain as a quotient.
+    - (Page 4) Compute a canonical decompsoition of the set of roots B for a maximal torus T and H a simple adjoint group over C in terms of n(alpha).
+    - (Page 4) Compute n(alpha) for a special node of the Dynkin diagram.
+    - (Page 4) Compute the image of the correspondence symmetric hermitian domains in relation to a simple adjoint group H over the complex numbers.
+    - (Page 4) Compute which nodes are special for A_n, B_n, C_n, E_7, D_n, E_6, E_8, F_4 and G_2. (Check the paper).
+    - (Page 5) Compute the canonical conmmensurable group for a subgroup of G(Q) to be arithmetic for one (hence all) embeddings G into GL_n.
+
+https://www.jmilne.org/math/xnotes/Tate100.pdf, arithmetic duality summary by Milne
+
+https://www.jmilne.org/math/xnotes/MOT.pdf, motives in 15 pages summary by Milne
+
+https://www.jmilne.org/math/xnotes/svn.pdf, Shimura varieties in 3 pages. Shimura's approach is expounded in detail.
+    - (Page 1) Compute the canonical classification of every simply connected Riemann sphere.
+    - (Page 1) Compute the action associated with SL_2(R) that is needed to realise the group of holomorphic automorphisms Hol(D_1) of D_1 the complex upper half plane.
+    - (Page 1) Compute the group of holomorphic automorphisms of the complex upper half plane / open unit disk.
+    - (Page 1) Let B be a quaternion algebra over a totally real number field such that R otimes_F B is isomorphic to M_2(R) for exactly one embedding of F into R. Let G be the algebraic group over Q whose R-points for any Q-algebra R are the elements B otimes_Q of norm 1. Compute G(R) as a product of SL_2(R). Compute the domain and codomain of the surjective homomorphism to exist. Hence, compute a Shimura curve as the quotient of D_1.
+    - (Page 1) Let B be a quaternion algebra over a totally real number field such that R otimes_F B is isomorphic to M_2(R) for exactly one embedding of F into R. Compute this for the case B = M_2(Q). Let G be the algebraic group over Q whose R-points for any Q-algebra R are the elements B otimes_Q of norm 1, let G be SL_2. Compute G(R) as a product of SL_2(R), what does one get in this explicit case? Compute the domain and codomain of the surjective homomorphism to exist. Hence, compute a Shimura curve as the quotient of D_1. Compute the discrete subgroup of Hol(D_1). Compute the principal congruence subgroup using a congruence relation some some integer N.
+    - (Page 1) Compactify the principal congruence subgroup and the complex upper half plane by adding something.
+    - (Page 1) Consider an elliptic modular curve Y(N) to be the quotient of a principal congruence subgroup by D_1 or the upper half plane. Compute the weight of the cusp form which is holomorphic f on F_d1 such that f(Az) = (cz+d)^n f(z) for all A = (a b ; c d) in the congruence subgroup.
+    - (Page 1) Compute the value of f(Az) for an elliptic modular curve.
+    - (Page 1) Compute the number of elements needed to embed for fixed k into a subvariety of P^n(C).
+    - (Page 1) Compute the matrix that fixes the cusp of a elliptic modular curve. (Why is it fixed by this matrix?) Compute f(z + h) and hence the expansion of these cusp forms.
+    - (Page 2) Compute the generator of a field over Q by a primitive root of unity. Hence. choose the basis of the cusp forms so that the coefficients of the cusp form expansion (to be written down) has coefficients that lie int hsi field. Hence, compute where do the forms of homogenous polynomials defining Y[N] lie?
+    - (Page 2) Compute the symmetry of D_1, each point is an isolated fixed point of an involution. Compute the fixed point of the involution, and the matrix associated with this involution.
+    - (Page 2) Compute the classification of hermitian symmetric domains of dimension 1 using the classiification of simply connected Riemann surfaces of dimension 1 using the Riemann mappng theorem.
+    - (Page 2) Compute the properties of the group of holomorphic automorphisms of a hermitian symmetric domain.
+    - (Page 2) Using the group of holomorphic automorphisms of a hermitian symmetric domain D as a semisimple Lie group, compute a family of connected Shimura varieties bounded by D. What are the data needed for this computation. Hence compute the connected Shimura varieties aas quotients.
+    - (Page 3) Compute Deligne's definition of a reductive group and the domain and codomain of the G(R)-conjugacy class of homomorphisms as a double coset space, where G is a reductive group over Q. What is this used for?
+
+https://www.jmilne.org/math/xnotes/AVs.pdf, abelian varieties in 49 pages as a summary

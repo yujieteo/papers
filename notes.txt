@@ -612,7 +612,11 @@ https://arxiv.org/pdf/math/0212266, Moerdijk's definiton of gerbe; (1) definitio
 
 https://www.ams.org/journals/notices/202301/rnoti-p140.pdf  expository article by John Baez on Isbell adjunction: (1) on page 2 it gives an adjunction between the Yoneda lemma and the co-Yoneda lemma; A Yoneda lemma admits an equivalence of categories between a category of presheaf homomorphisms can be reduced to its representable presheaf (weaken to representable Yoneda embeddings) as a equivalence of categories; A coYoneda lemma means a category of presheaf homomorphisms is a colimit of representable presheafs (weaken to representable Yoneda embeddings) as an equivalence of categories.
 
-https://arxiv.org/pdf/math/0607182, dictionary of function fields and number fields from the perspective of Fontaine theory: (1) table starts on page 2; (2) an introduction to Fontaine theory is available on page 5;
+https://arxiv.org/pdf/math/0607182, dictionary of function fields and number fields from the perspective of Fontaine theory, MUST READ since I better understand number theory: (1) table starts on page 2; (2) an introduction to Fontaine theory is available on page 5;
+
+https://www.jmilne.org/math/xnotes/TateCW.pdf, the work of John Tate by Milne, must read for short summary.
+
+https://www.jmilne.org/math/xnotes/Shimura.pdf, summary of Shimura's work by Milne.
 
 https://arxiv.org/pdf/2501.13229, simplicial type theory and the formalisation of the Yoneda lemma: (1) precategory is defined as a homotopy type inclusion of horns induces equivalence, or the Segal condition, a category is that this inclusion is an isomorphism or the Rezk condition on page 7; (2) a definition of homootopy type theory via the identity type, type equivalence and univalence meaning equivalence gives equality on page 5; (3) a simplicial type has an Axiom A which is a directed interval that exists on page 6; (4) Yoneda means a category C which is a (infty,1)-category and its presheaves Func(C^op, inftyGrpd) then canonical functor C -> Func(C^op, inftyGrpd) the Yoneda embedding functor is full and faithful; (5) a homotopy type is a 1-truncation of an infinity 1 category.
 
@@ -5351,3 +5355,7 @@ https://websites.umich.edu/~jchw/OberwolfachTalk-IntroductionToRepStability.pdf,
 https://websites.umich.edu/~jchw/RTG-Braids.pdf, braid groups introduction in 30 pages
 
 https://websites.umich.edu/~jchw//CopenhagenMasterclass2021-WilsonReview.pdf, homological algebra review, MUST READ exercises
+
+https://www.jmilne.org/math/xnotes/svh.pdf, Shimura varieties expository articles
+
+https://www.jmilne.org/math/xnotes/, expository articles by Milne
