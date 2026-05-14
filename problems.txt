@@ -1739,6 +1739,14 @@ https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Sh
     - (Page 6) Compute SO_a,b(R) as an intersection.
     - (Page 6) Compute the signatures of the symmetric bilinear pairings associated with O_n(R) and O_a+b(R).
     - (Page 6) Determine a suitable topology for algebraic groups G(Q) to be in G(R).
+    = (Page 6) Compute the manifold associated with S_n, for X in M_n(R). Compute the determinant of X in this group. Compute the value of the transpose of X. Compute the value of X being positive definite using a suitable norm. Compute the action of g in SL_n(R) on S_n, and the elmentwise image of X.
+    - (Page 6) Compute S_n as a quotient of two groups. - - (Page 6) Compute the real dimension of S_n.
+    - (Page 7) Compute the elements g in SL_2^R and the space it naturally acts on via the Mobius transformation. Hence, compute the image of z under the Mobius transformation. Compute the space that induces this action as well as the group action on this space.
+    - (Page 7) Compute the factor (this is also the automorphy factor in the definition of holonomorphic modular forms) involved in the identification of projective coordinates.
+    - (Page 7) Compute the stabiliser of the action of SL_2(R) on the Poincare upper half plane Im > 0. Hence, compute H which is the Poincare upper half plane.
+    - (Page 7) Compute the Poincare upper half plane as a special case of S_n.
+    - (Page 7) Compute the dimension of dim_R(S_n) using the dimension for s = 1, s = 2.
+    - (Page 7) Compute the double coset space associated with any compact subgroup U of G(A^\infty). Which two groups are killed off in this double coset space.
 
 https://www.its.caltech.edu/~matilde/ICMtalkMarcolliSlides.pdf, noncommutative geometry in arithmetic
     - (Slide 3). Consider imaginary quadratic fields, compte C^2/(Z + tauZ) what does this represent. Also compute it in terms of C^*.
