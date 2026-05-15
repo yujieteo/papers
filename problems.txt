@@ -1782,7 +1782,7 @@ https://www.jmilne.org/math/xnotes/EOM95.pdf, Milne's definition of a Shimura va
     - Let A_f be the ring of finite adeles of Q, K running through the compact open subgroups G(A_f) Compute for a reductive algebraic group G over Q and a G(R)-conjugacy class X of homomorphisms from C^\times to G(R) satisfying axioms to ensure X is a finite union of bounded symmetric domains, the double coset space associated with a Shimura varieties. 
     - Compute using a theorem of Bailey-Borel a structure to endow the Shimura variety G(Q) \ X x G(A_f) / K with a structure.
     - Compute the weight of a Shimura variety over the restrictions of maps from C&\times -> G(R) in X to R^\times.
-    - Compute the group that acts on special points of the Shimura variety that characterises the canonical model over a number field in C known as a reflex field.
+    - Compute the group that acts on special points of the Shimura variety that characterises the canonical model over a number field K in C known as a reflex field.
     - Compute what do holomorphic automorphic forms mean over Shimura varieties?
     - Compute the equivalent form in the theory of holomorphic automorphic forms for mixed Shimura varieties.
     - Compute the canonical decomposition of the zeta function of a Shimura variety if the Langlands program works out.
@@ -1811,16 +1811,44 @@ https://www.jmilne.org/math/xnotes/1995IAS.pdf, Milne's expository articles on S
     - (Page 3) Compute, for a noncomplete variety like the Zariski open subset of a projective variety, what compactification is needed to compute the zeta function.
     - (Page 4) Compute the order of the automorphism s_x of a bounded symmetric domain with x an isolated fixed points. Compute the isolate fixed points for unit balls.
     - (Page 4) Compute the canonical isomorphic image in the definition of a symmetric hermitian domain for the complex upper half plane H^+ using a suitable isomorphism for H^+ to be z in C such that Im(z) > 0.
-    - (Page 4) Compute the automorphism group of a symmetric hermitain domain as a Lie grou;. Compute the action of the identity component of the Lie group on the symmetric hermitian domain, Compute the stabiliser o any pint. Then compute every symmetric hermtiain domain as a quotient.
+    - (Page 4) Compute the automorphism group of a symmetric hermitian domain as a Lie group;. Compute the action of the identity component of the Lie group on the symmetric hermitian domain, Compute the stabiliser of any point. Then compute every symmetric hermtiain domain as a quotient.
     - (Page 4) Compute a canonical decompsoition of the set of roots B for a maximal torus T and H a simple adjoint group over C in terms of n(alpha).
     - (Page 4) Compute n(alpha) for a special node of the Dynkin diagram.
     - (Page 4) Compute the image of the correspondence symmetric hermitian domains in relation to a simple adjoint group H over the complex numbers.
     - (Page 4) Compute which nodes are special for A_n, B_n, C_n, E_7, D_n, E_6, E_8, F_4 and G_2. (Check the paper).
     - (Page 5) Compute the canonical conmmensurable group for a subgroup of G(Q) to be arithmetic for one (hence all) embeddings G into GL_n.
 
-https://www.jmilne.org/math/xnotes/Tate100.pdf, arithmetic duality summary by Milne
+https://www.jmilne.org/math/xnotes/Tate100.pdf, arithmetic duality summary by Milne in 23 pages
+    - (Page 1) Compute the value of nx for X_n given Milne's notation.
+    - (Page 2) Compute, using Galois cohomology, the classification of principal homogenous spaces (torsors) of abelin varieties A over a field K. This classification is done by the Weil-Chatelet group.
+    - (Page 2) Compute the dual of the Weil-Chatelet group of A with it sdiscrete topology via Pontraygin duality. (Hint: the Weil-Chatelet group is Galois cohomology, it must correspond to points?)
+    - (Page 2) Compute the cardinality of the underlying set of the non-p part of hhe Weil-Chatelet group.
+    - (Page 2) Compute the domain and codomain of the canonical pairing in Tate duality i.e. H^r(K, A) x H^s(K, A).
+    - (Page 2) Compute the Galois cohomology of H^2(K, G_m). Then, from the general computation, reduce it to the case for algebraically closed fields, the reals, local fields, and global fields. (Answers: 0, Z/2Z by classification of central simple algebras, Q/Z, apply the Albert-Brauer-Hasser-Noether theorem which gives an exact sequence). This is what is precisely meant by how the Brauer group that classifies Azumaya algebras, tracking of all Azumaya algebras up to Morita equivalence yields to Brauer group.
+    - (Page 2) Compute the source and tartget of the map of Tate duality, in the case of r + s = 1. 
+    - (Page 2) Compute, from the exact sequence 0 -> M -> A(Kbar) -> B(Kbar) -> 0, defined by an isogeny A -> B of abelian varieties. Now take its dual in zeroth-Galoisc ohomology, and describe the commutative diagram of interest as per what Tate did, and hence deduce Tate duality.
+    - (Page 3) Compute local Tate duality i.e. locally, what is the source of the map producing the Brauer group H^2(K, G_m) for the case of M a finite Galois module. Write out the duality explicitly.
+    - (Page 3) Compute local Tate duality i.e. locally, what is the source of the map producing the Brauer group H^2(K, G_m) for the case of A an abelian variety with dual A'.
+    - (Page 3) Compute the dimension of the dual of an abelian variety of dimension n.
+    - (Page 3) Compute the dual of an elliptic ccurve itself.
+    - (Page 3) The dual of an abelian variety classifies translation invariant line bundle on A, remove the zero section of a line bundle, this makes it into an extension of A by G_m, hence produce the Barsotti-Weil formula.
+    - (Page 3) Bonus exercise, the Barsotti-Weil formula is proved by Serre over algebraically closed fields. The argument, given by Brian Conrad, have it work for spearably closed fields since smooth schemes have dense locus of rational points, pass to algebraic closure. Note that FAC worked out only for an algebraically closed field.
+    - (Page 4) Describe the exact sequence used for Tate to prove global duality. Describe which functor is applied onto this sequence (hint: homological algebra) and then what else was done (work over finite extensions L of K in K) to obtain the 9-term exact sequence of global duality. Then compute the previous exact sequence.
+    - (Page 5) Compute for a smooth complete curve X over a field k, let k = C, X(C) is a 2-dim manifold, compute the statement of Poincare duality over this. Now replace k with arbitrary algebraically closed field, now describe how to recover Poincare duality in 2 dimensions. (Hint: use cohomology).
+    - (Page 5) Compute the 1-dim duality for k a finite field with finite Galois modules.
 
 https://www.jmilne.org/math/xnotes/MOT.pdf, motives in 15 pages summary by Milne
+    - (Page 1) Compute the cohomology groups of a compact manifold of dimension 2n (hint: these are finite dimensional Q-vector spaces). Compute Poincare duality on this vector space.
+    - (Page 2) Compute the de Rham cohomology groups over complex analytic manifolds in terms of cohomologies of compact manifolds of dimesnion 2n. (Hint: base change via tensor product).
+    - (Page 2) Compute, for a nonsingular projective algebraic variety X of dimension n over an algebraically closed field, the corresponding dimension of the compact manifold of the points of the variety.
+    - (Page 2) Compute, using the Weil conjectures or not, for a curve X of genus g over GF(p) the number of points |X(F_p)| using a suitable inclusive upper bound. (Hint: I first saw this formula for ellipticc curves).
+    - (Page 2) Compute the valuation for each prime number |l^r m/n| and the conditions for m and n and l used in l-adic cohomology. Compute what the valuation does to Q. Compute the completion of these valuations obtain. Hence compute the cohomology groups associated to these (hint: etale cohomology with l-adic coefficients as vector spaces. Compute the de Rham groups associated with this (hint: base change). Compute the crystalline cohomology groups as vector spaces
+    - (Page 2) Compute the valuation for each prime number |l^r m/n| and the conditions for m and n and l used in l-adic cohomology. Compute what the valuation does to Q. Compute the completion of these valuations obtain. Compute the crystalline cohomology groups as vector spaces and as field of fractions. (Hint: you need the theory of Witt vectors).
+    - (Page 3) Compute for an elliptic curve of genus 1 with a point at infinity or chosen point.          - (Page 3) Compute the image of the canonical isomorphism taking coefficients over C. 
+    - (Page 3) Compute the endomorphisms of an elliptic curve E(C), and then classify them.
+    - (Page 3) Compute the dimension of the first cohomology group H^1(X(C), Q) as a Q-vector space.
+    - (Page 3) Compute the dimension of the first cohomology group H^1(X(C), End(E)) as a End(E) otimes Q vector space.
+    - (Page 3) Compute for char p nonzero, End(E) otimes Q has a division algebra, its degree. The smallest Q-vector space such a division algebra can act on is of which dimension? Hence compute that there is no Q-vector space H^1(E,Q) such that H^1(E, Q_l) isomorphic to H^1(E,Q) otimes_Q Q_l.
 
 https://www.jmilne.org/math/xnotes/svn.pdf, Shimura varieties in 3 pages. Shimura's approach is expounded in detail.
     - (Page 1) Compute the canonical classification of every simply connected Riemann sphere.
