@@ -1950,6 +1950,13 @@ https://www.keerthimadapusi.com/assets/lecture/padic_hodge_theory.pdf, p-adic Ho
 https://maths.anu.edu.au/sites/prod.maths.sca-lws06.anu.edu.au/files/Gurney-talk-ntdu.pdf, q-de Rham in 95 slides
 
 https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_on_Number_Theory_Geometry_Moonshine_and_Strings/Kim.pdf, must read 113 slides on Arithmetic Chern-Simons theory
+    - (Slide 4) compute the elements of the spectrum of A. Compute the elements of an element of a ring A. (Hint: residue mod P classes in A/P in the fraction field Frac(A/P)).
+    - (Slide 5) Compute the elements of a using the Yoneda lemma as a basic clised set in a topology.
+    - (Slide 6) Compute the distinguished open sets in the spectrum of A as a localisation.
+    - (Slide 8) Compute the variety given by a zero set enriched by each point of the variety in the complex numbers.
+    - (Slide 9) Compute the spectrum of the integers as set.
+    - (Slide 10) Compute the spectrum of Q[x] as a set.
+    - (Slide 12) Compute the canonical image of the isomorphism of a general scheme to a locally ringed space for A.
 
 https://arxiv.org/abs/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
 
