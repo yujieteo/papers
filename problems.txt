@@ -1870,4 +1870,24 @@ https://www.jmilne.org/math/xnotes/svn.pdf, Shimura varieties in 3 pages. Shimur
 
 https://www.jmilne.org/math/xnotes/AVs.pdf, abelian varieties in 49 pages as a summary
 
+https://www.ams.org/notices/200301/what-is.pdf, shtuka's in 2 pages
+
+https://www.keerthimadapusi.com/assets/talks/2025-02-19-darmstadt.pdf, introduction to F-gauges in 17 pages, MUST READ
+
+https://www.keerthimadapusi.com/assets/lecture/padic_hodge_theory.pdf, p-adic Hodge theory in 85 pages, MUST READ MUST READ.
+
+https://maths.anu.edu.au/sites/prod.maths.sca-lws06.anu.edu.au/files/Gurney-talk-ntdu.pdf, q-de Rham in 95 slides
+
+https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_on_Number_Theory_Geometry_Moonshine_and_Strings/Kim.pdf, must read 113 slides on Arithmetic Chern-Simons theory
+
+https://arxiv.org/abs/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
+
+https://perso.ens-lyon.fr/laurent.berger/articles/article05.pdf, p-adic representations Berger in 37 pages, MUST READ
+
+https://arxiv.org/pdf/1712.07602, 29 pages of Arithmetic gauge theory
+
+https://math.berkeley.edu/~aaron/livetex/lurie-tamagawa-poincare.pdf, Tamagawa numbers via nonabelian Poincare duality
+
+https://arxiv.org/pdf/0906.3146, lambda rings over the field of 1 element
+
 https://academicweb.nd.edu/~andyp/teaching/2020FallMath10850/ClarkNotes.pdf, Pete L Clark's calculus course.
