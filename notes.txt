@@ -5359,3 +5359,71 @@ https://websites.umich.edu/~jchw//CopenhagenMasterclass2021-WilsonReview.pdf, ho
 https://www.jmilne.org/math/xnotes/svh.pdf, Shimura varieties expository articles
 
 https://www.jmilne.org/math/xnotes/, expository articles by Milne
+
+https://webusers.imj-prg.fr/~laurent.fargues/ICCM.pdf, Fargues on local Langlands slides in 27 slides, short, MUST READ
+
+https://webusers.imj-prg.fr/~laurent.fargues/ICBS_presentation.pdf, Fargues on abelianised pi_1 in 17 slides, MUST READ
+
+https://webusers.imj-prg.fr/~laurent.fargues/Cetraro2021.pdf, Fargues on local Langlands as non-abelian Fourier transform, kernel given by Whittaker representation and also Bun_G. MUST READ
+
+https://webusers.imj-prg.fr/~laurent.fargues/ICM.pdf, curves and the Langlands, local Langlands, joint work with Fontaine. MUST READ
+
+https://www.keerthimadapusi.com/teaching.html, MUST READ, video lectures on derived algebraic geometry and Shimura varieties
+
+https://webusers.imj-prg.fr/~laurent.fargues/Motifs_abeliens.pdf, abelian motives, automorphc representations, Shimura-Taniyama theory in 42 pages. Very dense set of papers.
+
+https://www.keerthimadapusi.com/assets/talks/2025-02-19-darmstadt.pdf, introduction to F-gauges in 17 pages, MUST READ
+
+https://www.keerthimadapusi.com/assets/lecture/padic_hodge_theory.pdf, p-adic Hodge theory in 85 pages, MUST READ MUST READ.
+
+https://escholarship.org/content/qt5dj9b74w/qt5dj9b74w.pdf, Aaron Mazel-Gee PhD thesis, chapter 0 for infinity categories, MUST READ
+
+https://www.preschema.com/lecture-notes/kdescent/, descent in algebraic K theory for spectral algebaic geometry, must read.
+
+https://zmao-math.github.io/animated_ideals_PD_crys.arxiv.pdf, derived crystalline cohomology, MUST READ, in 90 pages 
+
+https://arxiv.org/pdf/1510.02402.pdf, straightening un-straightening
+
+https://www.keerthimadapusi.com/assets/old_notes/logpdiv.pdf, log p divisible groups in 16 pages
+
+https://www.keerthimadapusi.com/assets/old_notes/CA.pdf, commutative algebra notes in 177 pages
+
+https://www.keerthimadapusi.com/assets/old_notes/AG.pdf, algebraic geometry notes
+
+https://www.keerthimadapusi.com/assets/old_notes/HA.pdf, homological algebra notes in 69 pages, not bad.
+
+https://www.math.ias.edu/~bhatt/teaching/prismatic-columbia/, Columbia prismatic lectures
+
+https://www.keerthimadapusi.com/assets/old_notes/NS.pdf, 16 pages of topology for scheme theory
+
+https://www.keerthimadapusi.com/assets/old_notes/NOS.pdf, 26 pages of sheaf theory notes
+
+https://www.keerthimadapusi.com/assets/old_notes/RS.pdf, 31 pages of ringed spaces notes
+
+https://math.mit.edu/~drew/vantage/FoxSlides.pdf, supersingular loci of unitary Shimura varieties in 38 slides
+
+https://server.mcm.ac.cn/~zheng/LI/Ogus.pdf, Ogus prismatic theory in 56 slides
+
+https://math.berkeley.edu/~avizeff/quals/local-II.pdf, Rapoport-Zinks spaces in 9 pages MUST READ
+
+https://web.evanchen.cc/textbooks/thesis-slides.pdf, Evan Chen's thesis on GGP, in 26 pages
+
+https://www.fields.utoronto.ca/talk-media/1/45/34/slides.pdf, Harder-Narasimhan filtrations
+
+https://server.mcm.ac.cn/~zheng/LI/Laumon.pdf, 90 slides on Kusztig correspondence
+
+https://maths.anu.edu.au/sites/prod.maths.sca-lws06.anu.edu.au/files/Gurney-talk-ntdu.pdf, q-de Rham in 95 slides, MUST READ
+
+https://people.reed.edu/~jerry/311/ecintro.pdf, 13 pages of elliptic curve introduction
+
+https://arxiv.org/abs/1606.01796, Scholze's q-analogues in 18 pages, MUST READ
+
+https://www.math.u-bordeaux.fr/~dbenoua/Documents/p-adic-Hodge-final.pdf, p-adic Hodge theory in 132 pages
+
+https://www.math.ias.edu/~lurie/papers/tamagawa.pdf, Weil conjecture for function fields, Tamagawa number of G = 1. Also a good summary of practical higher algebraic geometry. Yes it is 394 pages though.
+
+https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_on_Number_Theory_Geometry_Moonshine_and_Strings/Kim.pdf, MUST READ 113 slides on Arithmetic Chern-Simons theory
+
+https://arxiv.org/pdf/1712.07602, 29 pages of Arithmetic gauge theory, MUST READ
+
+https://www-personal.umich.edu/~bhattb/almost_purity_2011/Faltings_-_p-adic-Hodge-theory.pdf, Faltings p-adic Hodge theory in 46 pages, MUST READ
