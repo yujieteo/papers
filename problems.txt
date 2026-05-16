@@ -1989,8 +1989,11 @@ https://www.ams.org/notices/200302/what-is.pdf, what is a gerbe in 2 pages.
 https://www.keerthimadapusi.com/assets/talks/2025-02-19-darmstadt.pdf, introduction to F-gauges in 17 pages, MUST READ
 
 https://www.keerthimadapusi.com/assets/lecture/padic_hodge_theory.pdf, p-adic Hodge theory in 85 pages, MUST READ MUST READ.
+    - (Page 2)
 
 https://maths.anu.edu.au/sites/prod.maths.sca-lws06.anu.edu.au/files/Gurney-talk-ntdu.pdf, q-de Rham in 95 slides
+     - (Slide 4) Compute the decompostiion on differential k-forms on A^n_z in Z[x_1...x_n]
+     - (Slide 5) Compute the exterior derivative from Omega^k to Omega^k+1 in Z[x_1...x_n].
 
 https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_on_Number_Theory_Geometry_Moonshine_and_Strings/Kim.pdf, must read 113 slides on Arithmetic Chern-Simons theory, best introduction to arithmetic geometry and fundamental groups.
     - (Slide 4) compute the elements of the spectrum of A. Compute the elements of an element of a ring A. (Hint: residue mod P classes in A/P in the fraction field Frac(A/P)).
