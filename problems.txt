@@ -1961,8 +1961,45 @@ https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_
     - (Slide 15) Compute the ring and the field of fractions associated with an element x in X such that the element x is in the prime spectrum of A. (Hint: think about x as a representative element of prime spectrum of A, then think about the first isomorphism theorem)
     - (Slide 16/17) Compute the sequence of maps from the field of fractions to X by contravariant functoriality. What can this map be represented by? To compute the set of closed points, what conditions are required? (Hint: need something to be a field)
     - (Slide 21) Compute finite unions of affine schemes of polynomial rings in Z quotiented out by f. Then compute the contravariant map associated with inclusions into polynomial ring.
+    - (Slide 24) Compute the zeta function associated zeta(X,s) for X an arithmetic scheme i.e. Z[x_i...]/(f_i...) [Hint: looks like product of infinite geometric sums].
+    - (Slide 26) Compute the domain and the codomain of a finite etale map. Compute the inverse of the discriminant.
+    - (Slide 28) Check that the map Spec(C[x][y]/(y^n - x)) -> Spec(C[x]) is not etale by computing the discriminant.
+    - (Slide 29) Amend this map Spec(C[x][y]/(y^n - x)) -> Spec(C[x]) to make it etale.
+    - (Slide 30) Consider Spec(F_p[x,1/x][y]/(y^n - x)) -> Spec(F_p[x,1/x]). Under what condition is it etale? (Hint: Frobenius)
+    - (Slide 31) Amend the map Spec(Z[x]/(x^2 + 23)) -> Spec(Z) to make it etale.
+    - (Slide 33) Classify finite etale maps by computing something.
+    - (Slide 34) Compute for one construction, the fundamental group of a connected scheme. (Hint: inverse limit of some group)
+    - (Slide 35) Compute the canonical equivalence of categories for finite etale maps Y -> X. (Hint: Galois theory is about groups acting on sets).
+    - (Slide 36) Compute for a map of arithmetic schemes, obtain a conjugacy class of homomorphisms.
+    - (Slide 37) Compute for a map of arithmetic schemes Spec(k(x)) -> X, obtain a conjugacy class of homomorphisms.
+    - (Slide 38) Compute the profinite completion of topological pi_1 for X a complex algebraic variety.
+    - (Slide 40) Compute an isomorphism for X a variety in the algebraic completion over Q.
+    - (Slide 41) Compute an "isomorphism" for X a variety in the algebraic completion over bar F_p. Where does this isomorphism fail.
+    - (Slide 42) Compute for X = Spec(F), F a field, the fundamental group of X.
+    - (Slide 43) Compute, for X = Spec(O_F), the abelianised fundamental group of X. Where O_F is an algebraic number field.
+    - (Slide 44) Compute, for X = Spec(O_F), the fundamental group of X. Where O_F is an algebraic number field. Note that this is not abelianised. (Hint: compute as a limit running over...)
+    - (Slide 45) Compute pi_1(X) of X = Spec(Z), what does this mean?
+    - (Slide 46) Compute for X = Spec(O_F), F= Q(sqrt(-2 * 3 * 5 * 7 * 11 * 13)).
+    - (Slide 47) Compute for X = Spec(O_F), F = Q(sqrt(653)), assume the generalised Riemann hypothesis, what is this?
+    - (Slide 48) Compute for X = Spec(O_F), F = Q(sqrt(1429)), assume the generalised Riemann hypothesis, what is this?
+    - (Slide 49) Compute for X_S = Spec(O_F)\S, S a finite set of prime ideals (recall what are prime ideals in this case), consider K/F finite Galois extensions, compute pi_1(X_S). (Hint: need contravariant Spec maps).
+    - (Slide 50) Compute for X a scheme of finite type, closed points x in X_0, get a conjugacy class of elements.
+    - (Slide 51) Compute for X a scheme of finite type, closed points x in X_0, get a conjugacy class of elements using the functoriality of the fundamental group. Compute that pi_1(Spec((k(x)))) in terms of a Galois group and then compute them as conjugacy class.
+    - (Slide 53) Compute the completion of O_F at v, for F an algebraic number field, O_F is a ring of algebraic integers in F. (Hint, inverse limit, killing off copies of P_v^n). Compute the maximal ideal m_v for O_v in terms of classes.
+    - (Slide 53) Compute the fraction fiedl Frac(O_v) in terms of pi_v.
+    - (Slide 56) Compute the analogy associated with Spec(O_F) in knots and primes.
+    - (Slide 57) Compute the analogy for Spec(k(v)) inserted into Spec(O_F) in knots and primes.
+    - (Slide 58) Compute the analogy for Spec(O_v) in knots and primes.
+    - (Slide 59) Compute the analogy for Spec(F_v) in knots and primes.
+    - (Slide 60) Compute the analogy for X_S = Spec(O_F)\S in knot and primes.
 
-https://arxiv.org/abs/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
+https://arxiv.org/pdf/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
+    - (Page 1) Compute [n]_q as q-analogue (hint: sum of geoemtric series)
+    - (Page 1) Compute the q-factorial as an analogue.
+    - (Page 1) Compute the q-binomial coefficeint as an analogue.
+    - (Page 1) IF q is a power of a prime power, F_q the finite field, compute the number of k-dimension subvector spaces of the n-dimensional vector space F_q^n. (Hint: this is why q-analogues are used in counting problems over finite fields).
+    - (Page 1) Compute the q-analogue of a derivative i.e. the Jackson q-derivative. Compute the derivative x -> x^n which is not nx^{n-1}. Compute the q-derivative of general f(x). Compute the limit as q -> 1.
+    - (Page 1) Using a computation, show that there is a property lost when taking q-analogues. (Hint: try taking the q-analogue for the chain rule).
 
 https://perso.ens-lyon.fr/laurent.berger/articles/article05.pdf, p-adic representations Berger in 37 pages, MUST READ
 
