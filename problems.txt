@@ -2013,26 +2013,6 @@ https://arxiv.org/pdf/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, 
 
 https://perso.ens-lyon.fr/laurent.berger/articles/article05.pdf, p-adic representations Berger in 37 pages, MUST READ
 
-https://arxiv.org/pdf/1712.07602, 29 pages of Arithmetic gauge theory
-
-https://math.berkeley.edu/~aaron/livetex/lurie-tamagawa-poincare.pdf, Tamagawa numbers via nonabelian Poincare duality
-
-https://arxiv.org/pdf/0906.3146, lambda rings over the field of 1 element
-
-https://math.mit.edu/~drew/vantage/KimSlides.pdf, Weil trichotomy, arithmetic topology in 35 slides
-
-https://people.maths.bris.ac.uk/~matyd/JHC70/Kim.pdf, Diophantine geometry in 49 slides
-
-https://minhyongkim.wordpress.com/wp-content/uploads/2014/12/madrid2014.pdf, Diophantine geometry in 113 slides
-
-https://swc-math.github.io/aws/2020/2020KimLecture1Slides.pdf, Selmer schemes I
-
-https://swc-math.github.io/aws/2020/2020KimLecture2Slides.pdf, Selmer schemes II
-
-https://swc-math.github.io/aws/2020/2020KimLecture3Slides.pdf, Selmer schemes III
-
-https://swc-math.github.io/aws/2020/2020KimLecture4Slides.pdf, Selmebr schemes IV
-
 https://academicweb.nd.edu/~andyp/teaching/2020FallMath10850/ClarkNotes.pdf, Pete L Clark's calculus course.
 
 https://www.ams.org/notices/200304/what-is.pdf, what is a stack in 2 pages?

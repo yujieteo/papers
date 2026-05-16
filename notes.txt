@@ -3541,6 +3541,26 @@ https://arxiv.org/pdf/1405.4527, the arithmetic site by Alain Connes, topos is p
 
 https://arxiv.org/pdf/1407.5782, points in F1 and what sort of topologies
 
+https://arxiv.org/pdf/1712.07602, 29 pages of Arithmetic gauge theory
+
+https://math.berkeley.edu/~aaron/livetex/lurie-tamagawa-poincare.pdf, Tamagawa numbers via nonabelian Poincare duality
+
+https://arxiv.org/pdf/0906.3146, lambda rings over the field of 1 element
+
+https://math.mit.edu/~drew/vantage/KimSlides.pdf, Weil trichotomy, arithmetic topology in 35 slides
+
+https://people.maths.bris.ac.uk/~matyd/JHC70/Kim.pdf, Diophantine geometry in 49 slides
+
+https://minhyongkim.wordpress.com/wp-content/uploads/2014/12/madrid2014.pdf, Diophantine geometry in 113 slides
+
+https://swc-math.github.io/aws/2020/2020KimLecture1Slides.pdf, Selmer schemes I
+
+https://swc-math.github.io/aws/2020/2020KimLecture2Slides.pdf, Selmer schemes II
+
+https://swc-math.github.io/aws/2020/2020KimLecture3Slides.pdf, Selmer schemes III
+
+https://swc-math.github.io/aws/2020/2020KimLecture4Slides.pdf, Selmer schemes IV
+
 http://cm2vivi2002.free.fr/AC-biblio/AC-biblio79.pdf  theta-summable Fredholm story around cyclic (co)homology/traces from Connes
 
 https://arxiv.org/pdf/math/0409520, Marcolli NCG notes
