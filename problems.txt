@@ -2084,3 +2084,21 @@ https://www.ams.org/notices/200307/what-is.pdf, what is Dessins in 2 pages,
     - Compute, using Belyi's theroem, what does dessin mean for algebraic curves over Qbar. (Answer: every algerbaic curve defined over Q bar can bre represented as a covering of P^1 ramified at most 3 points).
     - Compute what dessins correspond to when defined over Q.
     - Compute the group that permutes the corresponding object to dessins, and hence acts on dessins themselves.
+
+https://www.ams.org/notices/200805/tx080500586p.pdf, toric varieties in two pages
+    - Compute the shape associated with a toric variety. (Hint: what sort of polyhedron?)
+    - Compute the polynomials associated with toric geometry. (Hint: monomials)
+    - Consider symplectic geometry, compute X_p usign a surjection. Compute something that represents faces of P.
+    - Compute the decomposition of a real compact torus as a product.
+    - Compute the data of the fibre over any point of X_p surjecting on a convex polyhedron.
+    - Consider the fibre over any point of X_p surjecting on a convex polyhedron. It is a real compact torus which is a product of d circles. Compute the dimension of this torus with the data of the points p.
+    - Compute what happens a point p on the polyhedron for a toric variety X_p surjecting ona. complex polyhedron P. Shift the point p to the boundary of the face. Using dimesnion theory, compute what happens to subtorii on the fiber.
+    - Compute the canonical decomposition of a toric variety as a set (hint: X_p is a disjoint union of...)
+    - Compute the toric variety for P an interval of length n. Compute what happens usign a moment map as their collapsed images move to the end points of the interval.
+    - Compute the toric variety associated with a positive orthant in R^n. What happens when one applies the moment map. (Hint: squashes copies of C to a ray, collapse the concentric circles around the roigin to points.)
+    - Compute the decomposition of the toric variety associated with a positve orthant in R^n. (Hint: this is C^n, so take disjoint union of faces, of C^\times, then C^\times^I is an algebraic torus).
+    - Compute what a moment map is a special case of in symplectic geometry for a symplectic manfiold.
+    - Compute the toric variety associated with a polyhedron that has vertices in integer coordiants. Then, decompose this toric variety, in terms of each face of P. (Hint: consider the example for the toric variety associated with the positive orthant).
+    - Compute the group that acts on the toric variety, and hence define a toric variety. (Answer: toric variety is a complex algebraic variety with action of (C^\times)^n and a dense open subset isomorphic to this carryign the regular action. It is an algebraic torus orbit closure). Hence compute the quotient of a complex toric variety by the global action of the compact torus T^n.
+    - Compute the polynomial paramterisation of a space using a monomial paramterisation.
+    - NOT DONE.
