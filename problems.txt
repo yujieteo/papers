@@ -2083,3 +2083,49 @@ https://www.ams.org/notices/200805/tx080500586p.pdf, toric varieties in two page
     - Compute the group that acts on the toric variety, and hence define a toric variety. (Answer: toric variety is a complex algebraic variety with action of (C^\times)^n and a dense open subset isomorphic to this carryign the regular action. It is an algebraic torus orbit closure). Hence compute the quotient of a complex toric variety by the global action of the compact torus T^n.
     - Compute the polynomial paramterisation of a space using a monomial paramterisation.
     - NOT DONE.
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture001a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture002a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture003a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture004a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture005a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture006a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture007a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture008a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture009a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture010a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture011a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/lecture012a.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/spt-lec001.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/spt-lec002.pdf  Jardine lectures in homotopy theory
+
+https://math.sci.uwo.ca/~jardine/HomTh/spt-lec003.pdf  Jardine lectures in homotopy theory
+
+https://cdn.jsdelivr.net/gh/iblech/talk-homological-algebra@master/notes-derived-functors.pdf, derived functors in 16 pages
+
+https://www.jmilne.org/math/xnotes/CA210.pdf, commutative algebra by Milne for 65 pages
+
+https://math.mit.edu/juvitop/pastseminars/notes_2021_Spring/etale_thomason.pdf, etale cohomology in 13 pages
+
+https://www.math.columbia.edu/~dejong/wordpress/wp-content/uploads/2015/04/EtaleCohomology.pdf, etale cohomology in 71 pages
+
+https://shmakov.us/docs/Slides/Moduli.pdf, computations in moduli of curves
+
+https://www.math.wustl.edu/~matkerr/sl2notes.pdf, SL_2(R) notes in 36 pages
+
+https://arxiv.org/pdf/2205.14578, geometric Langlands notes in 83 pages
+
+https://www.jmilne.org/math/xnotes/tc2022.pdf, Tannakian categories in 78 pages
