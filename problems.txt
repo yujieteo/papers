@@ -2066,3 +2066,21 @@ https://www.ams.org/notices/201107/rtx110700955p.pdf, derived stacks in 2 pages.
     - Compute the representable functors for schemes, stacks and higher stacks. 
     - Compute the operation that turns sets into groupoids, and groupoids into simplical sets.
     - NOT COMPLETE, at Derived Intersections
+
+https://www.ams.org/notices/200307/what-is.pdf, what is Dessins in 2 pages,
+    - Compute the ordering gien at each vertex of a dessin.
+    - Compute the canonical hoeomorphism or a projective 1 line to a Riemann sphere.
+    - Compute the inverse image associated with the black nodes, white nodes, and the edges.
+    - Compute what arises from the cyclic order around the vertices. With this, compute this as an embedding.
+    - Compute the faces associated with the cellular decomposition associated with a dessin.
+    - Compute the result of monodromy associated to each path in a dessin.
+    - Compute a covering from a dessin. First, compute the fundamental group of P^* = P^1 - {0, 1, \infty} with respect to the 1/2 (it is a free group of two generators around 0 and 1). Associated with each of these is a permutation of the dessin. sigma_0 rotates the edges around each black nodes, sigma_1 rotates the edges around each white node extending to what sort of representation? This group acts transitively on the edges since the dessin is connected. Compute the isotropy subgroup of any edge. 
+    - Compute the finite coverings of P^1(C) unramified.
+    - Compute the equation of the dessins with one central black node and three white nodes.
+    - Compute the equation of the dessins with one centralw hite nodes and three black ndoes.
+    - Compute the equation of the Dessin with one white node in two edges with a black node and one edge with a white node. compute with opposite colouring.
+    - Compute the equation of the dessing for BWBW, all joined by single edge for each ndoe, total of three edges.
+    - Compute using Weil's descent theory what each dessin arises from in algebraic number theory.
+    - Compute, using Belyi's theroem, what does dessin mean for algebraic curves over Qbar. (Answer: every algerbaic curve defined over Q bar can bre represented as a covering of P^1 ramified at most 3 points).
+    - Compute what dessins correspond to when defined over Q.
+    - Compute the group that permutes the corresponding object to dessins, and hence acts on dessins themselves.
