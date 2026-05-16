@@ -5445,3 +5445,9 @@ https://minhyongkim.wordpress.com/wp-content/uploads/2014/12/madrid2014.pdf, Dio
 https://www.its.caltech.edu/~matilde/ArithmeticCStheory2.pdf, Arithmetic Chern
 
 https://www.math.ias.edu/~lurie/papers/hadamard.pdf, Jacob Lurie on Hadamard spaces and Bruhat-Tits theory
+
+https://www.cmu.edu/dietrich/philosophy/hott/seminars/slides/diliberti-slides.pdf, formal model theory and topoi
+
+http://www-igm.univ-mlv.fr/~perrin/Recherche/Seminaires/Profinis/Slides/Seance1/profinite.pdf, topological semigroups in 19 slides
+
+https://web.ma.utexas.edu/users/dafr/CBMS133.pdf, Daniel S Fried on quauntum field theory in 195 pages
