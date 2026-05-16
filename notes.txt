@@ -5432,7 +5432,7 @@ https://arxiv.org/pdf/1712.07602, 29 pages of Arithmetic gauge theory, MUST READ
 
 https://www-personal.umich.edu/~bhattb/almost_purity_2011/Faltings_-_p-adic-Hodge-theory.pdf, Faltings p-adic Hodge theory in 46 pages, MUST READ
 
-https://drive.google.com/file/d/1Rn18LHT0maA48yMJm5HT5JzW8mNmxjwD/view, slides on Galois theory and Diophanetine geometry i.e. abelian motives 44 slides
+https://drive.google.com/file/d/1Rn18LHT0maA48yMJm5HT5JzW8mNmxjwD/view, slides on Galois theory and Diophantine geometry i.e. abelian motives 44 slides
 
 https://drive.google.com/file/d/1GvNBv4woKOSvcRpHDCZiTNPHYy-1-fp4/view, 36 slides on nonabelian Galois theory
 
@@ -5443,3 +5443,5 @@ https://math.mit.edu/~drew/vantage/KimSlides.pdf, Weil trichotomy, arithmetic to
 https://minhyongkim.wordpress.com/wp-content/uploads/2014/12/madrid2014.pdf, Diophantine geometry in 113 slides
 
 https://www.its.caltech.edu/~matilde/ArithmeticCStheory2.pdf, Arithmetic Chern
+
+https://www.math.ias.edu/~lurie/papers/hadamard.pdf, Jacob Lurie on Hadamard spaces and Bruhat-Tits theory

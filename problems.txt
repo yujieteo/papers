@@ -1924,24 +1924,33 @@ https://www.ams.org/notices/200410/what-is.pdf, what is a motive by Barry Mazur 
     - Construct motives based on Grothendieck's blueprint. Start with which category of varieties, by changing the morphisms. What does one replace it with (hint: you want it to have sets of morphisms looking like Q-vector spaces), then choose an equivalence relation using what relations. Second, what does one have to do to use homological algebra on it. Third, what else must one do to make it factor through any particular cohomology functor?
     - Hence, for the category of motives, you want V -> H(V), H(V) be in the category of motives, H the universal cohomological functor. V an algebraic variety of arbitrary dimension. What is the special case in which the theory of motives is realised based on the previous exercises? Compute this, and compute the universal functor in this case? (Answer: smooth projective varieties, and the Jacobian).
 
+https://arxiv.org/pdf/0904.4265, gerbes and Cheeger-Simons theory
+
 https://www.ams.org/notices/200302/what-is.pdf, what is a gerbe in 2 pages.
-    - Compute the group representation needed to find a single valued solution to a differential equation.
-    - Compute the group associated with an elliptic function with a zero at p and a pole. at q. This is a cohomology group. (Hint: first sheaf cohomology of an elliptic curve with a sheaf of holomorphic functions on it as its coefficients).
+    - Compute the group representation needed to find a single valued solution to a differential equation. (Hint: monodromy)
+    - Compute the group associated with an elliptic function with a zero at p and a pole. at q. This is a cohomology group. (Hint: compute the first sheaf cohomology of an elliptic curve with a sheaf of holomorphic functions on it as its coefficients).
     - Compute concretely what an element in the first sheaf cohomology of an elliptic curve with a sheaf of holomorphic functions on it as its coefficients.
     - Compute the operation that defines the group structure of the first sheaf cohomology of an elliptic curve with a sheaf of holomorphic functions on it.
     - Now replace the analysis to be on the next sheaf cohomology of an elliptic curve with a sheaf of holomorphic functions on it particularly H^2. What is this object? (Hint: holomorphic GERBES instead of holomorphic line bundles.).
-    - Compute the transition functions and g_ba. Compute the value of g_ab g_bc g_ca on a holomorphic line bundle.
+    - Compute the transition functions and g_ba. Compute the value of g_ab g_bc g_ca (cocycle condition) on a holomorphic LINE BUNDLE.
     - Compute the value of g_ab g_bc g_ca on a holomorphic GERBE. (Hint: replace 1 with?)
-    - Let P be a holomorphic bundle of projective spaces over M. Compute it by patching. What local products are used to patch this? (Hint: the local products are U_a x CP^n for open U_a) What transition functions are used to patch this with which values? (Hint: they are valued in the projective linear group PGL(n+1, C)) Compute the lift and to a particular group (hint: you want it to be a matrix so it is the ???) and set a matrix to be equal to the scalar matrix g_ab g_bc g_ca associated with the lift. This gives the data of a gerbe.
-    - Compute the cohomology class in H^2(M, O^*), M an elliptic curve, and O^* the sheaf of holomorphci functions on it. (Hint: obstruction for rank n + 1 vector bundle so that proj space over a point is proj space V_m).
-    - Compute the fact that h_abc using line bundles L_ab over U_a cap U_b, this does not form a group, compute the algebraic structure needed to fix this
-    - Compute, for a unitary connection on the gerbe, iA_ab + iA_bc + iA_ca, and F_b - F_a as a diffferential. Compute H to be a global closed 3-form, using the definition, compute its relation to the connection.
+    - Let P be a holomorphic bundle of projective spaces over M. Compute it by patching. What local products are used to patch this? (Hint: the local products are U_a x CP^n for open U_a) What transition functions are used to patch this with which values? (Hint: they are valued in the projective linear group PGL(n+1, C)). Compute the lift and to a particular group (hint: you want it to be a matrix so it is the ???) and set a matrix to be equal to the scalar matrix g_ab g_bc g_ca associated with the lift. This gives the data of a gerbe.
+    - Compute the cohomology class in H^2(M, O^*), M an elliptic curve, and O^* the sheaf of holomorphic functions on it. (Hint: obstruction for rank n + 1 vector bundle so that projective space over a point is projective space V_m).
+    - Compute the fact that h_abc using line bundles L_ab over U_a cap U_b, this does not form a group, compute the algebraic structure needed to fix this.
+    - Compute, for a unitary connection on the gerbe, iA_ab + iA_bc + iA_ca (hint: local holomorphic functions), and F_b - F_a as a diffferential (hint: dA_ab for differential 1-forms A). Compute H to be a global closed 3-form, using the definition, compute its relation to the connection.
     - Compute, the analogy of a de Rham class [H/2 pi] to be equivalent to be some Chern class. This results in the theory of Cheeger-Simons differential characters in degree 2.
     - Compute the natural gerbe on a compact simple Lie group G for a manifold M, in terms of its curvature as a Killing form.
-    - Compute, over what object, does a line bundle have a holonomy over?
+    - Compute, over what object, does a line bundle have a holonomy over? (Hint: recall complex analysis)
     - Compute, over what object, does a gerbe have holonomy over?
-    - Compute the vanishing of B(X, [Y, Z]) with multiples as curvature on a natural gerbe on a compact simple Lie group G.
-    - NOT FINISHED.
+    - Compute the vanishing of B(X, [Y, Z]) with multiples as curvature on a natural gerbe on a compact simple Lie group G. (Hint: use the fact that T a maximal torus T in G is abelian, the gerbe is flat there, so it vanishes).
+    - Compute the curvature for a map of a closed surface f: Sigma -> G, for two manifold Sigma. Then, evaluate the honomy on the fundamental cycle of Sigma. Thsi is the WEss-Zumino term.
+    - Compute the integral cohomology class in H^3(M, Z) using data from a gerbe.
+    - Compute the representative element in Chech cohomology for theintegral cohomology class using the data of a gerbe.
+    - Compute the homotopy classes in an Eilenberg-aclane space in degree 3 cohomology.
+    - Compute a definition for a bundle for space X to tthe classifying space for the projective unitary group of Hilbert space i.e. BPU(H) (hint: it gives a gerbe).
+    - Compute the class in H^3(X,Z) in the previous exercise for P be a holomorphic bundle of projective spaces over M, now compute classes in the case of the space X to tthe classifying space for the projective unitary group of Hilbert space i.e. BPU(H). (Hint: anything). This gives twisted K-theroy.
+    - Compute, a definition of twisted K-theroy for bundles of projective Hilbert space, using the fact that scalars act trivially by conjugation. (Answer: associated a bundle of Fredholm operators, then define the twisted K-group to be the space of homotopy classes of sections of ...)
+    - Compute the object underlying the first Chern class, and compare to to the boject behind the first Pontryagin class.
 
 https://www.keerthimadapusi.com/assets/talks/2025-02-19-darmstadt.pdf, introduction to F-gauges in 17 pages, MUST READ
 
@@ -2024,3 +2033,23 @@ https://swc-math.github.io/aws/2020/2020KimLecture3Slides.pdf, Selmer schemes II
 https://swc-math.github.io/aws/2020/2020KimLecture4Slides.pdf, Selmebr schemes IV
 
 https://academicweb.nd.edu/~andyp/teaching/2020FallMath10850/ClarkNotes.pdf, Pete L Clark's calculus course.
+
+https://www.ams.org/notices/200304/what-is.pdf, what is a stack in 2 pages?
+    - Compute the canonical image of the homeomorphism associated with a Riemann surface of genus one.
+    - Compute the canonical image of the homeomorphism associated with a Riemann surface of genus one. Compute the resulting structure by choosing a point at the origin. Repeat this exercise for an elliptic curve.
+    - Compute the points of a moduli space of an elliptic curves.
+    - Compute an elliptic curve as a two sheeted branch cover of a Riemann sphere. Where are the branches?
+    - Compute the j-invariant of an elliptic curve.
+    - Compute the surjective map associated with lambda -> j-lambda.
+    - Compute the representative of isomorphism classes of elliptic curves. Hence, compute the COARSE moduli space of elliptic curves. (Hint: use the j-invariant)
+    - Compute, using the data of a family of ellipti curves, what is an elliptic curve in a family of elliptic curves (hint: it has the data of a preimage to X known as the fibre pi^-1(b) with origin a section O: B -> X, so a section O^b).
+    - Using the fact that C is a coarse modui space for the elliptic curves, compute the condition for the j-invariants to be equal in terms of the fibres.
+    - Compute what happens when one pulls back to the universal family of elliptic curves via the j-invariant map j_B: B -> C. Compute using the fact that every elliptic curve has an involution. Hence compute that there are nontrivial families X -> pi B such that pi^-1(B) = E_0 where E_0 is a fixed elliptic curve i.e. isotrivial familiesl. Compute the classifying map of this, and hence show that there is no universal family. (Hint: j_B: B -> C is the constant map b -> j(E_0) i.e. mapping to the j-invariant of E_0 for all b in B).
+    - Compute the objects in the stack of elliptic curves.
+    - Compute the morphisms of elliptic curves as pairs of maps.
+    - Compute the subcategories corresponding to families over a fixed base as fibers over B, and what are these fibers? Then show that it is an algebraic stack.
+    - Compute for any variety B, a category B_ to be a universal family of elliptic curves.
+    - Compute the functor associated witha. family of curves X -> B.
+    - Compute, what happens when you forge t a section for C a category whose objects are families with nowhere zero sectiosn and morphisms with commuting diagrams of morphsims over a base and X' is a pullback via map B' -> B i.e. this is a cartesian commutative diagram.
+    - Compute the smooth cover by an affine variety for the Legendre family of elliptic curves y^2 - x(x-1)(x-lambda), lambda arying in U = C - {0,1}.
+    - If the j-invariant can be considered for stacks of elliptic curves, hence compute the stacks associated with Gromov-Witten invariants.
