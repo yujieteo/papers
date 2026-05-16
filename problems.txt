@@ -1949,14 +1949,18 @@ https://www.keerthimadapusi.com/assets/lecture/padic_hodge_theory.pdf, p-adic Ho
 
 https://maths.anu.edu.au/sites/prod.maths.sca-lws06.anu.edu.au/files/Gurney-talk-ntdu.pdf, q-de Rham in 95 slides
 
-https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_on_Number_Theory_Geometry_Moonshine_and_Strings/Kim.pdf, must read 113 slides on Arithmetic Chern-Simons theory
+https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_on_Number_Theory_Geometry_Moonshine_and_Strings/Kim.pdf, must read 113 slides on Arithmetic Chern-Simons theory, best introduction to arithmetic geometry and fundamental groups.
     - (Slide 4) compute the elements of the spectrum of A. Compute the elements of an element of a ring A. (Hint: residue mod P classes in A/P in the fraction field Frac(A/P)).
-    - (Slide 5) Compute the elements of a using the Yoneda lemma as a basic clised set in a topology.
-    - (Slide 6) Compute the distinguished open sets in the spectrum of A as a localisation.
-    - (Slide 8) Compute the variety given by a zero set enriched by each point of the variety in the complex numbers.
+    - (Slide 5) Compute the elements of a using the Yoneda lemma as a basic closed set in a topology.
+    - (Slide 6) Compute the distinguished open sets in the spectrum of A as a localisation. (Hint: nonzero elements are invertible, so it is the prime ideals where...?)
+    - (Slide 8) Compute the variety given by a zero set enriched by each point of the variety in the complex numbers. (Hint: polynomial ring)
     - (Slide 9) Compute the spectrum of the integers as set.
     - (Slide 10) Compute the spectrum of Q[x] as a set.
     - (Slide 12) Compute the canonical image of the isomorphism of a general scheme to a locally ringed space for A.
+    - (Slide 13) Compute the typical map of prime spectrum indcued by ring homomorphisms.
+    - (Slide 15) Compute the ring and the field of fractions associated with an element x in X such that the element x is in the prime spectrum of A. (Hint: think about x as a representative element of prime spectrum of A, then think about the first isomorphism theorem)
+    - (Slide 16/17) Compute the sequence of maps from the field of fractions to X by contravariant functoriality. What can this map be represented by? To compute the set of closed points, what conditions are required? (Hint: need something to be a field)
+    - (Slide 21) Compute finite unions of affine schemes of polynomial rings in Z quotiented out by f. Then compute the contravariant map associated with inclusions into polynomial ring.
 
 https://arxiv.org/abs/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
 
