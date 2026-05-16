@@ -1851,6 +1851,39 @@ https://www.jmilne.org/math/xnotes/MOT.pdf, motives in 15 pages summary by Milne
     - (Page 3) Compute the dimension of the first cohomology group H^1(X(C), End(E)) as a End(E) otimes Q vector space.
     - (Page 3) Compute for char p nonzero, End(E) otimes Q has a division algebra, its degree. The smallest Q-vector space such a division algebra can act on is of which dimension? Hence compute that there is no Q-vector space H^1(E,Q) such that H^1(E, Q_l) isomorphic to H^1(E,Q) otimes_Q Q_l.
 
+https://math.jhu.edu/~jmb/note/torext.pdf, Tor and Ext group computations:  
+    - (Page 1) Compute using symmetry G otimes h
+    - (Page 1) Hence check for the universal bilinear pairing, compute f(ng,h) in terms of f(g,h). Use the symmetry of the tensor product.
+    - (Page 1) Compute Tor(G,H) using symmetry.
+    - (Page 1) Compute 0 otimes H.
+    - (Page 1) Comnpute Z otimes H for any H with the universal pairing theta: Z x H -> H given by n otimes h -> nh. (Hint: compute based on the universal property of Z)
+    - (Page 1) Compute Q otimes Q using a canonical bilinear pairing.
+    - (Page 2) Compute Z/n otimes H, this can be computed using the free resolution 0 -> Z -> Z -> Z/n. First, tensor this free reoslution with H, this gets a long exact sequence using the definition of Tor. Note that one needs to use the fact that Z otimes H is H. Then compute Tor(Z/n, H). (Hint: 0 -> Z -> Z -> Z/n -> 0 becomes 0 -> Tor(Z/n, H) -> Z otimes H -> Z otimes H -> Z/n otimes H -> 0). then read off the cokernel of H -> H. This is the subgroup of element of H of order n.
+    - (Page 2) Compute Z/n otimes Q using an exact sequence. And then compute Tor(Z/n, Q). Hint: use the aboth corollary. (Hint: use the corollary, the subgroup of elements of order n in Q is empty!)
+    - (Page 2) Compute nZ + mZ = dZ, what is d? (Hint: addition of this becomes gcd).
+    - (Page 2) Compute Z/n otimes Z/m. (Hint: use gcd ant take quotients)
+    - (Page 2) Compute Tor(Z/n, Z/m). (Hint: using the previous lemma, you just need to ccompute Z/n otimes Z/m).
+    - (Page 2) Compute Tor(Z, H). (Hint: use the fact that Z is projective.) Z is the integers.
+    - (Page 3) Compute Tor(G, Z) (Hint: use the result that Z otimes Z is isomorphic to Z, then form an exact sequence) Z is the integers.
+    - (Page 3) Compute G otimes Q, G be a torsion abelian group. Start by computing the bilinear pairing f: G x Q -> K to be 0, if mg= 0, then f(g,b) = f(g,m b/m) = f(mg, b/m), then mg = 0 by torsion so this must be 0.
+    - (Page 3) Compute the elements for G a torsion free group of G otimes Q. (Hint: you will need to think about what the elements look like, they look like for torsionfree case g otimes (1/n) and there is the identity g otimes (1/n) = g' otimes (1/n'))
+    - (Page 4) Compute Tor(G, Q) by taking any free resolution 0 -> F_1 -> F_0 -> G -> 0, take the delta functor otimes Q.
+    - (Page 4) Compute Hom(Z, H) as follows, omega: Z -> H corresponds to elements h in H using h = omega 1. Conversely, given h, cehck omega n - nh. So what is Hom(Z, H)?
+    - (Page 4) Compute Ext(Z, H). (Hint: use the fact that Z is projective, so what happens to the isomorphism classes of extensions of Z?)
+    - (Page 4) Compute Hom(Z/n, H). (Hint: apply the hom functor to 0 -> Z -> Z -> Z/n -> 0, the Ext appears at the end, so what is the kenerl of the H -> H multiplication by n map). Lastly, check that it is isomorphic to diagram 9 in Tor. This gives the following sequence. 0 -> Hom(Z/n, H) -> H -> H -> Ext(Z/n, H) -> 0.
+    - (Page 4) Compute Hom(Z/n, Z), and then compute Ext(Z/n, Z). (Hint, substitute Z into that equation, then check subgroup whose elements are of ORDER by n, then use the fact that no such subgroup exists.)
+    - (Page 4) Compute Ext(Z/n, Z). (Hint: use the previous exact sequence)
+    - (Page 4) Compute Hom(Z/n, Z/m). (Hint: again, use gcd, you are asking for homomorphisms between Z/n to Z/m).
+    - (Page 4) Compute Ext(Z/n, Z/m). (Hint: again, isomorphism classes of SES gives this result quickly).
+    - (Page 4) Compute Hom(Z/n, Q). (Hint: trivial because you are asking of elements of finite order in Q).
+    - (Page 4) Compute Ext(Z/n, Q). (Hint: check the proof for Tor group.)
+    - (Page 4) Compute Hom(Q, Q). (Hint: same arrows, get isomorphic to Q).
+    - (Page 5) Compute Ext(G, Q), (Hint: need to see isomorphism classes of SES, compute a = m/n, see the notes if you get stuck). USing this fact, check that Hom(Q, Z/n) = 0, and Ext(Q, Z/n) is trivial.
+    - (Page 5) Compute Hom(Q, Z) using the fact that no nonzero element of Z is divisible by n for all n.
+    - (Page 5) Compute Ext(Q, Z). This is hard. (Hint: it is a rational vector space, but hard to compute its dimension, Q_p is the field of p-adic numbers, you will also need the adeles, so one gets the...). Compare this with Tor(Q, Z). (hint: Q is a flat Z-module)
+    - (Page 6) Compute the ring of p-adic integers as some endomorphism ring, and as a hom.
+    - (Page 6) Compute Q_p as an isomorphism of groups of homs.
+
 https://www.jmilne.org/math/xnotes/svn.pdf, Shimura varieties in 3 pages. Shimura's approach is expounded in detail.
     - (Page 1) Compute the canonical classification of every simply connected Riemann sphere.
     - (Page 1) Compute the action associated with SL_2(R) that is needed to realise the group of holomorphic automorphisms Hol(D_1) of D_1 the complex upper half plane.
