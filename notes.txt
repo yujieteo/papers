@@ -5249,6 +5249,12 @@ https://inference-review.com/article/a-truncated-manuscript, Schapira's article,
 
 https://sites.pitt.edu/~abk134/slides_minkowski.pdf, Minkowski's lemma for the Kronecker Weber theorem
 
+https://www.math.ias.edu/~bhatt/teaching/mat731f15/, Bhatt references for sheaf cohomology
+
+https://bonndoc.ulb.uni-bonn.de/xmlui/bitstream/handle/20.500.11811/11281/7415.pdf, Cnossen's thesis.
+
+https://www.uio.no/studier/emner/matnat/math/MAT4215/data/masteragbook.pdf, 508 pages notes on schemes.
+
 https://math.mit.edu/classes/18.785/2017fa/LectureNotes14.pdf, Minkowski
 
 https://www.math.uni-bonn.de/people/ja/alggeoI/notes.pdf, Scholze notes website
@@ -5263,7 +5269,7 @@ https://jdh.hamkins.org/wp-content/uploads/Slides-Multiverse-view-on-VL-Hamkins-
 
 https://jdh.hamkins.org/wp-content/uploads/Slides-Potentialist-conceptions-of-infinity-Hamkins-Peking-University-June-2025.pdf, potentialist conceptions of infinity
 
-https://www.kurims.kyoto-u.ac.jp/~piotr/291y_notes.pdf, notes on p-analytic groups
+https://www.kurims.kyoto-u.ac.jp/~piotr/291y_notes.pdf, notes on p-analytic groups in 141 pages
 
 https://msp.org/gt/2010/14-3/gt-v14-n3-p01-s.pdf, monoids on moduli spaces of manifolds
 
