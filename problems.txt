@@ -20,7 +20,7 @@ https://www.preschema.com/papers/stacksncts.pdf, Adeel Khan's stacks, in 76 page
     - (Page 10, Definition 1.3.2.) Compute the nerve of a infty-groupoid. (Hint: Why is it a Kan complex? Hint: the nerve is a fully faithful functor from N: Cat -> SSet)
     - (Page 10) Compute using Milnor's theorem, making concrete the analogy of homotopy categories of CW complexes to that of Kan complexes, by sending a CW complex to its singular simplicial set. The homotopy category of CW complex is the Gabriel-Zisman localisation with respect to weak homotopy equivalences.
     - (Page 10) Compute the n-simplicies of a singular simplicial set using continuous maps.
-    - (Page 11) This is the analogy of why Kan complexes are space. Compute the 0-simplicies (Hint: analogous to points) of the Kan complexes and 1-simplicies of the Kan complexes (Hint: analogous to paths), then compute compositions? Are compositions canonical (hint: they are canonical up to what?)
+    - (Page 11) This is the analogy of why Kan complexes are spaces? Compute the 0-simplicies (Hint: analogous to points) of the Kan complexes and 1-simplicies of the Kan complexes (Hint: analogous to paths), then compute compositions? Are compositions canonical (hint: they are canonical up to what?)
     - (Page 11, Definition 1.4.1, Construction 1.4.2.) Construct a Kan complex where not all morphisms are required to be invertible, this is a weak Kan complex (hint: you will need to use a restriction map as per the definition by Boardman-Vogt, this restriction map from the full simplex to horns needs to be surjective). 
     - (Page 11, Definition 1.4.1, Construction 1.4.2.) Using a suitable functor of homs to simplicial sets, construct a diagram describing a homotopy (hint: a homotopy is simply a two simplex, but one splits the target into the feet of the two simplex). Define compositions up to coherent homotopy with the notion of a weak Kan complex. Then, define an infinity-category.
     - (Page 12) Compute the Duskin nerve of a 2-category as a concrete example as a simplicial set of a n-simplex, describe the data (objects, morphisms, and 2-morphisms). (Hint: the Duskin nerve is associated with a category, so the objects must objects in the w)
@@ -76,14 +76,24 @@ https://arxiv.org/pdf/1712.03708, Scholze's p-adic geometry in 29 pages
     - (Page 3) Check that the complex analogues of Hopf surfaces are non-Kahler by computing their Hodge numbers. (Hint: computeL H^0(X, Omega^1_X) and H^1(X, O_X)).
     - (Page 3) Compute the etale cohomology using a tensor product to define H_et^n(X, C_p) (hint: take base change of C_p and direct limit forming l-adic cohomology)
 
+https://arxiv.org/pdf/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
+    - (Page 1) Compute [n]_q as q-analogue (hint: sum of geoemtric series)
+    - (Page 1) Compute the q-factorial as an analogue.
+    - (Page 1) Compute the q-binomial coefficeint as an analogue.
+    - (Page 1) IF q is a power of a prime power, F_q the finite field, compute the number of k-dimension subvector spaces of the n-dimensional vector space F_q^n. (Hint: this is why q-analogues are used in counting problems over finite fields).
+    - (Page 1) Compute the q-analogue of a derivative i.e. the Jackson q-derivative. Compute the derivative x -> x^n which is not nx^{n-1}. Compute the q-derivative of general f(x). Compute the limit as q -> 1.
+    - (Page 1) Using a computation, show that there is a property lost when taking q-analogues. (Hint: try taking the q-analogue for the chain rule).
+
 https://arxiv.org/pdf/1010.1540, local Langlands in GL_n, in 37 pages
 
-https://arxiv.org/pdf/2409.10557, stacky approach to p-adic Hodge theory
+https://people.mpim-bonn.mpg.de/scholze/DeformationSpaces.pdf  Weil groups to be fixed on bad reduction using deformation spaces in 33 pages
+
+https://arxiv.org/pdf/2409.10557, stacky approach to p-adic Hodge theory, 105 pages
     - (Page 3) Compute the image of the natural isomorphism from tensoring etale cohomology over Q_p over Fontaine's crystalline period ring into crystalline cohomology. This is theorem 1.0.1.
 
-https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
-    - Compute the duality between compact Hausdorff spaces and commutative C* algebras.
-    - Compute duality between profinite sets and Boolean algebras.
+https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten, 121 pages.
+    - Compute the duality between compact Hausdorff spaces and commutative C* algebras (Hint: this give classical Pontraygin duality)
+    - Compute duality between profinite sets and Boolean algebras. (Hint: this gives classical Stone duality)
     - Compute the duality between affine k-varieties and ??? k-algebras.
     - Compute the duality between affine schemes and commutative rings.
     - Compute the resulting category from taking affine objects with a Grothendieck topology.
@@ -100,7 +110,7 @@ https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
     - Define compactness, kappa-compactness, kappa-presentability and presentability, see page 17.
     - Consider formal colimits X_i and Y_j in Ind_kappa, Ind_kappa freely adjoints kappa-filtered colimits.
 
-https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor formalisms
+https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor formalisms, in 111 pages
     - Compute a base change isomorphism a Cartesian diagram in a concrete instance in etale cohomology?
     - What is one possible setting for the category C and finite type maps E? (Hint: p-adic Lie groups)
     - Compute the right adjoint of the lax symmetric monoidal functor (otimes, ...) in the definition of a 6 functor formalism.
@@ -139,7 +149,7 @@ Scholze's lecture on p-adic K-theory of p-adic rings.
     - Compute, for R is a strictly henselian local ring, and l is invertible on R i.e. l in R^times, then one can compute the homotopy groups of the K theory of R that is l-adic completed and looks like topologically K theory. Z_l(i) for i even, 0 otherwise.
     - Compute, under finiteness assumptions on X, there exists a local to global spectral sequence E2^ij, compute etale cohomology of all the Tate twists so H^i-j(X_et, Z_l(j))z is pi_i+j K(...) with case analysis otherwise and wlog i >= j >= 0.
 
-https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
+https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry, in 148 pages
     - Construct a sheaf O for closed unit disks in the complex numbers of radius r consisting of formal power series with vanishing higher sheaf cohomology groups, construct the commutative diagrams that are compatible with evaluation at points. See page 6 - page 7. Then show that Cauchy's integral formula that allows for computations of Taylor coefficient with a particular exact sequence with good properties of the elliptic operator as well as bump functions to prove that the higher cohomology vanishes.
     - Construct the Banach space of p-summable real numbers with l+p norm, apply the dense image in condensed R-vecctor spaces and prove that the sequence compactified N -> Q where Q is the quotient of l_2/l_1 admits two distinct extensions to the space of summable functions.
     - Carve out a hierarchy of maps starting from integer polynomials to arbitrary maps. Compute the following examples. Integer polynomials, complex polynomials, holomorphic functions, smooth functions, diffferentiable functions, continuous maps, arbitrary maps. See page 8.
@@ -149,31 +159,21 @@ https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
     - On page 13, construct using the free generation of colimits under kappa-small profinite set the cateogry of kappa-small condensed sets. Enforce the sheaf condition using the Yoneda embedding by checking both sheaf conditions.
     - Work with this argument: discrete implies nuclear and dualizable if and only if nuclear and compact. Also, Solid is a Fredholm analytic ring so dualizables are discrete. Thus any non-discrete nuclear object must be non-compact.
 
-https://arxiv.org/pdf/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
-    - (Page 1) Compute [n]_q as q-analogue (hint: sum of geoemtric series)
-    - (Page 1) Compute the q-factorial as an analogue.
-    - (Page 1) Compute the q-binomial coefficeint as an analogue.
-    - (Page 1) IF q is a power of a prime power, F_q the finite field, compute the number of k-dimension subvector spaces of the n-dimensional vector space F_q^n. (Hint: this is why q-analogues are used in counting problems over finite fields).
-    - (Page 1) Compute the q-analogue of a derivative i.e. the Jackson q-derivative. Compute the derivative x -> x^n which is not nx^{n-1}. Compute the q-derivative of general f(x). Compute the limit as q -> 1.
-    - (Page 1) Using a computation, show that there is a property lost when taking q-analogues. (Hint: try taking the q-analogue for the chain rule).
+https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, geometric Langlands summary in 56 pages
+
+https://arxiv.org/pdf/2412.03382, Berkovich motives in 65 pages
+
+https://people.mpim-bonn.mpg.de/scholze/GaloisTop.pdf  topological realisations of Galois groups in 76 pages
 
 https://people.mpim-bonn.mpg.de/scholze/RealLocalLanglands.pdf, geometrisation of real Langlands in 91 pages
 
-https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, geometric Langlands summary in 56 pages
+https://www.math.uni-bonn.de/people/scholze/Torsion.pdf, torsion in cohomology of locally symmetric varieties in 107 pages
 
-https://web.ma.utexas.edu/users/benzvi/CurrentEvents021426.pdf, geometric Langlands in 34 pages
+https://people.mpim-bonn.mpg.de/scholze/AnalyticDeRham.pdf, analytic de Rham stacks of Fargues-Fontaine curves in 129 pages
 
 https://www.math.uni-bonn.de/people/scholze/Berkeley.pdf, Scholze's Berkley lectures in 260 pages
 
 https://www.math.uni-bonn.de/people/scholze/Geometrization.pdf, Fargue-Scholze geometrisation of the local Langlands correspondence in 350 pages.
-
-https://arxiv.org/pdf/2602.21894, cyclosyntomic regulator in 29 pages
-
-https://arxiv.org/pdf/2603.01877, Berkovich 2-motives and normed ring stacks, Ko Aoki, in 50 pages
-
-https://www.math.uni-bonn.de/people/scholze/Torsion.pdf, torsion in cohomology of locally symmetric varieties
-
-https://arxiv.org/pdf/2412.03382, Berkovich motives in 65 pages
 
 https://www.kwlan.org/articles/intro-sh-ex.pdf, example based introduction to Shimura varieties, Lan Kai Wen
     - (Page 4) Compute the inverse limit of Z/NZ. What is this defined as? (Hint: profinite completion of the integers)
@@ -218,7 +218,7 @@ https://www.math.uni-bonn.de/people/scholze/GL2.pdf, modular curve via the Langl
 
 https://people.mpim-bonn.mpg.de/scholze/CyclotomicSpectra.pdf, topological cyclic homology in 165 pages
 
-https://math.bu.edu/people/jsweinst/Moduli/Moduli.pdf, moduli of p-divisible groups
+https://math.bu.edu/people/jsweinst/Moduli/Moduli.pdf, moduli of p-divisible groups, in 93 pages
 
 https://www.math.uni-bonn.de/people/scholze/Analytic.pdf, analytic geometry in 110 pages
 
@@ -226,15 +226,15 @@ https://math.bu.edu/people/jsweinst/Math274/ScholzeLectures.pdf  Scholze lecture
 
 https://www.math.uni-bonn.de/people/scholze/Condensed.pdf  Scholze's notes on condensed mathematics. Key definitions: (1) definition of condensed formalism on page 8, page 15 explicitly; (2) solid abelian groups in anticipation of completion of tensor products on page 32; (3) theorem 5.8 for extension to solid abelian groups on page 34; (4) analytic and preanalytic rings on pages 44 to 45. Key computations: (1) use of Stone-Cech compactification for the appropriate surjection on page 11; (2) proof of generation by compact projectives and proof of abelian categories on page 12 to 13; (3) computation of cohomology of condensed abelian group on compact Hausdorff spaces.
 
-https://people.mpim-bonn.mpg.de/scholze/AnalyticDeRham.pdf, analytic de Rham stacks of Fargues-Fontaine curves in 129 pages
-
 https://arxiv.org/pdf/2401.07738, analytic de Rham stack in rigid geometry, in 110 pages, Juan Esteban Rodriguez Camargo
 
 https://arxiv.org/pdf/2603.03012, notes on solid geometry, in 130 pages. Condensed Mathematics.
 
-https://people.mpim-bonn.mpg.de/scholze/GaloisTop.pdf  topological realisations of Galois groups.
+https://web.ma.utexas.edu/users/benzvi/CurrentEvents021426.pdf, geometric Langlands in 34 pages
 
-https://people.mpim-bonn.mpg.de/scholze/DeformationSpaces.pdf  Weil groups to be fixed on bad reduction using deformation spaces.
+https://arxiv.org/pdf/2602.21894, cyclosyntomic regulator in 29 pages
+
+https://arxiv.org/pdf/2603.01877, Berkovich 2-motives and normed ring stacks, Ko Aoki, in 50 pages
 
 https://arxiv.org/pdf/2206.02022, Mann's six functors as well as a summary of Peter Scholze's work
 
