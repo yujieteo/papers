@@ -1,3 +1,114 @@
+https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf, prismatic F-gauges
+    - (Page 11) Compute the Hodge complex X/S using the algebraic de Rham complex of X/S using a suitable map. Show that it admits a direct sum decomposition.
+    - (Page 12) Compute the singular cohomology for the case of a torus in Example 2.1.3 or G_m in Example 2.1.3. using this machinery. Step 1 is to find a suitable map in d, step 2 is to find a suitable Hodge decomposition of scuh a map, step 3 is to compute for i = 0 index wise.
+    - (Page 12) Compute for an induced pairing Poincare duality in point 3 of page 12.
+    - (Page 13) Compute the conjugate filtration for S = Spec(F_p) and X = G_m in example 1.9. Compare this with the computation doen for C, see example 2.1.6.
+
+https://arxiv.org/pdf/2310.12456, Adeel Khan's stacks
+    - (Page 2) Imagine the moduli space of 1-dim linear subspaces in C^{n+1}. What is this object?
+    - (Page 2) Imagine the moduli space of k-dimensional linear subspaces of vector space and show that it is equivalently the k-1 linear subspaces of the projectivization of the vector space. What is this object?
+    - (Page 2) Imagine a family or fibration of sets parametrized by commutative algebras. What is this object? What happens if you imagine a fibration of groupoids parameterized by a suitable commutative algebra instead? See page 4.
+    - (Page 3) Consider the example in Theorem 0.0.6. How does one specify a complex projective n-space as a scheme? (Hint: compute its functor of points, these are A-linear surjections A^n+1 to L, where L is a projective A-module of rank 1, this explains why wants a compactification at a point of infinity to make it all surjective.)
+    - (Page 4) Compute for the case of M_Bun_G(C) taking a commutative algebra A to the groupoid of principal G-bundles on the scheme C otimes_k A under base change. This is a smooth algebraic stack. Compute for the case for the group G to be the general linear group. What do you get? (Hint: vector bundles one gets the moduli stack of rank n vector bundles on C)
+    - (Page 5) What are the class of functors homological algebra allows us to derive? (Hint: one can only work with abelian categories) What can infinity categories let us derive? (Hint: tangent bundle).
+    - (Page 6) Compute the example of a classical moduli stack M_cl of vector bundles (respectively. coherent sheaves and principal G-bundles). There is a surjective closed immersion from M_cl into M which is isomorphism if and only if X is a curve if and only if M is smooth. What happens when X is dim 2 or higher for M_cl and M? (Hint: retains homotopic smoothness if one uses derived stacks) Describe hidden smoothness of M.
+    - (Page 7) Describe a contravariant functor on a category whose objects are finite sets [n], for n a nonnegative integer. The morphisms of this category are order preserving maps. This contravariant functor valued in the category of sets. Construct the objects of this functor as sequences of sets X_n := X([n]) with a collection of maps explicitly. Give a name for the elements of this set.
+    - (Page 7) Construct injective map that skips vertex i and the surjective map that doubles vertex i, then compute the induced maps and recognise them as face or degeneracy maps of a simplicial category. Then, construct a simplical set using appropriate simplicial sets along the face and degeneracy maps.
+    - Construct the standard n-simplex using homs out of k-simplicies. Explicitly, what is this object? 
+    - Compute the union of faces excluding the face k, and define the k-th horn. Compute this alternatively using the n-th boundary minus the (k,n)-face.
+    - Construct the union of all delta^k Delta^n and denote it the boundary of the standard n-simplex. See page 8.
+    - Construct the morphism x: Delta^n -> X using the datum of a n-simplex, what lemma is required for this construction? See page 8.
+    - Construct the functor category between [n] to a category C. and the suitable composition law of relations for every morphism in the simplicial category. Compute elements of this categories as strings of morphisms. Then describe the n-simplicies of the category C. Lastly, define the nerve of C from all this data.
+    - Take the left Kan extension along the simplicial category valued in category to find the left adjoint of the category of simplicial sets valued in Cat. Construct a fully faithful functor from a category to its nerve. Why is it full and faithful? (Hint: 0-simplicies are objects, 1-simplies are morphisms, ...). Think of categories as special simplicial sets.
+    - Construct the composition of two morphisms either as a horn of a pair of delta^1s or as a cartesian and cocartesian square of simplicial sets. See page 9. Hint, a horn is a colimit of some kind in this (co)cartesian sqaure of simplicial sets. It is build from embeddings of ??? into ??? into the horn. Reproduce the horn for the case of singular homology on R^n.
+    - Construct for X a simplicial set that belongs to the essential image of the fully faithful functor as a nerve and show that it is equivalent for n >= 2 and for 0 < k < n, the map of restriction along the inclusion from a horn to a n-simplex is bijective. Then state the Grothendieck-Segal theorem. What requirement is needed for compositions for this theorem to be true (hint: bijective up to ???)? Then define an alternative structure by replacing "unique composition" with "invertibility" See page 10.
+    - Construct a surjective map of Homs out of n-simplex to a simplicial set to Homs out of horns into a simplicial set. What condition (other than surjectivity) on this functor do you need for this to be a Kan complex? Compute the nerve of a infty-groupoid. Why is it a Kan complex? Compute the 0-simplicies of the Kan complexes and 1-simplicies of the Kan complexes, then compute compositions? Are compositions canonical? See page 10 and page 11. Then state Milnor's theorem making concrete the analogy of homotopy cateogires of CW complexes to that of Kan complexes by sending a CW complex to its singular simplicial set. The homotopy category of CW complex is the Gabriel-Zisman localisation with respect to weak homotopy equivalences.
+    - Construct a Kan complex where not all morphisms are required to be invertible, this is a weak Kan complex. Use a suitable functor of homs to simplicial sets. Construct a diagram describing a homotopy. Define compositions up to coherent homotopy with the notion of a weak Kan complex. Then, define an infinity-category.
+    - Compute the Duskin nerve of a 2-category as a concrete example as a simplicial set of a n-simplex, describe the data (objects, morphisms, and 2-morphisms).
+    - Compute the data of a groupoid as a (2,1)-category by discarding non-invertible 2-morphisms.
+    - Compute the large simplicial set where n-simplicies are given the data of Kan complexes, maps of Kan complexes, and system of coherent homotopies. Then compute concretely for the case of 2-simplicies (see page 13). Then define coherence informally.
+    - What conditions are required to construct a Grothendieck topology on a category as per construction in 2.1.1.? Construct this using the following conditions: (1) admits fibre products, (2) admits finite coproducts; (3) a canonical morphism of the fibre product of a coproduct of covers by a another cover Y'; (4) disjoint coproducts; (5) base change belongs to cover; (6) induced coproduct of covers belongs to covers; (7) stable under composition and contains all isomorphisms.
+    - Warm up. Construct the prototypical example of morphisms under inclusion maps with a Grothendieck topology generated by surjections. See page 14.
+    - Construct the example of a site whose all morphisms are etale morphisms with Grothendieck topology generated by surjections (equivalently, faithfully flat morphisms). What happens if you use etale surjections as the maps that generate the Grothendieck topology instead? See page 14 and 15.
+    - Construct the canonical morphism of coproducts to products for finite collection of objects, and construct the Cech nerve of an object. What is the n-th term of this object? What condition should it have? The next part requires this construction along with a contravariant functor valued in an infinity category define the sheaf of an infinity category. (Construction 2.1.1.). Let C be a site with a Grothendieck topology generated by this, construct a basis as a full subcategory which is closed under ??? and generated by the intersection S and C_0, define the basis. See page 17. Then compute the restriction or equivalence of sheaves of a suitable inclusion functor as per Theorem 2.2.4.
+    - Construct the limit of a cosimplicial diagram valued in a 1-category, this cosimplicial diagram is identified with an equaliser. See proposition 2.1.8.
+    - Construct a stack as a functor valued in (?,?)-category of groupoids such that for every finite collections of ??? morphisms which are ???, construct a corresponding diagram as a limit diagram in a particular category. Then show that a stack is a sheaf of groupoids on the category of schemes. (See definition 2.1.10)
+    - Using the fact that stacks can be defined as sheaves of groupoids on Aff, compute the equivalence of infinity categories for a canonical functor given along the restriction of Aff in Sch for Fun(Sch^op, V) -> Fun(Aff^op, V).
+    - Given a scheme X, construct a pullback pushforward adjoint pair of fuctors where left adjoint is inverse image and right adjoint is direct image.
+    - Construct a pi-Cartesian lift of a morphism C -> D for pi a functor of categories \mathbb{E} to \mathbb{C} and a morphism f: C -> D.
+    - Think about why is there an equivalence of categories between Fun(C^op, Cat) or fibre functors and the category of cartesian fibrations. See page 19.
+    - Describe the difference the etale topology (flat, unramified, locally of finite presentation) versus fpqc (faithfully flat, and quasicompact). Name a use case for fpqc maps. Which is finer?
+    - Construct a category with objects finite sets n >= -1, [-1] empty by convention, morphisms oorder preserving maps. Construct direct limit of diagrams from X^-1 -> X^0 and so on, define this as anaugmented simplical map. Compare this with a cosimplicial diagram with the limit the totalisation of the cosimplicial diagram. See page 20.
+    - Consider the functor from commutative rings valued in Cat sending a commutative ring to the category mod_R of R-modules, and a ring homomorphism to an extension of scalars. What is it dual to? Generalise this with the following: compute the descent fo a cosimplicial diagram by describing an appropriate commutatinve diagram and two other conditions. See page 20. Prove that this example satisfies descent for the topology on CRing generated by faithfully flat ring homomorphisms.
+    - (Lemma 3.2.9) construct a finite familly of affine opens of two cocycles U_i,k covering quasicompact family of affines opens V'k, then compute for f^*(phi) : f^*(F) -> f^(*)(G) then show that phi itself invertible. Show that inverse image functor is conservative if f is faithfully flat and quasicompact.
+    - Compute the right Kan extension of the restriction of Sch^op -> Cat to Aff^op -> Cat. What do you get? See page 23. Then compute the direct limit of Mod_R over the category of pairs R, x, R isn CRing and X(R) is a point. See Corollary 3.3.2. Now describe what object is defined by this. And then define this in terms of a right Kan extension of a presheaf functor along the inclusion Aff -> Stk. Compute the data associated with objects of this category with a suitable cocycle condition. See Remark 3.3.4.
+    - Compute the colimit of a diagram from a G-action on a set X in the category of infty groupoids. Recover the basic diagram by taking the fibred product of the canonical functor X -> [X/G] along itself. Replace this diagram with a simplicial diagram and compute the geometric realisation. Then recover this simplicial diagram as the Cech nerve of a quotient maps. Then product a bijective correspondence between groupoif objects acting on X and maps which are surjective on pi_0.  Which direction is the geometric realisation? Which one is the formation of the Cech nerve?
+    - Construct a suitable simplicial diagram of [n] and partitions [n] as unions of subsets S and S' such that S cap S' is a single element in [n], then construct a cartesian square. Using this cartesian square, define a groupoid object. (Remark 4.1.2.) givena  groupoid object, find the object of objects, and the object of morphisms by analogy. What does the condition for ordered partitions mean? 
+    - Compute the nerve of a 1-groupoid. Assign from a 1-groupoid to its nerve, what equivalence does it determine?
+    - (Example 4.1.4.) Compute using a single boject and the endomorphism group of that isngle object iwht a composition law defined by the multiplication law. Compute a simplicial diagram from multifold products of the group to the point. What simplicial maps are induced by group multiplication? What about degeneracy maps? What is this object?
+    - Compute the iterated fibred products of a category for a morphism U to X in that category, compute or draw the simplicial diagram defining a Cech nerve. Compute its colimit of a simplicial diagram, this is defined as a geometric localisation. Define an effective epimorphism using this data, if all iterated fibred products exist and the augmented simplicial diagram is a colimit diagram i.e. it exhibits X as the geometric realisation as a Ceck nervbe.  Hence, state Lurie's theorem on a canonical morphism being an epimorphism and  define an assignment of U_* to U_0 ->> |U_*|. What equivalence of categories is this? See Theorem 4.1.9.
+    - Construct an example of a group object in Shv(Sch; Set) or Shv(Stk_infty, Set), what is this object determined by?
+    - (Definition 4.2.3.) Construct a Cartesian square from a morphism of simplicial diagrams U_* -> G_* for every morphism [m] -> [n] in a simplicial category to form an action of G_* on an object U as a groupoid object U_*. Alternatively, compute this for every [n] using another cartesian sqaure. Compute the simplicial diagram as a groupoid object of some simplicail diagram of the form with face maps d^1 and the projection to be of a cartesian square of some form. What data is required to determine an action isomorphism G x U -> U satisfyin the analogues of a group action up to coherent homotopy? Then, define a commutative square where an action is trivial using this. See notation 4.2.5 and definition 4.2.6.
+
+https://arxiv.org/pdf/2409.10557, stacky approach to p-adic Hodge theory
+
+https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
+    - Compute the duality between compact Hausdorff spaces and commutative C* algebras.
+    - Compute duality between profinite sets and Boolean algebras.
+    - Compute the duality between affine k-varieties and ??? k-algebras.
+    - Compute the duality between affine schemes and commutative rings.
+    - Compute the resulting category from taking affine objects with a Grothendieck topology.
+    - Compute sheaves of sets for elliptic curves, what happens? See page 7.
+    - Compute the category of quasicoherent sheaf of classifying spaces X = */G, G a group scheme using Tannakian reconstruction. What is the importatn structure to remember? See page 7.
+    - Compute the endormorphisms of the structure sheaf in the category of quasicoherent sheaves on a space X. See page 7.
+    - Compute the duality between classifying stacks of affine group schemes using a suitable Grothendieck topology. Describe these Tannakian categories and the conditions for these. 
+    - Compute the dual of symmetric monoidal presentable abelian categories as per Stefanich's thesis. See page 8.
+    - Compute the duality for the category of almost rings in the sense of Faltings. See page 8.
+    - Using Deligne's idea in 1.10, and fix this with allowing non-flat gluing to derive infinity categories of quasicoherent sheaves. Use ? ? ? ? ?-categories to define a categorial version of commutative rings, see pages 9 to 10.
+    - Define Stefanich rings as per definition 1.1.8 using all the ideas discussed.
+    - Compute for M = (M_0, M_1, ...) the deloopings M_1 using M_0 in D(S) and also in the case StRing. Describe Stefanich rings via a slogan of deloopings, see page 13. Then define Gestalten as a result by defining the canonical Grothendieck topology.
+    - Compute using the definition of a (n,m)-category the following things, n-groupoid, n-truncated animas.
+    - Define compactness, kappa-compactness, kappa-presentability and presentability, see page 17.
+    - Consider formal colimits X_i and Y_j in Ind_kappa, Ind_kappa freely adjoints kappa-filtered colimits.
+
+https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor formalisms
+    - Compute a base change isomorphism a Cartesian diagram in a concrete instance in etale cohomology?
+    - What is one possible setting for the category C and finite type maps E? (Hint: p-adic Lie groups)
+    - Compute the right adjoint of the lax symmetric monoidal functor (otimes, ...) in the definition of a 6 functor formalism.
+    - Compute the projection formula in a concrete instance in etale cohmology?
+    - Compute the objects and morphisms in the category of correspondences Corr(C, E)?
+    - Where do the arrows in E below?
+    - Compute for products X x Y and a functor in Corr(C, E)? (Hint: why must we stipulate that it is symmetric monoidal)
+    - Compute the composition of two correspondences.
+    - Compute the right derived functor of the global sections functor, and the result when one applies the coefficient system of the constant sheaf.
+    - Compute the functor required for functorial composition in the derived category of abelian groups, and its corresponding right adjoint.
+    - (Theorem, Proper Base Change) Let f be a proper map from X to Y. Compute the fibre X_y in terms of a fibre product. Compute the inclusions into X and Y. Then, using a special case of the proper base change formula, compute the proper base change of the stalk of f_*A at y using an appropriate isomorphism.
+    - (Theorem, Proper Base Change) Compute the result of the natural isomorphism of g^* f_*.
+    - Compute the natural isomorphism of the right derived functors of a tensor product in the coefficient system Z using a particular formula.
+    - Compute the right adjoint of the derived tensor product.
+    - Compute using the projection formula the natural isomorphism of f^* A tensor B.
+    - Compute, using Poincare duality, the value of the dual of the right derived functors of the global sections functor under the coefficient system Z.
+    - Compute the right adjoint of the pushforward of a proper map of X to Y for the manifold bundle using Verdier duality. Then, perform this computation purely locally.
+    - For X in C a finite dimensional locally compact Hausdorff space, compute the D(X, Z) in terms of Betti cohomology.
+    - Identify the conditions captured by the functor C^op to CMon(Cat_infty).
+    - What is the central difficulty in defining a six functor formalism?
+    - State the objects and morphisms of a simplex category using Scholze's definition.
+    - Compute the equivalent objects of C^2 or the set of two simplicies.
+    - Compute the value or the coproduct of a 1 simplex and a 1 simplex. What is this object naturally embedded in?
+    - Compute the arrow needed for the trivial Kan fibration to work as a definition using the diagram in the definition or a trivial Kan fibration. What is the prototypical example of a trivial Kan fibration?
+    - Define the category mapping any simplicial category D to an infinity category C.
+    - Compute for the homotopy category of a Kan complex C, the condition for any horn to be filled.
+
+https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
+    - Construct a sheaf O for closed unit disks in the complex numbers of radius r consisting of formal power series with vanishing higher sheaf cohomology groups, construct the commutative diagrams that are compatible with evaluation at points. See page 6 - page 7. Then show that Cauchy's integral formula that allows for computations of Taylor coefficient with a particular exact sequence with good properties of the elliptic operator as well as bump functions to prove that the higher cohomology vanishes.
+    - Construct the Banach space of p-summable real numbers with l+p norm, apply the dense image in condensed R-vecctor spaces and prove that the sequence compactified N -> Q where Q is the quotient of l_2/l_1 admits two distinct extensions to the space of summable functions.
+    - Carve out a hierarchy of maps starting from integer polynomials to arbitrary maps. Compute the following examples. Integer polynomials, complex polynomials, holomorphic functions, smooth functions, diffferentiable functions, continuous maps, arbitrary maps. See page 8.
+    - Consturct a counterexample and show that topological abelian groups do not form an abelian category. What sort of example does this happen for in general? Comnpute the same example under condensed abelian rgoups, what is obtained as a quotient See page 9.
+    - On page 14, carve out a full hierarchy of subcategories on condensed sets using topologies. 
+    - On page 14, construct using the definition of Hausdorff as a closed inclusion, the definition of a quasiseparated condensed set using pairs of maps leading to quasicompactness products.  
+    - On page 13, construct using the free generation of colimits under kappa-small profinite set the cateogry of kappa-small condensed sets. Enforce the sheaf condition using the Yoneda embedding by checking both sheaf conditions.
+    - Work with this argument: discrete implies nuclear and dualizable if and only if nuclear and compact. Also, Solid is a Fredholm analytic ring so dualizables are discrete. Thus any non-discrete nuclear object must be non-compact.
+
 https://www.jmilne.org/math/CourseNotes/GT.pdf, group theory
     - Compute the group from automorphisms of symmetric forms versus skew-symmetric forms. What happens if there you use a Lie bracket instead? Compute its basis. 
     - Compute the group of rotational symmetries about the centre of a regular polygon with n for n a positive sides. Therefore, show that up to isomorphism there is only one such group.
@@ -47,8 +158,6 @@ https://www.jmilne.org/math/CourseNotes/GT.pdf, group theory
 
 https://www.jmilne.org/math/CourseNotes/FTe6.pdf, field theory
 
-https://www.math.uchicago.edu/~fcale/papers/blog.pdf, Calegari blog posts
-
 https://www.jmilne.org/math/Books/tcdraft.pdf, Milne's Tannakian categories
 
 https://www.jmilne.org/math/Books/iAG2022.pdf, Milne's algebraic groups
@@ -72,15 +181,6 @@ https://www.jmilne.org/math/CourseNotes/ANTc.pdf
     - Compute for K = Q[alpha], d = D(1, alpha, ..., alpha^{m-1}).
     - Compute the discriminant of B/A using basis of B_i/A.
     - Perform the computation in Proposition 6.2 for a cyclotomic extension.
-
-https://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Ullery.pdf, computation with Minkowski lattice point theorem.
-
-https://www.lmfdb.org/NumberField/2.0.4.1, Gaussian rational numbers
-    - Compute the discriminant.
-    - Compute the conductor, and hence define the conductor.
-    - Compute mentally elements of the class number formula.
-    - Compute mentally the spectrum of the ring of integers.
-    - Compute the norm of the integers and visualise the lattice.
 
 https://math.uchicago.edu/~may/REU2018/REUPapers/Li,Che.pdf
     - Compute Gal(L/K) for p = x^2 + 5y^2.
@@ -143,16 +243,12 @@ https://www.jmilne.org/math/CourseNotes/CFTc.pdf, class field theory
 https://yufeizhao.com/gtacbook/gtacbook.pdf, graph theory and additive combinatorics
 
 https://math.bme.hu/~gabor/oktatas/SztoM/TaoVu.AddComb.pdf, Tao-Vu additive combinatorics.
-    - Compute the expectation of an indicator function to prove Markov's inequality. (Hint: it is a matter of notation E(I_x >= a] = P(x >= a), then get E[X] >= a P(x >= a).
+    - Compute the expectation of an indicator function to prove Markov's inequality. (Hint: it is a matter of notation E(I_x >= a) = P(x >= a), then get E[X] >= a P(x >= a).
 
 https://www.math.cmu.edu/~ttkocz/teaching/1819/read-sem-notes.pdf
     - Identify the key example to look at for lattice points in number theory, then prove Minkowski's theorem. Suppose C is a symmetric, convex, bounded subset R^d, if vol(C) > @^d, then C contains one other lattice point other than 0.
     - Define the vector that is needed. Then define the claim needed to prove Minkowski's theorem.
     - Prove the two square theorem from Minkowski's theorem by a suitable definition of a convex, then defining an inequality, and then proving the result.
-
-https://math.mit.edu/classes/18.785/2017fa/LectureNotes14.pdf
-    - Show the formula for the measure of the convex symmetric set via calculation with respect to the normalised Haar measure as per Lemma 14.15.
-    - Prove using the AM-GM inequality the Minkowski constant.
 
 https://kskedlaya.org/cft/sec_Kummer_theory.html, Kummer theory.
     - Define the first group cohomology by computing f(gh) and the kernel to kill off for f(gh).
@@ -169,13 +265,7 @@ https://www.jmilne.org/math/Documents/DeligneArcata.pdf, Deligne's Arcata for et
     - Compute using the covering sieve definition the global continuity of a function f given that it is locally continuous for each open in the sieve.
     - Give a function U-locally in terms of a sieve and compare it to the Cech point of view, where functions are given on cocycle of sieve elements. Then reprove the global continuity of a function f given that it is locally continuous for each open in the sieve. This is the Cech point of view.
     - Using the sieve point of view, compute a commutative diagram with a suitable restriction map the definition of a vector bundle given for each open in the sieve. Reprove this statement by computing a suitable commutative diagram using fibre products on Cech cocycles. See page 4.
-    - Page 9. Identitfy V -> U for U a covering sieve, an additional sieve as a result of this. Identify locally coverin sieves as coverigns explicitly for families of V -> U, for u a covering sieve on U. Then construct the definition of a Grothendieck topology.
-
-https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf, prismatic F-gauges
-    - Page 11, compute the Hodge complex X/S using the algebraic de Rham complex of X/S using a suitable map. Show that it admits a direct sum decomposition.
-    - Page 12, compute the singular cohomology for the case of a torus in Example 2.1.3 or G_m in Example 2.1.3. using this machinery. Step 1 is to find a suitable map in d, step 2 is to find a suitable Hodge decomposition of scuh a map, step 3 is to compute for i = 0 index wise.
-    - Page 12, Compute for an induced pairing Poincare duality in point 3 of page 12.
-    - Page 13, Compute the conjugate filtration for S = Spec(F_p) and X = G_m in example 1.9. Compare this with the computation doen for C, see example 2.1.6.
+    - Page 9. Identitfy V -> U for U a covering sieve, an additional sieve as a result of this. Identify locally coverin sieves as coverings explicitly for families of V -> U, for u a covering sieve on U. Then construct the definition of a Grothendieck topology.
 
 https://math.uchicago.edu/~emerton/gl2.pdf, adelic translation for GL2 by Emerton.
 
@@ -300,112 +390,9 @@ https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf, 
 
 https://kerodon.net/kerodon.pdf, Kerodon, Lurie
 
-https://arxiv.org/pdf/2310.12456, Adeel Khan's stacks
-    - Imagine the moduli space of 1-dim linear subspaces in C^{n+1}. What is this object?
-    - Imagine the moduli space of k-dimensional linear subspaces of vector space and show that it is equivalently the k-1 linear subspaces of the projectivization of the vector space. What is this object?
-    - Imagine a family or fibration of sets parametrized by commutative algebras. What is this object? What happens if you imagine a fibration of groupoids parameterized by a suitable commutative algebra instead? See page 4.
-    - Compute for the case of M_Bun_G(C) taking a commutative algebra A to the groupoid of principal G-bundles on the scheme C otimes_k A under base change. This is a smooth algebraic stack. Compute for the case for the group G to be the general linear group. What do you get?
-    - What are the class of functors homological algebra allows us to derive? What can infinity categories let us derive? (Hint: tangent bundle).
-    - Compute the example of a classical moduli stack M_cl of vector bundles (respectively. coherent sheaves and principal G-bundles). There is a surjective closed immersion from M_cl into M which is isomorphism if and only if X is a curve if and only if M is smooth. What happens when X is dim 2 or higher for M_cl and M? Describe hidden smoothness of M.
-    - Consider the example in Theorem 0.0.6. How does one specify a complex projective n-space as a scheme?
-    - Describe a contravariant functor on a category whose objects are finite sets [n], for n a nonnegative integer. The morphisms of this category are order preserving maps. This contravariant functor valued in the category of sets. Construct the objects of this functor as sequences of sets X_n := X([n]) with a collection of maps explicitly. Give a name for the elements of this set.
-    - Construct injective map that skips vertex i and the surjective map that doubles vertex i, then compute the induced maps and recognise them as face or degeneracy maps of a simplicial category. Then, construct a simplical set using appropriate simplicial sets along the face and degeneracy maps.
-    - Construct the standard n-simplex using homs out of k-simplicies. Explicitly, what is this object? 
-    - Compute the union of faces excluding the face k, and define the k-th horn. Compute this alternatively using the n-th boundary minus the (k,n)-face.
-    - Construct the union of all delta^k Delta^n and denote it the boundary of the standard n-simplex. See page 8.
-    - Construct the morphism x: Delta^n -> X using the datum of a n-simplex, what lemma is required for this construction? See page 8.
-    - Construct the functor category between [n] to a category C. and the suitable composition law of relations for every morphism in the simplicial category. Compute elements of this categories as strings of morphisms. Then describe the n-simplicies of the category C. Lastly, define the nerve of C from all this data.
-    - Take the left Kan extension along the simplicial category valued in category to find the left adjoint of the category of simplicial sets valued in Cat. Construct a fully faithful functor from a category to its nerve. Why is it full and faithful? (Hint: 0-simplicies are objects, 1-simplies are morphisms, ...). Think of categories as special simplicial sets.
-    - Construct the composition of two morphisms either as a horn of a pair of delta^1s or as a cartesian and cocartesian square of simplicial sets. See page 9. Hint, a horn is a colimit of some kind in this (co)cartesian sqaure of simplicial sets. It is build from embeddings of ??? into ??? into the horn. Reproduce the horn for the case of singular homology on R^n.
-    - Construct for X a simplicial set that belongs to the essential image of the fully faithful functor as a nerve and show that it is equivalent for n >= 2 and for 0 < k < n, the map of restriction along the inclusion from a horn to a n-simplex is bijective. Then state the Grothendieck-Segal theorem. What requirement is needed for compositions for this theorem to be true (hint: bijective up to ???)? Then define an alternative structure by replacing "unique composition" with "invertibility" See page 10.
-    - Construct a surjective map of Homs out of n-simplex to a simplicial set to Homs out of horns into a simplicial set. What condition (other than surjectivity) on this functor do you need for this to be a Kan complex? Compute the nerve of a infty-groupoid. Why is it a Kan complex? Compute the 0-simplicies of the Kan complexes and 1-simplicies of the Kan complexes, then compute compositions? Are compositions canonical? See page 10 and page 11. Then state Milnor's theorem making concrete the analogy of homotopy cateogires of CW complexes to that of Kan complexes by sending a CW complex to its singular simplicial set. The homotopy category of CW complex is the Gabriel-Zisman localisation with respect to weak homotopy equivalences.
-    - Construct a Kan complex where not all morphisms are required to be invertible, this is a weak Kan complex. Use a suitable functor of homs to simplicial sets. Construct a diagram describing a homotopy. Define compositions up to coherent homotopy with the notion of a weak Kan complex. Then, define an infinity-category.
-    - Compute the Duskin nerve of a 2-category as a concrete example as a simplicial set of a n-simplex, describe the data (objects, morphisms, and 2-morphisms).
-    - Compute the data of a groupoid as a (2,1)-category by discarding non-invertible 2-morphisms.
-    - Compute the large simplicial set where n-simplicies are given the data of Kan complexes, maps of Kan complexes, and system of coherent homotopies. Then compute concretely for the case of 2-simplicies (see page 13). Then define coherence informally.
-    - What conditions are required to construct a Grothendieck topology on a category as per construction in 2.1.1.? Construct this using the following conditions: (1) admits fibre products, (2) admits finite coproducts; (3) a canonical morphism of the fibre product of a coproduct of covers by a another cover Y'; (4) disjoint coproducts; (5) base change belongs to cover; (6) induced coproduct of covers belongs to covers; (7) stable under composition and contains all isomorphisms.
-    - Warm up. Construct the prototypical example of morphisms under inclusion maps with a Grothendieck topology generated by surjections. See page 14.
-    - Construct the example of a site whose all morphisms are etale morphisms with Grothendieck topology generated by surjections (equivalently, faithfully flat morphisms). What happens if you use etale surjections as the maps that generate the Grothendieck topology instead? See page 14 and 15.
-    - Construct the canonical morphism of coproducts to products for finite collection of objects, and construct the Cech nerve of an object. What is the n-th term of this object? What condition should it have? The next part requires this construction along with a contravariant functor valued in an infinity category define the sheaf of an infinity category. (Construction 2.1.1.). Let C be a site with a Grothendieck topology generated by this, construct a basis as a full subcategory which is closed under ??? and generated by the intersection S and C_0, define the basis. See page 17. Then compute the restriction or equivalence of sheaves of a suitable inclusion functor as per Theorem 2.2.4.
-    - Construct the limit of a cosimplicial diagram valued in a 1-category, this cosimplicial diagram is identified with an equaliser. See proposition 2.1.8.
-    - Construct a stack as a functor valued in (?,?)-category of groupoids such that for every finite collections of ??? morphisms which are ???, construct a corresponding diagram as a limit diagram in a particular category. Then show that a stack is a sheaf of groupoids on the category of schemes. (See definition 2.1.10)
-    - Using the fact that stacks can be defined as sheaves of groupoids on Aff, compute the equivalence of infinity categories for a canonical functor given along the restriction of Aff in Sch for Fun(Sch^op, V) -> Fun(Aff^op, V).
-    - Given a scheme X, construct a pullback pushforward adjoint pair of fuctors where left adjoint is inverse image and right adjoint is direct image.
-    - Construct a pi-Cartesian lift of a morphism C -> D for pi a functor of categories \mathbb{E} to \mathbb{C} and a morphism f: C -> D.
-    - Think about why is there an equivalence of categories between Fun(C^op, Cat) or fibre functors and the category of cartesian fibrations. See page 19.
-    - Describe the difference the etale topology (flat, unramified, locally of finite presentation) versus fpqc (faithfully flat, and quasicompact). Name a use case for fpqc maps. Which is finer?
-    - Construct a category with objects finite sets n >= -1, [-1] empty by convention, morphisms oorder preserving maps. Construct direct limit of diagrams from X^-1 -> X^0 and so on, define this as anaugmented simplical map. Compare this with a cosimplicial diagram with the limit the totalisation of the cosimplicial diagram. See page 20.
-    - Consider the functor from commutative rings valued in Cat sending a commutative ring to the category mod_R of R-modules, and a ring homomorphism to an extension of scalars. What is it dual to? Generalise this with the following: compute the descent fo a cosimplicial diagram by describing an appropriate commutatinve diagram and two other conditions. See page 20. Prove that this example satisfies descent for the topology on CRing generated by faithfully flat ring homomorphisms.
-    - (Lemma 3.2.9) construct a finite familly of affine opens of two cocycles U_i,k covering quasicompact family of affines opens V'k, then compute for f^*(phi) : f^*(F) -> f^(*)(G) then show that phi itself invertible. Show that inverse image functor is conservative if f is faithfully flat and quasicompact.
-    - Compute the right Kan extension of the restriction of Sch^op -> Cat to Aff^op -> Cat. What do you get? See page 23. Then compute the direct limit of Mod_R over the category of pairs R, x, R isn CRing and X(R) is a point. See Corollary 3.3.2. Now describe what object is defined by this. And then define this in terms of a right Kan extension of a presheaf functor along the inclusion Aff -> Stk. Compute the data associated with objects of this category with a suitable cocycle condition. See Remark 3.3.4.
-    - Compute the colimit of a diagram from a G-action on a set X in the category of infty groupoids. Recover the basic diagram by taking the fibred product of the canonical functor X -> [X/G] along itself. Replace this diagram with a simplicial diagram and compute the geometric realisation. Then recover this simplicial diagram as the Cech nerve of a quotient maps. Then product a bijective correspondence between groupoif objects acting on X and maps which are surjective on pi_0.  Which direction is the geometric realisation? Which one is the formation of the Cech nerve?
-    - Construct a suitable simplicial diagram of [n] and partitions [n] as unions of subsets S and S' such that S cap S' is a single element in [n], then construct a cartesian square. Using this cartesian square, define a groupoid object. (Remark 4.1.2.) givena  groupoid object, find the object of objects, and the object of morphisms by analogy. What does the condition for ordered partitions mean? 
-    - Compute the nerve of a 1-groupoid. Assign from a 1-groupoid to its nerve, what equivalence does it determine?
-    - (Example 4.1.4.) Compute using a single boject and the endomorphism group of that isngle object iwht a composition law defined by the multiplication law. Compute a simplicial diagram from multifold products of the group to the point. What simplicial maps are induced by group multiplication? What about degeneracy maps? What is this object?
-    - Compute the iterated fibred products of a category for a morphism U to X in that category, compute or draw the simplicial diagram defining a Cech nerve. Compute its colimit of a simplicial diagram, this is defined as a geometric localisation. Define an effective epimorphism using this data, if all iterated fibred products exist and the augmented simplicial diagram is a colimit diagram i.e. it exhibits X as the geometric realisation as a Ceck nervbe.  Hence, state Lurie's theorem on a canonical morphism being an epimorphism and  define an assignment of U_* to U_0 ->> |U_*|. What equivalence of categories is this? See Theorem 4.1.9.
-    - Construct an example of a group object in Shv(Sch; Set) or Shv(Stk_infty, Set), what is this object determined by?
-    - (Definition 4.2.3.) Construct a Cartesian square from a morphism of simplicial diagrams U_* -> G_* for every morphism [m] -> [n] in a simplicial category to form an action of G_* on an object U as a groupoid object U_*. Alternatively, compute this for every [n] using another cartesian sqaure. Compute the simplicial diagram as a groupoid object of some simplicail diagram of the form with face maps d^1 and the projection to be of a cartesian square of some form. What data is required to determine an action isomorphism G x U -> U satisfyin the analogues of a group action up to coherent homotopy? Then, define a commutative square where an action is trivial using this. See notation 4.2.5 and definition 4.2.6.
-
 https://people.mpim-bonn.mpg.de/scholze/Exp1252_Scholze.pdf, Scholze's geometric Langlands notes
 
 https://case.edu/artsci/math/mwmeckes/matrix-analysis.pdf, matrix analysis notes
-
-https://people.mpim-bonn.mpg.de/scholze/Gestalten.pdf, Scholze's Gestalten
-    - Compute the duality between compact Hausdorff spaces and commutative C* algebras.
-    - Compute duality between profinite sets and Boolean algebras.
-    - Compute the duality between affine k-varieties and ??? k-algebras.
-    - Compute the duality between affine schemes and commutative rings.
-    - Compute the resulting category from taking affine objects with a Grothendieck topology.
-    - Compute sheaves of sets for elliptic curves, what happens? See page 7.
-    - Compute the category of quasicoherent sheaf of classifying spaces X = */G, G a group scheme using Tannakian reconstruction. What is the importatn structure to remember? See page 7.
-    - Compute the endormorphisms of the structure sheaf in the category of quasicoherent sheaves on a space X. See page 7.
-    - Compute the duality between classifying stacks of affine group schemes using a suitable Grothendieck topology. Describe these Tannakian categories and the conditions for these. 
-    - Compute the dual of symmetric monoidal presentable abelian categories as per Stefanich's thesis. See page 8.
-    - Compute the duality for the category of almost rings in the sense of Faltings. See page 8.
-    - Using Deligne's idea in 1.10, and fix this with allowing non-flat gluing to derive infinity categories of quasicoherent sheaves. Use ? ? ? ? ?-categories to define a categorial version of commutative rings, see pages 9 to 10.
-    - Define Stefanich rings as per definition 1.1.8 using all the ideas discussed.
-    - Compute for M = (M_0, M_1, ...) the deloopings M_1 using M_0 in D(S) and also in the case StRing. Describe Stefanich rings via a slogan of deloopings, see page 13. Then define Gestalten as a result by defining the canonical Grothendieck topology.
-    - Compute using the definition of a (n,m)-category the following things, n-groupoid, n-truncated animas.
-    - Define compactness, kappa-compactness, kappa-presentability and presentability, see page 17.
-    - Consider formal colimits X_i and Y_j in Ind_kappa, Ind_kappa freely adjoints kappa-filtered colimits.
-
-https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf, Scholze's 6 six functor formalisms
-    - Compute a base change isomorphism a Cartesian diagram in a concrete instance in etale cohomology?
-    - What is one possible setting for the category C and finite type maps E? (Hint: p-adic Lie groups)
-    - Compute the right adjoint of the lax symmetric monoidal functor (otimes, ...) in the definition of a 6 functor formalism.
-    - Compute the projection formula in a concrete instance in etale cohmology?
-    - Compute the objects and morphisms in the category of correspondences Corr(C, E)?
-    - Where do the arrows in E below?
-    - Compute for products X x Y and a functor in Corr(C, E)? (Hint: why must we stipulate that it is symmetric monoidal)
-    - Compute the composition of two correspondences.
-    - Compute the right derived functor of the global sections functor, and the result when one applies the coefficient system of the constant sheaf.
-    - Compute the functor required for functorial composition in the derived category of abelian groups, and its corresponding right adjoint.
-    - (Theorem, Proper Base Change) Let f be a proper map from X to Y. Compute the fibre X_y in terms of a fibre product. Compute the inclusions into X and Y. Then, using a special case of the proper base change formula, compute the proper base change of the stalk of f_*A at y using an appropriate isomorphism.
-    - (Theorem, Proper Base Change) Compute the result of the natural isomorphism of g^* f_*.
-    - Compute the natural isomorphism of the right derived functors of a tensor product in the coefficient system Z using a particular formula.
-    - Compute the right adjoint of the derived tensor product.
-    - Compute using the projection formula the natural isomorphism of f^* A tensor B.
-    - Compute, using Poincare duality, the value of the dual of the right derived functors of the global sections functor under the coefficient system Z.
-    - Compute the right adjoint of the pushforward of a proper map of X to Y for the manifold bundle using Verdier duality. Then, perform this computation purely locally.
-    - For X in C a finite dimensional locally compact Hausdorff space, compute the D(X, Z) in terms of Betti cohomology.
-    - Identify the conditions captured by the functor C^op to CMon(Cat_infty).
-    - What is the central difficulty in defining a six functor formalism?
-    - State the objects and morphisms of a simplex category using Scholze's definition.
-    - Compute the equivalent objects of C^2 or the set of two simplicies.
-    - Compute the value or the coproduct of a 1 simplex and a 1 simplex. What is this object naturally embedded in?
-    - Compute the arrow needed for the trivial Kan fibration to work as a definition using the diagram in the definition or a trivial Kan fibration. What is the prototypical example of a trivial Kan fibration?
-    - Define the category mapping any simplicial category D to an infinity category C.
-    - Compute for the homotopy category of a Kan complex C, the condition for any horn to be filled.
-
-https://people.mpim-bonn.mpg.de/scholze/Complex.pdf, Scholze's Complex Geometry
-    - Construct a sheaf O for closed unit disks in the complex numbers of radius r consisting of formal power series with vanishing higher sheaf cohomology groups, construct the commutative diagrams that are compatible with evaluation at points. See page 6 - page 7. Then show that Cauchy's integral formula that allows for computations of Taylor coefficient with a particular exact sequence with good properties of the elliptic operator as well as bump functions to prove that the higher cohomology vanishes.
-    - Construct the Banach space of p-summable real numbers with l+p norm, apply the dense image in condensed R-vecctor spaces and prove that the sequence compactified N -> Q where Q is the quotient of l_2/l_1 admits two distinct extensions to the space of summable functions.
-    - Carve out a hierarchy of maps starting from integer polynomials to arbitrary maps. Compute the following examples. Integer polynomials, complex polynomials, holomorphic functions, smooth functions, diffferentiable functions, continuous maps, arbitrary maps. See page 8.
-    - Consturct a counterexample and show that topological abelian groups do not form an abelian category. What sort of example does this happen for in general? Comnpute the same example under condensed abelian rgoups, what is obtained as a quotient See page 9.
-    - On page 14, carve out a full hierarchy of subcategories on condensed sets using topologies. 
-    - On page 14, construct using the definition of Hausdorff as a closed inclusion, the definition of a quasiseparated condensed set using pairs of maps leading to quasicompactness products.  
-    - On page 13, construct using the free generation of colimits under kappa-small profinite set the cateogry of kappa-small condensed sets. Enforce the sheaf condition using the Yoneda embedding by checking both sheaf conditions.
-    - Work with this argument: discrete implies nuclear and dualizable if and only if nuclear and compact. Also, Solid is a Fredholm analytic ring so dualizables are discrete. Thus any non-discrete nuclear object must be non-compact.
 
 https://webusers.imj-prg.fr/~julien.marche/Ref_GL_GT/Bump.pdf, Bump's automorphic forms.
 
@@ -484,8 +471,6 @@ https://stacks.math.columbia.edu/tag/07RC, Nakayama's lemma
     - Construct the proof of the following statement, if IM = M, M is finite, then there exists a f in 1 + I such that fM = 0. Construct using a list of generators of M over R which is finite, then construct a y_i using linear algebra with coefficients in I, conclude that this sum is 0. Consider f as the determinant of some matrix, and ... check that f annihilates M.
     - (Lemma 10.20.2), compute under localisation the existence of f in S + I such that there are generators for M_f as an R_f module for R a ring, M a finitely R-module, S in R a multiplicative subset, I an ideal. Prove the general case.
     - (Lemma 10.20.3.) Using Nakayama's lemma, construct a local homomorphism of local rings from A -> B, making sense of the following instructions, B is finite as A module, m_B fg ideal, A -> B induces isomorphism of residue field, cotangent space m_A/m_A^2 -> m_B/m_B^2 is surjective, using Nakayama's lemma by viewing it as a map of A-modules using the surjective cotangent map to prove that A -> B is surjective. Describe this result in full and what it means intuitively using the cotangent space.
-
-https://stacks.math.columbia.edu/tag/05K7, meta observation of prime ideals
 
 https://stacks.math.columbia.edu/tag/00FM, Noetherian rings
     - (Lemma 10.31.1.) Noetherian property is stable under finite type extensions and localisation. Construct a finitely generated ring over a Noetherian ring. Construct its localisation and consider ideals over its localisation. Construct ascending chain of ideals in a finitely generated ring over a Noetherian ring. Compute using the ascending cahin condition in a particular lattice and induction on the degree to prove the Noetherian property. Reduce the case of localisations to R[X].
@@ -2085,7 +2070,7 @@ https://www.ams.org/notices/201107/rtx110700955p.pdf, derived stacks in 2 pages.
     - NOT COMPLETE, at Derived Intersections
 
 https://www.ams.org/notices/200307/what-is.pdf, what is Dessins in 2 pages,
-    - Compute the ordering gien at each vertex of a dessin.
+    - Compute the ordering given at each vertex of a dessin.
     - Compute the canonical hoeomorphism or a projective 1 line to a Riemann sphere.
     - Compute the inverse image associated with the black nodes, white nodes, and the edges.
     - Compute what arises from the cyclic order around the vertices. With this, compute this as an embedding.
@@ -2165,3 +2150,48 @@ https://www.math.wustl.edu/~matkerr/sl2notes.pdf, SL_2(R) notes in 36 pages
 https://arxiv.org/pdf/2205.14578, geometric Langlands notes in 83 pages
 
 https://www.jmilne.org/math/xnotes/tc2022.pdf, Tannakian categories in 78 pages
+
+https://www.benasque.org/2015numbers/slides/BrunoJoyal.pdf, p-adic Hodge theory and Block-Kato theory in 42 slides.
+    - (Slide 3) Compute the rings of periods D_B(V) for action G_K, periods B, and l-adic representations V of p-adic field K/Q_p. (Hint: tensor product.)
+    - (Slide 4) Compute Frac(B)^G_K for a good ring of periods, where G_K is the Galois group of a p-adic field.
+    - (Slide 4) Compute for ab = 0 in a ring of periods B/Q_p, what should a or b be? (Hint: I assumed domain means integral domain in the slides)
+    - (Slide 4) Compute the kernel of the natural map to B otimes_Q_p V.
+    - (Slide 4) Compute an inequality for dim_B^G_K (D_B(V)) compared to dim_Q_p(V). Compute for the case where V is B-admissable.
+    - (Slide 5) Compute, for the category of B-admissable representations, whether the following are still in the category, subquotients, sums, extensions, tensor products and duals.
+    - (Slide 7) Fontaine's construction of a field of periods. Compute the underlying ring associated with a field of periods. Compute the residue field of this ring. Compute the maximal ideal associated with the ring and its generator. (Hint: it is an analogue of the generator 2 pi i), what dependence does it have.
+    - (Slide 7) Compute the action of G_Q_p on the generator t for the underlying ring.
+    - (Slide 7) Compute the descending filtration associated with B_dR.
+    - (Slide 6) Compute the inclusion of the completion Q_p^compl into a suitable ring.
+    - (Slide 6) Compute that Q_p^compl is dense in B_dR in a suitable topology and use a suitable theorem. Hence compute (B_dR)^G_K in terms of K.
+    - (Slide 7) Compute the isomorphism to B_dR otimes Q_p V for a B_dR-admissable representation. (Hint: take D_dR(V)).
+    - (Slide 7) Compute the dimension of dim_K D_dR(V) in terms of dim_Q_p(V) for a de Rham representation.
+    - (Slide 7) Compute, foir X/K a smooth proper variety, V = H^i_et(X_Q^bar_p, Q_p), so that V is a p-adic representation of G_K, compute D_dR(V) in terms of the de Rham cohomology i.e. the de Rham representation of V. (Hint: H^i_dR(X/K))
+    - (Slide 7) What is the filtration associated with H^i_dR(X/K).
+    - (Slide 8) Compute the decomposition of the graded ring B_HT associated with the filtered ring B_DR in terms of the grade pieces, using a fact about the prime ideals of the Hodge filtration (hint: what is m^j/m^j+1 equal to).
+    - (Slide 8) Compute D_HT(V) for a V being Hodge-Tate as a grade vector space.
+    - (Slide 8) Compute D_HT(V) for a V being de Rham.
+    - Compute the Hodge-Tate weight for D_HT(V)_-j nonzero.
+    - (Slide 8) What condition is needed for V to get Fil^-j D_dR(V) to not be equal to Fil^-j+1 D_dR(V)
+
+https://ymsc.tsinghua.edu.cn/__local/7/B5/04/0890A5CE2893D5380292FD983CD_99A1AD7E_31656.pdf, pedagogical introduction to p-adic Hodge theory 
+    - (Page 1) Compute the Hodge decomposition of singular cohomology for X a projective smooth variety over C.
+    - (Page 1) Compute the representatives of each n-th de Rham cohomology class.
+    - (Page 1) Compute the decomposition of the representatives of each n-th de Rham cohomology class.
+    - (Page 1) Compute the image of the canonical isomorphism of the pieces in the decomposition of the representatives of each n-th de Rham cohomology class.
+    - (Page 2) Compute the discrete valuation ring corresponding to the non-archmiedean norm on Q_p.
+    - (Page 2) Compute the image of the valuation map v_p from Z_p.
+    - (Page 2) Compute the image of the valuation map p^n u from Z_p.
+    - (Page 2) Compute the image of the valuation map p^n u from 0.
+    - (Page 2) Compute the discrete valuation field of Q_p using an inversion.
+    - (Page 2) Compute the algebraic clsoure of R and the degree of the extension.
+    - (Page 2) Compute the algebraic closure of Q_p.
+    - (Page 2) Comptue the image of Z_p bar and elements x under the extended valuation map (Hint: it is quite complicated).
+    - (Page 2) Compute the profinite completion of Z_p^bar as a polynomial of powers.
+    - (Page 2) Compute C_p using the profinite copmpletion of Z_p. Which lemma is used to show that it is a complete algebraically closed valuation field?
+    - (Page 2) Compute the transcendental degree a over Q for C and C_p, and hence compute them as algebraic closure of the purely transcendal extension. Compute them to be field isomorphic.
+    - (Page 2) Compute the isomorphism of singular cohomology for X a smooth projective variety over C_p, for the singular cohomology H^n_sing(X_C, C)
+    - (Page 2) Compute the etale cohomology using a tensor product to define H_et^n(X, C_p) (hint: take base change of C_p and direct limit forming l-adic cohomology)
+    - (Page 2) Compute the Hodge decomposition of H_et^n(X, C_p) by first passing through the Artin's comparison theorem.
+    - (Page 3) Compute, for a compatible system of primitive p^n-roots of unity, i.e. lambda^p_{p^n + 1}.
+    - (Page 3) Compute a totally ramified extension of Q_p and its valuation ring. Using this expression, compute an example of its uniformiser and its valuation.
+    - (Page 3) Let K be a complete discrete valuation field extension of Q_p, K_\infty a totally ramified Z_p extension of K, let K_n bethe subfield of K_\infty corresponding to the closed subgroup p^n Z_p of Gal(K_\infty / K) = Z_p for any n in N.
