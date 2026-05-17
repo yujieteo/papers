@@ -91,10 +91,37 @@ http://web.archive.org/web/20190513153411/http://www.math.uni-bonn.de/people/ja/
     - (Page 8) Consider a family of elliptic curves, y^2 = x^3 + x^2 + t and vary t over a field of characteristic not equal to 2. Compute for the case of t = 0. Hence show that this family of curves to not be smooth. Compute the flatness of this family of curves.
     - (Page 9) Compute what family does a proper flat map gives you.
     - (Page 9) Compute what family does a proper smooth map over C gives you? (Hint: some sort of MANIFOLD)
+    - (Page 10) Compute for phi: A -> B an A-map of rings compute what happens to an exact sequence if you tensor with B if phi is a flat map of rings.
+    - (Page 10) Compute for a faithfully flat map A -> B, the cardinality of the fibre for the underlying map of sets for the induced morphisms of schemes from Spec B to Spec A.
+    - (Page 10) Compute the tensor product on an exact sequence with - otimes_A A[1/S], is exactness preserved?
+    - (Page 10) Compute the tensor product on an exact sequence with - otimes B, where B is a filtered colimit of modules, is exactness preserved? Also, work out the localisation A[1/S] as a filtered colimit for each s in the multiplicative set S, a filtered colimit A[1/s]. Then, show that the tensor product on an exact sequence with - otimes_A A[1/S], is exactness preserved?
+    - (Page 10) Compute that A[1/f] as a colimit of a diagram with all the maps are multiplications by f.
+    - (Page 10) Using Lazard's result, compute a filtered colimit of (what conditions?) A-modules, colim A, then take tensor products with - otimes_A colim A, on an exact sequence, is exactness preserved?
+    - (Page 10) Compute the completion of a noetherian ring with ideal I in the Noetherian ring in terms of a limit. 
+    - (Page 10) Compute for M otimes invlim A/I^n as a map onto invlim A/I^n, what does one get when M is a finitely generated A-module. Compute for M a flat A-module using what fact about all ideals. Hence, compute the kernel of the induced map of any ideal I in M, I otimes_A M -> M. Once looking at the kernel, pick M to be a suitable value, then compute the kernel of the map from the induced ideal to this suitable value, and hence conclude that completions of finitely generated A-modules are exact.
+    - (Page 10) Let A be Spec A be open cover of principal opens D(f_i) (compute this as some colimit). Then consider the map from A to the product of all A[f_i^-1]. Check that tensoring with - otimes_A A[f_i^-1] of an exact sequence, is it exact? How does one think about this? Indeed, write this as a direct sum A[f_i^-1], and hence that the induced map from Spec A[f_i^-1] to Spec A is faithfully flat using facts about covers? (Hint: D(f_i) form covers, so surjective i.e. flat)
+    - (Page 11) Compute the exact sequence one gets by tensoring with M otimes_A B on another sequence using conditions on a suitable map. (Hint: you need M to be flat as a A-module, phi: A -> B is a faithfully flat). This is known as flat descent. Compute for the case of M[f_i^-1] being flat as a A[f_i^-1] module. Indeed, by flat descent, and using the fact that finite direct sums are isomorphic to finite direct products, one can compute this to be a flat module. And since the map from Spec A[f_i^-1] surjects onto Spec A, we have that this map is a faithfully flat map of rings.
+    - (Page 19) Compute the ideal sheaf as a kernel I of a closed immersion S_0 -> S of schemes a first order thickening of S_0. (Hint: take the kernel of the map from O_s -> iO_S0 for the structure sheaf of rings).
+    - (Page 19) Compute for a n-th order thickening, the valeu of I^{n+1}.
+    - (Page 19) Compute the exact sequence corresponding to the ideal sheaf as a kernel. (Hint: exact sequence is 0 -> I -> O_X' -> i_*O_X -> 0).
+    - (Page 19) Using the idea that formal smoothness meaning that there is no obstruction to extending maps to first order thickenings, draw a commutative diagram for a morphism of schemes to be formally smooth. Start by considering the map of closed immersion T_0 to T of a closed immersion. Define the ideal sheaf on this and compute the conditions of this ideal sheaf as a kernel. Now, compute a morphism from the image of the closed immersion T into X, u. Amend this condition for u if we have the case of formally etale. Amend this condition for u if we have formally unramified.
+    - (Page 19) Define formally etale using a suitable lift from an image of a nilpotent thickening.
+    - (Page 19) Define formally unramified using a suitable lift from the image of a nilpotent thickening as a closed immersion.
+    - (Page 19) Compute the definition of formal etale using other adjectives.
+    - (Page 19) Compute the underlying topological spaces for a first order thickening X into T an, then pick a map from X -> S to be an open immersion, have the image of T to S factor over X iff f(|T|) in |X|.
+    - (Page 19) Compute that thickenings are affine by using the fact that affines are closed immersions, then take compositions of closed immersions are also closed immersions, and thenc omputing the corresponding ideal sheaf. (Hint: the closed immersion has a quasi-coherent ideal sheaf, with n-th power zero for the canonical composition.)
+    - (Page 30) Compute Spec as a contravariant functor from the category of rings to another suitable category of spaces (hint: locally ringed spaces), now what conditions is it needed to form a category of affine schemes? (Hint: morphisms of locally ringed spaces to be fully faithful on its image).
+    - (Page 30) Compute the inverse of the Spec functor.
+    - (Page 30) Compute for U = Spec A and V = Spec B, a map of rings that induces isomorphisms on spectra. (Hint: A[1/f] and B[1/g]), then form a scheme along this induced map.
+    - (Page 30) Compute for U = Spec A and V = Spec B, a map of rings that induces isomorphisms on spectra. (Hint: A[1/f] and B[1/g]), then form a scheme along this induced map. Compute for A = C[T] and B = C[S], then compute this induced maps, then cmpute what U and V should be. Compute the set of closed points in U and V. Glue U and V together to form X (what is X?). Then compute the set of closed points of X after endowing X with the analytic topology. What Riemann surface is it isomorphic to?
     - (Page 40) Compute the first sheaf cohomology group with coefficient system G a sheaf of abelian group. (Hint: torsors).
     - (Page 40) Compute for X an affine schemes, and G = M is a quasicoherent sheaf (recall the construction as an inverse limit of arbitrary opens when considering M[1/f] principal opens), compute the first sheaf cohomology.
     - (Page 40) Compute the first sheaf cohomology of a quasicoherent sheaf of O_X-modules for a scheme X, H^1 as extensions. (Hint: Ext is derived sheaf cohomology, set of extensions of M and O_X modulo isomorphisms). Hence, using this computation, take an equivalence of categories of extensions of M and O_X as O-modules to a particular category. (Hint: use an exact sequence 0 -> M -> Mtilde -> O_X -> 0).
-    - (Page 81) Compute the spectral sequence E^p,q_2 in terms of a tor that implies H^{p+1}(X', g'* M).
+    - (Page 58) Compute the image of the canonical isomorphism for a projective scheme X over the field k. (Hint: (**) subscheme of...)
+    - (Page 73) Compute x (1/x) for x in K\{0}, and A a valaution ring of K. Is this computation possible?
+    - (Page 73) Compute the set builder notation for A given a valuation v: K -> ??? (what is this image), and A to be a valuation ring.
+    - (Page 73) Compute for A a valuation ring the value of A in terms of B where A in B in K, and A -> B is a injective local map.
+    - (Page 81) Compute the spectral sequence E^p,q_2 in terms of a Tor that implies H^{p+1}(X', g'* M).
     - (Page 83) Write down an exact seqeunce involving k algebraically closed, K a function field of X, and the divisor group of X as a free abelian group on the closed points of X and the Picard group of X. (Hint: -> k* -> K*, Div(X) -> Pic(X) -> 0, noting that the Picard group represents the failure in unique factorisation).
 
 https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf, prismatic F-gauges, in 151 pages
@@ -119,7 +146,6 @@ https://math.stanford.edu/~conrad/Perfseminar/refs/padiccompare.pdf, p-adic Hodg
     - (Page 2, Theorem 1.1) Compute for K a completely algebraically closed extension of Q_p, X/K be a proper smooth rigid-analytic variety, L a constructible F_p local system of etale site X_et, then compute the p-adic etale cohomology of X_et with coefficients in the local system. When does this vanish?
     - (Page 3, Theorem 1.2.) Compute the domain of the natural isomorphism for p-adic etale cohomology with coefficients in a constructible L local system using the following ingredients, X a connected affinoid rigid analytic variety over K a completely algebraically closed extension of Q_p. (Hint: you need to set a base point, and you need to work with a profinite etale fundamental group).
 
-
 https://arxiv.org/pdf/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
     - (Page 1) Compute [n]_q as q-analogue (hint: sum of geoemtric series)
     - (Page 1) Compute the q-factorial as an analogue.
@@ -133,7 +159,7 @@ https://arxiv.org/pdf/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, 
     - (Page 2) Compute the interpolation between de Rham cohomology and singular cohomology, what are the conditions required for this interpolation. Hint: this reflects p-adic Hodge theory.
     - (Page 2) Comnpute the comparison of how much torsion in de Rham cohomology is in comparison to singular cohomology.
     - (Page 3) Let R be a smooth F_p-algebra, compute the functorial de Rham Witt complex by fixing an etale map (Hint: F_p[T_i,...T_d] -> R) then find a unique deformation of R to an etale map.
-    - (Page 3) Compute first the p-adic completion of a smooth Z_p-algebr R' (hint it is an inverse limit of...), then as a result compute W Omega_R/F^p in the derived category by the p-adic completed de Rham complex R'/Z_p (it is also an inverse limit). 
+    - (Page 3) Compute first the p-adic completion of a smooth Z_p-algebra R' (hint it is an inverse limit of...), then as a result compute W Omega_R/F^p in the derived category by the p-adic completed de Rham complex R'/Z_p (it is also an inverse limit). 
     - (Page 3) Compute q-de Rham cohomology by replacing something in crystalline cohomology.
     - (Page 3) Compute the deformation in q-de Rham cohomology, again by considering the crystalline case.
     - (Page 3) How can one prove these conjectures using base change from Z[[q-1]] after Bhatt, Morrow, Scholze?
