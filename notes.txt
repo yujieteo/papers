@@ -1634,7 +1634,7 @@ https://math.uchicago.edu/~may/REU2016/REUPapers/Banerjee.pdf  Adams-Atiyah solu
 
 http://van-der-geer.nl/~gerard/ff.pdf  survey of counting curves over finite fields.
 
-https://people.mpim-bonn.mpg.de/scholze/DeformationSpaces.pdf  Weil groups to be fixxed on bad reduction using deformation spaces.
+https://people.mpim-bonn.mpg.de/scholze/DeformationSpaces.pdf  Weil groups to be fixed on bad reduction using deformation spaces.
 
 https://www.math.uni-bonn.de/people/schwein/documents/rutgers21.pdf  Galois group should be replaced by a variant called the Weil group as a result of the Langland's program.  Artin reciprocity that most texts give is not quite the right statement and the Weil group fixes this issue. This is the main upshot of class field theory. The Weil groups of global fields are literally only accessible through cohomological machinery and they are the starting point for Langlands.
 
@@ -3791,7 +3791,7 @@ https://arxiv.org/pdf/1507.08735, combinatorial calculation of Landau-Ginzberg m
 
 https://scispace.com/pdf/microlocal-sheaves-and-mirror-symmetry-itf1xmoqwj.pdf  introduction to Homological Mirror Symmetry, starting from page 8.
 
-https://arxiv.org/pdf/1712.03708, Scholze's p-adic geometry on GL_2 Langlands, probably the shortest introduction but the one that requires the most.
+https://arxiv.org/pdf/1712.03708, Scholze's p-adic geometry on GL_2 Langlands, probably the shortest introduction.
 
 https://arxiv.org/pdf/2409.04677, 400 page introduction to relative Langlands, arithmetic analogue of electric magnetic duality of boundary conditions of Yang-Mills. Recommend to read introduction only. This is ridiculously long.
 
@@ -4291,7 +4291,7 @@ https://ivanfesenko.org/wp-content/uploads/2021/11/232.pdf, class field theory a
 
 https://kconrad.math.uconn.edu/blurbs/gradnumthy/cfthistory.pdf, history of class field theory
 
-https://arxiv.org/pdf/1010.1540, Scholze's proof of local Langlands for GL_n, note that global is still not done, this was an insane paper.
+https://arxiv.org/pdf/1010.1540, Scholze's proof of local Langlands for GL_n.
 
 https://web.ma.utexas.edu/users/gdavtor/notes/4manifolds.pdf  4 manifold topology
 
