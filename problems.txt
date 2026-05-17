@@ -100,7 +100,7 @@ http://web.archive.org/web/20190513153411/http://www.math.uni-bonn.de/people/ja/
 https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf, prismatic F-gauges, in 151 pages
     - (Page 11) Review: take tensor products over a ring R of the image of the induced map of rings on every stalk a smooth morphism of schemes. Is the tensor product preserved?
     - (Page 11) Check based on the definition of a smooth morphism, a smooth morphism gives a family of nonsingular varieties. (Hint: locally of finite presentation, flat, and for every geometric point, the fiber is regular)
-    - (Page 11) Compute the Hodge complex X/S using the algebraic de Rham complex of X/S using a suitable map. Show that it admits a direct sum decomposition. (Hint: it admits a complex starting from an sheaf of rings O_X to Omega^1_X/S and so forth as a complex.)
+    - (Page 11) Compute the Hodge complex X/S using the algebraic de Rham complex of X/S using a suitable map. Show that it admits a direct sum decomposition. (Hint: it admits a complex starting from an sheaf of rings O_X to Omega^1_X/S and so forth as a complex. See also Scholze's notes on prismatic cohomology in one of this papers for the definitions.)
     - (Page 12) Compute the singular cohomology for the case of a torus in Example 2.1.3 or G_m in Example 2.1.3. using this machinery. Step 1 is to find a suitable map in d, step 2 is to find a suitable Hodge decomposition of scuh a map, step 3 is to compute for i = 0 index wise.
     - (Page 12) Compute for an induced pairing Poincare duality in point 3 of page 12.
     - (Page 13) Compute the conjugate filtration for S = Spec(F_p) and X = G_m in example 1.9. Compare this with the computation doen for C, see example 2.1.6.
@@ -115,7 +115,10 @@ https://www.math.uni-bonn.de/people/scholze/CDM.pdf, Scholze's perfectoid spaces
 
 https://www.math.uni-bonn.de/people/scholze/ICM.pdf, Scholze's perfectoid spaces survey in 31 pages
 
-https://math.stanford.edu/~conrad/Perfseminar/refs/padiccompare.pdf, p-acid Hodge theory for rigid analytic varieties in 77 pages
+https://math.stanford.edu/~conrad/Perfseminar/refs/padiccompare.pdf, p-adic Hodge theory for rigid analytic varieties in 77 pages
+    - (Page 2, Theorem 1.1) Compute for K a completely algebraically closed extension of Q_p, X/K be a proper smooth rigid-analytic variety, L a constructible F_p local system of etale site X_et, then compute the p-adic etale cohomology of X_et with coefficients in the local system. When does this vanish?
+    - (Page 3, Theorem 1.2.) Compute the domain of the natural isomorphism for p-adic etale cohomology with coefficients in a constructible L local system using the following ingredients, X a connected affinoid rigid analytic variety over K a completely algebraically closed extension of Q_p. (Hint: you need to set a base point, and you need to work with a profinite etale fundamental group).
+
 
 https://arxiv.org/pdf/1606.01796, Scholze's q-analogues in 18 pages, MUST READ, note that Milne's notes on motives are worth reading as refresher.
     - (Page 1) Compute [n]_q as q-analogue (hint: sum of geoemtric series)
@@ -360,6 +363,8 @@ https://bonndoc.ulb.uni-bonn.de/xmlui/bitstream/handle/20.500.11811/10125/6739.p
 https://arxiv.org/pdf/2010.01906, 346 pages, stack of local systems of geometric Langlands theory
 
 https://janschuetz.perso.math.cnrs.fr/skripte/lecture_notes_arithlang.pdf, notes on Arithmetic Langlands in 103 pages. Anschutz.
+
+https://rezk.web.illinois.edu/sag-chapter-web.pdf, Rezk's spectral algebraic geometry.
 
 https://www.jmilne.org/math/CourseNotes/GT.pdf, group theory
     - Compute the group from automorphisms of symmetric forms versus skew-symmetric forms. What happens if there you use a Lie bracket instead? Compute its basis. 
