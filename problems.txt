@@ -1,6 +1,6 @@
 https://www.preschema.com/papers/stacksncts.pdf, Adeel Khan's stacks, in 76 pages
     - (Page 2) Imagine the moduli space of 1-dim linear subspaces in C^{n+1}. What is this object? (Hint: think about parallel lines)
-    - (Page 2) Imagine the moduli space of k-dimensional linear subspaces of vector space and show that it is equivalently the k-1 linear subspaces of the projectivization of the vector space. What is this object?
+    - (Page 2) Imagine the moduli space of k-dimensional linear subspaces of vector space and show that it is equivalently the (k-1) linear subspaces of the projectivization of the vector space. What is this object?
     - (Page 2) Imagine a family or fibration of sets parametrized by commutative algebras. What is this object? What happens if you imagine a fibration of groupoids parameterized by a suitable commutative algebra instead? See page 4.
     - (Page 2) Compute the moduli space of vector bundles on an algebraic variety X. Compute the moduli space of principal G-bundles on X.
     - (Page 2) Compute the moduli space of coherent sheaves on an algebraic variety by removing an equivalence relation.
@@ -51,7 +51,7 @@ https://www.preschema.com/papers/stacksncts.pdf, Adeel Khan's stacks, in 76 page
     - (Example 4.1.4.) Compute using a single boject and the endomorphism group of that isngle object iwht a composition law defined by the multiplication law. Compute a simplicial diagram from multifold products of the group to the point. What simplicial maps are induced by group multiplication? What about degeneracy maps? What is this object?
     - Compute the iterated fibred products of a category for a morphism U to X in that category, compute or draw the simplicial diagram defining a Cech nerve. Compute its colimit of a simplicial diagram, this is defined as a geometric localisation. Define an effective epimorphism using this data, if all iterated fibred products exist and the augmented simplicial diagram is a colimit diagram i.e. it exhibits X as the geometric realisation as a Ceck nervbe.  Hence, state Lurie's theorem on a canonical morphism being an epimorphism and  define an assignment of U_* to U_0 ->> |U_*|. What equivalence of categories is this? See Theorem 4.1.9.
     - Construct an example of a group object in Shv(Sch; Set) or Shv(Stk_infty, Set), what is this object determined by?
-    - (Definition 4.2.3.) Construct a Cartesian square from a morphism of simplicial diagrams U_* -> G_* for every morphism [m] -> [n] in a simplicial category to form an action of G_* on an object U as a groupoid object U_*. Alternatively, compute this for every [n] using another cartesian sqaure. Compute the simplicial diagram as a groupoid object of some simplicail diagram of the form with face maps d^1 and the projection to be of a cartesian square of some form. What data is required to determine an action isomorphism G x U -> U satisfyin the analogues of a group action up to coherent homotopy? Then, define a commutative square where an action is trivial using this. See notation 4.2.5 and definition 4.2.6.
+    - (Definition 4.2.3.) Construct a Cartesian square from a morphism of simplicial diagrams U_* -> G_* for every morphism [m] -> [n] in a simplicial category to form an action of G_* on an object U as a groupoid object U_*. Alternatively, compute this for every [n] using another cartesian sqaure. Compute the simplicial diagram as a groupoid object of some simplicail diagram of the form with face maps d^1 and the projection to be of a cartesian square of some form. What data is required to determine an action isomorphism G x U -> U satisfying the analogues of a group action up to coherent homotopy? Then, define a commutative square where an action is trivial using this. See notation 4.2.5 and definition 4.2.6.
 
 https://www.math.uni-bonn.de/people/ja/alggeoI/notes.pdf  Scholze's algebraic geometry notes
     - (Page 4) Fix an algebraically closed field, write in set index notation for a subset of an affine algebraic set.
@@ -2469,7 +2469,7 @@ https://arxiv.org/pdf/2205.14578, geometric Langlands notes in 83 pages
 
 https://www.jmilne.org/math/xnotes/tc2022.pdf, Tannakian categories in 78 pages
 
-https://www.benasque.org/2015numbers/slides/BrunoJoyal.pdf, p-adic Hodge theory and Block-Kato theory in 42 slides.
+https://www.benasque.org/2015numbers/slides/BrunoJoyal.pdf, p-adic Hodge theory and Bloch-Kato theory in 42 slides.
     - (Slide 3) Compute the rings of periods D_B(V) for action G_K, periods B, and l-adic representations V of p-adic field K/Q_p. (Hint: tensor product.)
     - (Slide 4) Compute Frac(B)^G_K for a good ring of periods, where G_K is the Galois group of a p-adic field.
     - (Slide 4) Compute for ab = 0 in a ring of periods B/Q_p, what should a or b be? (Hint: I assumed domain means integral domain in the slides)
