@@ -1,0 +1,61 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{enumerate}
+\usepackage{geometry}
+\usepackage{newtxtext}
+\usepackage{newtxmath}
+
+\newtheorem{definition}{Definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{example}{Example}
+
+\geometry{margin=1in}
+
+\title{Sheaf Theory 1}
+\author{-}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+Sheaf theory is a very conceptual idea that was first invented by Leray when he was working on the topology of fibre bundles which I am not sure about. It was then developed by Cartan, Serre, and Grothendieck to be a central part of modern algerbaic geometry, or in places where the local to global principle is highly emphasised.
+
+There are lots and lots of expositions of sheaves. But I would like to emphasise the topological perspective that Serre gives in a translation by Piotr Achinger. All mistakes my own, and no fault of the translator.
+
+\begin{definition}[Serre's definition of a sheaf]
+    Consider a topological space. One can endow a sheaf of abelian groups (note that, we can change this data to that of anything that has the characteristics of an abelian category)
+
+    This sheaf contains the following data, functions that take from each element to its STALK.
+
+    There is also a topology on the sum of sets (we can fix this) of STALK.
+
+    One can take equivalence classes of local sections, or germs. These are elements of a stalk. Then, it is the part of the data of the sheaf such that one can take projections of the stalk onto the topological space. The family of products of stalks consists of pairs such that projections are equal is denoted as the sum of stalks.
+
+    Lastly, there are the axioms of the data.
+    
+    Firstly, one can look at open neighbourhoods associated with germs, and the projection of germs. This projection is a homeomorphism of open neighbourhoods.
+
+    Secondly, the map taking negatives of sections are continuous maps of stalks. The map taking sums of sections to its sum in a single stalk is also a continuous map of stalks. This axiom turns this into a group.
+\end{definition}
+
+The following points seem to be essential. Onewants some form of projection so that there is a restriction map. One wants some form of abelian group structure on the stalk with some addition. Therefore, if you want to generalise sheaves you may want to weaken this. If you think the idea of groups are not natural, then you can try to weaken this to be a monoid, set. Or you may try to strengthen this to be a groupoid.
+
+There are also questions of this being a topological space. The condensed formalism developed by Scholze and Clausen is one way to try and avoid the problems of topological spaces not being good enough as a category, particularly topological spaces do not form an abelian category.
+
+The classical example is the case of a constant sheaf. Which we will give as an example here.
+
+\begin{example}
+    Consider an abelian group. Set local stalks to be this abelian group for all points in a topological space. Then the set of all stalks can be identified byt he product of the topological space with the abelian group in some weird way. Equip it with the product topology on the topological space and the discrete topology on the abelian group, one obtains the sheaf, this is the constant sheaf "isomorphic" to the abelian group in question.
+\end{example}
+
+Using Serre's definition, there is one more point about how stalks work. These appear as some sort of exercise but I will describe it in full here.
+
+\begin{theorem}
+    Consider for all equivalence classes of local sections (germs) of a stalk at a point, there exists a section over a open neighbourhood of that point such that the section over the point IS this germ. The two sections with this proeprty coincide on an open neighboruhood of the point. In other words, the stalk are FILTERED colimit of all the open neighbourhoods running all open neighbourhoods of the point.
+\end{theorem}
+
+
+\end{document}  
