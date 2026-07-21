@@ -6,6 +6,21 @@ https://sci-hub.sg/10.1016/0196-6774(85)90037-9
     - (Page 1) Give a formula for defining the cache. 
     - (Page 2) Define a fault given the above.
 
+https://www.youtube.com/watch?v=OhjkL5-a9lw, transferring information to your brain.
+	- Why is it not the point to not transfer information into the brain?
+	- What is the job of the reader? (Hint: recreate the same mental images or internal model in your brain)
+	- Why is it important to read the preface?
+	- Why should these constructions be true?
+	- If it is false? Why? How would I try to prove this? What tools seem relevant?
+	- Good authors, your own mental images versus the author's mental images.
+	- Being stuck is the mechanism of learning. Why?
+	- Confusion is the process of trying to build your understanding. When you are stuck, it means you are trying to construct a new mental model.
+	- Not all struggle is equal.
+	- Healthy struggle looks like drawing pictures, specific examples, make conjectures, simplifying cases. Failing repeatedly but having new ideas. Unhealthy struggle is rereading new paragraph.
+	- Curiosity with discipline. Genuine question.
+	- Patience and mental strength. Uncertainty is not evidence. Treat it as unavoidable part.
+	- Closing the book and try to reconstruct it yourself.
+
 Pluvium's Workshop on colours transitions:
 	(1) What is the difference between absolute colour and relative colour? (Hint: most important! It is relative to what is it next to? Colorimeter concept. No use commenting on the pretty colours.)
 	(2) Why does one avoid colour symbols? (Hint: cartoon colours, you will fail at the transition colours)
@@ -13,7 +28,7 @@ Pluvium's Workshop on colours transitions:
 	(4) What can you do when you think about having a yellow light source? (Hint: you will get a light source colour to blend for the highlights) 
 	(5) What happens when you use blend modes with a yellow light source? (Hint: learn how to do blend mode)
 	(6) Compare and contrast blend mode and colour modes?
-	(7) What are analogous colours? (Hint: the colours adjacent)
+	(7) What are analogous colours? (Hint: the colours adjacent on a colour wheel)
 	(8) Why does one think of colours as black and white? (Choose how hard the transitions should be?)
 	(9) Why does the one want a high contrast on the iris for glowing eyes? (Hint: glowing eyes, so sharp transition)
 	(10) How to exaggerate the colours of a painting? (Hint: use more grey, and think about relative colours? Try to target under 25% and use the full colour range.)
