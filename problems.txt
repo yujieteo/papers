@@ -2206,6 +2206,10 @@ https://www.jmilne.org/math/xnotes/MOT.pdf, motives in 15 pages summary by Milne
     - (Page 3) Compute the dimension of the first cohomology group H^1(X(C), End(E)) as a End(E) otimes Q vector space.
     - (Page 3) Compute for char p nonzero, End(E) otimes Q has a division algebra, its degree. The smallest Q-vector space such a division algebra can act on is of which dimension? Hence compute that there is no Q-vector space H^1(E,Q) such that H^1(E, Q_l) isomorphic to H^1(E,Q) otimes_Q Q_l.
 
+Davenport - Multiplicative Number Theory
+    - (Page 2) How did Euler prove the infinitude of primes through an inequality with power series?
+    - (Page 2) What is the natural extension of Euler's proof to L-functions by Dirichlet?
+
 https://math.jhu.edu/~jmb/note/torext.pdf, Tor and Ext group computations:  
     - (Page 1) Compute using symmetry G otimes h
     - (Page 1) Hence check for the universal bilinear pairing, compute f(ng,h) in terms of f(g,h). Use the symmetry of the tensor product.
