@@ -1936,8 +1936,34 @@ https://people.brandeis.edu/~igusa/Math131b2021/A-SlidesComplete.pdf, homologica
     - (Page 39) Compute the hom group associated with Ext^i_R(A,B), compute the cohomology of this hom group and lastly compute Ext as right derived functors. Note that B -> E_* is a projective resolution.
 
 https://www.andrew.cmu.edu/user/avigad/Talks/fields_hott.pdf, Homotopy Type Theory summary in 39 slides
+    - (Slide 2) What are treated as primatives? (Hint: spaces, continuous dependences and paths. Topological notions are primitives)
+    - (Slide 3) What are the basics in any branch of logic? (Syntax and semantics, so there are variations and extensions of dependent type theory, semantics are algebaraic and topological interpretations)
+    - (Slide 4) What are the main ideas? (Hint: types as spaces, terms as continuous dependencies, identities as paths, elimination as transport, proofs as constructions, sets are 0-truncated types, higher inductive types and univalence.)
+    - (Slide 6) What does it mean for computation to be topological? (Hint: computable functions are continuous, topological models of intuitionistic logic and lambda calculus)
+    - (Slide 7) What are the interpretations of dependent type theory? Types are abstract spaces up to?
+    - (Slide 8) What are the basic constructions of Martin-Lof type theory? (Hint: Pi, Sigma, Id)
+    - (Slide 9) What is the Awodey-Warren theorem? Why is it true? What do you imagine? (Hint: Imagine Martin-Lof type theory as a Quillen model category with weak equivalences, fibrations and cofibrations)
+    - (Slide 10) What is Voevodsky's theorem in terms of Martin-Lof type theory? (Hint: use Kan simplicial sets.)
+    - (Slide 11) Exalain what implication is, predicates are and universal quantifiers are in topology? (Hint: mapping space, fibrations, and dependent products)
+    - (Slide 12) Explain why type dependences are fibrations? What is the mental image? (Hint: staircase valued by an integer i.e. R/Z i.e. harmonic analysis of finite abelian groups then B as fibration over A, if B(x) depends on x.
+    - (Slide 13) How do paths form an equivalence relation?
+    - (Slide 24) Imagine the case of paths between paths. Every proof is a construction, so paths between paths can be seen as an implication arrow somehow.
+    - (Slide 26) Define contractibility, propositions, sets, 1-type and n+1 type using the classification of all types via homotopical dimension? (Hint: Contractible if Sigma Pi Id, proposition if Contr(Id)...
+    - (Slide 28) How does one capture recurison using an elimination rule.
+    - (Slide 28) How does one capture the natural numbers as an ordinary inductive type? Imagine. (Hint: use a successor function).
+    - (Slide 29) How does one produce a higher inductive type using the construction of the natural numbers, and its elimination rule? What others are there? (Hint: higher spheres, tori, cell complexes, suspensions, mapping cylinders, pushouts, higher homotopy groups, Eilenberg-Maclane spaces, Postnikov systems, Quillen models, free algebras.)
+    - (Slide 34) Compute A weakly equivalent to B using the univalence axiom to be weakly equivalent to what as a statement?
+    - (Slide 35) What was Voevodsky's theorem on the univalence axiomn in the category of Kan simplicial sets?
 
 https://www.andrew.cmu.edu/user/avigad/Talks/survey1.pdf, subsystems of second order arithmetic in 29 slides
+    - (Slide 2) What is valid in classical mathematics? (Hint: law of excluded middle, proof by contradiction)
+    - (Slide 3) What is Hilbert's program and how did it come up with this? What was the counterexample? (Hint: cannot prove its own consistency?)
+    - (Slide 4) Describe how did Hilbert come up with the modified program and explain how did Kreisel come up with his program?
+    - (Slide 5) Compute statements in first order arithmetic using all the symbols.
+    - (Slide 5) Distinguish between first order and second order arithmetic as well as the symbols used?
+    - (Slide 6) Explain what is Peano aritmetic, and how did Peano come up with the additional axiom?
+    - (Slide 7) Explain what is ACA and what induction axiomn and what comprehension axiom is used? (hint: induction of Y and all X (x in Y implies Sx in Y) implies for all x, x in Y, and comprehension is there exists Y for all x, x in Y iff phi(x).
+    - (Slide 8) Compute what is the theorem that ACA_0 is conservative over PA, and reinvent the definition of conservative (hint: T_1 proves some formula, then T_2 proves it as well. We have tht ACA_0 is conservative over PA for arithmetic fomrulas.)
 
 https://www.andrew.cmu.edu/user/avigad/Talks/semantic.pdf, semantics of proof theory in 27 slides
 
@@ -2317,7 +2343,7 @@ https://www.ams.org/notices/200302/what-is.pdf, what is a gerbe in 2 pages.
 
 https://www.keerthimadapusi.com/assets/talks/2025-02-19-darmstadt.pdf, introduction to F-gauges in 17 pages, MUST READ
 
-https://www.keerthimadapusi.com/assets/lecture/padic_hodge_theory.pdf, p-adic Hodge theory in 85 pages, MUST READ MUST READ.
+https://www.keerthimadapusi.com/assets/lecture/padic_hodge_theory.pdf, p-adic Hodge theory in 85 pages, MUST READ.
 
 https://maths.anu.edu.au/sites/prod.maths.sca-lws06.anu.edu.au/files/Gurney-talk-ntdu.pdf, q-de Rham in 95 slides
      - (Slide 4) Compute the decompostiion on differential k-forms on A^n_z in Z[x_1...x_n]
