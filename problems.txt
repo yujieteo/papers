@@ -643,9 +643,9 @@ https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf, Fourier summation introduc
 
 https://www.math.ucla.edu/~tao/247a.1.06f/notes1.pdf, introduction, focusing on Calderon-Zygmund-Stein theory, estimating the size of output functions. Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes2.pdf, complex interpolation method, real interpolation method Tao's note on harmonic analysis.
+https://www.math.ucla.edu/~tao/247a.1.06f/notes2.pdf, complex interpolation method, real interpolation method, Tao's note on harmonic analysis.
 
-https://www.math.ucla.edu/~tao/247a.1.06f/notes3.pdf, Hardy-Littlewood maximal inequality, one cor edefinition is the averaging operators, needs Young's inequality need to bound. Tao's note on harmonic analysis.
+https://www.math.ucla.edu/~tao/247a.1.06f/notes3.pdf, Hardy-Littlewood maximal inequality, one core definition is the averaging operators, needs Young's inequality need to bound. Tao's note on harmonic analysis.
 
 https://www.math.ucla.edu/~tao/247a.1.06f/notes4.pdf, Hilbert transform, main idea that there are singular integral operators, operators that are almost integral operators, but barely fails to be integrals that fail near the diagonal, T f(y) L= integral 1/|x-y|^{d-s} f(x) dx, kernels go to infinity at the diagonal but remain locally integrable. Tao's note on harmonic analysis.
 
@@ -672,8 +672,36 @@ https://www.math.ucla.edu/%7Etao/247b.1.07w/notes9.pdf, Fourier analysis on fini
     - (Page 6) What is a multiplicative measure? (Hint: continuous multiplicative map from G to circle). Additive measure is when you have G -> R/Z (Hint: there is a difference between the two!).
     - (Page 6) What topology does one endow on G^ to make G^ into a locally compact abelian group (Hint: pick weak-* topology, this is the Gelfand transform)
 
-https://www.math.ucla.edu/%7Etao/247b.1.07w/notes10.pdf, representation theory for finite non-abelian groups. Tao's note on harmonic analysis.
-
+https://www.math.ucla.edu/%7Etao/247b.1.07w/notes10.pdf, representation theory for finite non-abelian groups. Tao's note on harmonic analysis. Probably the best set of notes introducing representation theory. I got stuck at the intuition fo rquasirandomness of SL_n(F_q). Need some combinatorics and number theory.
+    - (Page 1) Compute the normalised counting measure for G a finite multiplicative group with the discrete topology and sigma algebra (hint: use counting measure on groups).
+    - (Page 1) Why does the theory of multiplicative characters from G to the cvircle fail? Use the computation of a commutator and compute the number of multiplicative characters to span L^2(G) for the nonabelian case.
+    - (Page 1) Compute, for G the symmetric group of n characters, the commutator, the number of characters, in fact, describe these characters. (Hint: trivial and sign)
+    - (Page 2) Compute the image associated with the homomorphism of a unitary representation (hint: unitary group). Compute the dimension of the homomorphism associated with the unitary representations.
+    - (Page 2) Why is it true that all representations of finite groups can be made unitary by adjoining a Hilbert space structure? (Hint: Weyl's u7nitary trick, start with standard Hermitian inner product, define new inner product by averaging the old inner products. Operators pi(g) preserve this new averaged inner product, matrices become unitary matrices)
+    - (Page 2) What is the trivial representation? Why care about this? (Constant multiples of the identity).
+    - (Page 2) What is the regular representation? (Hint: left translation, and only. Hint: right translation requires an inverse).
+    - (Page 2) What is the zero representation?
+    - (Page 2) Why can we form direct sum of representation (hint: think about matrices as the mental image)/
+    - (Page 2) Why can we form tensor products of representations? Why is this true? (Hint: universal property on Hilbert spaces?) Why is this analogous to multiplication? Note: you can use the vectors space underlying.
+    - (Page 2) What is the Clebsch-Gordan problem? Why si it important? (Hint: take two erlectrons, each spin 1/2, tensor product is V_0 and V_1). The Clebsch-Gordan coefficient specify the weights.
+    - (Page 2) What is a faithful representation? (Hint: treat the map G -> U(V) as a morphism in a category).
+    - (Page 3) Prove that only when G is trivial, the representation is faithful by computing a kernel.
+    - (Page 3) Using the definition of free i.e. no fixed points other than the origin. What is the mental image? (Hint: no fixed points so I can form whatever "word" I want)
+    - (Page 3) What is the mental image of subrepresentations i.e. image is now U(W), W is preserved by all transformations rho(x) for x in G. Then you can define a restriction to a subrepresentation.
+    - (Page 3) Use subrepresentations to define irreducible (nonzero, does not contain nonzero subspaces).
+    - (Page 3) Why are all representations of finite groups are semisimple? Are these unique? (Hint: No, change orthonormal basis)
+    - (Page 4) Prove Schur's lemma, let V -> W be one representation to another, V is irreducible, then phi is innjective or zero (hint: definition of morphism), if W is irreducible, than phi is surjective or zero. If both are irreducible, then isomorphism, if V = W is irreducible, phi is multiple of identity. (Hint: use definition of subrepresentation, range of phi is subrepresentation of W, either whole of W, or 0 if W irred. Similarly for kernel of phi. For fourth, phi - multiple of identity is either invertible of 0, so phi if nonzero is multiple of identity using isomorphism AND DEFINITION OF THE TRIVIAL REPRESENTATION.
+    - (Page 4) Prove that irreducible representations are prime using projections. (Hint: projection of V oplus W is either isomorphic to V, isomorphic to W or 0, but both projections cannot be 0, so U is isomorphic to subrepresentation of V oplus W.
+    - (Page 4) Prove the Jordan-Holder thoerem using the primality of irreducible representations. (Hint: Direct sum of irreducibles correspond to prime factorisation, isomorphism class is unique up to permutations or think of these as multiplication by the identity or swapping around, there is also multiplicity). Therefore the Jordan-Holder thoerem is very similar to the fundamental theorem of arithmetic. So the mental image 
+    - (Page 4) Prove V irred rep, V is isomorphic to subrepresentation of L^2(G), hint is to define a morphism from L^2(G) -> V then use Schur's lemma by splitting L^2(G) into irreducible reds and use projections. Hence using this fact, prove that irreducible reps of abelian groups are 1 dimensional. Every rep of finite abelian group factors as direct sumof 1 character reps, so one have enough characters and the theory of characters apply.
+    - (Page 5) Prove the ergodic theorem i.e. take the averaged map or integral p_W(x) T p_V(x)^-1 dx for V -> W map. Why is it called the ergodic theorem. T is a morphism, if V and W not isomorphic, T is the 0 map, if V = W, p_V = p_W then the averaged map is the multiple of identity. The averaged map should have the same trace as T hence the definition since trace of average is equal to average of traces (sum) have exact same trace value. Trace is geometric, every single matrix has the exact same trace. Averaging force it to be distributed evenly across all dim(V) diagonal positions. This is called an ergodic theorem, it forces a local sampl ei.e. local averaging map to reflect the global average. A skewed operator evaluating a single view point i.e. a group action shfiting an operator through space.
+    - (Page 6) Why for abelian groups there are enough multiplicative characters, but for nonabelian groups there are not enough characters? (Hint: 1 dim irreducible subspaces).
+    - (Page 6) How does one define the Fourier coefficient (hint: integral f(x) rho(x)) Then recall that one wants to do linear algebra with these coefficients. Why is this A FOurier coefficient (hint: take linear transformation of (f convolve g)^, you get f^ g^)
+    - (Page 6) Compute the space of linear transformations on a irreducible representations V^. Why doe sone endow the Hilbert-Schmidt inner product. It is the only inner product that is invariatn under the action of the finite group G. So it is unitary invariant. Then one gets the identity to be the Riesz representation of the linear functional.
+    - (Page 8) Why does the Fourier transform turn into an operator valued functions? (Hint: convolution is noncommutative, one can work with reduced set or class functions i.e. conjugation invariants, constant on conjufacy classes. Convolution is commutative in the space of class functions). The scalar theory is now possible so you have f in L^2(G) ius a class function i.e. it has Fourier coefficient as a multiple of the identity. This is why class functions are important. Is this the same class as class field theory?
+    - (Page 13) What is teh intuition behind unimodular? (Hint: left Haar measure is the same as right Haar measure, right translates are left invariatn, assign the same total mass). Recall that intuition is that measure means mass.
+    - (Page 13) What is the main technical difficulty of the representation theory of compact Lie groups? (Hint: L^2(G) all finite dimensional, use Casimir operator, commutes with all vector fields, one uses the killing form instead. Eigenspaces of the Casimir operator are subrepresentations of the regular representations. Spectrum is purely discrete, eigenspaces are finite dimensional. Then, one can split the regular representation into a countable direct sumof finite dim irreducible representations.
+    
 https://www.math.ucla.edu/~tao/247a.1.06f/notes0.pdf  functions tend to have infinite degrees of freedom. Tao's note on harmonic analysis.
 
 https://www.jmilne.org/math/Documents/fac.pdf  Serre's sheaf theory, Milne translation.
