@@ -1,30 +1,30 @@
 https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular forms and L-functions
 
 https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
-	- Why the definition of k-algebra? (Hint: don't need product to be commutative, m(x otimes y) = xy, so it is a k-vector witha  linear map A otimes A to A called the product map, and a linear map u: k -> A which is the unit map. u(1) is identity of the multiplication.
+	- Why the definition of k-algebra? (Hint: don't need product to be commutative, m(x otimes y) = xy, so it is a k-vector with a linear map A otimes A to A called the product map, and a linear map u: k -> A which is the unit map. u(1) is identity of the multiplication.)
 	- Why is K a k-algebra for K/k a finite field extension.
 	- Why do we care about skew fields?
 	- Why do we care about the group algebra kG to be the set of linear combinations for lambda_g in a field, and g an element in a group G. These are group algebras and there are lots of examples of group algebras.
 	- Why do we care about the Artinian algebras? (Hint: there is a finite dimensional conditions on the ideals? The descending chain condition I_1 >= I_2 >= ...)
-	- Why does one care about the Artin-Wedderburn theorem? (Hint: it classifies all left-Artinian algebra with the condition that the intersection of maximal left ideals is 0, then it si the direct sum of finitely many matrix algebras over the division algebra. Artinian if left and right Artinian.
+	- Why does one care about the Artin-Wedderburn theorem? (Hint: it classifies all left-Artinian algebra with the condition that the intersection of maximal left ideals is 0, then it si the direct sum of finitely many matrix algebras over the division algebra. Artinian if left and right Artinian.)
 	- Why care about the Maschke's theorem? (Hint: it means the hypothesis of the Artin-Wedderburn theorem holds, i.e. group algebra has a constraint).
 	- Why does all finite dimensional algebras are N oetherian?
 	- Why are polynomial algebras and power series rings are Noetherian?
 	- Why doe sone care about universal enveloping algebra? (Hint: associative algebra that underpines the representation theory fo Lie algebras)
 	- Why does one care about Weyl agebra? (Hint: example of noncommutative Noetherian algebra, char k = 0, operators multiplicatrion by X and differentiate with respect to X, to form Weyl algebra).
 	- Why in the commutative case, we look at the spectrum of pruime ideals? This gives the theory of algebraic geometry.
-	- Why do we care aobut Goldie's theorems? (Hint: Artin-Wedderburn conditions for Noetherian algebras, i.e. A is a right Noetherian algebra with no nonzeo ideals all of whose elements are nilpotent, then A embeds in a finite direct sum of matrix algebras over divisions algebras.)
+	- Why do we care aobut Goldie's theorem? (Hint: Artin-Wedderburn conditions for Noetherian algebras, i.e. A is a right Noetherian algebra with no nonzeo ideals all of whose elements are nilpotent, then A embeds in a finite direct sum of matrix algebras over divisions algebras.)
 	- Why can we think of Noetherian algebras (some types) are deformatiosn of analogous commutative algebra. (Hint: A_1 is deformation algebra, instead of thinking of [X,Y] = 0, think of [X,Y]=1, so it is the deformation fo teh polynomial algebra. One can deform )
 
 https://dec41.user.srcf.net/h/III_L/riemannian_geometry/full, Riemannian geometry
 	- Why does one need coefficients for a vector field to form as linear combination giving X i.e. X = sum of X^k d/dx^k. How does one write out the same thing for a tensor field (hint: take tensor product of all d/dx^k_1 tensor dx^l1. My intuition is that dx gives small part of mass i.e. there is some sort of measure? Why do we care about the coefficients of a tensor field and how does one invent this notation?
-	- What is the implicit summation notation and why is it use? Why care about convectors to a vectors.
+	- What is the implicit summation notation and why is it use? Why care about convectors to a vectors.)
 	- Why define a Riemannian metric? I understand OK you want a global section of T^*M otimes T^*M, why do you want fiberwise symmetric. Positive definite is because you want a metric. A smooth manifold with a Riemannian metric is a Riemannian manifold. Question: why work with tangent bundles and not "formal" bundles? Why is it formally an element of global sections Gamma(T*M otimes T*M).
 	- Using the Whitney embedding theorem, compute an embedding of a smooth manifold into R^k for some k. What is the bound in which one can pick? (Hint: pick k <= 2 dim M).
-	- Compute, using the Whitney embedding theorem, the induced Riemannian metric on M, by using the inner product from Euclidean space using an appropriate inclusion. (Hint: T_pM includes in T_p R^k which is isomorphic to R^k by Whitney embedding, this proves that for (N, h) a Riemannian manifold, F: M -> N immersion, pullback g = F^* h defines a metric on M. Immersion is required for pullback to be nondegenerate.
+	- Compute, using the Whitney embedding theorem, the induced Riemannian metric on M, by using the inner product from Euclidean space using an appropriate inclusion. (Hint: T_pM includes in T_p R^k which is isomorphic to R^k by Whitney embedding, this proves that for (N, h) a Riemannian manifold, F: M -> N immersion, pullback g = F^* h defines a metric on M. Immersion is required for pullback to be nondegenerate.)
 	- How does one come up with definition of isometry? (Hint: need diffeomorphism i.e. differentiating all times is the same, then simply f^* h = g i.e. pullback along the isometry to guarantee you get back g). Why define it in terms of a pullback?
-	- What is the purpose of a Lie group in producing left invariant fields? (Hint: we can define the Lie algebra g = T_e G, then pick X_e in g, set X_a = d(L_a) X_e, get a smooth vector field that is left invariant, pick a metric at the identity, propagate it using left translation only. Works if we replace left with right. Harder to find left and right invariant?
-	- Why does every compact Lie group admit a biinvariant metric (hint: start with left invariant, integrate metric along all right translations, so compactness is needed for the result to be finite, we have SL(2,R) does not admit a biinvariant metric).
+	- What is the purpose of a Lie group in producing left invariant fields? (Hint: we can define the Lie algebra g = T_e G, then pick X_e in g, set X_a = d(L_a) X_e, get a smooth vector field that is left invariant, pick a metric at the identity, propagate it using left translation only. Works if we replace left with right. Harder to find left and right invariant?)
+	- Why does every compact Lie group admit a bi-invariant metric (hint: start with left invariant, integrate metric along all right translations, so compactness is needed for the result to be finite, we have SL(2,R) does not admit a bi-invariant metric).
 	- What is the purpose of the connection of a tangent bundle? (Hint: differentiate vectors or tensors of a manifold). For Riemannian manifolds, this is the Levi-Civita connection. We will assume uniqueness, it is compatible with the Riemannian metric and it is symmetric or torsion free i.e. del_X Y - del_Y X = [X, Y].
 	- Why do we need Christoffel symbols?
 
