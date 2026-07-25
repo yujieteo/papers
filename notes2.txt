@@ -84,6 +84,18 @@ https://dec41.user.srcf.net/h/III_M/quantum_computation/full, quantum computatio
 https://dec41.user.srcf.net/h/III_M/quantum_field_theory/full
 	- What is the purpose of quantum field theory? The standard model is also a quantum field theory. String theory is also a quantum field theory.
 
+https://dec41.user.srcf.net/h/III_M/modern_statistical_methods/full
+	- Why do we care about modern statistical methods? (Hint: large number of parameters, data sets is very small?)
+	- Why do we care about classical statistics? (Hint: we can use regression?)
+	- When can we use least square method? (Hint: X has full column rank and X^T X is invertible.)
+	- Why is least squares used? (Hint: Gauss-Markov theorem, any other linear estimator has positive semidefinite var(AY) - var(AY^OLS) so this is the best linear unbiased estimator.)
+	- How does one invent maximum likelihood estimator? (Hint: define log likelihood of density, or log of density, then maximise log of density over theta to get the estimator)
+	- Why does one care about the Fisher information matrix? (Hint: the Cramer-Rao bound, this proves that maximum likelihood estimation is the best since variance of estimators - inverse of fisher info matrix over estimate is postiive semidefinite, so maximum likelihood estimation works for more general models than linear regression, so this theorem says that maximum likelihood estimator is unbiased and achieves the Cramer-Rao bound, asymptotically it is also normally distributed.)
+	- Compare and contrast least squares and maximum likelihood estimator.
+	- Why does one care about biased estimators? (Hint: in ridge regression, introduce a bias to reduce variance, this gets a smaller MSE, so biased estimators have some effect.)
+	- Why care about ridge regression? (Hint: if we can pick a lambda so that X^T X + lambda I is invertible, with a good lambda bias to tuen the parameter, one can do better than ordinary least squares in reducing MSE.)
+	- Why care about singular value decomposition? (Hint: it gives or hints at the correct selection of lambda to reduce MSE for ridge regression? I am not sure.)
+
 https://dec41.user.srcf.net/h/III_L/ramsey_theory/full, Ramsey theory
 	- What is the basic question of Ramsey theory? (Hint: structure, break up into finitely many pieces, can we find a piece that retains the structure of X? Colouring is one of many examples).
 
@@ -150,13 +162,14 @@ https://dec41.user.srcf.net/h/IB_E/optimisation, optimisation
 	- Why is the Lagrangian used to solve constrained maximisation? (Hint: Lagrangian sufficiency, key step in the prove is to define the feasible set. Want to minimise f without restriction i.e. no more further first order change, but we are constrained by forcing x to lie on path h(x) = b. Need del f * dx = 0, del f is perpendicular to dx or parallel to normal to the path. Therefore, one gets Lagrange multipliers i.e. you cannot move into other paths.)	
 
 https://dec41.user.srcf.net/h/III_M/hydrodynamic_stability/full
-	- Why can we not assume incompressibility? (Hint: different fluids) Actually, I realise the goal is to simply reduce it down to Fourier analysis using linearisation and assumptions.
-	- Why must we take inviscid and irrotational assumptions? (Hint: can apply Stoke's theorem, u = nabla phi i.e. velocity potential. Stoke's theorem holds. I learnt that Stoke's apply on local coordinate charts, so it is independent on global topology. Integration descends to pairing between de Rham cohomology and singular homology). Therefore, one can get Bernoulli's theorem.
+	- Why is hydrodynamic stability interesting? (Hint: studying how small perturbations grow, so this is a good test ground. One can look at how shear and fluid inertia, vorticity can lead to transition to turbulence and stability considerations?)
+	- Why can we not assume incompressibility? (Hint: different fluids being mixed together) Actually, I realise the goal is to simply reduce it down to Fourier analysis using linearisation and assumptions.
+	- Why must we take inviscid and irrotational assumptions? (Hint: can apply Stoke's theorem, u = nabla phi i.e. velocity potential. Stoke's theorem holds. I learnt that Stoke' theorem apply on local coordinate charts, so it is independent on global topology. Integration descends to pairing between de Rham cohomology and singular homology). Therefore, one can get Bernoulli's theorem.
 	- Why is Bernoulli's theorem used at the interface? (Hint: energy flow at the interface is assumed to be constant)
 	- Why does one make the assumption that there is no velocity in the far field? (Hint: interesting behaviour happens only at the interface, so assume phi tends to 0 as z tends to positive or negative infinity respectively, similarly for the derivative).
 	- Why does one linearise the equation? (Hint: one can do Fourier analysis, apply the ansatz and supply Laplace's equation)
-	- What is the result obtained when one gets the dispersion relation? (Hint: high frequency for deep water waves with large density difference, with small density difference, you can get low frequency aves).
-	- What happens when the heavier fluid is on top of the lighter one? (Hint: apply Fourier analysis, it is unstable using root loci, one gets Rayleigh-Taylor instability)
+	- What is the result obtained when one gets the dispersion relation? (Hint: high frequency for deep water waves with large density difference, with small density difference, you can get low frequency waves).
+	- What happens when the heavier fluid is on top of the lighter one? (Hint: apply Fourier analysis, it is unstable by looking at root loci, one gets Rayleigh-Taylor instability)
 	- What happens when the wavelength decrease? (Hint: compute omega = +- i theta), one gets sigma then gets the ultraviolet catastrophe i.e. it is not well posed.
 	- What is thermal conduction controlled by? (hint: thermal diffusivity.)
 	- What is thermal convection controlled by? (hint: viscosity).
