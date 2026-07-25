@@ -2,6 +2,16 @@ https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular 
 
 https://dec41.user.srcf.net/notes/III_L/positivity_in_algebraic_geometry_trim.pdf, positivity in algebraic geometry
 
+https://dec41.user.srcf.net/h/III_L/theoretical_physics_of_soft_condensed_matter/full, condensed matter
+	- Why does one ignore quantum fluctuations? (Hint: compute k_B T to be h bar / tau_Q, tau_Q is 10E-13, so ignore, can set h bar = 0?)
+	- Why are thermal fluctuations important? (Hint: one can do elasticity or bulk modulus to be G approximately k_B T N/V, G has a lower shear modulus of 10E2 and 10E7, K/G is large, one wants G to be nonzero, and tau to be short.)
+	- Why does one coarse grain the system? (Hint: too many particles?)
+	- Why does one care about mean field theory? (Hint: one wants to see the probability or density of seeing a field configurations)
+	- Why does mean field theory fail for this? (Hint: does not account for thermal fluctuations, so use variational method?)
+	- Why does one care about the hydrodynamic level equations? (Hint: deterministic PDE on how the system evolves, so care about free energy functional and chemical potential)
+	- Why is random noise important? (Hint: mean noise is 0, but random noise is determined by one parameter to get the probabilistic distribution of the field by the stochastic PDE, one gets the fluctuation dissipation system)
+	- How does one gradually weaken the Navier-Stokes equation to study soft matter? (Hint: get hydrodynamic PDE, assume incompressibility, then promote to stochastic PDE using the Landau-Lipschitz equation, last term is noise stress tensor, treat it as Gaussian, fixed by fluctuation dissipation. One can weaken more assumptions by thinking about fluid mixtures, and add molecular orientations.)
+
 https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- Why the definition of k-algebra? (Hint: don't need product to be commutative, m(x otimes y) = xy, so it is a k-vector with a linear map A otimes A to A called the product map, and a linear map u: k -> A which is the unit map. u(1) is identity of the multiplication.)
 	- Why is K a k-algebra for K/k a finite field extension.
@@ -37,7 +47,14 @@ https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- What corollaries does one get from the radical implying completely reducible? (Hint: semisimple left Artinian algebra, aA is completely, reducible and every left A-module is completely reducible).
 	- When does the Jacobson radical work for A. a non semisimple left Artinian algebra? (Hint: let A b e left Artinian, M a fg left A-module, then J(A) M = Rad(M) or the uing the Jacobson radical as the coefficient system for the module M gives the radical of the non-semisimple left Artinian algebra).
 	- How does one compute A to be left Noetherian for A a left Artinian algebra (hint: Jacobsonr adical nilpotent, or M a finitely generated A-module, both left Artinian and left Noetherian).
-	- How does one come up or know that the Artin-Wedderburn theorem to be true? (Hint: map from A_A to End(A_A) sending A to left multiplication of A is isomorphism of algebras. Then, one uses Schur's lemma)
+	- How does one come up or know that the Artin-Wedderburn theorem to be true? (Hint: map from A_A to End(A_A) sending A to left multiplication of A is isomorphism of algebras. Then, one uses Schur's lemma to show that for each matrix ring of the divison ring decomposed one gets isomorphism of factors to the matrix ring.)
+	- How does one think up the statement of the right handed Artin-Wedderburn theorem? (Hint: A be semisimple right artininan algebra, it has canonical decomposition to matrix rings over division algebras with unique factorisation, and has exactly r isomorphism classes of simple right modules S_i and endomorphism rings of these S_i are isomorphic to these division algebras with and the dimension fo these right modules give the dimension of the division algebras, if A is simple, then r = 1 i.e. 1 simple right module.)
+	- How does one reinvent the left version of the Artin-Wedderburn theorem? (Hint: use opposite algebras)
+	- How does one come up with the truth and the statement of Schur's lemma? (Hint: either they are equal or homs between them are trivial if they are simple, if M is simple A-module, then endomorphism ring is division algebra, prove is by injective as kernel is submodule so kill off everything, image is whole thing since image is submodule, isomorphism else homs are empty)
+	- How does one extend Wedderburn-Artin theory from semisimple algebras to general right Artinian algebras? (Hint: kill of Jacobson radical)
+	- How does one come up with the definition of group algebras? (Hint: coefficients a field, eigenvectors a group, take tensor product and bilinear map down to the field, one gets a group algebra)
+	- How does one know Maschke's theorem mus tbe true? (Hint: take coefficient of group algebra k to be of characteristic prime not dividing the group, one gets a semisimple algebra or kG semisimple. Proof is via submodule V of kG-module U has a complement to get the semisimplicity, one uses the projection to be averaged and the fact that p does not divide the order of the group here.)
+	- What additional condition is required for converse of Maschke's theorem? (Hint: G must be finite group, then use Artin-Wedderburn).
 
 https://dec41.user.srcf.net/h/III_L/advanced_quantum_field_theory/full, quantum field theory?
 	- Why is a space needed to be decided? (Hint: depends on domain, particle physics means pick pseudo-Riemannian manifold, (M, g) = R^4, eta, or eta is Minkowski metric, or pick R^3, delta, delta is flat Euclidean metric, in string theory, pick Riemann surface or sphere or torus, one just picks conformal equivalence class of metric i.e. metric up to scalar factor. QFT for knots one picks oriented 3-manifold but no metric. R^d is noncompact so bad)
@@ -104,6 +121,15 @@ https://dec41.user.srcf.net/h/III_L/logic/full, logic
 	- How does one come up with the definition of a universal theory? (Hint: axioms does not have quantifiers in the middle. Groups rings and modules are universal theories.)
 	- Why is it important that substructures being a model implies that we have a model of universal theory? (Hint: correspondence between syntax and semantics.)
 	- How does one come up with the definition of a diagram for a theory? (Hint: one has a language and a structure, then add a constant symbol for each x in the structure of the language, take axioms to be all quantifier-free sentences then one has a model.)
+	- For a 0 dim quantum field theory, what happens when one assume that the universe is connected?
+	- Compute the Lorentz group of a connected 0 dimensional universe?
+	- Compute the scalar field for a connected 0 dimensional universe?
+	- Compute the action and the partition function of a 0 dimensional scalar field? Compute the path integral measure for the partition function? (hint: Lebesgue measure)
+	- Compute the correlation functions (why is this important? Hint: one can get a probabbility distribution on R)
+	- Why does one compute the series expansion in phi?
+	- How does one compute the QFT on the 0 dimensional quantum field theory? (Hint: take equations of motions to be linear, superposition, particles do not interact, one gets the partition function to be a Gaussian integral)
+	- How does one compute this partition function for a simplest QFT of 0 dim unierse? (Hint: Gaussian integral, symmetric, take orthogonal transformation that diagonalsies it, d^n phi is invariant, in terms of eigenvectors, using rep theory reduces to product of 1D Gaussian integrals, one can then compute Wick's theorem i.e. reduce to computation of integral for correlation function to combinatorics of counting thenumber of ways to pair things up.)
+	- Why does Taylor series expansion of partition functions come in? (Hint: integral diverges, need to have asymptotic series instead, then one use's Laplace's method / Watson's lemma.) This motivates the semiclassical term and quantum corrections from the asymptotic series?
 
 https://dec41.user.srcf.net/h/III_M/symmetries_fields_and_particles/full, symmetries in physics
 	- Why the definition of a group in physics? (Leave physical laws invariant, noting that gauge fields are uniquely specified by the gauge symmetric group it works with).
@@ -121,7 +147,7 @@ https://dec41.user.srcf.net/h/IB_E/optimisation, optimisation
 	- Why care about convexity? (Hint: local minima are global minima with the convexity condition)
 	- Why is this definition of a positive semidefinite Hessian convex set exist? (Hint: positive semidefinite Hessian, v^T H v >= 0 for all v in R^n)
 	- What is the purpose of Morse homology (hint: local minima fails to be global minima, graded by number of negative eigenvalues of the Hessian)
-	- Why is the Lagrangian used to solve constrained maximisation? (Hint: Lagrangian sufficiency, key step in the prove is to define the feasible set. Want to minimise f without restriction i.e. no more further first order change, but we are constrained by forcing x to lie on path h(x) = b. Need del f * dx = 0, del f is perpendicular to dx or parallel to normal to the path. Therefore, one gets Lagrange multipliers i.e. you cannot move into other paths.	
+	- Why is the Lagrangian used to solve constrained maximisation? (Hint: Lagrangian sufficiency, key step in the prove is to define the feasible set. Want to minimise f without restriction i.e. no more further first order change, but we are constrained by forcing x to lie on path h(x) = b. Need del f * dx = 0, del f is perpendicular to dx or parallel to normal to the path. Therefore, one gets Lagrange multipliers i.e. you cannot move into other paths.)	
 
 https://dec41.user.srcf.net/h/III_M/hydrodynamic_stability/full
 	- Why can we not assume incompressibility? (Hint: different fluids) Actually, I realise the goal is to simply reduce it down to Fourier analysis using linearisation and assumptions.
