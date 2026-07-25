@@ -11,16 +11,33 @@ https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- Why do we care about the Artinian algebras? (Hint: there is a finite dimensional conditions on the ideals? The descending chain condition I_1 >= I_2 >= ...)
 	- Why does one care about the Artin-Wedderburn theorem? (Hint: it classifies all left-Artinian algebra with the condition that the intersection of maximal left ideals is 0, then it si the direct sum of finitely many matrix algebras over the division algebra. Artinian if left and right Artinian.)
 	- Why care about the Maschke's theorem? (Hint: it means the hypothesis of the Artin-Wedderburn theorem holds, i.e. group algebra has a constraint).
-	- Why does all finite dimensional algebras are N oetherian?
+	- Why does all finite dimensional algebras are Noetherian?
 	- Why are polynomial algebras and power series rings are Noetherian?
-	- Why doe sone care about universal enveloping algebra? (Hint: associative algebra that underpines the representation theory fo Lie algebras)
-	- Why does one care about Weyl agebra? (Hint: example of noncommutative Noetherian algebra, char k = 0, operators multiplicatrion by X and differentiate with respect to X, to form Weyl algebra).
+	- Why doe sone care about universal enveloping algebra? (Hint: associative algebra that underpins the representation theory fo Lie algebras)
+	- Why does one care about Weyl agebra? (Hint: example of noncommutative Noetherian algebra, char k = 0, operators multiplication by X and differentiate with respect to X, to form Weyl algebra).
 	- Why in the commutative case, we look at the spectrum of pruime ideals? This gives the theory of algebraic geometry.
 	- Why do we care aobut Goldie's theorem? (Hint: Artin-Wedderburn conditions for Noetherian algebras, i.e. A is a right Noetherian algebra with no nonzeo ideals all of whose elements are nilpotent, then A embeds in a finite direct sum of matrix algebras over divisions algebras.)
 	- Why can we think of Noetherian algebras (some types) are deformations of analogous commutative algebra. (Hint: A_1 is deformation algebra, instead of thinking of [X,Y] = 0, think of [X,Y]=1, so it is the deformation for the polynomial algebra. One can deform)
 	- How does one invent Hochschild cohomology? (Hnt: think of deformations of noncommutative algebras, get a non commutative power series, then one invents the Hochschild cohomology.)
 	- What is one example to think of a right Artinian and non left Artinian over Q algebra. (Hint: come up with [r s ; 0 t] algebra then uses [0 s ; 0 0], one gets R as a Q-vector space that is infinite dimensional, one gets an infinitely strictly descending chain of ideals contained in I.)
 	- How does one invent modules? (Hint: let an algebra, then take left vector space over it with the bilinear map from a tensor product.)
+	- How does one invent bimodules? (Hint: left A-module and right A-module, two actions commute.)
+	- How does one come up with prime ideals for the noncommutative case? (Hint: need IJ in P, either I in P or J in P, and not using elements.)
+	- How does one come up the definition of the annihilator? (Hint: you want the kernel of the A-module homomorphism given by x -> xm i.e. what vanishes when using 0 in m in M.)
+	- How does one come up with the definition on simple or irreducible? (Hint: submodules are 0 and M)?
+	- How does one come up with the definition of maximal left ideal (hint: A/I simple, kill off I gives simple module.)
+	- How does one prove the existence of a maximal proper submodule M' for M finite generated A-module (Hint: finiteness required for minimal generating set, then take -1 using proper submodule, proper if does not contain m_k under increasing unions, apply Zorn's)
+	- How does one come up with the definition of the Jacobson radical? (Hint: want to see how far it deviates from a semisimple rings i.e. A / J(A) is always semisimple, simple algebras are semisimple because the Jacobson radical is an ideal, and it is not A).
+	- How does one invent Nakayama's lemma? (Hint: G = 1 + I, Jacobson's radical is the largest ideal satisfyin 3 i.e. G = {1 + a, a in I} = 1 + I is subgroup of the unit group of A, this is so that one can invent the definition of semisimple, algebra is semisimple if it has trivial Jacobson radical.)
+	- How does one invent the statements of Nakayama's elmma and why they are true? (Hint: left ideal if I <= J(A), equivalent to fg left A-module, if IM = M, then M = 0).
+	- How does one decompose a left A-module? (Hint: consider e_i be 1 in i-i-th entry and 0 everywhere else, use idempotence and then consider these are all left and right ideals respectively for M_n(k), only ideals are 0 and A and admits decomposition into simple module)
+	- Why are completely reducible modules closed under sums, submodules and quotients and products? (Hints: sums follow from definitions, submodules can be done by taking  M completely reducible, N <= M, then S in N.)
+	- Why do we need to generalize the Jacobson radical (intersection of all left ideals) to radials, or intersection of all maximal submodules of M (hint: prove that left Artinian algebra is completely reducible over itself if it is semisimple, so radicals work for modules, Jacobson radical works for left Artinian algebras.)
+	- What can one do with definition of radical? (Hint: define completely reducible by proposition if intersection of all maximal submodules is trivial).
+	- What corollaries does one get from the radical implying completely reducible? (Hint: semisimple left Artinian algebra, aA is completely, reducible and every left A-module is completely reducible).
+	- When does the Jacobson radical work for A. a non semisimple left Artinian algebra? (Hint: let A b e left Artinian, M a fg left A-module, then J(A) M = Rad(M) or the uing the Jacobson radical as the coefficient system for the module M gives the radical of the non-semisimple left Artinian algebra).
+	- How does one compute A to be left Noetherian for A a left Artinian algebra (hint: Jacobsonr adical nilpotent, or M a finitely generated A-module, both left Artinian and left Noetherian).
+	- How does one come up or know that the Artin-Wedderburn theorem to be true? (Hint: map from A_A to End(A_A) sending A to left multiplication of A is isomorphism of algebras. Then, one uses Schur's lemma)
 
 https://dec41.user.srcf.net/h/III_L/riemannian_geometry/full, Riemannian geometry
 	- Why does one need coefficients for a vector field to form as linear combination giving X i.e. X = sum of X^k d/dx^k. How does one write out the same thing for a tensor field (hint: take tensor product of all d/dx^k_1 tensor dx^l1. My intuition is that dx gives small part of mass i.e. there is some sort of measure? Why do we care about the coefficients of a tensor field and how does one invent this notation?
