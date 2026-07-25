@@ -1,9 +1,12 @@
 https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular forms and L-functions
 
+https://dec41.user.srcf.net/notes/III_L/positivity_in_algebraic_geometry_trim.pdf, positivity in algebraic geometry
+
 https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- Why the definition of k-algebra? (Hint: don't need product to be commutative, m(x otimes y) = xy, so it is a k-vector with a linear map A otimes A to A called the product map, and a linear map u: k -> A which is the unit map. u(1) is identity of the multiplication.)
 	- Why is K a k-algebra for K/k a finite field extension.
 	- Why do we care about skew fields?
+	- Why do we care about ideals? (Hint: use to define Artinian rings, left ideals as k-subspaces such that x in A, y in I i.e. x is coefficient, then xy in I, right ideal is yx in I. An ideal is an left ideal and right ideal.)
 	- Why do we care about the group algebra kG to be the set of linear combinations for lambda_g in a field, and g an element in a group G. These are group algebras and there are lots of examples of group algebras.
 	- Why do we care about the Artinian algebras? (Hint: there is a finite dimensional conditions on the ideals? The descending chain condition I_1 >= I_2 >= ...)
 	- Why does one care about the Artin-Wedderburn theorem? (Hint: it classifies all left-Artinian algebra with the condition that the intersection of maximal left ideals is 0, then it si the direct sum of finitely many matrix algebras over the division algebra. Artinian if left and right Artinian.)
@@ -14,12 +17,15 @@ https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- Why does one care about Weyl agebra? (Hint: example of noncommutative Noetherian algebra, char k = 0, operators multiplicatrion by X and differentiate with respect to X, to form Weyl algebra).
 	- Why in the commutative case, we look at the spectrum of pruime ideals? This gives the theory of algebraic geometry.
 	- Why do we care aobut Goldie's theorem? (Hint: Artin-Wedderburn conditions for Noetherian algebras, i.e. A is a right Noetherian algebra with no nonzeo ideals all of whose elements are nilpotent, then A embeds in a finite direct sum of matrix algebras over divisions algebras.)
-	- Why can we think of Noetherian algebras (some types) are deformatiosn of analogous commutative algebra. (Hint: A_1 is deformation algebra, instead of thinking of [X,Y] = 0, think of [X,Y]=1, so it is the deformation fo teh polynomial algebra. One can deform )
+	- Why can we think of Noetherian algebras (some types) are deformations of analogous commutative algebra. (Hint: A_1 is deformation algebra, instead of thinking of [X,Y] = 0, think of [X,Y]=1, so it is the deformation for the polynomial algebra. One can deform)
+	- How does one invent Hochschild cohomology? (Hnt: think of deformations of noncommutative algebras, get a non commutative power series, then one invents the Hochschild cohomology.)
+	- What is one example to think of a right Artinian and non left Artinian over Q algebra. (Hint: come up with [r s ; 0 t] algebra then uses [0 s ; 0 0], one gets R as a Q-vector space that is infinite dimensional, one gets an infinitely strictly descending chain of ideals contained in I.)
+	- How does one invent modules? (Hint: let an algebra, then take left vector space over it with the bilinear map from a tensor product.)
 
 https://dec41.user.srcf.net/h/III_L/riemannian_geometry/full, Riemannian geometry
 	- Why does one need coefficients for a vector field to form as linear combination giving X i.e. X = sum of X^k d/dx^k. How does one write out the same thing for a tensor field (hint: take tensor product of all d/dx^k_1 tensor dx^l1. My intuition is that dx gives small part of mass i.e. there is some sort of measure? Why do we care about the coefficients of a tensor field and how does one invent this notation?
 	- What is the implicit summation notation and why is it use? Why care about convectors to a vectors.)
-	- Why define a Riemannian metric? I understand OK you want a global section of T^*M otimes T^*M, why do you want fiberwise symmetric. Positive definite is because you want a metric. A smooth manifold with a Riemannian metric is a Riemannian manifold. Question: why work with tangent bundles and not "formal" bundles? Why is it formally an element of global sections Gamma(T*M otimes T*M).
+	- Why define a Riemannian metric? I understand OK you want a global section of T^*M otimes T^*M, why do you want fiberwise symmetric? Positive definite is because you want a metric. A smooth manifold with a Riemannian metric is a Riemannian manifold. Question: why work with tangent bundles and not "formal" bundles? Why is it formally an element of global sections Gamma(T*M otimes T*M).
 	- Using the Whitney embedding theorem, compute an embedding of a smooth manifold into R^k for some k. What is the bound in which one can pick? (Hint: pick k <= 2 dim M).
 	- Compute, using the Whitney embedding theorem, the induced Riemannian metric on M, by using the inner product from Euclidean space using an appropriate inclusion. (Hint: T_pM includes in T_p R^k which is isomorphic to R^k by Whitney embedding, this proves that for (N, h) a Riemannian manifold, F: M -> N immersion, pullback g = F^* h defines a metric on M. Immersion is required for pullback to be nondegenerate.)
 	- How does one come up with definition of isometry? (Hint: need diffeomorphism i.e. differentiating all times is the same, then simply f^* h = g i.e. pullback along the isometry to guarantee you get back g). Why define it in terms of a pullback?
@@ -41,7 +47,7 @@ https://dec41.user.srcf.net/h/III_L/ramsey_theory/full, Ramsey theory
 https://dec41.user.srcf.net/h/III_L/logic/full, logic
 	- Who first invented the notion of proof? (Hint: Godel, motivated by need to write down an incompleteness theorem). 
 	- What was the notion invented later after Godel? (Hint; natural deduction, three axioms and one rule of inference). i.e. A and B are true, conclude A and B, then use AND elimination. There are introduction rules and there are elimination rules.
-	- How does one write proofs, introduce disjunct or conjunct into our conclusions, then there are elimination rules, which eliminate  conjunctions and implications from premises. Assume A then prove B, we need a function to take a proof tree into a proof tree. Introduce means introduce a symbol, A B means A and B, A and B implies A and A and B implies B. These are elimination rules. A means A or B, or an or introduction.
+	- How does one write proofs, introduce disjunction or conjunction into our conclusions, then there are elimination rules, which eliminate conjunctions and implications from premises. Assume A then prove B, we need a function to take a proof tree into a proof tree. Introduce means introduce a symbol, A B means A and B, A and B implies A and A and B implies B. These are elimination rules. A means A or B, or an or introduction.
 	- Compute using the implication elimination rule, A and A->B.
 	- How does one do a elimination rule for A proves and B proves C so if we know A or B, then C must be true. Empty disjunction means or is false, so you can prove anything from falsehood, this is ex falso sequitur quolibet.
 	- How does one construct negation? (Hint: take A implies false, so A is false).
@@ -51,6 +57,27 @@ https://dec41.user.srcf.net/h/III_L/logic/full, logic
 	- What are axioms K and S? (Hint: they axiomatize the conditional -> fragment of constructive logic, i.e. you can just use proposition and conditionals, you do not need and, or, not, and this is constructive. This is the im implicational propositional calculus, only relies on modus ponens and conditional introduction)?
 	- Why is Pierce's law needed? (Hint: conditional fragment of classical logic. What is axioms K and S??)
 	- How does one prove that Pierce's law is unprovable? (hint: use three true values, then draw a truth table, but this does not give intuition? A nicer answer is to use the Curry-Howard correspondence?)
+	- Why does one study linear logic or resource logic? (Hint: logics where assumptions can only be used once.)
+	- What is a weakening rule used for? (Hint: dropping assumptions)
+	- Why must one have the definition of harmony? (Hint: you can use A to get A&B but A&B tells you nothing about A, in the example of the notes. Another asymmetry is that you do not need B to prove A&B, but you can use A&B to deduce something about B. So the rule you want is such that A&B is the strongest assertion one can prove from introduction, then A&B is the weakest assertion one can have through elimination, though this is not precise.)
+	- What is a lambda expression for? (Hint: notation for function that takes in x and returns phi(x))
+	- Why are types a thing in proofs? (Hint: need to know what is it a proof of?)
+	- What does the false proposition correspond to and why? (Hint: it has no proofs, and the empty set is a set that admits a function to any set X whatsoever)
+	- What can types do for the law of excluded middle? (Hint: no uniform construction without knowing anything about A for the statement ((A -> false) -> false) implies A). Therefore one can show that you cannot prove ((A -> B) -> A)->A with natural deduction without the law of excluded middle. The proof is by thinking about types and finding contradiction to show that one can uniformly pick	 a distinguished element out of a two element set.
+	- How does one invent world logic? (Hint: classical logic uses collection of propositions with model as function valued in true and false, then truth can be define recursively. However, one can take a subset of propositions, a subset of it,a. model as a collection of worlds, then take a partial order on the subset called accessibility. Then the partial order represents belief, w' >= w means w believes phi if w follows omega. The rest are poset relations.)
+	- How does one invent the last rule for world posets? (Hint: w does not believe in p, does not mean p is false, it just means w remains ignorant as to whether p is true.)
+	- How does one reinvent classical logic using world semantics? (Hint: one world means classical logic)
+	- How does one reinvent negation? Wha is the difference between the world not having A? (Hint: the symbol is reserved that there is no opinion as to whether A is true, not A means there is no possible compatible with w in which A is true, this is a much stronger statement.)
+	- How else can one amend world semantics without a partial ordeR? (Hint: pick world semantics to not use a partial order.)
+	- How does one think about decidability in world models? (Hint: refuted by possible world model can be done using finitely many distinct possible world models)
+	- Why are Heyting algebras important in world models? (Hint: if the underlying poset is a Heyting algebra, this will validate all constructive theses, so classical logic correspond to Boolean algebra, and constructive logic correspond to Heyting algebras)
+	- How does one invent the negative interpretation of classical logic? (Hint: the idea is that constructive logician sees A or B as we can prove A or we can prove B, but classically one gets a weaker statement as "it is not true that A and B are both false". So, constructive logicians see classical statements as putting in enough negations.)
+	- How does one invent the definition of a stable formula? (Hint: you get not phi* -> phi, so you can have the lemma, any formula built up by negated and doubly negated atomics is stable, then use not not not A -> not A, then some other mass implication and lambda-terms to do this.)
+	- Why are there many distinct definitions of finiteness? (Hint: axiom of choice, Kuratowski is finite i.e. union by finite singletons, or N-finite by x being N-finite, y not in x then x union {y}, the basic idea is finite is a sort of poisoning) N-finite needs distinction, Kuratowski finite doe not have law of excluded middle. 
+	- Why is there differences in nonempty set? (Hint: inhabited guarantees existence of an element y but nonempty only have negation.)
+	- How does one come up with the definition of a universal theory? (Hint: axioms does not have quantifiers in the middle. Groups rings and modules are universal theories.)
+	- Why is it important that substructures being a model implies that we have a model of universal theory? (Hint: correspondence between syntax and semantics.)
+	- How does one come up with the definition of a diagram for a theory? (Hint: one has a language and a structure, then add a constant symbol for each x in the structure of the language, take axioms to be all quantifier-free sentences then one has a model.)
 
 https://dec41.user.srcf.net/h/III_M/symmetries_fields_and_particles/full, symmetries in physics
 	- Why the definition of a group in physics? (Leave physical laws invariant, noting that gauge fields are uniquely specified by the gauge symmetric group it works with).
@@ -59,7 +86,7 @@ https://dec41.user.srcf.net/h/III_M/symmetries_fields_and_particles/full, symmet
 	- What are gauge theories? (Hint: these are theories that obey symmetry conditions, and therefore interactions come up automatically)
 	- What is required to invent the definition of a smooth map? (Hint: partial derivatives of all orders exist?)
 	- What is the definition of a manifold, what are the ingredients that go into it? (Hint: Dimension, collection of subsets, collection of bijections to R^n as charts).
-	- How does one invent the notion of the chart? (Hint: you basically want a map from phi_B of the intersection to phi_A of the intersection of the transition function to be smooth. This is the compatibility condition.
+	- How does one invent the notion of the chart? (Hint: you basically want a map from phi_B of the intersection to phi_A of the intersection of the transition function to be smooth. This is the compatibility condition.)
 
 https://dec41.user.srcf.net/h/IB_E/optimisation, optimisation
 	- Why does one define constrained optimisation? (Hint: there are constraints to obey?)
@@ -84,7 +111,7 @@ https://dec41.user.srcf.net/h/III_M/hydrodynamic_stability/full
 	- Why when the temperature gradient is small, the heat transfer is due to conduction?
 	- Why is density hard to consider? (hint: density is affected by temperature)
 	- Why is vorticity important? (hint: tilted lead to naturally induced torque when there is an interface of two fluids with different densities)
-	- What is the Boussinesq approximation? How does one derived it? (Hint: density difference drives the motion, variation in density is small  enough to be ignored, so fix the case where density is constant except when g -> infty, but rho' -> 0 with remaining g rho' remaining finite.
+	- What is the Boussinesq approximation? How does one derived it? (Hint: density difference drives the motion, variation in density is small  enough to be ignored, so fix the case where density is constant except when g -> infty, but rho' -> 0 with remaining g rho' remaining finite.)
 	- Why does one reduce the gravity? (hint: normalise the density with the density)
 
 https://dec41.user.srcf.net/h/IB_E/variational_principles/full, variational principles, very close to variation principles.
@@ -98,3 +125,12 @@ https://dec41.user.srcf.net/h/IB_E/variational_principles/full, variational prin
 	- Why does nobody understand what is entropy? (Hint: not sure why it is the increment with temperature to give work)
 	- What is one method that resolves constrained optimisation? (Hint: Lagrange multipliers)
 	- What are the purpose of functionals? (Hint: find the "minimum" of the function)
+
+https://dec41.user.srcf.net/h/IA_L/analysis_i/full, analysis I 
+	- Why does one define a field? (Hint: to define what it means to be a number, a real number as well)
+	- Why does one care about totally ordered set? (Hint: you want a relation for all elements with one another)
+	- Why is there extra work for the definition of an ordered field? (Hint: you want the order to work nicely with the field?)
+	- How does one come up with the definition of supremum and infimum (Hint: take an ordered field and find the canonical representative of a finite set.)
+
+https://dec41.user.srcf.net/h/II_M/galois_theory/full
+	- What does Galois theory provide at first? (hint: whether a polynomial has a solution in terms of radical)
