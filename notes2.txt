@@ -39,6 +39,15 @@ https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- How does one compute A to be left Noetherian for A a left Artinian algebra (hint: Jacobsonr adical nilpotent, or M a finitely generated A-module, both left Artinian and left Noetherian).
 	- How does one come up or know that the Artin-Wedderburn theorem to be true? (Hint: map from A_A to End(A_A) sending A to left multiplication of A is isomorphism of algebras. Then, one uses Schur's lemma)
 
+https://dec41.user.srcf.net/h/III_L/advanced_quantum_field_theory/full, quantum field theory?
+	- Why is a space needed to be decided? (Hint: depends on domain, particle physics means pick pseudo-Riemannian manifold, (M, g) = R^4, eta, or eta is Minkowski metric, or pick R^3, delta, delta is flat Euclidean metric, in string theory, pick Riemann surface or sphere or torus, one just picks conformal equivalence class of metric i.e. metric up to scalar factor. QFT for knots one picks oriented 3-manifold but no metric. R^d is noncompact so bad)
+	- Why must one pick a scalar field? (Hint: field theory after all, field gives the gauge)
+	- What does one pick for the field? (Hint: pick M -> R, M as interval called time, and field ias M -> R^3 or paths in R^3). One can pick instead of R^3, pick a Calabi-Yau manifold, or pick fields with nonzero spin as connections on principal G-bundles with nontrivial representation of the Lorentz group.
+	- What is the next step after one picks a field? (Hint: pick C to be space of all field configurations like some moduli space, this is infinite dimensional, this makes it hard?)
+	- Why does one pick an action? (Hint: one wants a value for the field and for the action to be local sometimes so that there are no far field effects, but this is a VERY suspicious assumption. One also wants to apply some sort of Noether's theorem to it.)
+	- Why does one compute the partition function and why si there a minus sign? (Hint: this is where harmonic analysis can come in, Euclidean signature gives - sign, otherwise it will be some i, partition function allows you to do harmonic analysis, in fact it is Z = int D phi exp(-S[phi] h), the factor exp is the suppress wild contributions using analysis, D phi is the entropy but problem is that this does not have a good measure. This is the hard part of quantum field theory.)
+	- Why does one study quantum field theory in 0 dimensions? (Hint: it is fully rigorous and solved.)
+
 https://dec41.user.srcf.net/h/III_L/riemannian_geometry/full, Riemannian geometry
 	- Why does one need coefficients for a vector field to form as linear combination giving X i.e. X = sum of X^k d/dx^k. How does one write out the same thing for a tensor field (hint: take tensor product of all d/dx^k_1 tensor dx^l1. My intuition is that dx gives small part of mass i.e. there is some sort of measure? Why do we care about the coefficients of a tensor field and how does one invent this notation?
 	- What is the implicit summation notation and why is it use? Why care about convectors to a vectors.)
