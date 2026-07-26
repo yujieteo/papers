@@ -64,6 +64,15 @@ https://dec41.user.srcf.net/h/III_L/advanced_quantum_field_theory/full, quantum 
 	- Why does one pick an action? (Hint: one wants a value for the field and for the action to be local sometimes so that there are no far field effects, but this is a VERY suspicious assumption. One also wants to apply some sort of Noether's theorem to it.)
 	- Why does one compute the partition function and why si there a minus sign? (Hint: this is where harmonic analysis can come in, Euclidean signature gives - sign, otherwise it will be some i, partition function allows you to do harmonic analysis, in fact it is Z = int D phi exp(-S[phi] h), the factor exp is the suppress wild contributions using analysis, D phi is the entropy but problem is that this does not have a good measure. This is the hard part of quantum field theory.)
 	- Why does one study quantum field theory in 0 dimensions? (Hint: it is fully rigorous and solved.)
+	- For a 0 dim quantum field theory, what happens when one assume that the universe is connected?
+	- Compute the Lorentz group of a connected 0 dimensional universe?
+	- Compute the scalar field for a connected 0 dimensional universe?
+	- Compute the action and the partition function of a 0 dimensional scalar field? Compute the path integral measure for the partition function? (hint: Lebesgue measure)
+	- Compute the correlation functions (why is this important? Hint: one can get a probabbility distribution on R)
+	- Why does one compute the series expansion in phi?
+	- How does one compute the QFT on the 0 dimensional quantum field theory? (Hint: take equations of motions to be linear, superposition, particles do not interact, one gets the partition function to be a Gaussian integral)
+	- How does one compute this partition function for a simplest QFT of 0 dim unierse? (Hint: Gaussian integral, symmetric, take orthogonal transformation that diagonalsies it, d^n phi is invariant, in terms of eigenvectors, using rep theory reduces to product of 1D Gaussian integrals, one can then compute Wick's theorem i.e. reduce to computation of integral for correlation function to combinatorics of counting thenumber of ways to pair things up.)
+	- Why does Taylor series expansion of partition functions come in? (Hint: integral diverges, need to have asymptotic series instead, then one use's Laplace's method / Watson's lemma.) This motivates the semiclassical term and quantum corrections from the asymptotic series?
 
 https://dec41.user.srcf.net/h/III_L/riemannian_geometry/full, Riemannian geometry
 	- Why does one need coefficients for a vector field to form as linear combination giving X i.e. X = sum of X^k d/dx^k. How does one write out the same thing for a tensor field (hint: take tensor product of all d/dx^k_1 tensor dx^l1. My intuition is that dx gives small part of mass i.e. there is some sort of measure? Why do we care about the coefficients of a tensor field and how does one invent this notation?
@@ -133,15 +142,7 @@ https://dec41.user.srcf.net/h/III_L/logic/full, logic
 	- How does one come up with the definition of a universal theory? (Hint: axioms does not have quantifiers in the middle. Groups rings and modules are universal theories.)
 	- Why is it important that substructures being a model implies that we have a model of universal theory? (Hint: correspondence between syntax and semantics.)
 	- How does one come up with the definition of a diagram for a theory? (Hint: one has a language and a structure, then add a constant symbol for each x in the structure of the language, take axioms to be all quantifier-free sentences then one has a model.)
-	- For a 0 dim quantum field theory, what happens when one assume that the universe is connected?
-	- Compute the Lorentz group of a connected 0 dimensional universe?
-	- Compute the scalar field for a connected 0 dimensional universe?
-	- Compute the action and the partition function of a 0 dimensional scalar field? Compute the path integral measure for the partition function? (hint: Lebesgue measure)
-	- Compute the correlation functions (why is this important? Hint: one can get a probabbility distribution on R)
-	- Why does one compute the series expansion in phi?
-	- How does one compute the QFT on the 0 dimensional quantum field theory? (Hint: take equations of motions to be linear, superposition, particles do not interact, one gets the partition function to be a Gaussian integral)
-	- How does one compute this partition function for a simplest QFT of 0 dim unierse? (Hint: Gaussian integral, symmetric, take orthogonal transformation that diagonalsies it, d^n phi is invariant, in terms of eigenvectors, using rep theory reduces to product of 1D Gaussian integrals, one can then compute Wick's theorem i.e. reduce to computation of integral for correlation function to combinatorics of counting thenumber of ways to pair things up.)
-	- Why does Taylor series expansion of partition functions come in? (Hint: integral diverges, need to have asymptotic series instead, then one use's Laplace's method / Watson's lemma.) This motivates the semiclassical term and quantum corrections from the asymptotic series?
+	- How does one invent the negative interpretation of classical logic into constructive logic due to Godel? (Hint: the idea is to apply the doubel negation everywhere?)
 
 https://dec41.user.srcf.net/h/III_M/symmetries_fields_and_particles/full, symmetries in physics
 	- Why the definition of a group in physics? (Leave physical laws invariant, noting that gauge fields are uniquely specified by the gauge symmetric group it works with).
