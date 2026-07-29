@@ -16,19 +16,19 @@ https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- Why the definition of k-algebra? (Hint: don't need product to be commutative, m(x otimes y) = xy, so it is a k-vector with a linear map A otimes A to A called the product map, and a linear map u: k -> A which is the unit map. u(1) is identity of the multiplication.)
 	- Why is K a k-algebra for K/k a finite field extension.
 	- Why do we care about skew fields?
-	- Why do we care about ideals? (Hint: use to define Artinian rings, left ideals as k-subspaces such that x in A, y in I i.e. x is coefficient, then xy in I, right ideal is yx in I. An ideal is an left ideal and right ideal.)
+	- Why do we care about ideals? (Hint: use to define Artinian rings, left ideals as k-subspaces such that x in A, y in I i.e. x is coefficient, then xy in I, right ideal is yx in I. An ideal is an left ideal and right ideal. This way you do not need that the algebra be finite dimensional)
 	- Why do we care about the group algebra kG to be the set of linear combinations for lambda_g in a field, and g an element in a group G. These are group algebras and there are lots of examples of group algebras.
 	- Why do we care about the Artinian algebras? (Hint: there is a finite dimensional conditions on the ideals? The descending chain condition I_1 >= I_2 >= ...)
 	- Why does one care about the Artin-Wedderburn theorem? (Hint: it classifies all left-Artinian algebra with the condition that the intersection of maximal left ideals is 0, then it si the direct sum of finitely many matrix algebras over the division algebra. Artinian if left and right Artinian.)
 	- Why care about the Maschke's theorem? (Hint: it means the hypothesis of the Artin-Wedderburn theorem holds, i.e. group algebra has a constraint).
-	- Why does all finite dimensional algebras are Noetherian?
+	- Why are all finite dimensional algebras are Noetherian? (hint: you construct left ideals, finitely many?)
 	- Why are polynomial algebras and power series rings are Noetherian?
 	- Why doe sone care about universal enveloping algebra? (Hint: associative algebra that underpins the representation theory fo Lie algebras)
-	- Why does one care about Weyl agebra? (Hint: example of noncommutative Noetherian algebra, char k = 0, operators multiplication by X and differentiate with respect to X, to form Weyl algebra).
-	- Why in the commutative case, we look at the spectrum of pruime ideals? This gives the theory of algebraic geometry.
-	- Why do we care aobut Goldie's theorem? (Hint: Artin-Wedderburn conditions for Noetherian algebras, i.e. A is a right Noetherian algebra with no nonzeo ideals all of whose elements are nilpotent, then A embeds in a finite direct sum of matrix algebras over divisions algebras.)
+	- Why does one care about Weyl algebra? (Hint: example of noncommutative Noetherian algebra, char k = 0, operators multiplication by X and differentiate with respect to X, to form Weyl algebra).
+	- Why in the commutative case, we look at the spectrum of prime ideals? This gives the theory of algebraic geometry.
+	- Why do we care about Goldie's theorem? (Hint: Artin-Wedderburn conditions for Noetherian algebras, i.e. A is a right Noetherian algebra with no nonzero ideals all of whose elements are nilpotent, then A embeds in a finite direct sum of matrix algebras over divisions algebras.)
 	- Why can we think of Noetherian algebras (some types) are deformations of analogous commutative algebra. (Hint: A_1 is deformation algebra, instead of thinking of [X,Y] = 0, think of [X,Y]=1, so it is the deformation for the polynomial algebra. One can deform)
-	- How does one invent Hochschild cohomology? (Hnt: think of deformations of noncommutative algebras, get a non commutative power series, then one invents the Hochschild cohomology.)
+	- How does one invent Hochschild cohomology? (Hint: think of deformations of noncommutative algebras, get a non commutative power series, then one invents the Hochschild cohomology by trying to deform noncommutative algebra so that it remains associative.)
 	- What is one example to think of a right Artinian and non left Artinian over Q algebra. (Hint: come up with [r s ; 0 t] algebra then uses [0 s ; 0 0], one gets R as a Q-vector space that is infinite dimensional, one gets an infinitely strictly descending chain of ideals contained in I.)
 	- How does one invent modules? (Hint: let an algebra, then take left vector space over it with the bilinear map from a tensor product.)
 	- How does one invent bimodules? (Hint: left A-module and right A-module, two actions commute.)
@@ -39,22 +39,22 @@ https://dec41.user.srcf.net/h/III_L/algebras/full, algebras
 	- How does one prove the existence of a maximal proper submodule M' for M finite generated A-module (Hint: finiteness required for minimal generating set, then take -1 using proper submodule, proper if does not contain m_k under increasing unions, apply Zorn's)
 	- How does one come up with the definition of the Jacobson radical? (Hint: want to see how far it deviates from a semisimple rings i.e. A / J(A) is always semisimple, simple algebras are semisimple because the Jacobson radical is an ideal, and it is not A).
 	- How does one invent Nakayama's lemma? (Hint: G = 1 + I, Jacobson's radical is the largest ideal satisfyin 3 i.e. G = {1 + a, a in I} = 1 + I is subgroup of the unit group of A, this is so that one can invent the definition of semisimple, algebra is semisimple if it has trivial Jacobson radical.)
-	- How does one invent the statements of Nakayama's elmma and why they are true? (Hint: left ideal if I <= J(A), equivalent to fg left A-module, if IM = M, then M = 0).
+	- How does one invent the statements of Nakayama's lemma and why they are true? (Hint: left ideal if I <= J(A), equivalent to fg left A-module, if IM = M, then M = 0).
 	- How does one decompose a left A-module? (Hint: consider e_i be 1 in i-i-th entry and 0 everywhere else, use idempotence and then consider these are all left and right ideals respectively for M_n(k), only ideals are 0 and A and admits decomposition into simple module)
 	- Why are completely reducible modules closed under sums, submodules and quotients and products? (Hints: sums follow from definitions, submodules can be done by taking  M completely reducible, N <= M, then S in N.)
-	- Why do we need to generalize the Jacobson radical (intersection of all left ideals) to radials, or intersection of all maximal submodules of M (hint: prove that left Artinian algebra is completely reducible over itself if it is semisimple, so radicals work for modules, Jacobson radical works for left Artinian algebras.)
+	- Why do we need to generalize the Jacobson radical (intersection of all left ideals) to radicals, or intersection of all maximal submodules of M (hint: prove that left Artinian algebra is completely reducible over itself if it is semisimple, so radicals work for modules, Jacobson radical works for left Artinian algebras.)
 	- What can one do with definition of radical? (Hint: define completely reducible by proposition if intersection of all maximal submodules is trivial).
 	- What corollaries does one get from the radical implying completely reducible? (Hint: semisimple left Artinian algebra, aA is completely, reducible and every left A-module is completely reducible).
 	- When does the Jacobson radical work for A. a non semisimple left Artinian algebra? (Hint: let A b e left Artinian, M a fg left A-module, then J(A) M = Rad(M) or the uing the Jacobson radical as the coefficient system for the module M gives the radical of the non-semisimple left Artinian algebra).
-	- How does one compute A to be left Noetherian for A a left Artinian algebra (hint: Jacobsonr adical nilpotent, or M a finitely generated A-module, both left Artinian and left Noetherian).
-	- How does one come up or know that the Artin-Wedderburn theorem to be true? (Hint: map from A_A to End(A_A) sending A to left multiplication of A is isomorphism of algebras. Then, one uses Schur's lemma to show that for each matrix ring of the divison ring decomposed one gets isomorphism of factors to the matrix ring.)
-	- How does one think up the statement of the right handed Artin-Wedderburn theorem? (Hint: A be semisimple right artininan algebra, it has canonical decomposition to matrix rings over division algebras with unique factorisation, and has exactly r isomorphism classes of simple right modules S_i and endomorphism rings of these S_i are isomorphic to these division algebras with and the dimension fo these right modules give the dimension of the division algebras, if A is simple, then r = 1 i.e. 1 simple right module.)
+	- How does one compute A to be left Noetherian for A a left Artinian algebra (hint: Jacobson radical is made nilpotent, or M a finitely generated A-module, both left Artinian and left Noetherian).
+	- How does one come up or know that the Artin-Wedderburn theorem to be true? (Hint: map from A_A to End(A_A) sending A to left multiplication of A is isomorphism of algebras. Then, one uses Schur's lemma to show that for each matrix ring of the division ring decomposed one gets isomorphism of factors to the matrix ring.)
+	- How does one think up the statement of the right handed Artin-Wedderburn theorem? (Hint: A be semisimple right artininan algebra, it has canonical decomposition to matrix rings over division algebras with unique factorisation, and has exactly r isomorphism classes of simple right modules S_i and endomorphism rings of these S_i are isomorphic to these division algebras with and the dimension for these right modules give the dimension of the division algebras, if A is simple, then r = 1 i.e. 1 simple right module.)
 	- How does one reinvent the left version of the Artin-Wedderburn theorem? (Hint: use opposite algebras)
 	- How does one come up with the truth and the statement of Schur's lemma? (Hint: either they are equal or homs between them are trivial if they are simple, if M is simple A-module, then endomorphism ring is division algebra, prove is by injective as kernel is submodule so kill off everything, image is whole thing since image is submodule, isomorphism else homs are empty)
 	- How does one extend Wedderburn-Artin theory from semisimple algebras to general right Artinian algebras? (Hint: kill of Jacobson radical)
 	- How does one come up with the definition of group algebras? (Hint: coefficients a field, eigenvectors a group, take tensor product and bilinear map down to the field, one gets a group algebra)
-	- How does one know Maschke's theorem mus tbe true? (Hint: take coefficient of group algebra k to be of characteristic prime not dividing the group, one gets a semisimple algebra or kG semisimple. Proof is via submodule V of kG-module U has a complement to get the semisimplicity, one uses the projection to be averaged and the fact that p does not divide the order of the group here.)
-	- What additional condition is required for converse of Maschke's theorem? (Hint: G must be finite group, then use Artin-Wedderburn).
+	- How does one know Maschke's theorem must be true? (Hint: take coefficient of group algebra k to be of characteristic prime not dividing the group, one gets a semisimple algebra or kG semisimple. Proof is via submodule V of kG-module U has a complement to get the semisimplicity, one uses the projection to be averaged and the fact that p does not divide the order of the group here.)
+	- What additional condition is required for converse of Maschke's theorem? (Hint: G must be finite group, then use Artin-Wedderburn, only one summand of kG-module S in kG by Artin-Wedderburn using finite division algebra, then consider two ideals of kG< this is two sided ideal, consider centre of algebra, one have char k | order of G for sake of contradiction, center is contained in some ideal of kG, write it as two possible decompositions of same dimension (kG/I_1 oplus I_1 = kG/I_1 oplus I_2 oplus ... contradiction via Schur's lemma, so char k does not divide G).
 
 https://dec41.user.srcf.net/h/III_L/advanced_quantum_field_theory/full, quantum field theory?
 	- Why is a space needed to be decided? (Hint: depends on domain, particle physics means pick pseudo-Riemannian manifold, (M, g) = R^4, eta, or eta is Minkowski metric, or pick R^3, delta, delta is flat Euclidean metric, in string theory, pick Riemann surface or sphere or torus, one just picks conformal equivalence class of metric i.e. metric up to scalar factor. QFT for knots one picks oriented 3-manifold but no metric. R^d is noncompact so bad)
@@ -161,6 +161,28 @@ https://dec41.user.srcf.net/h/IB_E/optimisation, optimisation
 	- Why is this definition of a positive semidefinite Hessian convex set exist? (Hint: positive semidefinite Hessian, v^T H v >= 0 for all v in R^n)
 	- What is the purpose of Morse homology (hint: local minima fails to be global minima, graded by number of negative eigenvalues of the Hessian)
 	- Why is the Lagrangian used to solve constrained maximisation? (Hint: Lagrangian sufficiency, key step in the prove is to define the feasible set. Want to minimise f without restriction i.e. no more further first order change, but we are constrained by forcing x to lie on path h(x) = b. Need del f * dx = 0, del f is perpendicular to dx or parallel to normal to the path. Therefore, one gets Lagrange multipliers i.e. you cannot move into other paths.)	
+
+https://dec41.user.srcf.net/h/IB_M/linear_algebra/full
+	- How does one invent the notion of a vector space? (Hint: add two vectors together and multiply by some scalar)
+	- What is one super interesting example of vector spaces? (Hint: truncated generating functions)
+	- How does one construct a vector space? (Hint: scalar function from F x V -> V, V is an additive abelian groups)
+	- What are the issues with notions of coordinate, length, angle or distance for a general vector space? (Hint: these are not intrinsic to the definition of a vector space)
+	- What else does one typically invent when it comes to vector spaces? (Hint: subspace, quotient spaces, and linear independence?)
+	- How does one invent the standard basis? (Hint: take the example of everything in R^n can be written uniquely as a sum of scalar multiples of basis elements, one wants to prove this and be able to define DIMENSION)..
+	- What is the issue with the notion of dimension in modules? (Hint: not all modules have a basis, so it is a lot harder to have the definition of dimension)
+	- How does one come up with the definition of a span? (Hint: you want every element in the vector space to be written uniquely as a sum of scalar multiples of basis elements, so the span of a subspace is define as how one can take scalar multiples of elements)
+	- Why does one not define infinite sums for spans? (Hint: convergence is not well defined in a general vector space without some careful analysis.)
+	- How does one come up with the notion of linear independence? (Hint: can conclude scalars are 0 if linear combination is 0)
+
+https://dec41.user.srcf.net/h/IB_M/markov_chains/full, Markov chains
+	- Why does one care about the notion of Markov chains? (Hint: dependent variables without assuming anything about it, simplest example is where the next position depends on the previous. Future only depends on the current state, and not how we got to the current state)
+	- How does one define a Markov chain or invent the definition? (Hint: take pullbacks from a state space, state space countable, then define conditional probabilities based on the entries of the Markov chain i.e. Markov property where next position is conditional only on the previous).
+	- How does one define a homogenous Markov chain? (Hint: it does not depend on the value of n)
+	- How does one come up with the two important properties that specify a Markov chain? (Hint: initial distribution sets all the possibilities. These are vectors i.e. distributions. Another thing is transition probabilities? Actually, I am not sure how does one invent these two notions as the central or correct ones?)
+
+https://dec41.user.srcf.net/h/IB_M/methods/full, methods
+	- Why do people model stuff linearly? (Hint: it is simpler, however quantum mechanics and Schrodinger's euqation is inherent linear)
+	- Why do one think of the space of functions as a vector space? (Hint: when dealing with periodic functions, pick basis elements which are periodic)
 
 https://dec41.user.srcf.net/h/III_M/hydrodynamic_stability/full
 	- Why is hydrodynamic stability interesting? (Hint: studying how small perturbations grow, so this is a good test ground. One can look at how shear and fluid inertia, vorticity can lead to transition to turbulence and stability considerations?)
