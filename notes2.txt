@@ -1,7 +1,7 @@
 https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular forms and L-functions
-	- What is the Langlands program and why? (Hint: representations of the Galois group and elliptic curves over Q are related to automorphic forms and representation)
+	- What is the Langlands program and why? (Hint: representations of the Galois group and elliptic curves over Q are related to automorphic forms and Galois representations)
 	- What is a Dedekind eta function? (Hint: eta(z+1) = exp(root of unity working thing) eta(z), and eta(-1/z) = root(z/i) eta(z))
-	- How does one invent the L-series? (Hint: generalise the Riemannn zeta function)
+	- How does one invent the L-series? (Hint: generalise the Riemann zeta function)
 	- How does one study L-series? (Hint: one can do it the classical way using analysis, the other is to use a cohomological approach via class field theory.)
 	- How does one invent the Fourier transform? (Hint: expand f using an exponential basis of roots of unity i.e. exp(2 pi i yx))
 	- How does one invent R and R/Z? (Hint: these are abelian topological groups, and are continuous group homomorphism to U(1) in C, this is useful in gauge theory)
@@ -17,7 +17,7 @@ https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular 
 	- How does one invent the Fourier inversion formula? (Hint: in logic you want double negation, take double dual of f, you get f(-x))
 	- How does one invent the Fourier inversion formula for G = R/Z? (Hint: you take the basis to be characters via the Fourier series so the Fourier transform changes sign from - to + because the negative sign in the Fourier transform is pullback from U(1) to G = R/Z as an abelian topological group, so it is simply linear combination with characters as basis elements)
 	- How does one prove the Fourier inversion formula for f: Z/NZ -> C? (Hint: start with Dirac delta function as a basis for f i.e. delta_a is orthogonal for x = a, take Fourier transform, one gets the Fourier transform on roots of unity to be geometric Frobenius or zeta^{-a}, RHS is 1/N sum zeta(x-a) then use the fact that sum of zeta^j is N if k = 0 mod N.)
-	- What is a Haar measure? How does one invent it? (Hint: one wants to work with Fourier transform and not worry about noncommutative, pick left translation invariant [Fourier transform] Borel measure on the group with regularity conditions, like being finite on compact sets)
+	- What is a Haar measure? How does one invent it? (Hint: one wants to work with Fourier transform and not worry about non-commutative, pick left translation invariant [Fourier transform] Borel measure on the group with regularity conditions, like being finite on compact sets)
 	- Why does one care about Haar measure? (Hint: Haar measure exists for locally compact abelian group G up to scaling)
 	- How does one compute the Haar measure of R, G discrete group, and G multiplicative group positive reals? (Hint: Lebesgue measure, counting measure, and int f(x) dx/x, invariant under multiplication of x by a constant)
 	- How does one invent the notion of a Fourier inversion formula? (Hint: you want the double dual of the Fourier transform of f(g) to give -f(g) due to complex number up to a constant, and this is a canonical isomorphism. The constant is necessary due to the fact that measures are defined up to a constant)
@@ -27,7 +27,7 @@ https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular 
 	- How does one invent the Mellin transform? (Hint: use the fact that dx/x is invariant under multiplication by x when one defines a Haar measure, so use y^s f(y) dy/y) for a f: R>0 -> C knowing what you know about the Haar measure). So the Mellin transform is an incarnation of the Fourier transform, and in fact it is an analytic continuation of the Fourier transform.
 	- How does one invent a gamma function? (Hint: take the Mellin transform of exp, which is the factorial sort of, therefore the gamma function is a analytic continuation of the factorial)
 	- How does one come up with Mellin transforms as a technique in number theory? (Hint: a lot of Dirichlet series appears as MEllin transforms of some functions, one writes the 1/2pi^-s Gamma(s) 
-	* Dirichlet series ot be a Mellin transform of some f and s, where f(y) is a Fourier series, one can study analysis M(f,s) with the analytic properties of the gamma function to deduce the Dirichelt series)
+	* Dirichlet series ot be a Mellin transform of some f and s, where f(y) is a Fourier series, one can study analysis M(f,s) with the analytic properties of the gamma function to deduce the Dirichlet series)
 	- How does one invent the Riemann zeta function? (Hint: pick Dirichlet series, all coefficients of a_n = 1.)
 	- How does one invent the Euler product formula? (Hint: write out the geometric series of p^{-s} and one gets the product at all primes using unique factorisation in Z and be careful about convergences, one can then use it to connect the zeta function with the distribution of primes)
 	- How does one write the zeta function as a Mellin transform? (Hint: multiply it by Gamma(s)/(2pi)^-s, then pick f(y) = 1/exp(2 pi y) - 1).
@@ -57,7 +57,7 @@ https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular 
 	- How does one invent the notion of a modular form? (Hint: weight k, f|gamma = f, for all gamma in Gamma, how does one invent f is holomorphic at cusps of Gamma, if vanish at the cusps, these are cusp forms)
 	- Why does one care that modular forms are cusp forms? (Hint: constant term of modular form is -, this is useful since one can just have n >= 1 in the Laurent expansion or q-expansion of the modular form)
 	- Why does one care about weak modular forms? (Hint: it is meromorphic at infinity)
-	- Why does one care about the main class of modular forms, Eisenstein series? (Hint: theory of elliptic functions, these are Eisenstein seriesm simplest and most useful, one wants normalised Eisenstein series as well and it appears in elliptic coefficients when one expands the Weierstrass p-function)
+	- Why does one care about the main class of modular forms, Eisenstein series? (Hint: theory of elliptic functions, these are Eisenstein series. These are the simplest and most useful, one wants normalised Eisenstein series as well and it appears in elliptic coefficients when one expands the Weierstrass p-function)
 	- How does one generalise Eisenstein series? 
 	- How does one invent theta function sas a modular form?
 	- How does one do Hecke theory for Gamma_0(N) (Hint: work with the key case of Gamma_1(N), modular form of level 1 is q-expansion, if we have Hecke eigenform, just need Hecke eigenvalues or values of a_p, this is multiplicity 1, modular forms is fd, depend on finitely many coefficients, but not enough, you need strong multiplicity one theorem)
@@ -232,7 +232,7 @@ https://dec41.user.srcf.net/h/III_L/advanced_quantum_field_theory/full, quantum 
 	- What is a simple example of manifesting correlators? (Hint: complex field, transformation by exp(ia), a in R/2 pi Z, conjugate field transforms and suppose it preseres action and measure, symmetry gives vanishing correaltors, each propagator joins up a phi and phi bar, if not equal, cannot draw, so must vanish)
 	- How does one derive Ward's identity? (Hint: infinitesimal transformation as hypothesis, symmetric when phi is constant, then write down the correlator function, 0-th order cancels, then introduce delta functions, one gets the Ward identity, which says that the vector field is divergence free except at the insertins of x_i, one can recover invariance of correlations by supposing M compact no boundary, integrate the Ward identity, use Stoke';s theorem, integral of divergence term vanishes)
 	- How does one invent renormalisation? (Hint: study quantum field theory described by action, but theory is not tested on high energy scales, previously one integrates out high energy particles. For compact universe, Laplacian has discrete eigenvalues, flat torus then Laplacian lie on a lattice, cutoff means finitely many energy modes, so it is regularised. However this fails for noncompact universes.)
-	- How does one invent the notion of ifrared divergences?
+	- How does one invent the notion of infrared divergences?
 	- How does one split the field into low and high energy modes by cut off Gamma_0? (Hint: split the integral first and define it to phi and chi accordingly, then define the scale effective action)
 	- How does one invent the Wilsonian renormalisation group equation? (Hint: impose a cutoff on the integral, this can be done for any cut off, so it is a map from [0, Gamma_0] to the space of all actions, for any epsilon, can take scale Gamma action, and produce scale Gamma - epsilon effective action, Wilsoninan renormalisation group action, this is a group or monoid action on the space of actions.)
 	- What happens when you form a coupling constant of the renormalisation group equation? (Hint: the coefficients will still have to transform and shift, phi)
@@ -303,6 +303,55 @@ https://dec41.user.srcf.net/h/III_L/riemannian_geometry/full, Riemannian geometr
 	- Why does every compact Lie group admit a bi-invariant metric (hint: start with left invariant, integrate metric along all right translations, so compactness is needed for the result to be finite, we have SL(2,R) does not admit a bi-invariant metric).
 	- What is the purpose of the connection of a tangent bundle? (Hint: differentiate vectors or tensors of a manifold). For Riemannian manifolds, this is the Levi-Civita connection. We will assume uniqueness, it is compatible with the Riemannian metric and it is symmetric or torsion free i.e. del_X Y - del_Y X = [X, Y].
 	- Why do we need Christoffel symbols?
+
+https://dec41.user.srcf.net/h/III_L/symplectic_geometry/full
+	- Why does one care about symplectic vector space? (Hint: real vector space, non-degenerate skew symmetric bilinear map denoted Omega, from V x V -> R, you want it to be nondegenerate i.e. induced map from v to Omega(v, *) is bijective)
+	- How does one invent the standard form theorem? (Hint: need a basis, and do a skew symmetric version of Gram-Schmidt process, do induction on the dimension.)
+	- How does oen invent the invariants of (V, Omega), k = dim U where U is u in V such that Omega(u,v) = 0, then 2n = dim V - k or some sort of codim, 2n is rank of Omega, nondegeneracy is when k = 0.
+	- How does one invent the symplectic basis? (Hint: conditions that satisfy the standard form theorem, also every symplectic vector space is canonically isomorphic to its dual)
+	- How does one invent symplectic subspaces? (Hint: take subspace with nondegeneracy on Omega in W x W)
+	- How does one invent isotropic subspaces? (Hint: take subspac with 0 on Omega in W x W)
+	- How does one invent Lagrangian subspaces? (Hint: isotropic + dim W = 1/2 dim V recall the invariants of symplectic vector space)
+	- How does one invent symplectic manifold? (Hint: manifold dim 2n, 2-form omega that is closed i.e. d omega = 0, nondegenerate i.e. omega^^n nonzero, closedness is sort of motivated by classical mechanics, nowhere vanishing so it is a volume form)
+	- How does one give the volume for a compact symplectic manifold? (Hint: pair the volume form with fundamental class i.e. integrate it over manifold, you get a volume, and it is nonzero in the H^2n de Rham cohomology using wedge, one then proves that if you get trivial de Rham cohomology in dim 2k for some k < n, no symplectic structure, one proves this by appealing to Stoke's theorem)
+	- How does one invent symplectomorphisms? (Hint: take f* omega_2 = omega_1, f* diffeomorphisms)
+	- How does one invent the notion fo strongly isotopic? (Hint: isotopy from one to another, family of symplectic forms omega_t that start with omega_0 and end with omega_1, cohomology class [omega_t] is independent on choice of t, t time)
+	- How does one invent the notion of deformation equivalent? (Hint: can deform on interval)
+	- How does one prove that when M is compact, isotopic implies strongly isotopic? (Hint: express condition of strong isotopy as differential equation, then use ODE theory or Cartan's magic formula and solve Moser's equation using the fact that omega_t is non-degenerate).
+	- How doe sone invent relative Moser's theorem? (Hint: worjk on the level of relative neighbourhoods with compactness condition, X in M compact manifold, omega_0 and omega_1 on M agree on X, take neighbourhoods and diffeomorphism, require that compactness, nondegeneracy on small tubular neighbourhood, then work in first de Rham cohomology in U_0 in the diffeo U_0 -> U_1, solve Moser's equation after supposing omega_1 - omega_0 = dmu is such that mu vanishes on X by translation.)
+	- How does one invent and prove Darboux theorem? (Hint: always pick coordinate charts that looks like standar dsymplectic form i.e. let M, omega be symplectic manifold, p in M, there is a chart in which omega = sum dx_i wedge dy_i, write at p, then relative Moser promotes this to hold in neighbourhood of p, this is important since one can prove that we all work globally for symplectic geometry?)
+	- Why does one care about a cotangent bundle of manifold X? (Hint: physics, X is config space, M = T* X is phase space, there are tautological 1-forms and it is constructed that sections X -> T*X then s alpha = mu by construction, symbol pushing gives the proof, and one has a canonical symplectic form by Darboux's theorem)
+	- Why does one care about symplectomorphisms coming as lifts fo diffeomorphisms iff g* alpha = alpha?
+	- Why does one care about Lagrangian submanifolds? (Hint: to solve the problem of when is a diffeomorphism a symplectomorphism? f is symplectomorphism iff T_F is Lagrangian submanifold of M_1 x M_2, omega_tilde which is the twisted product form when one constructs product for using projections. One proves this by direct computation, this also motivates the twisted symplectic forms and twisted product forms.)
+	- How does one invent the notion of Lagrangian submanifolds? (Hint: M, omega symplectic, L in M submanifold, T_p L is Lagrangian subspace of T_p M, restriction of omega to L vanishes, and dim L = 1/2 dim M, but why?)
+	- How does one invent the notion of a generating function of a Lagrangian submanifold? (Hint: to prove the conditions necessary for symplectomorphisms)
+	- How does one produce Lagrangian manifolds from symplectic manifolds? (Hint: pick generating funtion on C^\inf(X_1 x X_2), then df is closed form on th eproduct, one can construct the Lagrangian submanifold)
+	- Why does one care about periodic point problems? (Hint: M, omega symplectic manifolds, omega: M -> M a symplectomorphism, n-periodic point means n-th power of x = x fixed point probelems are important)
+	- Why does one care about the neighoburhoods of the identity? (Hint: set of fixed points is diagonal cap graph of the phi of symplectomorphism, graph id_M is diagonal)
+	- How does one invent the Lagrangian neighbourhood theorem? (Hint: tubular neighbourhood theorem)
+	- Why does one care about the Whitney extension theorem?
+	- How does one prove that for compact symplectic manifold with trivial first de Rham cohomology, symplectomorphsims sufficiently closed to the identity have at least two fixed points.
+	- Why does one care about complex vector space? (Hint: study real vector space with linear endomorphism i.e. multiplication by i)
+	- How does one define a comaptible complex structure? (hint: take symplectic vector space, V Omega, J complex structure, compatible if G_J(u,v) = Omega(u, Jv) is inner product, need Oemga(Ju, Jv) = Omega(u,v) and Omega(v, Jv) >= 0, equality iff v = 0)
+	- Why does one care about a polar decomposition for standard inner products? (Hint: canonical construction from an inner product, a compatible complex structure J on V,Omega for symplectic vector space)
+	- WHy does one prove that space of all compatible complex sturcutre is path connected? (Hint: use convex combination on inner products as a smooth family on V, polar decomposition gives path homotopy, in fact this has trivial homotopy group ie. contractible)
+	- How does one invent the notion of an almost complex structure? (Hint: either start with Cauchy-Riemann equations, all smooth field of complex structures on tangent space such that J_p is automorphism on T_pM, J_p^2 = 1, this is canonical)
+	- How does one have an integrable almost complex structure? (Hint: induced by complex structure)
+	- What is a typical example of something with an almost complex structure but no complex structure? (Hint: CP^2 # CP^2 # CP^2)
+	- How does one invent a the notion of compatible almost complex structure? (Hint: J_p us tbe compatible with omega_p for all p in M via the relations ont he inner product using the definition of compatible complex structures)
+	- How does one prove that compatible almost complex structures admit a canonical construction? (Hint: take polar decomposition pointwise)
+	- Why does one care about symplectic manifold admitting almost complex strucuture? (Hint:  , so one can do symplectic manifolds all have a comaptible almost complex structure)
+	- How does one prove that intersection of any two of O(2n), Sp(2n,R) and GL(n,C) has U(n)? (Hint: two parts of compatible triple determines the third)
+	- How does one prove that J(M, omega) contracitlbe and deformation equivalent? (Hint: do convex combination on 2-for,ms)
+	- Why does one care about Gromov's theorem, existence of symplectic form in any 2-cohomology class?
+	- Why does one care about Dolbeault theory? (Hint: study how k-forms are holomorphic, or the degree of holomorphciity?)
+	- How does one find +-i eigenspaces? (Hint: complexify TM otimes C, extend J linearly, get T_1,0 for +i eigenspace, T0,1 for -i eigenspace, these are J-holomorphic and J antiholomorphic, get splitting TM otimes C -> T1,0 oplus T_0,1 get projection maps as w - iJw/2 and w + iJw/ 2)
+	- How does one do the k-th wedge decomposition of T*M oplus C? (Hint: just need p+q - k, give oplus Gamma^p,q, then Omega^k(M,C) are sections of Omega^k(T*M otimes C))
+	- How does one invent forms of type (p,q)? (Hint: take sections of wedge decomposition of Gamma^p,q, there are explicit decompositions done, or the decomposition of the Omega forms warning this is not the Hodge decomposition, Hodge decompsoition is decomposition of de Rham cohomology into Dolbeault cohomology)
+	- How does one invent the notion of J-holomorphic or J-antiholomorphic? (Hint: df = del f + del bar f, del bar f = 0 is J-holomorphic, where as del f is J-anti-holomorphic.)
+	- What is important about the Newlander-Nirenberg theorem? (Hint: gives keywords for J is integrable, i.e. del bar^2 = 0, del^2 = 0, d. = del + del bar, Nijenhuis torsion = 0, this gives the equivalent conditions for Kahler manifolds)
+	- How does one invent Dolbeault cohomology? (Hint: take cohomology using cochain complex of (p,q) forms, then kernel of q+1 map kill off image of q-1 map)
+	- How does one invent the notion of a Kahler manifold? (Hint: sy mplectic manifold with compatible INTEGRABLE almost complex structure, note that integrable is the rarer condition i.e satisfies condition of Newlander-Nirenberg)
 
 https://dec41.user.srcf.net/h/III_M/quantum_computation/full, quantum computation
 	- Why invent the halting problem? (Hint: show that there are some results that are not computable.)
