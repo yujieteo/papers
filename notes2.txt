@@ -8,6 +8,20 @@ https://zb260.user.srcf.net/notes/III/alggrp.pdf, topics in algebraic groups
 	- What is motivation for Kahler differentials? (Hint: take X smooth manifold, associate a tangent bundle, pullback to get tangent space for each point of X at x in X, define as R-linear maps D by derivations from C^\infty valued in R following chain rule, T_x X is collection of R-derivations, given C^\infty(X)-module by evaluation i.e. linear algebra over R, algebra this gets Kahler differentials.
 	- How does one invent cotangent spaces by taking Kahler differential Omega_A/k base change with k, for local k-algebra k, one gets m/m^2 for local k-algebra [A,m], prove this using surjection from m/m^2 to Kahler differential since Omega_k/k = 0, for other direction use induced map of k-derivation Der_k(R, m/m^2)).
 
+https://dec41.user.srcf.net/h/III_M/algebraic_topology_iii/full, algebraic topology
+	- Why are maps always continuous i.e. pullbacks are open on domain?
+	- How does one invent homotopy and homotopy equivalence? (Hint: continuous deformation, take projection of interval product with a space and then declaring homotopy exists)
+	- How is homotopy equivalence straightforward? (Hint: composition?)
+	- Why is dimension and cardinality a meaningless concept? (Hint: contractibility of R^n)
+	- How does one invent the genus? (Hint: the holes are preserved by homotopy equivalence? Assign groups to consider spaces up to homotopy)
+	- How does one invent the notion of a chain complex? (Hint: invariants are groups, enforce continuous maps between them with the condition that the boundary map of the boundary maps are 0.)
+	- How does one invent the notion of cochain complex? (Hint: take dual of complexes?)
+	- How does one invent homology? (Hint: compose every two maps to be 0 is linear behaviour, so the image of the second map is killed off, and contained in the kernel of the first map, how much is this killed off? One can invent homology by killing off as much of the kernel as you can, note that due to definition of boundaries, you kill off the kernel as much as you can.)
+	- How does one invent the notion of homology class? (Hint: homology exists as groups/modules, and hence have representative elements)
+	- How does one invent the notion of cycles? (Hint: these are the ones that vanish to 0 from the first map, and hence you can picture them literally as cycles i.e. they don't go anywhere.)
+	- How does one invent the notion of the boundary? (Hint: these are sent to 0 upon the next map i.e. the image of the boundary points)
+	- How does invent chain maps? (Hint: collection of homomorphisms to commute between chain complexes i.e. morphisms in a category for chain complexes)
+
 https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular forms and L-functions
 	- What is the Langlands program and why? (Hint: representations of the Galois group and elliptic curves over Q are related to automorphic forms and Galois representations)
 	- What is a Dedekind eta function? (Hint: eta(z+1) = exp(root of unity working thing) eta(z), and eta(-1/z) = root(z/i) eta(z))
