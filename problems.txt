@@ -2590,3 +2590,20 @@ https://ymsc.tsinghua.edu.cn/__local/7/B5/04/0890A5CE2893D5380292FD983CD_99A1AD7
     - (Page 3) Let K be a complete discrete valuation field extension of Q_p, K_\infty a totally ramified Z_p extension of K, let K_n bethe subfield of K_\infty corresponding to the closed subgroup p^n Z_p of Gal(K_\infty / K) = Z_p for any n in N.
 
 https://utrechtgeometrycentre.nl/wp-content/uploads/2025/07/six-functors-for-etale-groupoids.pdf, etale groupoids
+
+https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_on_Number_Theory_Geometry_Moonshine_and_Strings/Kim.pdf
+    - How does one invent scheme theory? (Hint: consider wanting to study spaces on rings, assign a ring a space, underlying set of prime ideals, A is the ring of function on SpeC(A). Each a in A of the ring determines a zero set, consisting of P such that A is in P, for P in Spec(A) ie. a mod P := Frac(A/P), basic closed set in Zariski topology on Spec(A), P is point in Spec(A), oto study quotients, easy take residue classes of [a mod P]. The image one has in mind is making multiples of P vanish in the kernel)
+
+https://swc-math.github.io/aws/2020/2020KimNotes1.pdf, Selmer schemes
+
+https://swc-math.github.io/aws/2020/2020KimLecture2Slides.pdf
+
+
+
+https://ncatlab.org/nlab/show/arithmetic+gauge+theory
+    - How does one invent arithmetic gauge theory? (Hint: basically one tries to do noabelian Chabauty and do higher homotopy on Galois theory, look at Galois representation i.e. Langlands, look at Galois representations, have gauge group or gauge field as the action. It is influenced by Selmer groups and Chabauty's method?)
+    - How does one invent group of gauge transformations? (Hint: structure group of G-bundles locally, or autos that global symmetry group on observables on QFT. Local version comes fom Yangs-Mills field.)
+    - How does one easily summarise what a guage field is in geometry? (Hint: principal bundles with connection, idea is to give rise to suitable moduli space of principal bundles with connections M(X,G), invariants of X, this is the moduli stack for G a compact Lie group or algebraic group, the moduli stack may consists of spacial of solutions to differential equations, it was tied closely to number theory.)
+    - What is hthe first moduli space of prinicpal bundles? (Hint: Jacobian of Riemann surface, complex torus target of Abel-Jacobi map, motivated by Mordell conjecture.)
+    - How does one find nontrivial information in a physcial theory? (Hint: encodes homotopy type of moduli space of configurations i.e. higher homotopy groups of infinity groupoids, infinitesimally one gets the BRST complex, symmetry is just not just a redundancy, 0-truncation forgettign all higher homotopy group, i.e. you decategorified the groupoid.)
+    - How does one define U-gauge groups? (Hint: K field of char 0, G_K be absolute Galois group, you want to do topology, so take gauge group over K is topological group U with continuous action of G_K, U-gague field is top space with compatible continous left G_K-action and simply transitive continuous right U action.)

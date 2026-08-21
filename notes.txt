@@ -5485,3 +5485,5 @@ https://www.cmu.edu/dietrich/philosophy/hott/seminars/slides/diliberti-slides.pd
 http://www-igm.univ-mlv.fr/~perrin/Recherche/Seminaires/Profinis/Slides/Seance1/profinite.pdf, topological semigroups in 19 slides
 
 https://web.ma.utexas.edu/users/dafr/CBMS133.pdf, Daniel S Fried on quauntum field theory in 195 pages
+
+https://arxiv.org/pdf/1712.07602, 29 pages on arithemtic gauge theory
