@@ -2595,10 +2595,11 @@ https://simonsfoundation.s3.amazonaws.com/share/mps/conferences/2017_Conference_
     - How does one invent scheme theory? (Hint: consider wanting to study spaces on rings, assign a ring a space, underlying set of prime ideals, A is the ring of function on SpeC(A). Each a in A of the ring determines a zero set, consisting of P such that A is in P, for P in Spec(A) ie. a mod P := Frac(A/P), basic closed set in Zariski topology on Spec(A), P is point in Spec(A), oto study quotients, easy take residue classes of [a mod P]. The image one has in mind is making multiples of P vanish in the kernel)
 
 https://swc-math.github.io/aws/2020/2020KimNotes1.pdf, Selmer schemes
+    - How does one invent the study of Diophantine geometry? (Hint: given polynomial equation of rational coefficients, where genus g = (d-1)(d-2)/2, study the set of X(Q) of rational solutions using geometry. The genus g = 0 gives spherical or positive curvature, g = 1 gives flat, g >= 2 gives hyperbolic or negative curvature, the geometry comes from the genus.)
+    - How does one solve spherical case for Diophantine geometry? (Hint: use class field theory and algerbaic geometry, idea is to study geometry of solutions in various completions, i.e. R, Q_2, Q_3...)
+    - How does one invent globalise? (Hint: idea is find solution in Q_2, Q_37, Q_59, Q_67 and R for 37x^2 + 59y^2 - 67 i.e. Hasse principle.)
 
 https://swc-math.github.io/aws/2020/2020KimLecture2Slides.pdf
-
-
 
 https://ncatlab.org/nlab/show/arithmetic+gauge+theory
     - How does one invent arithmetic gauge theory? (Hint: basically one tries to do noabelian Chabauty and do higher homotopy on Galois theory, look at Galois representation i.e. Langlands, look at Galois representations, have gauge group or gauge field as the action. It is influenced by Selmer groups and Chabauty's method?)
