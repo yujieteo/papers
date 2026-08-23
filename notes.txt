@@ -5487,3 +5487,7 @@ http://www-igm.univ-mlv.fr/~perrin/Recherche/Seminaires/Profinis/Slides/Seance1/
 https://web.ma.utexas.edu/users/dafr/CBMS133.pdf, Daniel S Fried on quauntum field theory in 195 pages
 
 https://arxiv.org/pdf/1712.07602, 29 pages on arithemtic gauge theory
+
+https://www.math.uni-hamburg.de/home/schreiber/sin.pdf, Urs Schrieber on supermanifolds, particularly using Berezin integrals
+
+https://www.its.caltech.edu/~matilde/Ma142Winter2024.html, Marcolli ODEs and PDEs course
