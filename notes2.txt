@@ -70,7 +70,10 @@ https://dec41.user.srcf.net/h/III_M/algebraic_topology_iii/full, algebraic topol
 	- How does one define pullback of vector bundles? (Hint: take fibre product such that postcomposition with y gives vector bundle of the point. Project onto first coordinate)
 	- How does one compute Whitney sum of vector bundles? (Hint: for each coordinate)
 	- How does one invent quotient bundle? (Hint: take fibrewise quotient?)
+	- How does one invent Grassmannian manifold? (Hint: take k-dim linear subgroups of R^n, this is a prototype example of a moduli space.)
+	- How does one invent Gysin sequence? (Hint: long exact sequence with a vector bundle, d-dim vector bundle, R-oriented, each fibre is vector space with unit sphere, want inner product, norms on fd vector space is equivalent, arbitrarily choose 1 with inner product = 1, lone exacts sequence of H^*(X:R) modules give Gysin seuqence, exact because top row is exact by thinking about sphere bundle.)
 	- How does one prove Poincare duality for compact oriented manifold? (Hint: induct over covers of compact oriented manifold, but in general covers are not compact, compactness is when one take subcover, so need a version of noncompact manifolds, one invents compactly supported cohomology to get around this)
+	- How does one take finiteness as intersection if compactness and discreteness. Discrete opposite is continuous sort of, there are disconnected space. Unit interval has countable many points but compact. Integers is discrete but not compact and does not admit a finite subcover.
 
 https://dec41.user.srcf.net/h/III_L/modular_forms_and_l_functions/full, modular forms and L-functions
 	- What is the Langlands program and why? (Hint: representations of the Galois group and elliptic curves over Q are related to automorphic forms and Galois representations)
